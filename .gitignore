@@ -1,0 +1,6 @@
+.DS_Store
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile*

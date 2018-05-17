@@ -1,0 +1,9 @@
+title: Disclose.io
+description: So our hacker friends don't go to jail.
+url: "https://disclose.io"
+baseurl: ""
+logo: /assets/img/logo.png
+google_analytics: "UA-35052704-20"
+
+markdown: GFM
+theme: jekyll-theme-minimal
