@@ -61,15 +61,22 @@ a.github svg {
 
 ul {
   list-style: none;
+  padding: 0;
 }
 
 li {
   line-height: 1.5;
 }
 
-ul.framework {
-  display: flex;
-  justify-content: space-between;
+ul.framework li {
+  margin-bottom: 2em;
+}
+
+@media screen and (min-width: 50em) {
+  ul.framework {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 section {
@@ -84,7 +91,7 @@ section:last-of-type {
 
 section > div {
   margin: 0 auto;
-  max-width: 45em;
+  max-width: 50em;
 }
 
 section.dark {
