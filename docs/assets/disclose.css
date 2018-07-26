@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #4a2a82;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+section {
+  margin: 2em 0;
+  padding: 2em;
+}
+
+section > div {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+section.dark {
+  background-color: #1e1134;
+}
