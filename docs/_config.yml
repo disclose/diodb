@@ -1,9 +1,6 @@
-title: Disclose.io
-description: So our hacker friends don't go to jail.
+title: disclose.io
+description: Driving safety, simplicity, and standardization in vulnerability disclosure.
 url: "https://disclose.io"
 baseurl: ""
 logo: /assets/img/logo.png
 google_analytics: "UA-35052704-20"
-
-markdown: GFM
-theme: jekyll-theme-minimal
