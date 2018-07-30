@@ -1,6 +1,6 @@
 # disclose.io
 
-> So our hacker friends don't go to jail.
+> Driving safety, simplicity, and standardization in vulnerability disclosure.
 
 **disclose.io** is a collaborative and vendor-agnostic project to standardize best practices around safe harbour for good-faith security research, and expands on the work done by Bugcrowd and CipherLaw’s [Open Source Vulnerability Disclosure Framework](https://github.com/bugcrowd/disclosure-policy), Amit Elazari’s [#legalbugbounty](https://www.youtube.com/watch?v=0fMrZCcshyc), and Dropbox’s [recent blog post](https://blogs.dropbox.com/tech/2018/03/protecting-security-researchers/).
 
