@@ -1,0 +1,127 @@
+html,
+body {
+  background-color: #4a2a82;
+  color: #fff;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.008em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+p {
+  color: #c29eff;
+}
+
+p.footnote {
+  font-size: 0.75em;
+}
+
+sup {
+  position: relative;
+  top: -0.4em;
+  vertical-align: baseline;
+}
+
+a {
+  color: #f4edff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+/* Thanks, GitHub. */
+a.github {
+  align-items: center;
+  background-color: #eff3f6;
+  background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
+  border: 1px solid rgba(27, 31, 35, 0.2);
+  border-radius: 0.25em;
+  color: #24292e;
+  display: flex;
+  font-size: 0.75em;
+  font-weight: 600;
+  max-height: 1.5em; /* IE */
+  padding: 0.5em 1em;
+  position: absolute;
+  left: 1em;
+  top: 1em;
+}
+
+a.github svg {
+  margin-right: 0.25em;
+  width: 1em;
+}
+
+a.terms {
+  background-color: #673ab6;
+  border-radius: 1.5em;
+  font-weight: 600;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
+  display: inline-block;
+  height: 3em;
+  line-height: 3em;
+  padding: 0 1.5em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  line-height: 1.5;
+}
+
+ul.framework li {
+  margin-bottom: 2em;
+}
+
+@media screen and (min-width: 50em) {
+  ul.framework {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+section {
+  margin: 2em 0;
+  padding: 2em;
+}
+
+section:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 4em;
+}
+
+section > div {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+section.dark {
+  background-color: #1e1134;
+}
+
+section.dark svg {
+  display: block;
+  margin-bottom: 1em;
+  max-height: 4.5em;
+}
+
+svg.logo {
+  border-radius: 50%;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
+  width: 7.5em;
+}
