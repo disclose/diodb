@@ -49,14 +49,30 @@ a.github {
   border: 1px solid rgba(27, 31, 35, 0.2);
   border-radius: 0.25em;
   color: #24292e;
-  display: inline-flex;
+  display: flex;
+  font-size: 0.75em;
   font-weight: 600;
+  max-height: 1.5em; /* IE */
   padding: 0.5em 1em;
+  position: absolute;
+  left: 1em;
+  top: 1em;
 }
 
 a.github svg {
   margin-right: 0.25em;
   width: 1em;
+}
+
+a.terms {
+  background-color: #673ab6;
+  border-radius: 1.5em;
+  font-weight: 600;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
+  display: inline-block;
+  height: 3em;
+  line-height: 3em;
+  padding: 0 1.5em;
 }
 
 ul {
