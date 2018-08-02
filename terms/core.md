@@ -24,7 +24,7 @@ If at any time you have concerns or are uncertain whether your security research
 
 **Ground Rules**
 
-To encourage vulnerability research and and to avoid any confusion between good-faith hacking and malicious attack, we ask that you:
+To encourage vulnerability research and to avoid any confusion between good-faith hacking and malicious attack, we ask that you:
 - Play by the rules. This includes following this policy, as well as any other relevant agreements. If there is any inconsistency between this policy and any other relevant terms, the terms of this policy will prevail.
 - Report any vulnerability you’ve discovered promptly.
 - Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience.
