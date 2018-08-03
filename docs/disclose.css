@@ -116,8 +116,8 @@ section.dark {
 
 section.dark svg {
   display: block;
-  margin-bottom: 1em;
   max-height: 4.5em;
+  margin: 0 auto 1em;
 }
 
 svg.logo {
