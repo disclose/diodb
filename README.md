@@ -9,7 +9,7 @@ The design philosophy of the disclose.io framework is to balance four forces:
 - Legal completeness,
 - Safe harbor for security researchers,
 - Safe harbor for program owners, and
-- Readability for those who don’t have a legal background or who who don’t speak English as a first language.
+- Readability for those who don’t have a legal background or who don’t speak English as a first language.
 
 Organizations displaying the disclose.io logo are committing to a set of **Core Terms** focused on creating safe harbor for good-faith security research. In order to uphold this commitment, such organizations are also required to provide clear definitions regarding the permitted **Scope** for such research, one or more **Official Communication Channels**, and a formal **Disclosure Policy**.
 
