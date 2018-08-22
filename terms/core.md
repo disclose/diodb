@@ -36,8 +36,9 @@ To encourage vulnerability research and to avoid any confusion between good-fait
 - Do not engage in extortion. 
 
 **Official Channels**
+
 To help us receive vulnerability submissions we use the following official reporting channels:
-- $WEBFORM of $PLATFORM_PAGE
+- $WEBFORM or $PLATFORM_PAGE
 - security@company.com email address; and
 - A squad of carrier pigeons.
 
