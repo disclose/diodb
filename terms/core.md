@@ -1,4 +1,4 @@
-# Responsible Disclosure Policy
+# Core Terms
 
 ## Introduction
 
@@ -58,4 +58,4 @@ If you’d like to encrypt the information, please use our PGP key.
 
 [...]
 
-We may modify the terms of this policy or terminate this policy at any time. We won’t apply any changes we make to these policy terms retroactively.
+We may modify the terms of this program or terminate this program at any time. We won’t apply any changes we make to these program terms retroactively.
