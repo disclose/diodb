@@ -1,0 +1,4262 @@
+[
+ {
+   "program_name": "1Password Game",
+   "policy_url": "https://bugcrowd.com/onepasswordgame",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "123 Contact Form",
+   "policy_url": "http://www.123contactform.com/security-acknowledgements.htm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Abacus",
+   "policy_url": "https://bugcrowd.com/abacus?utm_source=the-list&utm_medium=list-link&utm_campaign=abacus",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ABN Amro",
+   "policy_url": "https://www.abnamro.com/en/footer/responsible-disclosure.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Acorns LLC",
+   "policy_url": "https://bugcrowd.com/acorns",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Acquia",
+   "policy_url": "https://www.acquia.com/how-report-security-issue",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Active Campaign",
+   "policy_url": "http://www.activecampaign.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ActiveProspect",
+   "policy_url": "http://activeprospect.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ActiVPN",
+   "policy_url": "https://bugcrowd.com/activpn?utm_source=the-list&utm_medium=list-link&utm_campaign=activpn",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Adapcare",
+   "policy_url": "https://hackerone.com/adapcare",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Aerohive",
+   "policy_url": "http://www.aerohive.com/support/security-center",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "AgileBits",
+   "policy_url": "https://bugcrowd.com/list-of-bug-bounty-programs",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Airbnb",
+   "policy_url": "https://hackerone.com/airbnb/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Alcyon",
+   "policy_url": "http://www.alcyon.nl/responsible-disclosure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Algolia",
+   "policy_url": "https://hackerone.com/algolia",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Altervista",
+   "policy_url": "http://en.altervista.org/credits.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Amara",
+   "policy_url": "http://amara.org/en/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Amazon Web Services",
+   "policy_url": "http://aws.amazon.com/security/vulnerability-reporting",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Android",
+   "policy_url": "https://www.google.com/about/appsecurity/android-rewards/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Anghami",
+   "policy_url": "https://hackerone.com/anghami",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "AOL",
+   "policy_url": "https://contact.security.aol.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Apache httpd",
+   "policy_url": "https://hackerone.com/apache",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Appcelerator",
+   "policy_url": "https://www.appcelerator.com/privacy/responsible-disclosure-of-security-vulnerabilities/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Apple",
+   "policy_url": "https://developer.apple.com/bug-reporting/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Apptentive",
+   "policy_url": "https://www.apptentive.com/contact",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Aptible",
+   "policy_url": "https://www.aptible.com/legal/responsible_disclosure.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ardour",
+   "policy_url": "https://ardour.org/support_expectations.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "arlo - Kudos Program",
+   "policy_url": "https://bugcrowd.com/arlokudos",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "arlo - cash_rewards Program",
+   "policy_url": "https://bugcrowd.com/arlo",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "ARM mbed",
+   "policy_url": "https://tls.mbed.org/bug-bounty-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Asana",
+   "policy_url": "https://asana.com/bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Ask.com",
+   "policy_url": "http://help.ask.com/ics/support/ticketnewwizard.asp?style=classic&bug=true",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Asterisk",
+   "policy_url": "https://wiki.asterisk.org/wiki/display/AST/Asterisk+Bug+Bounties",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "AT&T",
+   "policy_url": "https://bugbounty.att.com/home.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Attack Secure",
+   "policy_url": "http://attack-secure.com/whitehat/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Atlassian",
+   "policy_url": "https://bugcrowd.com/atlassian",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Atlassian - JIRA/Confluence Cloud",
+   "policy_url": "https://bugcrowd.com/atlassian",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Auth0",
+   "policy_url": "https://auth0.com/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Automattic",
+   "policy_url": "http://automattic.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Avast!",
+   "policy_url": "http://www.avast.com/bug-bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "AVG Technologies",
+   "policy_url": "https://bugcrowd.com/avgtechnologies?utm_source=the-list&utm_medium=list-link&utm_campaign=avgtechnologies",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Avira",
+   "policy_url": "https://bugcrowd.com/avira",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "AwardWallet",
+   "policy_url": "https://cobalt.io/awardwallet",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Badoo",
+   "policy_url": "http://corp.badoo.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Barracuda Networks",
+   "policy_url": "https://bugcrowd.com/barracuda?utm_source=the-list&utm_medium=list-link&utm_campaign=barracuda",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Base",
+   "policy_url": "https://getbase.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Basecamp",
+   "policy_url": "https://basecamp.com/security/response",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Beanstalk",
+   "policy_url": "http://support.beanstalkapp.com/customer/portal/articles/1317175-responsible-disclosure-policy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Belgium Telenet",
+   "policy_url": "http://binaries.telenet.be/onlinesupport/pdf/responsible_disclosure_policy_en.pdf",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "BillGuard",
+   "policy_url": "https://cobalt.io/billguard",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Billys Billing",
+   "policy_url": "https://cobalt.io/billys-billing",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BiMserver",
+   "policy_url": "http://bimserver.org/about/bug-bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Bing",
+   "policy_url": "https://technet.microsoft.com/en-us/security/ff852094.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Bitcoin.de",
+   "policy_url": "https://www.bitcoin.de/en/bug-bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Bitdefender",
+   "policy_url": "https://bugcrowd.com/bitdefender",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BitGo",
+   "policy_url": "https://cobalt.io/bitgo",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Bithunt",
+   "policy_url": "https://hackerone.com/bithunt",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BitMEX",
+   "policy_url": "https://cobalt.io/bitmex",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Bitnet",
+   "policy_url": "https://bitnet.io/whitehat/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Bitpay",
+   "policy_url": "https://support.bitpay.com/hc/en-us/articles/204229369-BitPay-Bug-Bounty-Program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Bitwage",
+   "policy_url": "https://cobalt.io/bitwage",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BitWall",
+   "policy_url": "http://www.bitwall.io/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Blackberry",
+   "policy_url": "https://global.blackberry.com/secure/report-an-issue/en.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Blend",
+   "policy_url": "https://bugcrowd.com/blend",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Blinksale",
+   "policy_url": "https://bugcrowd.com/blinksale?utm_source=the-list&utm_medium=list-link&utm_campaign=blinksale",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Blockchain.info",
+   "policy_url": "https://cobalt.io/blockchain-info",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Block.io",
+   "policy_url": "https://hackerone.com/blockio",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BlockScore",
+   "policy_url": "https://cobalt.io/blockscore",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Blogger",
+   "policy_url": "http://www.google.com/about/appsecurity/reward-program/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Blue Coat",
+   "policy_url": "https://www.bluecoat.com/support/report-a-security-vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Blue Jeans Network",
+   "policy_url": "https://bugcrowd.com/bluejeans",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Bosch",
+   "policy_url": "https://psirt.bosch.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Box",
+   "policy_url": "https://www.box.com/about-us/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Braintree",
+   "policy_url": "https://www.braintreepayments.com/developers/disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BTCC",
+   "policy_url": "https://cobalt.io/btcc",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "BTCXChange",
+   "policy_url": "",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "BTX Trader",
+   "policy_url": "https://www.btxtrader.com/bugbounty.html#/bugbounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Buffer",
+   "policy_url": "https://bufferapp.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Bugcrowd",
+   "policy_url": "https://bugcrowd.com/bugcrowd?utm_source=the-list&utm_medium=list-link&utm_campaign=bugcrowdbounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Bugify",
+   "policy_url": "https://bugify.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Caffeine",
+   "policy_url": "https://bugcrowd.com/caffeine",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Campaign Monitor",
+   "policy_url": "https://help.campaignmonitor.com/contact",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "CARD.com",
+   "policy_url": "https://bugcrowd.com/card?utm_source=the-list&utm_medium=list-link&utm_campaign=card",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Centrify",
+   "policy_url": "https://bugcrowd.com/centrify",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Certly",
+   "policy_url": "https://hackerone.com/certly",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ChainPay",
+   "policy_url": "https://cobalt.io/chainpay",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ChangeTip",
+   "policy_url": "https://cobalt.io/changetip",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Chargify",
+   "policy_url": "http://bugcrowd.com/chargify?utm_source=the-list&utm_medium=list-link&utm_campaign=chargify",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Chromium Project",
+   "policy_url": "http://www.chromium.org/Home/chromium-security/vulnerability-rewards-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Chrome",
+   "policy_url": "https://www.google.com/about/appsecurity/chrome-rewards/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Chronobank",
+   "policy_url": "https://blog.chronobank.io/chronobank-bug-bounty-program-269d97b9a5b1#.4yxru7t8e",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Circle Mobile Apps",
+   "policy_url": "https://bugcrowd.com/circle",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CircleCi",
+   "policy_url": "https://circleci.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Cisco",
+   "policy_url": "http://www.cisco.com/web/about/security/psirt/security_vulnerability_policy.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Cisco Meraki",
+   "policy_url": "https://bugcrowd.com/ciscomeraki",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CloudFlare",
+   "policy_url": "https://www.cloudflare.com/disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Cobalt",
+   "policy_url": "https://cobalt.io/cobalt",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Code Climate",
+   "policy_url": "https://codeclimate.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Codeigniter",
+   "policy_url": "https://hackerone.com/codeigniter",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Codex Wordpress",
+   "policy_url": "http://codex.wordpress.org/Reporting_Bugs",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Coinbase",
+   "policy_url": "https://coinbase.com/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CoinDaddy",
+   "policy_url": "https://cobalt.io/coindaddy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Coin.Space",
+   "policy_url": "https://hackerone.com/coinspace",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Coin Space BTC",
+   "policy_url": "https://hackerone.com/coinspace",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Coins.ph",
+   "policy_url": "https://cobalt.io/coins-ph",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Cointrader.net",
+   "policy_url": "https://cobalt.io/cointrader-net",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Commonsware",
+   "policy_url": "http://commonsware.com/bounty.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Compose",
+   "policy_url": "https://www.compose.io/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Constant Contact",
+   "policy_url": "https://bugcrowd.com/constantcontact",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CoreOS",
+   "policy_url": "https://coreos.com/security/disclosure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Coupa",
+   "policy_url": "http://www.coupa.com/success/vulnerability-reporting-policy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Coursera",
+   "policy_url": "https://hackerone.com/coursera",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CPanel",
+   "policy_url": "http://cpanel.net/cpanel-security-bounty-program/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "cPaperless",
+   "policy_url": "https://www.cpaperless.com/security-statement/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Craigslist",
+   "policy_url": "https://www.craigslist.org/contact?step=form&reqType=security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Crix.io",
+   "policy_url": "https://cobalt.io/crixio",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "CrowdShield",
+   "policy_url": "https://crowdshield.com/bug-bounty-list.php?bug_bounty_program=crowdshield",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Cupcake",
+   "policy_url": "https://cupcake.io/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Customer Insight",
+   "policy_url": "https://customerinsight.ca/CI/security-statement/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Dash Digital Cash",
+   "policy_url": "https://bugcrowd.com/dashdigitalcash",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Dash Messaging",
+   "policy_url": "https://bugcrowd.com/dashmessaging",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Dato Capital",
+   "policy_url": "https://en.datocapital.com/report-security-issue.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Debian Security Tracker",
+   "policy_url": "http://www.debian.org/Bugs/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Dell",
+   "policy_url": "http://www.dell.com/learn/us/en/04/campaigns/report-vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Detectify",
+   "policy_url": "http://blog.detectify.com/post/68871392564/detectify-responsible-disclosure-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Deutsche Telekom",
+   "policy_url": "http://www.telekom.com/corporate-responsibility/security/186450",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "DigitalOcean",
+   "policy_url": "https://bugcrowd.com/digitalocean",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "DigitalSellz",
+   "policy_url": "https://hackerone.com/digitalsellz",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Django",
+   "policy_url": "https://hackerone.com/django",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "DNN Corporation",
+   "policy_url": "http://www.dnnsoftware.com/platform/share/bug-reporting",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "DNSimple",
+   "policy_url": "https://dnsimple.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "DoSomething",
+   "policy_url": "https://cobalt.io/dosomething",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "DPD",
+   "policy_url": "https://getdpd.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "eBay",
+   "policy_url": "http://pages.ebay.com/securitycenter/Researchers.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Eclipse",
+   "policy_url": "http://www.eclipse.org/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Edusson",
+   "policy_url": "http://edusson.com/bih",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "eero",
+   "policy_url": "https://bugcrowd.com/eero",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Elance-oDesk",
+   "policy_url": "https://d1u2uhea8ugy8e.cloudfront.net/uploads/oDeskBugBountyProgramGuidelines.pdf",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Electronic Arts",
+   "policy_url": "http://forum.ea.com/eaforum/forums/show/3736.page",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Electronic Frontier Foundation",
+   "policy_url": "https://www.eff.org/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "EMC",
+   "policy_url": "http://www.emc.com/contact-us/contact/product-security-response-center.htm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Emptrust",
+   "policy_url": "http://www.emptrust.com/Security.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Envato",
+   "policy_url": "http://webuild.envato.com/helpful-hacker/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Envoy",
+   "policy_url": "https://hackerone.com/envoy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Etsy",
+   "policy_url": "https://bugcrowd.com/etsy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "EVE",
+   "policy_url": "http://community.eveonline.com/news/dev-blogs/2384",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Eventbrite",
+   "policy_url": "http://www.eventbrite.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Event Espresso",
+   "policy_url": "https://eventespresso.com/report-a-security-vulnerability/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Evernote",
+   "policy_url": "http://evernote.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Expatistan",
+   "policy_url": "http://www.expatistan.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "ExpressionEngine",
+   "policy_url": "https://hackerone.com/expressionengine",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Facebook",
+   "policy_url": "https://www.facebook.com/BugBounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Factlink",
+   "policy_url": "https://hackerone.com/factlink",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "FanFootage",
+   "policy_url": "https://hackerone.com/fanfootage",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "FastMail",
+   "policy_url": "https://www.fastmail.com/about/bugbounty.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "FFmpeg",
+   "policy_url": "http://www.ffmpeg.org/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Fiat Chrysler Automobiles",
+   "policy_url": "https://bugcrowd.com/fca",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Firebase",
+   "policy_url": "https://www.firebase.com/docs/help/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Fireeye",
+   "policy_url": "https://www.fireeye.com/company/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Fitbit",
+   "policy_url": "https://bugcrowd.com/fitbit",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Flox",
+   "policy_url": "https://hackerone.com/flox",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ford",
+   "policy_url": "https://bugcrowd.com/ford",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Foursquare",
+   "policy_url": "https://foursquare.com/about/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "FoxyCart",
+   "policy_url": "https://bugcrowd.com/portal/bounties/foxycart?utm_source=the-list&utm_medium=list-link&utm_campaign=foxycart",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Freedom of the Press Foundation",
+   "policy_url": "https://bugcrowd.com/freedomofpress",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Freelancer",
+   "policy_url": "https://bugcrowd.com/freelancer?utm_source=the-list&utm_medium=list-link&utm_campaign=freeelancer",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Freshbooks",
+   "policy_url": "https://www.freshbooks.com/policies/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "F Secure",
+   "policy_url": "https://www.f-secure.com/en/web/labs_global/vulnerability-reward-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Gamma",
+   "policy_url": "https://www.gamma.nl/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "GateCoin",
+   "policy_url": "https://gatecoin.com/bugBounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Gemfury",
+   "policy_url": "http://www.gemfury.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "General Motors Company",
+   "policy_url": "https://hackerone.com/gm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ghost",
+   "policy_url": "https://github.com/TryGhost/Ghost/blob/master/SECURITY.md",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "GhostMail",
+   "policy_url": "https://hackerone.com/gmguys",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Ghostscript",
+   "policy_url": "http://ghostscript.com/Bug_bounty_program.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Github",
+   "policy_url": "https://bounty.github.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Gitlab",
+   "policy_url": "http://www.gitlab.com/disclosure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "GlassWire",
+   "policy_url": "https://hackerone.com/glasswire",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Gliph",
+   "policy_url": "https://gli.ph/s/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "GO-JEK",
+   "policy_url": "https://bugcrowd.com/gojek",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Gogo Air",
+   "policy_url": "https://bugcrowd.com/list-of-bug-bounty-programs",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Google",
+   "policy_url": "https://www.google.com/about/appsecurity/reward-program/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Google PRP",
+   "policy_url": "https://www.google.com/about/appsecurity/patch-rewards/index.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Greenhouse.io",
+   "policy_url": "https://hackerone.com/greenhouse",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Grok Learning",
+   "policy_url": "https://groklearning.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "HackerOne",
+   "policy_url": "https://hackerone.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Hack the Pentagon",
+   "policy_url": "https://hackerone.com/hackthepentagon",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Hack Me!",
+   "policy_url": "https://bugcrowd.com/hackme",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Harmony",
+   "policy_url": "http://get.harmonyapp.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Help Scout",
+   "policy_url": "https://www.helpscout.net/security/#reporting",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Heroku",
+   "policy_url": "https://bugcrowd.com/heroku?utm_source=the-list&utm_medium=list-link&utm_campaign=heroku",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Hex-Rays",
+   "policy_url": "http://www.hex-rays.com/bugbounty.shtml",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "HitBTC",
+   "policy_url": "https://hitbtc.com/bug-report",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Honeywell",
+   "policy_url": "https://honeywell.com/Pages/vulnerabilityreporting.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Hootsuite",
+   "policy_url": "https://hootsuite.com/security/response",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "HTC",
+   "policy_url": "http://www.htc.com/us/terms/product-security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Huawei",
+   "policy_url": "http://www.huawei.com/en/security/psirt/report-vulnerabilities/index.htm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "HubSpot",
+   "policy_url": "https://bugcrowd.com/hubspot",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Humble Bundle",
+   "policy_url": "https://bugcrowd.com/humblebundle?utm_source=the-list&utm_medium=list-link&utm_campaign=humblebundle",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ian Dunn",
+   "policy_url": "https://hackerone.com/iandunn-projects",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "IBM",
+   "policy_url": "http://www-03.ibm.com/security/secure-engineering/report.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "ICEcoder",
+   "policy_url": "http://bugcrowd.com/icecoder?utm_source=the-list&utm_medium=list-link&utm_campaign=icecoder",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "iFixit",
+   "policy_url": "http://www.ifixit.com/Info/Responsible_Disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Imgur",
+   "policy_url": "https://hackerone.com/imgur",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Indeed",
+   "policy_url": "https://bugcrowd.com/indeed?utm_source=the-list&utm_medium=list-link&utm_campaign=indeed",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Independent Reserve",
+   "policy_url": "https://cobalt.io/independent-reserve",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Independer",
+   "policy_url": "http://www.independer.nl/algemeen/info/responsible-disclosure.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Inflectra",
+   "policy_url": "https://www.inflectra.com/Company/Responsible-Disclosure.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Informatica",
+   "policy_url": "https://hackerone.com/informatica",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Informatiebeveiliging",
+   "policy_url": "https://informatiebeveiliging.nl/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "ING NL",
+   "policy_url": "http://www.ing.nl/de-ing/veilig-bankieren/veiligheidsbeleid-van-de-ing/meldpunt-kwetsbaarheden/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Instacart",
+   "policy_url": "https://hackerone.com/instacart",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Instagram",
+   "policy_url": "https://www.facebook.com/whitehat/bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Instructure",
+   "policy_url": "https://blog.bugcrowd.com/private-bug-bounty-program-instructure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "IntegraXor (SCADA)",
+   "policy_url": "http://www.integraxor.com/blog/integraxor-hmi-scada-bug-bounty-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Intel",
+   "policy_url": "https://security-center.intel.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Intercom",
+   "policy_url": "https://bugcrowd.com/intercom",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Internetwache",
+   "policy_url": "https://en.internetwache.org/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "InVision",
+   "policy_url": "https://bugcrowd.com/invision",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "IRCCloud",
+   "policy_url": "https://hackerone.com/irccloud",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "(ISC)¬≤",
+   "policy_url": "https://bugcrowd.com/isc2?utm_source=the-list&utm_medium=list-link&utm_campaign=isc2",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Issuu",
+   "policy_url": "https://issuu.com/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Itbit Exchange",
+   "policy_url": "https://hackerone.com/itbit",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ITRP",
+   "policy_url": "http://itrp.com.au/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "iwantmyname",
+   "policy_url": "https://bugcrowd.com/iwantmyname?utm_source=the-list&utm_medium=list-link&utm_campaign=iwantmyname",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Jet.com",
+   "policy_url": "https://bugcrowd.com/jet?utm_source=the-list&utm_medium=list-link&utm_campaign=jet",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "jruby",
+   "policy_url": "http://jruby.org/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Jumplead",
+   "policy_url": "https://jumplead.com/about/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Juniper",
+   "policy_url": "https://www.juniper.net/us/en/security/report-vulnerability/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Kadince",
+   "policy_url": "https://www.kadince.com/legal/security_policy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Keeper Security",
+   "policy_url": "https://bugcrowd.com/keepersecurity",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Keming Labs",
+   "policy_url": "http://keminglabs.com/security_disclosure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Kenna Security",
+   "policy_url": "https://bugcrowd.com/kennasecurity",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Keybase",
+   "policy_url": "https://hackerone.com/keybase",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Khan Academy",
+   "policy_url": "https://hackerone.com/khanacademy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Kraken",
+   "policy_url": "https://www.kraken.com/security/bug-bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Kyivstar",
+   "policy_url": "https://bugcrowd.com/kyivstar",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Kyup",
+   "policy_url": "https://kyup.com/bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "LastPass",
+   "policy_url": "https://bugcrowd.com/lastpass?utm_source=the-list&utm_medium=list-link&utm_campaign=lastpass",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "LeverEX",
+   "policy_url": "https://medium.com/leverex/leverex-bug-bounty-program-10e53d0d7901",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Librato",
+   "policy_url": "https://metrics.librato.com/vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Lievensberg Hospital",
+   "policy_url": "http://www.lievensbergziekenhuis.nl/paginas/141-disclaimer.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Liferay",
+   "policy_url": "https://issues.liferay.com/secure/Dashboard.jspa",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "LinkedIn",
+   "policy_url": "http://help.linkedin.com/app/answers/detail/a_id/37022",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Linksys",
+   "policy_url": "https://hackerone.com/linksys",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Localize",
+   "policy_url": "https://hackerone.com/localize",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Logentries",
+   "policy_url": "https://logentries.com/doc/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "MacOS X Bitcoin LevelDB data corruption issue",
+   "policy_url": "https://bitcointalk.org/index.php?PHPSESSID=nklrdn90ip5rq3m3enprac9154&topic=337294.0;all",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Magento",
+   "policy_url": "https://bugcrowd.com/magento",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Magix AG",
+   "policy_url": "http://research.magix.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Magnr",
+   "policy_url": "https://cobalt.io/magnr",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mahara",
+   "policy_url": "https://wiki.mahara.org/index.php/Contributors#Security_Researchers",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "MaiCoin",
+   "policy_url": "https://cobalt.io/maicoin",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mail.Ru",
+   "policy_url": "https://hackerone.com/mailru",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Malwarebytes",
+   "policy_url": "https://www.malwarebytes.org/secure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ManageWP",
+   "policy_url": "https://managewp.com/white-hat-reward",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Maplogin",
+   "policy_url": "https://hackerone.com/maplogin",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Marktplaats",
+   "policy_url": "http://statisch.marktplaats.nl/help/responsible_disclosure_policy_en.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Mastercard",
+   "policy_url": "https://bugcrowd.com/mastercard",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mattermost",
+   "policy_url": "https://www.mattermost.org/responsible-disclosure-policy/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mavenlink",
+   "policy_url": "https://hackerone.com/mavenlink",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Maximum",
+   "policy_url": "https://hackerone.com/maximum",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "McAfee",
+   "policy_url": "http://www.mcafee.com/us/threat-center/product-security-bulletins.aspx#=tab-1",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "MCProHosting",
+   "policy_url": "https://bugcrowd.com/mcprohostings?utm_source=the-list&utm_medium=list-link&utm_campaign=mcprohostings",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Medium",
+   "policy_url": "https://medium.com/policy/medium-s-bug-bounty-disclosure-program-34b1c80764c2#.xrwknzose",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Mega.co.nz",
+   "policy_url": "http://thenextweb.com/insider/2013/02/01/kim-dotcom-puts-up-13500-bounty-for-first-person-to-break-megas-security-system/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Meldium",
+   "policy_url": "https://www.meldium.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Meraki",
+   "policy_url": "http://www.meraki.com/trust/#srp",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Meteor",
+   "policy_url": "https://hackerone.com/meteor",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "meXBT",
+   "policy_url": "https://cobalt.io/mexbt",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Microsoft (bounty programs)",
+   "policy_url": "http://technet.microsoft.com/en-US/security/dn425036",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Microsoft (Online Services)",
+   "policy_url": "http://technet.microsoft.com/en-us/security/dn800983",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Microweber",
+   "policy_url": "https://microweber.com/become-contributor",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "MIT",
+   "policy_url": "https://bounty.mit.edu/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Mobidea",
+   "policy_url": "https://www.mobidea.com/bounty-program/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mobikwik",
+   "policy_url": "https://www.mobikwik.com/bug-bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Mobile Vikings",
+   "policy_url": "https://hackerone.com/mobilevikings",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Moneybird",
+   "policy_url": "http://www.moneybird.nl/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "MoneyStream",
+   "policy_url": "https://hackerone.com/moneystream",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Moneytree KK",
+   "policy_url": "https://bugcrowd.com/moneytreekkog",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Moodle",
+   "policy_url": "https://moodle.org/mod/forum/view.php?f=996&showall=1",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Motorola",
+   "policy_url": "http://www.motorolasolutions.com/US-EN/About/Security%20Vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Mozilla",
+   "policy_url": "https://www.mozilla.org/en-US/security/bug-bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Multicraft",
+   "policy_url": "https://bugcrowd.com/multicraft",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Myntra",
+   "policy_url": "http://www.myntra.com/security/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "MyStuff2 App",
+   "policy_url": "http://www.maddysoft.com/iphone/mystuff/bounty.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Namazu",
+   "policy_url": "http://www.namazu.org/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "National Cyber ‚Äã‚ÄãSecurity Center (Netherlands)",
+   "policy_url": "https://www.ncsc.nl/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Netflix",
+   "policy_url": "https://bugcrowd.com/netflix",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "NETGEAR Kudos Rewards",
+   "policy_url": "https://bugcrowd.com/netgearkudos",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "NETGEAR cash_rewards",
+   "policy_url": "https://bugcrowd.com/netgear",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Nest",
+   "policy_url": "https://nest.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "NetApp",
+   "policy_url": "http://www.netapp.com/us/legal/security/contact/index.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Netflix",
+   "policy_url": "http://support.netflix.com/en/node/6657#gsc.tab=0",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "New Relic",
+   "policy_url": "https://hackerone.com/newrelic",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Nexmo",
+   "policy_url": "https://cobalt.io/nexmo",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Nokia Siemens Networks",
+   "policy_url": "http://www.nokiasiemensnetworks.com/about-us/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "NolimitVPN",
+   "policy_url": "https://bugcrowd.com/nolimitvpn?utm_source=the-list&utm_medium=list-link&utm_campaign=nolimitvpn",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Norada",
+   "policy_url": "http://norada.com/crm-software/security_response",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "NSN Nokia Solutions Networks",
+   "policy_url": "http://nsn.com/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Nvidia",
+   "policy_url": "http://www.nvidia.com/object/product-security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Observu",
+   "policy_url": "http://observu.com/security.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Oculus",
+   "policy_url": "http://www.facebook.com/whitehat/bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Offers.com",
+   "policy_url": "http://www.offers.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "OkCupid",
+   "policy_url": "https://hackerone.com/okcupid",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "ok.ru",
+   "policy_url": "https://hackerone.com/ok",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Okta",
+   "policy_url": "https://bugcrowd.com/okta",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OLAcabs",
+   "policy_url": "https://www.olacabs.com/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Olark",
+   "policy_url": "http://www.olark.com/customer/portal/articles/1237352",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Onavo",
+   "policy_url": "http://www.facebook.com/whitehat/bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OnePageCRM",
+   "policy_url": "https://bugcrowd.com/onepagecrm?utm_source=the-list&utm_medium=list-link&utm_campaign=onepagecrm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OpenBSD",
+   "policy_url": "http://www.openbsd.org/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Openclass Knowledge Base",
+   "policy_url": "http://openclass.custhelp.com/app/disclosureFormDialog",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Openfolio",
+   "policy_url": "https://hackerone.com/openfolio",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OpenText",
+   "policy_url": "http://opentext.com/2/global/company/security-acknowledgements.htm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Open Xchange",
+   "policy_url": "https://hackerone.com/open-xchange",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Optimizely",
+   "policy_url": "https://bugcrowd.com/optimizely",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Oracle",
+   "policy_url": "http://oracle.com/technetwork/topics/security/securityfixlifecycle-086982.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Orkut",
+   "policy_url": "http://www.google.com/about/appsecurity/reward-program/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OWASP Java Encoder",
+   "policy_url": "https://bugcrowd.com/owaspjavaencoder",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OWASP Java HTML Sanitizer",
+   "policy_url": "https://bugcrowd.com/owaspjavasanitizer",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OWASP CSRFGuard",
+   "policy_url": "https://bugcrowd.com/owaspcrsfguard",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "OWASP ZAP",
+   "policy_url": "https://bugcrowd.com/owaspzap",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Own Cloud",
+   "policy_url": "https://owncloud.org/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "PagerDuty",
+   "policy_url": "http://www.pagerduty.com/security/disclosure/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Pantheon",
+   "policy_url": "https://bugcrowd.com/pantheon?utm_source=the-list&utm_medium=list-link&utm_campaign=pantheon",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Panzura",
+   "policy_url": "http://panzura.com/support/panzura-security-policy/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "PasteCoin",
+   "policy_url": "https://www.pastecoin.com/bug_bounty",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Paymill",
+   "policy_url": "https://developers.paymill.com/guides/security/security-standards",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Paypal",
+   "policy_url": "https://www.paypal.com/us/webapps/mpp/security-tools/reporting-security-issues",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Paysafe",
+   "policy_url": "https://cobalt.io/paysafe",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Perl",
+   "policy_url": "https://hackerone.com/perl",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Phabricator",
+   "policy_url": "https://hackerone.com/perl",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Phabricator",
+   "policy_url": "https://hackerone.com/phabricator",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "PHP",
+   "policy_url": "https://hackerone.com/php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Pidgin",
+   "policy_url": "http://pidgin.im/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Pinterest",
+   "policy_url": "https://bugcrowd.com/pinterest/?utm_source=the-list&utm_medium=list-link&utm_campaign=pinterest",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Piwik",
+   "policy_url": "http://piwik.org/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Polar SSL",
+   "policy_url": "https://tls.mbed.org/bug-bounty-program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Prezi",
+   "policy_url": "https://bugbounty.prezi.com/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Puppet Labs",
+   "policy_url": "https://puppet.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "PureVPN",
+   "policy_url": "https://bugcrowd.com/purevpn",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Python",
+   "policy_url": "https://hackerone.com/python",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Qiwi",
+   "policy_url": "https://www.qiwi.ru/page/hack.action",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Qmail",
+   "policy_url": "https://cr.yp.to/qmail/guarantee.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Qualcomm",
+   "policy_url": "https://www.qualcomm.com/connect/contact/security/product-security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "QuickBT",
+   "policy_url": "https://cobalt.io/quickbt",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Rackspace",
+   "policy_url": "http://www.rackspace.com/information/legal/rsdp",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Rdbhost_service",
+   "policy_url": "https://cobalt.io/rdbhost-service",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Recorded Future",
+   "policy_url": "https://www.recordedfuture.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Reddit",
+   "policy_url": "http://code.reddit.com/wiki/help/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "RedHat",
+   "policy_url": "https://access.redhat.com/articles/66234",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Relaso",
+   "policy_url": "http://relaso.com/disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Riot Games",
+   "policy_url": "http://www.riotgames.com/riot-games-security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ripple",
+   "policy_url": "https://ripple.com/bug-bounty/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Riskalyze",
+   "policy_url": "https://www.riskalyze.com/security-response",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ruby",
+   "policy_url": "https://hackerone.com/ruby",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ruby on Rails",
+   "policy_url": "https://hackerone.com/rails",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Salesforce",
+   "policy_url": "http://www.salesforce.com/company/privacy/security.jsp#vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Samba",
+   "policy_url": "http://www.samba.org/samba/history/security.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Sandbox Escape",
+   "policy_url": "https://hackerone.com/sandbox",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SAP",
+   "policy_url": "http://scn.sap.com/docs/DOC-58424",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Schuberg Philis",
+   "policy_url": "http://www.schubergphilis.com/newsroom/library/downloads-policies/responsible-disclosure-policy/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SecureDrop",
+   "policy_url": "https://bugcrowd.com/freedomofpress",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Segment.io",
+   "policy_url": "https://segment.com/docs/legal/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Selify",
+   "policy_url": "https://sellfy.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SendSafely",
+   "policy_url": "https://bugcrowd.com/sendsafely?utm_source=the-list&utm_medium=list-link&utm_campaign=sendsafely",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Sherpany",
+   "policy_url": "https://cobalt.io/sherpany",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Shopify",
+   "policy_url": "https://hackerone.com/shopify",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Simple",
+   "policy_url": "https://bugcrowd.com/simple",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Silk",
+   "policy_url": "http://responsible-disclosure.silk.co/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Simple",
+   "policy_url": "http://bugcrowd.com/simple?utm_source=the-list&utm_medium=list-link&utm_campaign=simple",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SiteGround",
+   "policy_url": "https://www.siteground.com/term/92.htm",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Skuid",
+   "policy_url": "http://www.skuidify.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Sky TV",
+   "policy_url": "https://skytv.custhelp.com/app/answers/detail/a_id/1797/~/responsible-disclosure-guidelines#e",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Slack",
+   "policy_url": "https://slack.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SmartThings ",
+   "policy_url": "https://bugcrowd.com/smartthings",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Smartsheet",
+   "policy_url": "https://bugcrowd.com/smartsheet",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Smart Budget",
+   "policy_url": "https://www.sbudget.com/people.pl",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Snapchat",
+   "policy_url": "https://hackerone.com/snapchat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Socrata",
+   "policy_url": "https://bugcrowd.com/socrata?utm_source=the-list&utm_medium=list-link&utm_campaign=socrata",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Solvinity",
+   "policy_url": "https://www.solvinity.com/responsible-disclosure",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Sony",
+   "policy_url": "https://secure.sony.net/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Sophos",
+   "policy_url": "https://bugcrowd.com/sophos?utm_source=the-list&utm_medium=list-link&utm_campaign=sophos",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Soundcloud",
+   "policy_url": "https://help.soundcloud.com/hc/en-us/articles/115003561228-Reporting-a-security-vulnerability",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SpectroCoin",
+   "policy_url": "https://app.cobalt.io/spectrocoin/spectrocoin",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "SplashID",
+   "policy_url": "https://bugcrowd.com/splashid?utm_source=the-list&utm_medium=list-link&utm_campaign=splashid",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Splitwise",
+   "policy_url": "https://blog.splitwise.com/about/responsible-disclosure-special-thanks/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Spokeo",
+   "policy_url": "https://www.spokeo.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Sprout Social",
+   "policy_url": "https://bugcrowd.com/sproutsocial?utm_source=the-list&utm_medium=list-link&utm_campaign=sprout_social",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Square",
+   "policy_url": "https://squareup.com/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Square Open Source",
+   "policy_url": "https://bugcrowd.com/squareopensource",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Starbucks",
+   "policy_url": "https://www.starbucks.com/whitehat",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "StatusPage.io",
+   "policy_url": "https://bugcrowd.com/statuspage?utm_source=the-list&utm_medium=list-link&utm_campaign=statuspage",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": true,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "StopTheHacker",
+   "policy_url": "https://hackerone.com/stopthehacker",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Stripe",
+   "policy_url": "https://stripe.com/docs/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Subledger",
+   "policy_url": "https://cobalt.io/subledger",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Swisscom",
+   "policy_url": "https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Tapatalk",
+   "policy_url": "https://tapatalk.com/security.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Taptalk",
+   "policy_url": "https://hackerone.com/taptalk",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Tarsnap",
+   "policy_url": "https://www.tarsnap.com/bugbounty.html",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Team Unify",
+   "policy_url": "http://www.teamunify.com/__corp__/security.php",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Telegram",
+   "policy_url": "https://telegram.org/crypto_contest",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Telekom",
+   "policy_url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/security/closing-security-gaps-360054",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Telenet Belgium",
+   "policy_url": "http://binaries.telenet.be/onlinesupport/pdf/responsible_disclosure_policy_en.pdf",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Tesla",
+   "policy_url": "https://bugcrowd.com/tesla",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "TimeTrex",
+   "policy_url": "https://cobalt.io/timetrex",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Transloadit",
+   "policy_url": "https://transloadit.com/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Trello",
+   "policy_url": "https://bugcrowd.com/trello",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Trend Micro",
+   "policy_url": "https://success.trendmicro.com/vulnerability-response",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Tuenti",
+   "policy_url": "http://corporate.tuenti.com/en/dev/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Tumblr",
+   "policy_url": "https://tumblr.zendesk.com/hc/en-us/articles/234583348-Bug-Bounty-Program",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Twilio",
+   "policy_url": "https://bugcrowd.com/twilio?utm_source=the-list&utm_medium=list-link&utm_campaign=twilio",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Twitch",
+   "policy_url": "https://www.twitch.tv/p/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Twitter",
+   "policy_url": "https://about.twitter.com/company/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Typo3",
+   "policy_url": "https://typo3.org/teams/security/",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Uber",
+   "policy_url": "https://hackerone.com/uber",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Ubiquiti Networks",
+   "policy_url": "https://hackerone.com/ubnt",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Udemy",
+   "policy_url": "https://hackerone.com/udemy",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "UNDER ARMOUR",
+   "policy_url": "https://bugcrowd.com/underarmour",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Unitag",
+   "policy_url": "https://www.unitag.io/security",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": false,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "United Airlines",
+   "policy_url": "https://www.united.com/web/en-US/content/contact/bugbounty.aspx",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": false
+ },
+ {
+   "program_name": "Uphold",
+   "policy_url": "https://cobalt.io/uphold",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Upwork",
+   "policy_url": "https://bugcrowd.com/upwork",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "Volusion V1",
+   "policy_url": "https://bugcrowd.com/volusion",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ },
+ {
+   "program_name": "You Need a Budget (YNAB)",
+   "policy_url": "https://bugcrowd.com/ynab",
+   "submission_url": "",
+   "launch_date": "",
+   "safe_harbor": "",
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ }
+]
