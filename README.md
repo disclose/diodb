@@ -29,6 +29,10 @@ In order to leverage disclose.io for any given authorized security research prog
 
 If the above requirements are met, an organization may display the disclose.io [Core Terms](core_terms/), as well as the disclose.io logo, in conjunction with their authorized security research program's policies in order to indicate their intention to provide safe harbor for good-faith security research.
 
+# "Partial" Safe Harbor
+
+Organizations that have not met all of the requirements for providing full safe harbor (e.g. do not sufficiently define the terms outlined in **Requirements**) may still provide a simplified goodwill statement about not pursuing legal action related to security research that DOES NOT represent the same level of commitment that full safe harbor in accordance with the Disclose.io requirements does.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">disclose</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://disclose.io" property="cc:attributionName" rel="cc:attributionURL">disclose.io</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
