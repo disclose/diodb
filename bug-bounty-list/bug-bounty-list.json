@@ -140,7 +140,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "accredible",
+    "program_name": "Accredible",
     "policy_url": "https://www.accredible.com/white_hat/",
     "submission_url": "security@accredible.com",
     "launch_date": "",
@@ -170,7 +170,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "actility",
+    "program_name": "Actility",
     "policy_url": "https://www.actility.com/company/security/",
     "submission_url": "http://app.yogosha.com/",
     "launch_date": "",
@@ -250,7 +250,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "affiliate coin",
+    "program_name": "Affiliate Coin",
     "policy_url": "https://www.affiliatecoin.io/en/bounty",
     "submission_url": "contact@affiliatecoin.io",
     "launch_date": "",
@@ -270,7 +270,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "aion",
+    "program_name": "Aion",
     "policy_url": "https://aion.network/terms-bounty/",
     "submission_url": "secure@Aion.network",
     "launch_date": "",
@@ -530,7 +530,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "apparmor",
+    "program_name": "Apparmor",
     "policy_url": "https://www.apparmor.com/About/Security/Disclosure/",
     "submission_url": "support@apparmor.com",
     "launch_date": "",
@@ -560,7 +560,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "appoptics",
+    "program_name": "Appoptics",
     "policy_url": "https://www.appoptics.com/security",
     "submission_url": "psirt@solarwinds.com",
     "launch_date": "",
@@ -580,7 +580,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "aptible",
+    "program_name": "Aptible",
     "policy_url": "https://www.aptible.com/legal/responsible-disclosure/",
     "submission_url": "security@aptible.com",
     "launch_date": "",
@@ -630,7 +630,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "arlo - Cash Rewards Program",
+    "program_name": "Arlo - Cash Rewards Program",
     "policy_url": "https://bugcrowd.com/arlo",
     "submission_url": "https://bugcrowd.com/arlo/report",
     "launch_date": "",
@@ -640,7 +640,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "arlo - Kudos Program",
+    "program_name": "Arlo - Kudos Program",
     "policy_url": "https://bugcrowd.com/arlokudos",
     "submission_url": "https://bugcrowd.com/arlokudos/report",
     "launch_date": "",
@@ -650,7 +650,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ARM mbed",
+    "program_name": "ARM mBed",
     "policy_url": "https://tls.mbed.org/c-library-bug-bounty-program",
     "submission_url": "Support.mbedtls@arm.com",
     "launch_date": "",
@@ -660,7 +660,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "artsy",
+    "program_name": "Artsy",
     "policy_url": "https://www.artsy.net/security",
     "submission_url": "security@artsy.net",
     "launch_date": "",
@@ -810,7 +810,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "avalara",
+    "program_name": "Avalara",
     "policy_url": "https://www.avalara.com/us/en/legal/responsible-disclosure.html",
     "submission_url": "information.security@avalara.com",
     "launch_date": "",
@@ -970,7 +970,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "beyond security",
+    "program_name": "Beyond Security",
     "policy_url": "https://www.beyondsecurity.com/ssd.html",
     "submission_url": "contact@ssd-disclosure.com",
     "launch_date": "",
@@ -1080,7 +1080,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "bithunt",
+    "program_name": "Bithunt",
     "policy_url": "https://hackerone.com/bithunt",
     "submission_url": "",
     "launch_date": "",
@@ -1120,7 +1120,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "bitsoffreedom",
+    "program_name": "Bitsoffreedom",
     "policy_url": "https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/",
     "submission_url": "security@bof.nl",
     "launch_date": "",
@@ -1150,7 +1150,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "bizmerlin",
+    "program_name": "Bizmerlin",
     "policy_url": "https://www.bizmerlin.com/responsible-disclosure-policy/",
     "submission_url": "https://bizmerlin.freshdesk.com/support/login",
     "launch_date": "",
@@ -1240,7 +1240,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "blockimmo",
+    "program_name": "Blockimmo",
     "policy_url": "https://hackerone.com/blockimmo",
     "submission_url": "",
     "launch_date": "",
@@ -1320,7 +1320,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "boston scientific",
+    "program_name": "Boston Scientific",
     "policy_url": "http://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html",
     "submission_url": "product.security@bsci.com",
     "launch_date": "",
@@ -1500,7 +1500,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "capital one",
+    "program_name": "Capital One",
     "policy_url": "https://www.capitalone.com/applications/responsible-disclosure/",
     "submission_url": "responsibledisclosure@capitalone.com",
     "launch_date": "",
@@ -1720,7 +1720,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "cisco",
+    "program_name": "Cisco",
     "policy_url": "https://tools.cisco.com/security/center/resources/security_vulnerability_policy.html",
     "submission_url": "psirt@cisco.com",
     "launch_date": "",
@@ -1740,7 +1740,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "classdojo",
+    "program_name": "Classdojo",
     "policy_url": "https://www.classdojo.com/securitydisclosureprogram/",
     "submission_url": "security@classdojo.com",
     "launch_date": "",
@@ -1770,16 +1770,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "Cloudfare",
-    "policy_url": "https://www.cloudflare.com/disclosure/",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "CloudFlare",
     "policy_url": "https://www.cloudflare.com/disclosure",
     "submission_url": "https://hackerone.com/cloudflare/reports/new",
@@ -1800,7 +1790,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "Co-operative bank",
+    "program_name": "Co-Operative bank",
     "policy_url": "https://www.co-operativebank.co.uk/global/security/responsible-security-disclosure",
     "submission_url": "securitydisclosures@co-operativebank.co.uk",
     "launch_date": "",
@@ -1890,7 +1880,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "coinpayments",
+    "program_name": "Coinpayments",
     "policy_url": "https://www.coinpayments.net/help-bug-bounty",
     "submission_url": "security@coinpayments.net",
     "launch_date": "",
@@ -1910,7 +1900,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "cointal",
+    "program_name": "Cointal",
     "policy_url": "https://www.cointal.com/page/security",
     "submission_url": "",
     "launch_date": "",
@@ -1980,7 +1970,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "contrast security",
+    "program_name": "Contrast Security",
     "policy_url": "https://www.contrastsecurity.com/disclosure-policy",
     "submission_url": "security@contrastsecurity.com",
     "launch_date": "",
@@ -2020,7 +2010,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "cpanel",
+    "program_name": "cPanel",
     "policy_url": "https://cpanel.net/cpanel-security-bounty-program/",
     "submission_url": "security@cpanel.net",
     "launch_date": "",
@@ -2100,7 +2090,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Currecycloud",
+    "program_name": "Currencycloud",
     "policy_url": "https://www.currencycloud.com/legal/responsible-disclosure/",
     "submission_url": "security@currencycloud.com",
     "launch_date": "",
@@ -2130,7 +2120,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "cybermarqt",
+    "program_name": "Cybermarqt",
     "policy_url": "https://cybermarqt.com/responsible-disclosure",
     "submission_url": "info@cybermarqt.com",
     "launch_date": "",
@@ -2140,7 +2130,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "danske bank",
+    "program_name": "Danske Bank",
     "policy_url": "https://danskebank.com/responsible-disclosure",
     "submission_url": "soc_itops@danskebank.com",
     "launch_date": "",
@@ -2190,7 +2180,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Data  Processing",
+    "program_name": "Data Processing",
     "policy_url": "https://hackerone.com/ibb-data",
     "submission_url": "",
     "launch_date": "",
@@ -2230,7 +2220,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "deliveroo",
+    "program_name": "Deliveroo",
     "policy_url": "https://hackerone.com/deliveroo",
     "submission_url": "",
     "launch_date": "",
@@ -2450,7 +2440,7 @@
     "safe_harbor": "full"
   },
   {
-    "program_name": "drugs.com",
+    "program_name": "Drugs.com",
     "policy_url": "https://www.drugs.com/support/responsible-disclosure-policy.html",
     "submission_url": "security@drugs.com",
     "launch_date": "",
@@ -2480,7 +2470,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ebay",
+    "program_name": "eBay",
     "policy_url": "https://pages.ebay.com/securitycenter/security_researchers.html",
     "submission_url": "https://pages.ebay.com/securitycenter/security_researchers_report_form.html",
     "launch_date": "",
@@ -2510,7 +2500,7 @@
     "safe_harbor": "full"
   },
   {
-    "program_name": "eero",
+    "program_name": "Eero",
     "policy_url": "https://bugcrowd.com/eero",
     "submission_url": "https://bugcrowd.com/eero/report",
     "launch_date": "",
@@ -2540,7 +2530,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "eligible",
+    "program_name": "Eligible",
     "policy_url": "https://eligible.com/responsible_disclosure_program",
     "submission_url": "security@eligible.com",
     "launch_date": "",
@@ -2600,7 +2590,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "eset",
+    "program_name": "Eset",
     "policy_url": "https://www.eset.com/int/security-vulnerability-reporting/",
     "submission_url": "security@eset.com",
     "launch_date": "",
@@ -2760,7 +2750,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "fastly",
+    "program_name": "Fastly",
     "policy_url": "https://www.fastly.com/security/report-security-issue",
     "submission_url": "https://fastly.zendesk.com/hc/en-us/requests/new",
     "launch_date": "",
@@ -3280,7 +3270,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "h1-5411-CTF",
+    "program_name": "H1-5411-CTF",
     "policy_url": "https://hackerone.com/h1-5411-ctf",
     "submission_url": "",
     "launch_date": "",
@@ -3450,7 +3440,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "honeywell",
+    "program_name": "Honeywell",
     "policy_url": "https://www.honeywell.com/product-security",
     "submission_url": "https://www.honeywell.com/product-security#tab-3f04309a-5f43-460d-a5a1-6103baf0d303",
     "launch_date": "",
@@ -3580,7 +3570,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "icann",
+    "program_name": "Icann",
     "policy_url": "https://www.icann.org/vulnerabilities",
     "submission_url": "vulnerability@icann.org",
     "launch_date": "",
@@ -3630,7 +3620,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "ikea",
+    "program_name": "Ikea",
     "policy_url": "https://www.ikea.com/ms/en_ES/responsible-disclosure/responsible_disclosure.html",
     "submission_url": "https://app.zerocopter.com/rd/9213ded2-6bb5-4f1a-8d74-c6fc1a04b675",
     "launch_date": "",
@@ -3710,7 +3700,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "inflectra",
+    "program_name": "Inflectra",
     "policy_url": "https://www.inflectra.com/company/responsible-disclosure.aspx",
     "submission_url": "support@inflectra.com",
     "launch_date": "",
@@ -3750,7 +3740,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ing",
+    "program_name": "Ing",
     "policy_url": "https://www.ing.com/ING.com-Security.htm",
     "submission_url": "responsible-disclosure@ing.com",
     "launch_date": "",
@@ -3800,7 +3790,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "intel",
+    "program_name": "Intel",
     "policy_url": "https://www.intel.com/content/www/us/en/security-center/default.html",
     "submission_url": "secure@intel.com",
     "launch_date": "",
@@ -3930,7 +3920,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ivanti",
+    "program_name": "Ivanti",
     "policy_url": "https://www.ivanti.com/support/contact-security",
     "submission_url": "responsible.disclosure@ivanti.com",
     "launch_date": "",
@@ -3940,7 +3930,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "jamieweb",
+    "program_name": "Jamieweb",
     "policy_url": "https://www.jamieweb.net/contact/",
     "submission_url": "security@jamieweb.net",
     "launch_date": "",
@@ -3990,7 +3980,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "johnson & johnson",
+    "program_name": "Johnson & Johnson",
     "policy_url": "https://www.productsecurity.jnj.com/",
     "submission_url": "productsecurity@its.jnj.com",
     "launch_date": "",
@@ -4000,7 +3990,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "jruby",
+    "program_name": "Jruby",
     "policy_url": "https://www.jruby.org/security",
     "submission_url": "security@jruby.org",
     "launch_date": "",
@@ -4240,7 +4230,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "linkedin",
+    "program_name": "Linkedin",
     "policy_url": "https://security.linkedin.com/vulnerabilty-disclosure",
     "submission_url": "security@linkedin.com",
     "launch_date": "",
@@ -4430,7 +4420,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "mailchimp",
+    "program_name": "Mailchimp",
     "policy_url": "https://mailchimp.com/about/security/",
     "submission_url": "https://mailchimp.com/about/security/",
     "launch_date": "",
@@ -4460,7 +4450,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "mailtrack",
+    "program_name": "Mailtrack",
     "policy_url": "https://mailtrack.io/en/responsible-vulnerability",
     "submission_url": "security-report@mailtrack.io",
     "launch_date": "",
@@ -4610,7 +4600,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "mediamarktsaturn",
+    "program_name": "Mediamarktsaturn",
     "policy_url": "https://hackerone.com/mediamarktsaturn",
     "submission_url": "",
     "launch_date": "",
@@ -4670,7 +4660,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "meXBT",
+    "program_name": "Mexbt",
     "policy_url": "https://cobalt.io/mexbt",
     "submission_url": "",
     "launch_date": "",
@@ -4710,7 +4700,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "mimecast",
+    "program_name": "Mimecast",
     "policy_url": "https://www.mimecast.com/responsible-disclosure/",
     "submission_url": "disclosure@mimecast.com",
     "launch_date": "",
@@ -4790,7 +4780,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "moneybird",
+    "program_name": "Moneybird",
     "policy_url": "https://www.moneybird.nl/security/",
     "submission_url": "",
     "launch_date": "",
@@ -4920,7 +4910,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "myob",
+    "program_name": "Myob",
     "policy_url": "https://www.myob.com/au/about/security/report-security-vulnerability",
     "submission_url": "securityteam@myob.com",
     "launch_date": "",
@@ -4960,7 +4950,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "National Cyber ‚Äã‚ÄãSecurity Center (Netherlands)",
+    "program_name": "National Cyber Security Center (Netherlands)",
     "policy_url": "https://www.ncsc.nl/security",
     "submission_url": "ert@ncsc.nl",
     "launch_date": "",
@@ -4970,7 +4960,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "navcoin",
+    "program_name": "Navcoin",
     "policy_url": "https://navcoin.org/en/responsible-disclosure",
     "submission_url": "disclosure@navcoin.org",
     "launch_date": "",
@@ -4990,7 +4980,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "netapp",
+    "program_name": "Netapp",
     "policy_url": "https://security.netapp.com/contact/",
     "submission_url": "security-alert@netapp.com",
     "launch_date": "",
@@ -5090,7 +5080,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "nike",
+    "program_name": "Nike",
     "policy_url": "https://www.nike.com/help/a/responsible-disclosure",
     "submission_url": "infosec@nike.com",
     "launch_date": "",
@@ -5140,7 +5130,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "nokia",
+    "program_name": "Nokia",
     "policy_url": "https://networks.nokia.com/responsible-disclosure",
     "submission_url": "security-alert@nokia.com",
     "launch_date": "",
@@ -5150,7 +5140,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "nokogiri",
+    "program_name": "Nokogiri",
     "policy_url": "https://hackerone.com/nokogiri",
     "submission_url": "",
     "launch_date": "",
@@ -5170,7 +5160,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "nowsecure",
+    "program_name": "Nowsecure",
     "policy_url": "https://www.nowsecure.com/company/responsible-disclosure-policy/",
     "submission_url": "https://www.nowsecure.com/contact/",
     "launch_date": "",
@@ -5240,7 +5230,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ok.ru",
+    "program_name": "Ok.ru",
     "policy_url": "https://hackerone.com/ok",
     "submission_url": "",
     "launch_date": "",
@@ -5320,7 +5310,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "onfido",
+    "program_name": "Onfido",
     "policy_url": "https://onfido.com/responsibledisclosure/",
     "submission_url": "security@onfido.com",
     "launch_date": "",
@@ -5600,7 +5590,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "passhash",
+    "program_name": "Passhash",
     "policy_url": "https://hackerone.com/passhash",
     "submission_url": "",
     "launch_date": "",
@@ -5900,7 +5890,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "pro.z",
+    "program_name": "Pro.z",
     "policy_url": "https://go.proz.com/bug-bounty-disclosure-program",
     "submission_url": "security@proz.com",
     "launch_date": "",
@@ -5930,7 +5920,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "puppet",
+    "program_name": "Puppet",
     "policy_url": "https://puppet.com/blog/responsible-disclosure-of-security-vulnerabilities",
     "submission_url": "security@puppetlabs.com",
     "launch_date": "",
@@ -6060,7 +6050,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ratelimited",
+    "program_name": "Ratelimited",
     "policy_url": "https://hackerone.com/ratelimited",
     "submission_url": "",
     "launch_date": "",
@@ -6480,7 +6470,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "scorpionsoft",
+    "program_name": "Scorpionsoft",
     "policy_url": "https://help.scorpionsoft.com/hc/en-us/articles/218315137-What-is-your-Vulnerability-Disclosure-Policy-",
     "submission_url": "security@scorpionsoft.com",
     "launch_date": "",
@@ -6560,7 +6550,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "sentry",
+    "program_name": "Sentry",
     "policy_url": "https://sentry.io/security/",
     "submission_url": "security@sentry.io",
     "launch_date": "",
@@ -6570,7 +6560,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "shapeshift",
+    "program_name": "Shapeshift",
     "policy_url": "https://corp.shapeshift.io/responsible-disclosure-program/",
     "submission_url": "security@shapeshift.io",
     "launch_date": "",
@@ -6620,7 +6610,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "sidefx",
+    "program_name": "Sidefx",
     "policy_url": "https://www.sidefx.com/responsible-disclosure-program/",
     "submission_url": "security@sidefx.com",
     "launch_date": "",
@@ -6650,7 +6640,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "signup",
+    "program_name": "Signup",
     "policy_url": "https://signup.com/responsible-disclosure-policy",
     "submission_url": "security@Signup.com",
     "launch_date": "",
@@ -6660,7 +6650,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "silvergoldbull",
+    "program_name": "Silvergoldbull",
     "policy_url": "https://silvergoldbull.com/bug-bounty/",
     "submission_url": "",
     "launch_date": "",
@@ -6680,7 +6670,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "simplerisk",
+    "program_name": "Simplerisk",
     "policy_url": "https://www.simplerisk.com/responsible_disclosure_policy",
     "submission_url": "security@simplerisk.com",
     "launch_date": "",
@@ -6800,7 +6790,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "snyk",
+    "program_name": "Snyk",
     "policy_url": "https://snyk.io/docs/security",
     "submission_url": "report@snyk.io",
     "launch_date": "",
@@ -6880,7 +6870,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "sphero",
+    "program_name": "Sphero",
     "policy_url": "https://support.sphero.com/article/5drs94lhk5-vulnerability-disclosure-program",
     "submission_url": "security@sphero.com",
     "launch_date": "",
@@ -6910,7 +6900,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "splunk",
+    "program_name": "Splunk",
     "policy_url": "https://www.splunk.com/goto/report_vulnerabilities",
     "submission_url": "",
     "launch_date": "",
@@ -6972,7 +6962,7 @@
   {
     "program_name": "Stackla",
     "policy_url": "https://support.stackla.com/hc/en-us/articles/115005937887-Reporting-a-possible-security-vulnerability-to-Stackla",
-    "submission_url": "https://support.stackla.com/hc/en-us/articles/115005937887-Reporting-a-possible-security-vulnerability-to-Stackla",
+    "submission_url": "security@stackla.com",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -7030,7 +7020,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "stripe",
+    "program_name": "Stripe",
     "policy_url": "https://stripe.com/docs/security/stripe",
     "submission_url": "security@stripe.com",
     "launch_date": "",
@@ -7040,7 +7030,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "stryker",
+    "program_name": "Stryker",
     "policy_url": "https://www.stryker.com/us/en/about/governance/cyber-security.html",
     "submission_url": "ProductSecurity@stryker.com",
     "launch_date": "",
@@ -7390,7 +7380,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "trend micro",
+    "program_name": "Trend Micro",
     "policy_url": "https://success.trendmicro.com/vulnerability-response",
     "submission_url": "security@trendmicro.com",
     "launch_date": "",
@@ -7500,7 +7490,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "twizo",
+    "program_name": "Twizo",
     "policy_url": "https://www.twizo.com/twizo-responsible-disclosure-policy/",
     "submission_url": "security@twizo.com",
     "launch_date": "",
@@ -7890,7 +7880,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "wagwalking",
+    "program_name": "Wagwalking",
     "policy_url": "https://wagwalking.com/responsible-disclosure",
     "submission_url": "security@wagwalking.com",
     "launch_date": "",
@@ -7910,7 +7900,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "walmart",
+    "program_name": "Walmart",
     "policy_url": "https://corporate.walmart.com/privacy-security",
     "submission_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
     "launch_date": "",
@@ -7940,7 +7930,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "wefact",
+    "program_name": "Wefact",
     "policy_url": "https://www.wefact.nl/security/",
     "submission_url": "helpdesk@wefact.nl",
     "launch_date": "",
@@ -7970,7 +7960,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "wetransfer",
+    "program_name": "Wetransfer",
     "policy_url": "https://wetransfer.com/legal/disclosure",
     "submission_url": "security@wetransfer.com",
     "launch_date": "",
@@ -7980,7 +7970,7 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "whmcs",
+    "program_name": "Whmcs",
     "policy_url": "https://bugcrowd.com/whmcs",
     "submission_url": "https://bugcrowd.com/whmcs/report",
     "launch_date": "",
@@ -8160,9 +8150,9 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "zoho",
+    "program_name": "Zoho",
     "policy_url": "https://bugbounty.zoho.com/bb/info#guide",
-    "submission_url": "https://accounts.zoho.com/signin?servicename=BugBounty&serviceurl=https%3A%2F%2Fbugbounty.zoho.com%2Fsubmit",
+    "submission_url": "https://bugbounty.zoho.com/submit",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -8180,7 +8170,7 @@
     "safe_harbor": "full"
   },
   {
-    "program_name": "zscaler",
+    "program_name": "Zscaler",
     "policy_url": "https://www.zscaler.com/company/vulnerability-disclosure-program",
     "submission_url": "security@zscaler.com",
     "launch_date": "",
