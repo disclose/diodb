@@ -1132,7 +1132,7 @@
   {
     "program_name": "BitWall",
     "policy_url": "https://firebounty.com/520-bitwall-security",
-    "submission_url": "http://www.bitwall.io/mailto:request@bitwall.io?Subject=Vulnerabilities%20Disclosure",
+    "submission_url": "request@bitwall.io",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -6922,7 +6922,7 @@
   {
     "program_name": "Spokeo",
     "policy_url": "https://www.spokeo.com/security",
-    "submission_url": "mailto:security@spokeo.com",
+    "submission_url": "security@spokeo.com",
     "launch_date": "",
     "cash_reward": true,
     "swag": true,
