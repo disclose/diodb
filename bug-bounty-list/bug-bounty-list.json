@@ -254,7 +254,7 @@
     "policy_url": "https://bugcrowd.com/agilebits",
     "submission_url": "https://bugcrowd.com/agilebits/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -604,9 +604,9 @@
     "policy_url": "https://bugcrowd.com/arlo",
     "submission_url": "https://bugcrowd.com/arlo/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -616,7 +616,7 @@
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -706,7 +706,7 @@
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -844,7 +844,7 @@
     "policy_url": "https://bugcrowd.com/barracuda",
     "submission_url": "https://bugcrowd.com/barracuda/report",
     "launch_date": "",
-    "cash_reward": true,
+    "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -1138,16 +1138,6 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "Blinksale",
-    "policy_url": "https://bugcrowd.com/blinksale",
-    "submission_url": "https://bugcrowd.com/blinksale/report",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
   },
   {
     "program_name": "Block.One",
@@ -1444,7 +1434,7 @@
     "policy_url": "https://bugcrowd.com/card",
     "submission_url": "https://bugcrowd.com/card/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -1857,7 +1847,7 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Contrast Security",
@@ -2040,16 +2030,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Dash Messaging",
-    "policy_url": "https://bugcrowd.com/dashmessaging",
-    "submission_url": "https://bugcrowd.com/dashmessaging/report",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Dashlane",
     "policy_url": "https://hackerone.com/dashlane",
     "submission_url": "",
@@ -2197,7 +2177,7 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Directly",
@@ -2654,7 +2634,7 @@
     "policy_url": "https://bugcrowd.com/fitbit",
     "submission_url": "https://bugcrowd.com/fitbit/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -2688,16 +2668,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "Ford",
-    "policy_url": "https://bugcrowd.com/ford",
-    "submission_url": "https://bugcrowd.com/ford/report",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
   },
   {
     "program_name": "FormAssembly",
@@ -2740,22 +2710,12 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Freedom of the Press Foundation",
+    "program_name": "Securedrop",
     "policy_url": "https://bugcrowd.com/freedomofpress",
     "submission_url": "https://bugcrowd.com/freedomofpress/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Freelancer",
-    "policy_url": "https://bugcrowd.com/freelancer",
-    "submission_url": "https://bugcrowd.com/freelancer/report",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": ""
   },
@@ -3883,16 +3843,6 @@
     "program_name": "Kraken",
     "policy_url": "https://www.kraken.com/security/bug-bounty",
     "submission_url": "bugbounty@kraken.com",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Kyivstar",
-    "policy_url": "https://bugcrowd.com/kyivstar",
-    "submission_url": "https://bugcrowd.com/kyivstar/report",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -5136,7 +5086,7 @@
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -5604,7 +5554,7 @@
     "policy_url": "https://bugcrowd.com/purevpn",
     "submission_url": "https://bugcrowd.com/purevpn/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -6114,7 +6064,7 @@
     "policy_url": "https://bugcrowd.com/freedomofpress",
     "submission_url": "https://bugcrowd.com/freedomofpress/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -7447,16 +7397,6 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Volusion V1",
-    "policy_url": "https://bugcrowd.com/volusion",
-    "submission_url": "https://bugcrowd.com/volusion/report",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
