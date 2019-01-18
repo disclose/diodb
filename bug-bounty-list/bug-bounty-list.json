@@ -6010,7 +6010,7 @@
     "safe_harbor": "partial"
   },
    {
-    "program_name": "Samsung",
+    "program_name": "Samsung Mobile",
     "policy_url": "https://security.samsungmobile.com/securityReporting.smsb",
     "submission_url": "https://security.samsungmobile.com/securityReporting.smsb",
     "launch_date": "",
