@@ -6185,7 +6185,7 @@
     "submission_url": "",
     "launch_date": "",
     "cash_reward": true,
-    "swag": false,
+    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
