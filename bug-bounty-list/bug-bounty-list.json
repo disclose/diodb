@@ -575,9 +575,9 @@
     "submission_url": "security@arduino.cc",
     "launch_date": "",
     "cash_reward": false,
-    "swag": true,
+    "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },  
   {
     "program_name": "Ark",
