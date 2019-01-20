@@ -41,15 +41,15 @@ Some examples of suggestions that won't be accepted:
   },
 ~~~~
 
-**Examaple: Tesla... Can you find the date they first launched their bug bounty program?**
+*Example: Tesla... Can you find the date they first launched their bug bounty program?*
 
 # How to fill out the safe-harbor field
 
 The list supports three safe-harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
 
-1. Does the policy mention anything about legal protections for good-faith hackers? If it does, go to Step 2. If not, then you should choose "None". 
-2. Does the policy talk about authorization of testing and/or exemption from legal terms? If it does, you should choose "Full". If not got to Step 3.
-3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? If it does, you should choose "Partial". 
+1. Does the policy mention anything about legal protections for good-faith hackers? If it does, go to Step 2. If not, then you should choose **"None"**. 
+2. Does the policy talk about authorization of testing and/or exemption from legal terms? If it does, you should choose **"Full"**. If not got to Step 3.
+3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? If it does, you should choose **"Partial"**. 
 
 # Other tips  
 
