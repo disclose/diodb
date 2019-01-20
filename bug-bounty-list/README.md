@@ -43,7 +43,7 @@ Some examples of suggestions that won't be accepted:
 
 *Example: Tesla... Can you find the date they first launched their bug bounty program?*
 
-# How to fill out the safe-harbor field
+## How to fill out the safe-harbor field
 
 The list supports three safe-harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
 
@@ -51,7 +51,7 @@ The list supports three safe-harbor states: Full, Partial, and None. The flow be
 2. Does the policy talk about authorization of testing and/or exemption from legal terms? If it does, you should choose **"Full"**. If not got to Step 3.
 3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? If it does, you should choose **"Partial"**. 
 
-# Other tips  
+## Other tips  
 
-* Launch date can be tricky to find on some programs e.g. found in a press release or blog post, and not on the program page. If you think you've found a missing launch date, please include a reference to where you found it in the PR.
-* Be careful with the cash_reward, swag, and hall_of_fame options. Some companies will offer these things on an ad-hoc or case-by-case basis, but this doesn't mean they're committing to do it for everyone. As always, read the program page.
+* Launch date can be tricky to find on some programs e.g. it's buried in a press release or blog post and not on the program page. If you think you've found a launch date, please include a reference to where you found it in the PR so the maintainers can check.
+* Some companies will offer these things on an ad-hoc or case-by-case basis, but this doesn't mean they're committing to do it for everyone. Be careful with the cash_reward, swag, and hall_of_fame options. As always, read the program page.
