@@ -570,6 +570,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Arduino",
+    "policy_url": "https://www.arduino.cc/en/Main/Security",
+    "submission_url": "security@arduino.cc",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": true,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },  
+  {
     "program_name": "Ark",
     "policy_url": "https://blog.ark.io/ark-github-development-bounty-113806ae9ffe",
     "submission_url": "security@ark.io",
