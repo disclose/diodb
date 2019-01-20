@@ -7600,6 +7600,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Xing",
+    "policy_url": "https://www.xing.com/rfc-2350.txt",
+    "submission_url": "",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },  
+  {
     "program_name": "Yelp",
     "policy_url": "https://hackerone.com/yelp",
     "submission_url": "",
