@@ -25,7 +25,7 @@ Some examples of suggestions that won't be accepted:
 **launch_date (optional):** When does the program say it was launched?  
 **cash_reward (optional):** Does the program commit to rewarding vulnerabilities?  
 **swag (optional):** Does the program commit to sending swag out for vulnerabilities?  
-**hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters . 
+**hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters?
 **safe_harbor (required):** Does the program support full or partial safe-harbor?  
 
 ~~~~
