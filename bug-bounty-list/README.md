@@ -1,6 +1,6 @@
 # disclose.io/bug-bounty-list
 
-> The community-powered database of ALL known public bug bounty and vulnerability programs, including their safe-harbor status.  
+> The community-powered index of ALL known public bug bounty and vulnerability disclosure programs, including their safe harbor status.  
 
 ## How to contribute  
 If you've found a new program, new information on an existing program, or think a program should be deleted, you can contribute to bug-bounty-list by issuing a pull request (PR) to the repo. If you're new to Github, [this article](https://www.thinkful.com/learn/github-pull-request-tutorial/#Time-to-Submit-Your-First-PR) is a good primer on how PRs work. 
