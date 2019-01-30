@@ -6090,14 +6090,14 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Segment.io",
-    "policy_url": "https://segment.com/docs/legal/security/",
-    "submission_url": "security@segment.com",
+    "program_name": "Segment",
+    "policy_url": "https://bugcrowd.com/segment",
+    "submission_url": "https://bugcrowd.com/segment/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Selify",
