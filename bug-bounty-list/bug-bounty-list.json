@@ -570,6 +570,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Arduino",
+    "policy_url": "https://www.arduino.cc/en/Main/Security",
+    "submission_url": "security@arduino.cc",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },  
+  {
     "program_name": "Ark",
     "policy_url": "https://blog.ark.io/ark-github-development-bounty-113806ae9ffe",
     "submission_url": "security@ark.io",
@@ -6080,14 +6090,14 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Segment.io",
-    "policy_url": "https://segment.com/docs/legal/security/",
-    "submission_url": "security@segment.com",
+    "program_name": "Segment",
+    "policy_url": "https://bugcrowd.com/segment",
+    "submission_url": "https://bugcrowd.com/segment/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Selify",
@@ -6182,10 +6192,10 @@
   {
     "program_name": "Shopify",
     "policy_url": "https://hackerone.com/shopify",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/shopify",
     "launch_date": "",
     "cash_reward": true,
-    "swag": false,
+    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
