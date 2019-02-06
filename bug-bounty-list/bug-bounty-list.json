@@ -190,16 +190,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "ActiveProspect",
-    "policy_url": "http://activeprospect.com/security/",
-    "submission_url": "security@activeprospect.com",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Activpn",
     "policy_url": "https://bugcrowd.com/activpn",
     "submission_url": "https://bugcrowd.com/activpn/report",
