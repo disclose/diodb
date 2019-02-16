@@ -2160,6 +2160,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Diagnostic Grifols, SA.",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Digital Asset",
     "policy_url": "https://www.digitalasset.com/security",
     "submission_url": "security@digitalasset.com",
@@ -3879,6 +3889,16 @@
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
+ {
+    "program_name": "Leica Biosystems",
+    "policy_url": "https://www.leicabiosystems.com/index.php?&ADMCMD_prev=df2e24a055bae99c1033a8b7b17cadf1&id=19671&L=0",
+    "submission_url": "lbs.productsecurity@leicabiosystems.com",
+    "launch_date": "02-15-2019",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
   {
     "program_name": "LeverEX",
     "policy_url": "https://medium.com/leverex/leverex-bug-bounty-program-10e53d0d7901",
@@ -4270,6 +4290,15 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "MedISAO",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },  {
     "program_name": "Medium",
     "policy_url": "https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program",
     "submission_url": "security@medium.com",
@@ -4397,6 +4426,16 @@
     "cash_reward": false,
     "swag": true,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Modulated Imaging",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -4757,6 +4796,16 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+    {
+    "program_name": "NIPRO",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -5503,6 +5552,16 @@
     "program_name": "Pro.z",
     "policy_url": "https://go.proz.com/bug-bounty-disclosure-program",
     "submission_url": "security@proz.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Promenade Software, Inc.",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -6638,6 +6697,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "full"
+  },
+  {
+    "program_name": "Summit Medical Products",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
   },
   {
     "program_name": "SureVine",
