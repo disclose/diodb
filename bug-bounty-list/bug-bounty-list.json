@@ -3879,6 +3879,16 @@
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
+   {
+    "program_name": "Leica Biosystems",
+    "policy_url": "https://www.leicabiosystems.com/index.php?&ADMCMD_prev=df2e24a055bae99c1033a8b7b17cadf1&id=19671&L=0",
+    "submission_url": "lbs.productsecurity@leicabiosystems.com",
+    "launch_date": "02-15-2019",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
   {
     "program_name": "LeverEX",
     "policy_url": "https://medium.com/leverex/leverex-bug-bounty-program-10e53d0d7901",
@@ -4267,6 +4277,16 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "MedISAO",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
