@@ -4680,16 +4680,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Nexmo",
-    "policy_url": "https://cobalt.io/nexmo",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Nextcloud",
     "policy_url": "https://hackerone.com/nextcloud",
     "submission_url": "",
