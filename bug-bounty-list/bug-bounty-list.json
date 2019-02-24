@@ -1701,8 +1701,8 @@
   },
   {
     "program_name": "Cobalt",
-    "policy_url": "https://cobalt.io/cobalt",
-    "submission_url": "",
+    "policy_url": "https://cobalt.io/security/practices",
+    "submission_url": "security@cobalt.io",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
