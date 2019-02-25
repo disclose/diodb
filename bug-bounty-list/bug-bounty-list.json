@@ -180,7 +180,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Active Prospect",
+    "program_name": "ActiveProspect",
     "policy_url": "https://activeprospect.com/security/",
     "submission_url": "security@activeprospect.com",
     "launch_date": "",
@@ -188,16 +188,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "ActiveProspect",
-    "policy_url": "http://activeprospect.com/security/",
-    "submission_url": "security@activeprospect.com",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
   },
   {
     "program_name": "Activpn",
@@ -568,6 +558,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Arduino",
+    "policy_url": "https://www.arduino.cc/en/Main/Security",
+    "submission_url": "security@arduino.cc",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Ark",
@@ -1180,16 +1180,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "BlockScore",
-    "policy_url": "https://cobalt.io/blockscore",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Blockstack",
     "policy_url": "https://hackerone.com/blockstack",
     "submission_url": "",
@@ -1287,16 +1277,6 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "BTCC",
-    "policy_url": "https://cobalt.io/btcc",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -1520,16 +1500,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ChainPay",
-    "policy_url": "https://cobalt.io/chainpay",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": true,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "ChainRift",
     "policy_url": "https://medium.com/chainrift/chainrift-launches-bug-bounty-program-6255eb2d518d",
     "submission_url": "support@chainrift.com",
@@ -1547,16 +1517,6 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "ChangeTip",
-    "policy_url": "https://cobalt.io/changetip",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -1701,10 +1661,10 @@
   },
   {
     "program_name": "Cobalt",
-    "policy_url": "https://cobalt.io/cobalt",
-    "submission_url": "",
+    "policy_url": "https://cobalt.io/security/practices",
+    "submission_url": "security@cobalt.io",
     "launch_date": "",
-    "cash_reward": true,
+    "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -1750,29 +1710,9 @@
     "safe_harbor": "full"
   },
   {
-    "program_name": "CoinDaddy",
-    "policy_url": "https://cobalt.io/coindaddy",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Coinpayments",
     "policy_url": "https://www.coinpayments.net/help-bug-bounty",
     "submission_url": "security@coinpayments.net",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Coins.ph",
-    "policy_url": "https://cobalt.io/coins-ph",
-    "submission_url": "",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -1923,16 +1863,6 @@
     "program_name": "Credit Karma",
     "policy_url": "https://bugcrowd.com/creditkarma",
     "submission_url": "https://bugcrowd.com/creditkarma/report",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Crix.io",
-    "policy_url": "https://cobalt.io/crixio",
-    "submission_url": "",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -2235,16 +2165,6 @@
     "submission_url": "https://dominos.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "DoSomething",
-    "policy_url": "https://cobalt.io/dosomething",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -3410,16 +3330,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Independent Reserve",
-    "policy_url": "https://cobalt.io/independent-reserve",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Independer",
     "policy_url": "http://www.independer.nl/algemeen/info/responsible-disclosure.aspx",
     "submission_url": "beveiliging@independer.nl",
@@ -3879,6 +3789,16 @@
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
+   {
+    "program_name": "Leica Biosystems",
+    "policy_url": "https://www.leicabiosystems.com/index.php?&ADMCMD_prev=df2e24a055bae99c1033a8b7b17cadf1&id=19671&L=0",
+    "submission_url": "lbs.productsecurity@leicabiosystems.com",
+    "launch_date": "02-15-2019",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
   {
     "program_name": "LeverEX",
     "policy_url": "https://medium.com/leverex/leverex-bug-bounty-program-10e53d0d7901",
@@ -4070,31 +3990,11 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Magnr",
-    "policy_url": "https://cobalt.io/magnr",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Mahara",
     "policy_url": "https://wiki.mahara.org/index.php/Contributors#Security_Researchers",
     "submission_url": "",
     "launch_date": "",
     "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "MaiCoin",
-    "policy_url": "https://cobalt.io/maicoin",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -4270,6 +4170,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "MedISAO",
+    "policy_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "submission_url": "https://members.medisao.com/vulnerability_disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Medium",
     "policy_url": "https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program",
     "submission_url": "security@medium.com",
@@ -4295,16 +4205,6 @@
     "submission_url": "https://bugcrowd.com/memotrader/report",
     "launch_date": "",
     "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Mexbt",
-    "policy_url": "https://cobalt.io/mexbt",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -4677,16 +4577,6 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Nexmo",
-    "policy_url": "https://cobalt.io/nexmo",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -5260,16 +5150,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Paysafe",
-    "policy_url": "https://cobalt.io/paysafe",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "PC Extreme",
     "policy_url": "https://www.pcextreme.com/policies/responsible-disclosure",
     "submission_url": "security@pcextreme.nl",
@@ -5620,16 +5500,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "QuickBT",
-    "policy_url": "https://cobalt.io/quickbt",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Quora",
     "policy_url": "https://hackerone.com/quora",
     "submission_url": "",
@@ -5687,16 +5557,6 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Rdbhost_service",
-    "policy_url": "https://cobalt.io/rdbhost-service",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -6009,6 +5869,16 @@
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
+   {
+    "program_name": "Samsung Mobile",
+    "policy_url": "https://security.samsungmobile.com/securityReporting.smsb",
+    "submission_url": "https://security.samsungmobile.com/securityReporting.smsb",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
   {
     "program_name": "SAP",
     "policy_url": "https://www.sap.com/about/cloud-trust-center/secure-cloud-storage/security-report.html",
@@ -6070,14 +5940,14 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Segment.io",
-    "policy_url": "https://segment.com/docs/legal/security/",
-    "submission_url": "security@segment.com",
+    "program_name": "Segment",
+    "policy_url": "https://bugcrowd.com/segment",
+    "submission_url": "https://bugcrowd.com/segment/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Selify",
@@ -6150,16 +6020,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Sherpany",
-    "policy_url": "https://cobalt.io/sherpany",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Shipt",
     "policy_url": "https://hackerone.com/shipt",
     "submission_url": "",
@@ -6172,10 +6032,10 @@
   {
     "program_name": "Shopify",
     "policy_url": "https://hackerone.com/shopify",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/shopify",
     "launch_date": "",
     "cash_reward": true,
-    "swag": false,
+    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
@@ -6430,16 +6290,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "SpectroCoin",
-    "policy_url": "https://app.cobalt.io/spectrocoin/spectrocoin",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Sphero",
     "policy_url": "https://support.sphero.com/article/5drs94lhk5-vulnerability-disclosure-program",
     "submission_url": "security@sphero.com",
@@ -6608,16 +6458,6 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "Subledger",
-    "policy_url": "https://cobalt.io/subledger",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
   },
   {
     "program_name": "Summa",
@@ -6858,16 +6698,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "TimeTrex",
-    "policy_url": "https://cobalt.io/timetrex",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
   },
   {
     "program_name": "Tinder",
@@ -7187,16 +7017,6 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Uphold",
-    "policy_url": "https://cobalt.io/uphold",
-    "submission_url": "",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -7590,6 +7410,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Xing",
+    "policy_url": "https://www.xing.com/rfc-2350.txt",
+    "submission_url": "",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Yelp",
     "policy_url": "https://hackerone.com/yelp",
     "submission_url": "",
@@ -7697,6 +7527,16 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "CarGurus",
+    "policy_url": "https://hackerone.com/cargurus",
+    "submission_url": "infosec@cargurus.com",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   }
 ]
