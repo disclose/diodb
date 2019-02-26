@@ -2140,6 +2140,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "DJI",
+    "policy_url": "https://security.dji.com/policy",
+    "submission_url": "",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "DNN Corporation",
     "policy_url": "http://www.dnnsoftware.com/platform/share/bug-reporting",
     "submission_url": "https://dnntracker.atlassian.net/secure/Dashboard.jspa",
@@ -7206,8 +7216,8 @@
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Vodafone",
