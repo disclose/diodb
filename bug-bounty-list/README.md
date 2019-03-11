@@ -48,8 +48,8 @@ Some examples of suggestions that won't be accepted:
 The list supports three safe harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
 
 1. Does the policy mention anything about legal protections for good-faith hackers? If it does, go to Step 2. If not, then you should choose **"None"**. 
-2. Does the policy talk about authorization of testing and/or exemption from legal terms? If it does, you should choose **"Full"**. If not got to Step 3.
-3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? If it does, you should choose **"Partial"**. 
+2. Does the policy talk about authorization of testing and/or an exemption from preexisting legal terms? In addition, does the policy clearly define the scope of testing, the compensation for valid findings, the official communication channels, and a disclosure policy? If so, you should choose **"Full"**. If not got to Step 3.
+3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? Are any of the key parameters described above ambiguously defined or missing completely? If so, you should choose **"Partial"**. 
 
 ## Other tips  
 
