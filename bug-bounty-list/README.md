@@ -19,14 +19,14 @@ Some examples of suggestions that won't be accepted:
 
 ## Definition of fields 
 
-**program_name (required):** What is the name of the company or product team responsible for the program?  
-**policy_url (required):** Where can the policy which defines the program be found? (Usually a webpage e.g. /security, a URL on a vulnerability management platform, or in a robots.txt or security.txt file).  
-**submission_url (required):** Where does policy say vulnerability submissions should be sent? (Usually a web form, a URL on a vulnerability management platform, or an email address. Emails can be added as URLs using 'mailto:').  
-**launch_date (optional):** When does the program say it was launched?  
-**cash_reward (optional):** Does the program commit to rewarding vulnerabilities?  
-**swag (optional):** Does the program commit to sending swag out for vulnerabilities?  
-**hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters?
-**safe_harbor (required):** Does the program support full or partial safe-harbor?  
+- **program_name (required):** What is the name of the company or product team responsible for the program?  
+- **policy_url (required):** Where can the policy which defines the program be found? (Usually a webpage e.g. /security, a URL on a vulnerability management platform, or in a robots.txt or security.txt file).  
+- **submission_url (required):** Where does policy say vulnerability submissions should be sent? (Usually a web form, a URL on a vulnerability management platform, or an email address. Emails can be added as URLs using 'mailto:').  
+- **launch_date (optional):** When does the program say it was launched?  
+- **cash_reward (optional):** Does the program commit to rewarding vulnerabilities?  
+- **swag (optional):** Does the program commit to sending swag out for vulnerabilities?  
+- **hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters?
+- **safe_harbor (required):** Does the program support full or partial safe-harbor?  
 
 ~~~~
   {
@@ -43,9 +43,9 @@ Some examples of suggestions that won't be accepted:
 
 *Example: Tesla... Can you find the date they first launched their bug bounty program?*
 
-## How to fill out the safe-harbor field
+## How to fill out the safe harbor field
 
-The list supports three safe-harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
+The list supports three safe harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
 
 1. Does the policy mention anything about legal protections for good-faith hackers? If it does, go to Step 2. If not, then you should choose **"None"**. 
 2. Does the policy talk about authorization of testing and/or exemption from legal terms? If it does, you should choose **"Full"**. If not got to Step 3.
