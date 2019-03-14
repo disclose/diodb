@@ -4791,7 +4791,7 @@
   },
   {
     "program_name": "OLA",
-    "policy_url": "https://www.olacabs.com/whitehat?",
+    "policy_url": "https://www.olacabs.com/whitehat",
     "submission_url": "https://www.olacabs.com/whitehat?page=reportIssue",
     "launch_date": "",
     "cash_reward": true,
@@ -7547,6 +7547,526 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zilliqa",
+    "policy_url": "https://bugcrowd.com/zilliqa",
+    "submission_url": "https://bugcrowd.com/zilliqa/report",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zynga Whitehat",
+    "policy_url": "https://bugcrowd.com/zynga-vdp",
+    "submission_url": "https://bugcrowd.com/zynga-vdp/report",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "ABNAMRO BANK",
+    "policy_url": "http://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html",
+    "submission_url": "security.disclosures@rbs.co.uk",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Amazon",
+    "policy_url": "http://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201182150",
+    "submission_url": "http://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201182150",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "ASN Bank",
+    "policy_url": "https://www.devolksbank.nl/veiligheid.html",
+    "submission_url": "responsible-disclosure@devolksbank.nl",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Cloud9 IDE",
+    "policy_url": "https://c9.io/security",
+    "submission_url": "security@c9.io",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "F5 Networks",
+    "policy_url": "https://support.f5.com/csp/article/K4602",
+    "submission_url": "f5sirt@f5.com",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Freelancer",
+    "policy_url": "https://www.freelancer.com/info/security-reporting.php",
+    "submission_url": "security-reporting@freelancer.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Jenkins",
+    "policy_url": "https://wiki.jenkins-ci.org/display/JENKINS/How+to+report+an+issue#Howtoreportanissue-Creatingtheissue",
+    "submission_url": "https://wiki.jenkins.io/display/JENKINS/How+to+report+an+issue#Howtoreportanissue-Creatingtheissue",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "KPN",
+    "policy_url": "https://www.kpn.com/algemeen/missie-en-privacy-statement/beveiligingskwetsbaarheid/beveiligingslek-melden.htm",
+    "submission_url": "https://www.kpn.com/algemeen/missie-en-privacy-statement/beveiligingskwetsbaarheid/beveiligingslek-melden.htm",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "LINE",
+    "policy_url": "https://bugbounty.linecorp.com/en/",
+    "submission_url": "https://bugbounty.linecorp.com/en/",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "ManageWP",
+    "policy_url": "https://managewp.com/white-hat-reward",
+    "submission_url": "https://managewp.com/white-hat-reward",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "MediaTek",
+    "policy_url": "https://www.mediatek.com/security-contact",
+    "submission_url": "https://www.mediatek.com/security-contact/form",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Medtronic",
+    "policy_url": "http://www.medtronic.com/contact-us/index.htm?cmpid=mdt_plc_2015_US_footer_nav_contact_us_mdt_us_legacy_contact_us_form_link",
+    "submission_url": "http://www.medtronic.com/contact-us/index.htm?cmpid=mdt_plc_2015_US_footer_nav_contact_us_mdt_us_legacy_contact_us_form_link",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Mega.co.nz",
+    "policy_url": "https://mega.co.nz/#blog_6",
+    "submission_url": "bugs@mega.co.nz",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Massachusetts Institute of Technology",
+    "policy_url": "https://bounty.mit.edu/",
+    "submission_url": "https://bounty.mit.edu/",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Naver Whale",
+    "policy_url": "http://bugbounty.whale.naver.com",
+    "submission_url": "https://bugbounty.whale.naver.com/en/",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "NCSC-NL",
+    "policy_url": "https://www.ncsc.nl/security",
+    "submission_url": "cert@ncsc.nl",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "true",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Nvidia",
+    "policy_url": "https://www.nvidia.com/object/submit-security-vulnerability.html",
+    "submission_url": "https://www.nvidia.com/object/submit-security-vulnerability.html",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "One Identity",
+    "policy_url": "https://support.oneidentity.com/contact-us/report-security-vulnerability",
+    "submission_url": "https://support.oneidentity.com/contact-us/report-security-vulnerability",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "OneLogin",
+    "policy_url": "https://www.onelogin.com/security",
+    "submission_url": "security@onelogin.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "OpenStack",
+    "policy_url": "https://security.openstack.org/#how-to-report-security-issues-to-openstack",
+    "submission_url": "https://security.openstack.org/#how-to-report-security-issues-to-openstack",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "OVH",
+    "policy_url": "https://bountyfactory.io/hunter/submit/program/42",
+    "submission_url": "https://bountyfactory.io/hunter/submit/program/42",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Palo Alto Networks",
+    "policy_url": "https://securityadvisories.paloaltonetworks.com/Report",
+    "submission_url": "psirt@paloaltonetworks.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Paychoice",
+    "policy_url": "http://www.paychoice.com.au/security/#security-researchers",
+    "submission_url": "security@paychoice.com.au",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Qmail",
+    "policy_url": "http://cr.yp.to/qmail/guarantee.html",
+    "submission_url": "http://cr.yp.to/qmail/guarantee.html",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Quest",
+    "policy_url": "https://support.quest.com/contact-us/report-security-vulnerability",
+    "submission_url": "https://support.quest.com/contact-us/report-security-vulnerability",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Rapid7",
+    "policy_url": "https://www.rapid7.com/security/disclosure",
+    "submission_url": "https://www.rapid7.com/security/disclosure",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "RBS Help",
+    "policy_url": "http://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html",
+    "submission_url": "security.disclosures@rbs.co.uk",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Ribose",
+    "policy_url": "https://www.ribose.com/feedback/security",
+    "submission_url": "https://www.ribose.com/feedback/security",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "true",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Samsung SmartTV",
+    "policy_url": "https://samsungtvbounty.com/ReportBug.aspx",
+    "submission_url": "https://samsungtvbounty.com/ReportBug.aspx",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "ScaleFT",
+    "policy_url": "https://www.scaleft.com/company/security/",
+    "submission_url": "security@scaleft.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "SNS Bank",
+    "policy_url": "https://www.devolksbank.nl/veiligheid.html",
+    "submission_url": "responsible-disclosure@devolksbank.nl",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Solve360",
+    "policy_url": "https://solve360.com/security-response/",
+    "submission_url": "security@norada.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Sonatype",
+    "policy_url": "http://www.sonatype.com/contact/report-a-security-issue",
+    "submission_url": "http://www.sonatype.com/contact/report-a-security-issue",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Stack Exchange",
+    "policy_url": "https://stackexchange.com/about/security",
+    "submission_url": "https://stackexchange.com/about/security",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Stanford University",
+    "policy_url": "https://uit.stanford.edu/security/report-incident",
+    "submission_url": "https://uit.stanford.edu/security/report-incident",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "TechSmith",
+    "policy_url": "https://www.techsmith.com/security.html",
+    "submission_url": "https://www.techsmith.com/security.html",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Tele2",
+    "policy_url": "https://www.tele2.nl/thuis/internet/veilig-internetten/stappenplan/",
+    "submission_url": "point@tele2.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Tenable",
+    "policy_url": "https://www.tenable.com/security/report",
+    "submission_url": "vulnreport@tenable.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Tencent",
+    "policy_url": "http://en.security.tencent.com/",
+    "submission_url": "https://en.security.tencent.com/index.php/report/add",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Tinfoil Security",
+    "policy_url": "https://www.tinfoilsecurity.com/security",
+    "submission_url": "security@tinfoilsecurity.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Voys",
+    "policy_url": "https://www.voys.nl/security-responsible-disclosure/#rd",
+    "submission_url": "security@wearespindle.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Wamba",
+    "policy_url": "http://corp.wamba.com/en/developer/security/#form",
+    "submission_url": "http://corp.wamba.com/en/developer/security/#form",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Webconverger",
+    "policy_url": "http://webconverger.org/security/",
+    "submission_url": "http://webconverger.org/security/",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Xerox",
+    "policy_url": "https://www.xerox.com/perl-bin/formeng.pl?form=product_security_information_request_7285",
+    "submission_url": "https://www.xerox.com/perl-bin/formeng.pl?form=product_security_information_request_7285",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Yammer",
+    "policy_url": "https://technet.microsoft.com/en-us/security/dn800983",
+    "submission_url": "https://technet.microsoft.com/en-us/security/dn800983",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Yandex",
+    "policy_url": "https://yandex.com/bugbounty/report/",
+    "submission_url": "https://yandex.com/bugbounty/report/",
+    "launch_date": "",
+    "cash_reward": "true",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zerocopter",
+    "policy_url": "https://app.zerocopter.com/responsible_disclosure/eef4f999-2477-4802-8542-161435d30e06",
+    "submission_url": "https://app.zerocopter.com/responsible_disclosure/eef4f999-2477-4802-8542-161435d30e06",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zetetic",
+    "policy_url": "https://www.zetetic.net/security/",
+    "submission_url": "support@zetetic.net",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "false",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zimbra",
+    "policy_url": "https://wiki.zimbra.com/wiki/Zimbra_Responsible_Disclosure_Policy",
+    "submission_url": "https://wiki.zimbra.com/wiki/Security_Center",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zynga",
+    "policy_url": "http://company.zynga.com/security/whitehats",
+    "submission_url": "whitehat@zynga.com",
+    "launch_date": "",
+    "cash_reward": "false",
+    "swag": "false",
+    "hall_of_fame": "true",
     "safe_harbor": ""
   }
 ]
