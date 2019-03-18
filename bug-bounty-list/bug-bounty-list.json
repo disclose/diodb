@@ -8058,15 +8058,5 @@
     "swag": "false",
     "hall_of_fame": "true",
     "safe_harbor": ""
-  },
-  {
-    "program_name": "Zynga",
-    "policy_url": "http://company.zynga.com/security/whitehats",
-    "submission_url": "whitehat@zynga.com",
-    "launch_date": "",
-    "cash_reward": "false",
-    "swag": "false",
-    "hall_of_fame": "true",
-    "safe_harbor": ""
   }
 ]
