@@ -3851,12 +3851,12 @@
   },
   {
     "program_name": "Liferay",
-    "policy_url": "https://issues.liferay.com/secure/Dashboard.jspa",
-    "submission_url": "https://issues.liferay.com/secure/Dashboard.jspa",
-    "launch_date": "",
+    "policy_url": "https://www.liferay.com/security",
+    "submission_url": "security@liferay.com",
+    "launch_date": "2012",
     "cash_reward": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
