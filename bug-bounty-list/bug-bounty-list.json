@@ -2660,6 +2660,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Fullstory",
+    "policy_url": "https://fullstory.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://fullstory.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Fuga",
     "policy_url": "https://fuga.cloud/responsible-disclosure-policy/",
     "submission_url": "abuse@fuga.cloud",
@@ -3840,6 +3850,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Lifelock",
+    "policy_url": "https://lifelock.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://lifelock.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "LifeOmic",
     "policy_url": "https://hackerone.com/lifeomic",
     "submission_url": "",
@@ -4213,6 +4233,16 @@
     "program_name": "MemoTrader",
     "policy_url": "https://bugcrowd.com/memotrader",
     "submission_url": "https://bugcrowd.com/memotrader/report",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "McKinsey",
+    "policy_url": "https://mckinsey.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://mckinsey.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -5233,6 +5263,16 @@
     "program_name": "Pidgin",
     "policy_url": "http://pidgin.im/security/",
     "submission_url": "security@pidgin.im",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Pillpack",
+    "policy_url": "https://pillpack.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://pillpack.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -6520,6 +6560,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Synack",
+    "policy_url": "https://synack.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://synack.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Take A Lot",
     "policy_url": "https://www.takealot.com/help/responsible-disclosure-policy",
     "submission_url": "security@takealot.com",
@@ -6693,6 +6743,16 @@
     "program_name": "Thumbtack",
     "policy_url": "https://help.thumbtack.com/article/responsible-disclosure-policy",
     "submission_url": "security@thumbtack.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "TIAA",
+    "policy_url": "https://tiaa.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://tiaa.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
