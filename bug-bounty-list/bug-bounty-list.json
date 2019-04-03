@@ -130,6 +130,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Academy Mortgage",
+    "policy_url": "https://academymortgage.com/about-us/contact-us",
+    "submission_url": "infosec@academymortgage.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "false"
+  },
+  {
     "program_name": "Accenture",
     "policy_url": "https://www.accenture.com/us-en/company-accenture-responsible-disclosure",
     "submission_url": "Res.Disclosure@accenture.com",
