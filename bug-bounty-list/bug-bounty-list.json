@@ -2680,6 +2680,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "FUSION",
+    "policy_url": "https://fusion.org/bounty/#bugs",
+    "submission_url": "rewards@fusion.org",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Gamma",
     "policy_url": "https://www.gamma.nl/responsible-disclosure",
     "submission_url": "security-alert@intergamma.nl",
