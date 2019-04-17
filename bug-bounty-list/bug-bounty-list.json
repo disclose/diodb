@@ -1930,6 +1930,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Dailymotion",
+    "policy_url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty",
+    "submission_url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty/create-report",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Danske Bank",
     "policy_url": "https://danskebank.com/responsible-disclosure",
     "submission_url": "soc_itops@danskebank.com",
