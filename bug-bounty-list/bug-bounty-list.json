@@ -7631,7 +7631,7 @@
   },
   {
     "program_name": "CoinJar"
-    "policy_url":"https://www.coinjar.com/bounty"
+    "policy_url":"https://www.coinjar.com/bounty",
     "submission_url": "security@coinjar.com",
     "launch_date": "",
     "cash_reward": true,
