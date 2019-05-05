@@ -3960,6 +3960,15 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Lyft",
+    "policy_url": "https://www.lyft.com/security",
+    "submission_url": "https://www.lyft.com/security",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },  {
     "program_name": "Lyst",
     "policy_url": "https://hackerone.com/lyst",
     "submission_url": "",
@@ -5220,6 +5229,15 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Personal Capital",
+    "policy_url": "https://www.personalcapital.com/responsible-disclosure/",
+    "submission_url": "https://www.personalcapital.com/responsible-disclosure/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },  {
     "program_name": "Phabricator",
     "policy_url": "https://hackerone.com/phabricator",
     "submission_url": "",
@@ -5458,6 +5476,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Punchh",
+    "policy_url": "",
+    "submission_url": "https://punchh.com/security",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
   },
   {
     "program_name": "Puppet",
