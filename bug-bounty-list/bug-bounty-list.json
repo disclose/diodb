@@ -8187,6 +8187,8 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
    {
     "program_name": "Edmodo",
     "policy_url": "",
