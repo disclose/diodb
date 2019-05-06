@@ -3910,6 +3910,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Livestream",
+    "policy_url": "https://hackerone.com/livestream",
+    "submission_url": "https://hackerone.com/livestream",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "LocalTapiola",
     "policy_url": "https://hackerone.com/localtapiola",
     "submission_url": "",
@@ -7202,7 +7212,7 @@
   {
     "program_name": "VHX",
     "policy_url": "https://hackerone.com/vhx",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/vhx",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -7232,12 +7242,12 @@
   {
     "program_name": "Vimeo",
     "policy_url": "https://hackerone.com/vimeo",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/vimeo",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Visma",
