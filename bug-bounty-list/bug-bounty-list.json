@@ -6830,6 +6830,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "TradingView",
+    "policy_url": "https://www.tradingview.com/bounty/",
+    "submission_url": "security@tradingview.com",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Transloadit",
     "policy_url": "https://transloadit.com/security/",
     "submission_url": "support@transloadit.com",
