@@ -7630,7 +7630,7 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "CoinJar"
+    "program_name": "CoinJar",
     "policy_url":"https://www.coinjar.com/bounty",
     "submission_url": "security@coinjar.com",
     "launch_date": "",
