@@ -1480,10 +1480,10 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "CertCC",
-    "policy_url": "https://hackerone.com/cert",
-    "submission_url": "",
-    "launch_date": "",
+    "program_name": "CERT/CC",
+    "policy_url": "https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy",
+    "submission_url": "https://www.kb.cert.org/vuls/report/",
+    "launch_date": "1998-12-01",
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
