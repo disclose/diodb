@@ -7420,13 +7420,13 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Wetransfer",
+    "program_name": "WeTransfer",
     "policy_url": "https://wetransfer.com/legal/disclosure",
-    "submission_url": "security@wetransfer.com",
+    "submission_url": "https://app.zerocopter.com/rd/db5b132c-2029-4a24-a7b5-7135502603f2",
     "launch_date": "",
     "cash_reward": true,
-    "swag": true,
-    "hall_of_fame": true,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": "partial"
   },
   {
@@ -7679,5 +7679,5 @@
     "hall_of_fame": false,
     "safe_harbor": ""
   }
-    
+
 ]
