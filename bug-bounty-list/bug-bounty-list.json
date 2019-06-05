@@ -3829,7 +3829,7 @@
     "hall_of_fame": true,
     "safe_harbor": "full"
   },
-   {
+  {
     "program_name": "Leica Biosystems",
     "policy_url": "https://www.leicabiosystems.com/index.php?&ADMCMD_prev=df2e24a055bae99c1033a8b7b17cadf1&id=19671&L=0",
     "submission_url": "lbs.productsecurity@leicabiosystems.com",
@@ -3998,7 +3998,8 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
-  },  {
+  },
+  {
     "program_name": "Lyst",
     "policy_url": "https://hackerone.com/lyst",
     "submission_url": "",
@@ -5267,7 +5268,8 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
-  },  {
+  },
+  {
     "program_name": "Phabricator",
     "policy_url": "https://hackerone.com/phabricator",
     "submission_url": "",
@@ -5977,7 +5979,7 @@
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
-   {
+  {
     "program_name": "Samsung Mobile",
     "policy_url": "https://security.samsungmobile.com/securityReporting.smsb",
     "submission_url": "https://security.samsungmobile.com/securityReporting.smsb",
@@ -6378,14 +6380,14 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Soundcloud",
-    "policy_url": "https://help.soundcloud.com/hc/en-us/articles/115003561228-Reporting-a-security-vulnerability",
-    "submission_url": "whitehat@soundcloud.com",
+    "program_name": "SoundCloud",
+    "policy_url": "https://bugcrowd.com/soundcloud",
+    "submission_url": "https://bugcrowd.com/soundcloud/report",
     "launch_date": "",
-    "cash_reward": false,
+    "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Souq",
@@ -7677,7 +7679,7 @@
     "hall_of_fame": true,
     "safe_harbor": ""
   },
-   {
+  {
     "program_name": "Edmodo",
     "policy_url": "",
     "submission_url": "privacy@edmodo.com",
@@ -7687,7 +7689,7 @@
     "hall_of_fame": false,
     "safe_harbor": ""
   },
-   {
+  {
     "program_name": "Cyber Sprint",
     "policy_url": "https://www.cybersprint.com/responsible-disclosure/",
     "submission_url": "soc@cybersprint.com",
@@ -7699,7 +7701,7 @@
   },
   {
     "program_name": "CoinJar",
-    "policy_url":"https://www.coinjar.com/bounty",
+    "policy_url": "https://www.coinjar.com/bounty",
     "submission_url": "security@coinjar.com",
     "launch_date": "",
     "cash_reward": true,
@@ -7707,5 +7709,4 @@
     "hall_of_fame": false,
     "safe_harbor": ""
   }
-
 ]
