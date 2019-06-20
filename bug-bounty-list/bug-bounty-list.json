@@ -1590,6 +1590,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "City-Data.com",
+    "policy_url": "http://www.city-data.com/bug-bounty.html",
+    "submission_url": "http://www.city-data.com/bug-bounty-report.php",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Classdojo",
     "policy_url": "https://www.classdojo.com/securitydisclosureprogram/",
     "submission_url": "security@classdojo.com",
