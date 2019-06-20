@@ -1220,6 +1220,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "blinkforhome",
+    "policy_url": "https://blinkforhome.com/pages/responsible-disclosure-policy?locale=en",
+    "submission_url": "info@blinkforhome.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Block.One",
     "policy_url": "https://hackerone.com/eosio",
     "submission_url": "",
@@ -1477,6 +1487,26 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "cPanel",
+    "policy_url": "https://cpanel.net/cpanel-security-bounty-program/",
+    "submission_url": "security@cpanel.net",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "cPaperless",
+    "policy_url": "https://www.cpaperless.com/security-statement/",
+    "submission_url": "support@cPaperless.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -2383,6 +2413,16 @@
     "program_name": "DuckDuckGo",
     "policy_url": "https://hackerone.com/duckduckgo",
     "submission_url": "",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "eBay",
+    "policy_url": "https://pages.ebay.com/securitycenter/security_researchers.html",
+    "submission_url": "https://pages.ebay.com/securitycenter/security_researchers_report_form.html",
     "launch_date": "",
     "cash_reward": false,
     "swag": false,
@@ -3440,6 +3480,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "iFixit",
+    "policy_url": "http://www.ifixit.com/Info/Responsible_Disclosure",
+    "submission_url": "security@ifixit.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "IHC",
     "policy_url": "https://www.royalihc.com/en/responsible-disclosure-policy",
     "submission_url": "ITSecurity@royalihc.com",
@@ -3473,6 +3523,16 @@
     "program_name": "IRCCloud",
     "policy_url": "https://hackerone.com/irccloud",
     "submission_url": "",
+    "launch_date": "",
+    "cash_reward": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "iRobot",
+    "policy_url": "https://bugcrowd.com/irobot",
+    "submission_url": "https://bugcrowd.com/irobot/report",
     "launch_date": "",
     "cash_reward": true,
     "swag": false,
@@ -8337,66 +8397,6 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "blinkforhome",
-    "policy_url": "https://blinkforhome.com/pages/responsible-disclosure-policy?locale=en",
-    "submission_url": "info@blinkforhome.com",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
-  },
-  {
-    "program_name": "cPanel",
-    "policy_url": "https://cpanel.net/cpanel-security-bounty-program/",
-    "submission_url": "security@cpanel.net",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "cPaperless",
-    "policy_url": "https://www.cpaperless.com/security-statement/",
-    "submission_url": "support@cPaperless.com",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "eBay",
-    "policy_url": "https://pages.ebay.com/securitycenter/security_researchers.html",
-    "submission_url": "https://pages.ebay.com/securitycenter/security_researchers_report_form.html",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "iFixit",
-    "policy_url": "http://www.ifixit.com/Info/Responsible_Disclosure",
-    "submission_url": "security@ifixit.com",
-    "launch_date": "",
-    "cash_reward": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "iRobot",
-    "policy_url": "https://bugcrowd.com/irobot",
-    "submission_url": "https://bugcrowd.com/irobot/report",
-    "launch_date": "",
-    "cash_reward": true,
-    "swag": false,
-    "hall_of_fame": true,
     "safe_harbor": ""
   }
 ]
