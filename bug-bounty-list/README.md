@@ -23,7 +23,7 @@ Some examples of suggestions that won't be accepted:
 - **policy_url (required):** Where can the policy which defines the program be found? (Usually a webpage e.g. /security, a URL on a vulnerability management platform, or in a robots.txt or security.txt file).  
 - **submission_url (required):** Where does policy say vulnerability submissions should be sent? (Usually a web form, a URL on a vulnerability management platform, or an email address. Emails can be added as URLs using 'mailto:').  
 - **launch_date (optional):** When does the program say it was launched?  
-- **cash_reward (optional):** Does the program commit to rewarding vulnerabilities?  
+- **bug_bounty (optional):** Does the program commit to rewarding vulnerabilities?  
 - **swag (optional):** Does the program commit to sending swag out for vulnerabilities?  
 - **hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters?
 - **safe_harbor (required):** Does the program support full or partial safe-harbor?  
@@ -34,7 +34,7 @@ Some examples of suggestions that won't be accepted:
     "policy_url": "https://bugcrowd.com/tesla",
     "submission_url": "https://bugcrowd.com/tesla/report",
     "launch_date": "",
-    "cash_reward": true,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "full"
@@ -54,4 +54,4 @@ The list supports three safe harbor states: Full, Partial, and None. The flow be
 ## Other tips  
 
 * Launch date can be tricky to find on some programs e.g. it's buried in a press release or blog post and not on the program page. If you think you've found a launch date, please include a reference to where you found it in the PR so the maintainers can check.
-* Some companies will offer these things on an ad-hoc or case-by-case basis, but this doesn't mean they're committing to do it for everyone. Be careful with the cash_reward, swag, and hall_of_fame options. As always, read the program page.
+* Some companies will offer these things on an ad-hoc or case-by-case basis, but this doesn't mean they're committing to do it for everyone. Be careful with the bug_bounty, swag, and hall_of_fame options. As always, read the program page.
