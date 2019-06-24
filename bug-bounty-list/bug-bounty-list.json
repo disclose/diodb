@@ -461,13 +461,13 @@
   },
   {
     "program_name": "Altilly",
-    "policy_url": "https://www.altilly.com/page/bounty",
-    "submission_url": "https://altilly.freshdesk.com/support/home",
+    "policy_url": "https://www.altilly.com/page/security",
+    "submission_url": "https://www.altilly.com/page/security",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "safe_harbor": ""
   },
   {
     "program_name": "Amara",
@@ -1117,16 +1117,6 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Bitdefender",
-    "policy_url": "https://bugcrowd.com/bitdefender",
-    "submission_url": "https://bugcrowd.com/bitdefender/report",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -2070,16 +2060,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Cyber Sprint",
-    "policy_url": "https://www.cybersprint.com/responsible-disclosure/",
-    "submission_url": "soc@cybersprint.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Cybermarqt",
     "policy_url": "https://cybermarqt.com/responsible-disclosure",
     "submission_url": "info@cybermarqt.com",
@@ -2448,16 +2428,6 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "full"
-  },
-  {
-    "program_name": "Edmodo",
-    "policy_url": "",
-    "submission_url": "privacy@edmodo.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": true,
-    "hall_of_fame": false,
-    "safe_harbor": ""
   },
   {
     "program_name": "Edmodo",
@@ -3214,7 +3184,7 @@
     "policy_url": "https://www.hrpartner.io/security.html",
     "submission_url": "support@hrpartner.io",
     "launch_date": "",
-    "bug_bounty": true,
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
@@ -5113,16 +5083,6 @@
     "program_name": "Nowsecure",
     "policy_url": "https://www.nowsecure.com/company/responsible-disclosure-policy/",
     "submission_url": "https://www.nowsecure.com/contact/",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Nvidia",
-    "policy_url": "http://www.nvidia.com/object/product-security.html",
-    "submission_url": "AppSecSupport@nvidia.com",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -8318,16 +8278,6 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
-  },
-  {
-    "program_name": "Zerocopter",
-    "policy_url": "https://app.zerocopter.com/responsible_disclosure/eef4f999-2477-4802-8542-161435d30e06",
-    "submission_url": "https://app.zerocopter.com/responsible_disclosure/eef4f999-2477-4802-8542-161435d30e06",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
   },
   {
     "program_name": "Zetetic",
