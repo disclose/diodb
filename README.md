@@ -11,25 +11,27 @@ The design philosophy of the disclose.io framework is to balance four forces:
 - Safe harbor for program owners, and
 - Readability for those who don’t have a legal background or who don’t speak English as a first language.
 
-Organizations displaying the disclose.io logo are committing to a set of **Core Terms** focused on creating safe harbor for good-faith security research. In order to uphold this commitment, such organizations are also required to provide clear definitions regarding the permitted **Scope** for such research, one or more **Official Communication Channels**, and a formal **Disclosure Policy**.
+Organizations displaying the disclose.io logo are committing to a set of [**Core Terms**](core_terms/) focused on creating safe harbor for good-faith security research. In order to uphold this commitment, such organizations are also required to provide clear definitions regarding the permitted **Scope** for such research, one or more **Official Communication Channels**, and a formal **Disclosure Policy**.
 
 ## Requirements
 
 In order to leverage disclose.io for any given authorized security research program, organizations must have the following items clearly defined within the context of each disclose.io compliant program:
 
-- **Scope** – an exhaustive list of "In-Scope" properties that the organization is explicitly providing safe harbor for the good-faith security testing of, and optionally, a non-exhaustive list of "Out-of-Scope" properties that the organization strongly wishes to discourage testing against (on top of the implicit lack of safe harbor or authorization for security testing)
-- **Rewards** – whether compensation will be provided for (valid, unique) issues, as well as the form and magnitude of that compensation
-- **Official Communication Channels** – an exhaustive list of the communication methods that are considered acceptable by the organization for receiving and communicating about any information associated with potential vulnerabilities
-- **Disclosure Policy** – an explicit policy outlining the conditions under which the existence and/or details of a reported issue may be disclosed to third parties. Examples include:
+- **Scope** – A complete list of "In-Scope" properties that the organization is explicitly providing safe harbor for the good-faith security testing of, and optionally, a non-exhaustive list of "Out-of-Scope" properties that the organization strongly wishes to discourage testing against;
+- **Rewards** – Information on whether or not compensation will be provided for valid, unique issues, as well as the type and parameters of that compensation;
+- **Official Communication Channels** – A  list of the communication methods that are made available by the organization to receive and communicate about vulnerability submissions;
+- **Disclosure Policy** – A clear policy outlining the conditions under which the existence and/or details of a reported issue may be disclosed to third parties. Examples include:
     - **Coordinated Disclosure**: Vulnerability details may be shared with third parties after the vulnerability has been fixed and the program owner has provided permission to disclose or after 90 days from submission, whichever is sooner.
     - **Discretionary Disclosure**: Vulnerability details may be shared with third parties only after requesting and receiving explicit permission from the program owner.
     - **Non-Disclosure**: Vulnerability details (and the existence of the program itself if private) cannot be shared with third parties.
     
-Examples of these items are provided in the Additional Terms section of the disclose repo.
+Examples of these items are provided in the [**Additional Terms**](additional_terms/) section of the disclose repo.
 
 ## Core Terms and Logo Usage
 
 # "Full" Safe Harbor
+
+
 
 If the above requirements are met, an organization may display the disclose.io [Core Terms](core_terms/), as well as the disclose.io logo, in conjunction with their authorized security research program's policies in order to indicate their intention to provide safe harbor for good-faith security research.
 
