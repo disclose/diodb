@@ -15,11 +15,12 @@ Organizations displaying the disclose.io logo are committing to a set of [**Core
 
 ## Requirements
 
-In order to leverage disclose.io for any given authorized security research program, organizations must have the following items clearly defined within the context of each disclose.io compliant program:
+In order to use disclose.io and associated logos in a security research or disclosure program, organizations must have the following items clearly defined within the context of each disclose.io compliant program:
 
-- **Scope** – A complete list of "In-Scope" properties that the organization is explicitly providing safe harbor for the good-faith security testing of, and optionally, a non-exhaustive list of "Out-of-Scope" properties that the organization strongly wishes to discourage testing against;
-- **Rewards** – Information on whether or not compensation will be provided for valid, unique issues, as well as the type and parameters of that compensation;
-- **Official Communication Channels** – A  list of the communication methods that are made available by the organization to receive and communicate about vulnerability submissions;
+- **Scope** – A complete list of "In-Scope" properties that the organization is explicitly allowing good-faith security researcher on, and optionally:
+    - **Out-of-Scope** - A non-exhaustive list of properties and security testing activities that the organization strongly wishes to discourage testing against.
+    - **Rewards** – Information on whether or not compensation will be provided for valid, unique issues, as well as the type and parameters of that compensation.
+- **Official Communication Channels** – A full list of the communication methods that are made available by the organization to receive and communicate about vulnerability submissions;
 - **Disclosure Policy** – A clear policy outlining the conditions under which the existence and/or details of a reported issue may be disclosed to third parties. Examples include:
     - **Coordinated Disclosure**: Vulnerability details may be shared with third parties after the vulnerability has been fixed and the program owner has provided permission to disclose or after 90 days from submission, whichever is sooner.
     - **Discretionary Disclosure**: Vulnerability details may be shared with third parties only after requesting and receiving explicit permission from the program owner.
