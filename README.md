@@ -24,8 +24,12 @@ In order to leverage disclose.io for any given authorized security research prog
     - **Coordinated Disclosure**: Vulnerability details may be shared with third parties after the vulnerability has been fixed and the program owner has provided permission to disclose or after 90 days from submission, whichever is sooner.
     - **Discretionary Disclosure**: Vulnerability details may be shared with third parties only after requesting and receiving explicit permission from the program owner.
     - **Non-Disclosure**: Vulnerability details (and the existence of the program itself if private) cannot be shared with third parties.
+    
+Examples of these items are provided in the Additional Terms section of the disclose repo.
 
-## Core Terms
+## Core Terms and Logo Usage
+
+# "Full" Safe Harbor
 
 If the above requirements are met, an organization may display the disclose.io [Core Terms](core_terms/), as well as the disclose.io logo, in conjunction with their authorized security research program's policies in order to indicate their intention to provide safe harbor for good-faith security research.
 
