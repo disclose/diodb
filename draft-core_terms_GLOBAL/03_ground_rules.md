@@ -1,6 +1,6 @@
 To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
 
-- Play by the rules. This includes following this policy, as well as any other relevant agreements;
+- Play by the rules. This includes following this policy any other relevant agreements;
 - Report any vulnerability you’ve discovered promptly;
 - Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;
 - Use only the Official Channels to discuss vulnerability information with us;
