@@ -217,7 +217,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Acquia",
@@ -747,7 +747,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Atlassian - Opsgenie",
@@ -757,7 +757,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Augur",
@@ -1127,7 +1127,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Bitdefender Box v2",
@@ -1137,7 +1137,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Bitpay",
@@ -1507,7 +1507,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Capital One",
@@ -5647,7 +5647,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Phabricator",
@@ -6737,7 +6737,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Slack",
@@ -6947,7 +6947,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Square",
@@ -7477,7 +7477,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Trend Micro",
@@ -8067,7 +8067,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Whmcs",
@@ -8227,7 +8227,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "YouPorn",
@@ -8297,7 +8297,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Zimbra",
@@ -8331,8 +8331,8 @@
   },
   {
     "program_name": "Zscaler",
-    "policy_url": "https://www.zscaler.com/company/vulnerability-disclosure-program",
-    "submission_url": "security@zscaler.com",
+    "policy_url": "https://www.zscaler.com/company/vulnerability-disclosure-program,
+    "submission_url": "https://www.zscaler.com/vulnerability-disclosure-form",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
