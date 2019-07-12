@@ -286,8 +286,8 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Affiliate Coin",
@@ -406,7 +406,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -436,7 +436,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -776,7 +776,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
@@ -936,7 +936,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -1512,7 +1512,7 @@
   {
     "program_name": "Capital One",
     "policy_url": "https://www.capitalone.com/applications/responsible-disclosure/",
-    "submission_url": "responsibledisclosure@capitalone.com",
+    "submission_url": "https://hackerone.com/capital-one",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -1735,7 +1735,7 @@
     "submission_url": "https://hackerone.com/cloudflare/reports/new",
     "launch_date": "",
     "bug_bounty": false,
-    "swag": true,
+    "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
   },
@@ -2312,9 +2312,9 @@
   {
     "program_name": "Discourse",
     "policy_url": "https://hackerone.com/discourse",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/discourse",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -2366,7 +2366,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
@@ -2392,7 +2392,7 @@
   {
     "program_name": "DuckDuckGo",
     "policy_url": "https://hackerone.com/duckduckgo",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/duckduckgo",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -2426,7 +2426,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
@@ -2682,11 +2682,11 @@
   {
     "program_name": "FanDuel",
     "policy_url": "https://www.fanduel.com/security",
-    "submission_url": "security@fanduel.com",
+    "submission_url": "https://hackerone.com/fanduel",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
@@ -2986,7 +2986,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -3084,7 +3084,7 @@
     "policy_url": "https://www.goldmansachs.com/privacy-and-cookies/global-privacy-policy.html",
     "submission_url": "https://hackerone.com/goldmansachs",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -3136,8 +3136,8 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "GreenBone",
@@ -3306,7 +3306,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -3426,7 +3426,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -4251,13 +4251,13 @@
   },
   {
     "program_name": "Magento",
-    "policy_url": "https://bugcrowd.com/magento",
-    "submission_url": "https://bugcrowd.com/magento/report",
+    "policy_url": "https://hackerone.com/magento",
+    "submission_url": "https://hackerone.com/magento",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Magic Leap Cloud",
@@ -5952,9 +5952,9 @@
   {
     "program_name": "Quantopian",
     "policy_url": "https://hackerone.com/quantopian",
-    "submission_url": "",
+    "submission_url": "https://hackerone.com/quantopian",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -6761,8 +6761,8 @@
   },
   {
     "program_name": "Smartsheet",
-    "policy_url": "https://bugcrowd.com/smartsheet",
-    "submission_url": "https://bugcrowd.com/smartsheet/report",
+    "policy_url": "https://hackerone.com/smartsheet",
+    "submission_url": "https://hackerone.com/smartsheet",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
@@ -7024,9 +7024,9 @@
     "policy_url": "https://www.starbucks.com/whitehat",
     "submission_url": "https://hackerone.com/starbucks",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -7172,12 +7172,12 @@
   {
     "program_name": "TTS",
     "policy_url": "https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md",
-    "submission_url": "tts-vulnerability-reports@gsa.gov",
+    "submission_url": "https://hackerone.com/tts",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "full"
+    "hall_of_fame": true,
+    "safe_harbor": ""
   },
   {
     "program_name": "Take A Lot",
@@ -7744,9 +7744,9 @@
     "policy_url": "https://upserve.com/security/",
     "submission_url": "https://hackerone.com/upserve",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
@@ -7852,12 +7852,12 @@
   {
     "program_name": "Verizon",
     "policy_url": "https://www.verizon.com/info/reportsecurityissue/?c=2",
-    "submission_url": "https://www.verizon.com/info/reportsecurityissue/?c=2",
+    "submission_url": "https://hackerone.com/verizonmedia",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "VersionCake",
@@ -8252,9 +8252,9 @@
   {
     "program_name": "Zendesk",
     "policy_url": "https://www.zendesk.de/company/policies-procedures/responsible-disclosure-policy/",
-    "submission_url": "security@zendesk.com",
+    "submission_url": "https://hackerone.com/zendesk_connect",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -8346,7 +8346,407 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Upgrade",
+    "policy_url": "https://hackerone.com/upgrade",
+    "submission_url": "https://hackerone.com/upgrade",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "UiPath",
+    "policy_url": "https://hackerone.com/uipath",
+    "submission_url": "https://hackerone.com/uipath",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Shieldox Security LTD",
+    "policy_url": "https://hackerone.com/shieldox_security",
+    "submission_url": "https://hackerone.com/shieldox_security",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Trint Ltd",
+    "policy_url": "https://hackerone.com/trint",
+    "submission_url": "https://hackerone.com/trint",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Squid Cache (IBB)",
+    "policy_url": "https://hackerone.com/ibb-squid-cache",
+    "submission_url": "https://hackerone.com/ibb-squid-cache",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Ecobee",
+    "policy_url": "https://hackerone.com/ecobee",
+    "submission_url": "https://hackerone.com/ecobee",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Priceline",
+    "policy_url": "https://hackerone.com/priceline",
+    "submission_url": "https://hackerone.com/priceline",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "TomTom",
+    "policy_url": "https://hackerone.com/tomtom",
+    "submission_url": "https://hackerone.com/tomtom",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Xilinx",
+    "policy_url": "https://hackerone.com/xilinx",
+    "submission_url": "https://hackerone.com/xilinx",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Backblaze",
+    "policy_url": "https://hackerone.com/backblaze",
+    "submission_url": "https://hackerone.com/backblaze",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Trustpilot",
+    "policy_url": "https://hackerone.com/trustpilot",
+    "submission_url": "https://hackerone.com/trustpilot",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Lob",
+    "policy_url": "https://hackerone.com/lob",
+    "submission_url": "https://hackerone.com/lob",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "UMA Project",
+    "policy_url": "https://hackerone.com/uma_project",
+    "submission_url": "https://hackerone.com/uma_project",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "InnoGames",
+    "policy_url": "https://hackerone.com/innogames",
+    "submission_url": "https://hackerone.com/innogames",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Starling Bank Limited",
+    "policy_url": "https://hackerone.com/starling_bank",
+    "submission_url": "https://hackerone.com/starling_bank",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Iconloop",
+    "policy_url": "https://hackerone.com/iconloop_inc",
+    "submission_url": "https://hackerone.com/iconloop_inc",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Postmates",
+    "policy_url": "https://hackerone.com/postmates",
+    "submission_url": "https://hackerone.com/postmates",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "FileZilla",
+    "policy_url": "https://hackerone.com/filezilla_h1c",
+    "submission_url": "https://hackerone.com/filezilla_h1c",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Ford",
+    "policy_url": "https://hackerone.com/ford",
+    "submission_url": "https://hackerone.com/ford",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Hyatt",
+    "policy_url": "https://hackerone.com/hyatt",
+    "submission_url": "https://hackerone.com/hyatt",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Vivy",
+    "policy_url": "https://hackerone.com/vivy",
+    "submission_url": "https://hackerone.com/vivy",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Bime",
+    "policy_url": "https://www.zendesk.com/company/policies-procedures/#responsible-disclosure-policy",
+    "submission_url": "https://hackerone.com/bime",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Lenova",
+    "policy_url": "https://www.lenovo.com/us/en/product-security/vulnerability-disclosure-policy",
+    "submission_url": "psirt@lenovo.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "SignalFX",
+    "policy_url": "https://www.signalfx.com/trust/security/responsible-disclosure",
+    "submission_url": "security@signalfx.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Ingenico",
+    "policy_url": "https://www.ingenico.com/responsible-disclosure-program",
+    "submission_url": "responsibledisclosure@ingenico.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Kayesa",
+    "policy_url": "https://www.kaseya.com/legal/vulnerability-disclosure-policy",
+    "submission_url": "security@kaseya.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Clause",
+    "policy_url": "https://clause.io/security",
+    "submission_url": "security@clause.io",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Circ.lu",
+    "policy_url": "https://www.circl.lu/pub/responsible-vulnerability-disclosure",
+    "submission_url": "https://www.circl.lu/report/",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
     "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Security Innovation",
+    "policy_url": "https://www.securityinnovation.com/about/security/",
+    "submission_url": "security@securityinnovation.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Beyond Trust",
+    "policy_url": "https://www.beyondtrust.com/disclosure",
+    "submission_url": "secure@beyondtrust.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Solidus",
+    "policy_url": "https://hackerone.com/solidus",
+    "submission_url": "https://hackerone.com/solidus",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Notepad++",
+    "policy_url": "https://hackerone.com/notepad-plus-plus",
+    "submission_url": "https://hackerone.com/notepad-plus-plus",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Chainlink",
+    "policy_url": "https://hackerone.com/chainlink",
+    "submission_url": "https://hackerone.com/chainlink",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "DefectDojo",
+    "policy_url": "https://hackerone.com/defectdojo",
+    "submission_url": "https://hackerone.com/defectdojo",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Curl",
+    "policy_url": "https://hackerone.com/curl",
+    "submission_url": "https://hackerone.com/curl",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "ZEIT",
+    "policy_url": "https://hackerone.com/zeit",
+    "submission_url": "https://hackerone.com/zeit",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Sweatco",
+    "policy_url": "https://hackerone.com/sweatco_ltd",
+    "submission_url": "https://hackerone.com/sweatco_ltd",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Tube8",
+    "policy_url": "https://hackerone.com/tube8",
+    "submission_url": "https://hackerone.com/tube8",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Omise",
+    "policy_url": "https://hackerone.com/omise",
+    "submission_url": "https://hackerone.com/omise",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Semmle",
+    "policy_url": "https://hackerone.com/semmle",
+    "submission_url": "https://hackerone.com/semmle",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   }
 ]
