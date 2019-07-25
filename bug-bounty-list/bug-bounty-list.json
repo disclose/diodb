@@ -3137,7 +3137,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Gitlab",
