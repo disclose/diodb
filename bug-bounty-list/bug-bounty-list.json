@@ -8266,7 +8266,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "partial"
   },
   {
