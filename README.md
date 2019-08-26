@@ -2,7 +2,7 @@
 
 > Driving simplicity, safety, and standardization in vulnerability disclosure.
 
-[disclose.io[(https://disclose.io)] is a collaborative and vendor-agnostic movement that engagements security researchers, corporate and independant legal experts, and industry leaders from all around the world. The goal of the project is to support the accelerated the adoption of vulnerability disclosure best practices including: 
+[disclose.io](https://disclose.io)] is a collaborative and vendor-agnostic movement that engagements security researchers, corporate and independant legal experts, and industry leaders from all around the world. The goal of the project is to support the accelerated the adoption of vulnerability disclosure best practices including: 
 
 - Bi-lateral safe harbor, 
 - Readability for non-legal and non-native language audiences, and 
