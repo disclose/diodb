@@ -14,7 +14,7 @@ The goal of the project is to support the accelerated the adoption of vulnerabil
 2. Add the appropriate [disclose.io logo](/logos) to your public program brief.
 3. Submit a pull request to your program to the open-source disclose.io [programs list](/programs-list).  
 4. Let the world know you're joining the movement! Here are some examples of others who have.
-4. Contribute back! We're looking for lawyers, hackers, and experts to collaborate. Check our [issues log](/issues)
+4. Contribute back! We're looking for lawyers, hackers, and experts to collaborate. Check our [issues log](/issues).
 
 ## License
 
