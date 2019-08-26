@@ -2,25 +2,19 @@
 
 > Driving simplicity, safety, and standardization in vulnerability disclosure.
 
-[disclose.io](https://disclose.io) is a collaborative and vendor-agnostic movement that engagements security researchers, corporate and independant legal experts, and industry leaders from all around the world. The goal of the project is to support the accelerated the adoption of vulnerability disclosure best practices including: 
+[disclose.io](https://disclose.io) is a collaborative and vendor-agnostic movement that engagements security researchers, corporate and independant legal experts, and industry leaders from all around the world. 
 
-- Bi-lateral safe harbor, 
-- Readability for non-legal and non-native language audiences, and 
-- A recognizable logo, to be used as a mark of solidarity with the benefits of good-faith security research.
+The goal of the project is to support the accelerated the adoption of vulnerability disclosure best practices including **bi-lateral safe harbor, readability for non-legal and non-native language audiences, and a recognizable mark of solidarity with the disclose.io movement.**
 
 # Getting started
 
-(Note: While we've engaged the legal opinion of many, this does not constitute legal advice. Please consult your counsel for the suitability of the disclose.io terms.)
+*(Note: While we've engaged the legal opinion of many, this does not constitute legal advice. Please consult your legal counsel for the specific suitability of the disclose.io terms in your organization.)*
 
 1. Choose the [legal terms](/terms) that best fit your vulnerabilty disclosure or bug bounty progam.
 2. Add the appropriate [disclose.io logo](/logos) to your public program brief.
 3. Submit a pull request to your program to the open-source disclose.io [programs list](/programs-list).  
 4. Let the world know you're joining the movement! Here are some examples of others who have.
 4. Contribute back! We're looking for lawyers, hackers, and experts to collaborate. Check our [issues log](/issues)
-
-# Use of the disclose.io logo
-
-Organizations displaying the disclose.io logo are committing to a set of [**Core Terms**](core_terms/) focused on creating clear expectations and legal Safe Harbor for good-faith security research. To meet these requirements this, organizations are required to provide clear guidance on **Scope** for good-faith research, one or more **Official Communication Channels**, and a clear **Disclosure Policy**.
 
 ## License
 
