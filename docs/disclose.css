@@ -203,9 +203,16 @@ header {
 /* Call to action container. */
 .ctas {
   display: flex;
-  align-items: baseline;
-  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
   font-size: calc(14px + (18 - 14) * (100vw - 536px) / (992 - 536));
+}
+
+@media screen and (min-width: 400px) {
+  .ctas {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -225,6 +232,7 @@ header {
   background-color: rgba(0, 0, 0, 0.15);
   color: whitesmoke;
   text-shadow: rgba(0, 0, 0, 0.3) 2px 2px 0;
+  white-space: nowrap;
   transition: box-shadow 0.075s ease-in-out, background-color 0.075s ease-in-out, border-color 0.075s ease-in-out;
 }
 
