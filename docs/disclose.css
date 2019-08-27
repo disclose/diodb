@@ -14,6 +14,58 @@ body {
 
 
 /*  ############################################################################
+    Specific typography styles.
+*/
+
+a {
+  color: burlywood;
+  text-decoration: none;
+  transition: color 0.075s ease-in-out, text-decoration 0.075s ease-in-out, background-color 0.075s ease-in-out, box-shadow 0.075s ease-in-out;
+}
+
+a:hover,
+a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+  margin: 0 0 2em 0;
+}
+
+strong {
+  font-weight: 700;
+}
+
+sup {
+  position: relative;
+  vertical-align: baseline;
+  top: -0.75em;
+  font-size: 0.625em;
+  padding-left: 0.25em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.hinted {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.ampersand {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+}
+
+
+/*  ############################################################################
     Document styles by semantic container.
 */
 
@@ -54,7 +106,7 @@ footer {
 
 
 /*  ############################################################################
-    GitHub org badge link, top left.
+    GitHub org badge link (top right).
 */
 
 /* Thanks, GitHub. */
@@ -148,13 +200,12 @@ header {
   align-items: baseline;
   justify-content: space-evenly;
   font-size: calc(14px + (18 - 14) * (100vw - 536px) / (992 - 536));
-  margin-bottom: 2em;
 }
 
 /* Call to action button-like links. */
 .ctas a {
   display: inline-block;
-  box-shadow: 0 1.5em 2em 0 rgba(0, 0, 0, 0.075);
+  box-shadow: 0 1em 2em 0 rgba(0, 0, 0, 0.075);
   border-radius: 1.5em;
   border: 0.125em solid rgba(0, 0, 0, 0.25);
   margin: 1em;
@@ -162,21 +213,20 @@ header {
   background-color: #392162;
   color: whitesmoke;
   text-shadow: rgba(0, 0, 0, 0.3) 2px 2px 0;
-  /* font-weight: 600; */
   transition: box-shadow 0.075s ease-in-out, background-color 0.075s ease-in-out, border-color 0.075s ease-in-out;;
 }
 
 .ctas a:hover {
-  background-color: #291747;
-  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
   text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0.25em 0.5em rgba(0, 0, 0, 0.2);
+  border-color: rgba(0, 0, 0, 0.2);
 }
 
 .ctas a:focus {
-  outline: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
-  border-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0.25em 0.5em rgba(0, 0, 0, 0.3);
+  border-color: rgba(0, 0, 0, 0.3);
 }
 
 .ctas a:active {  
@@ -186,7 +236,7 @@ header {
 
 
 /*  ############################################################################
-    Our goals.
+    Our goals section.
 */
 
 .goals > div {
@@ -329,66 +379,11 @@ footer small {
 
 
 /*  ############################################################################
-    Type
-*/
-
-a {
-  color: burlywood;
-  text-decoration: none;
-  transition: color 0.075s ease-in-out, text-decoration 0.075s ease-in-out, background-color 0.075s ease-in-out, box-shadow 0.075s ease-in-out;
-}
-
-a:hover,
-a:focus {
-  color: #fff;
-  text-decoration: underline;
-}
-
-a:focus {
-  outline: none;
-  background-color: rgba(0, 0, 0, 0.15);
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
-}
-
-h2 {
-  margin: 0 0 2em 0;
-}
-
-strong {
-  font-weight: 700;
-}
-
-sup {
-  position: relative;
-  vertical-align: baseline;
-  top: -0.75em;
-  font-size: 0.625em;
-  padding-left: 0.25em;
-}
-
-.hinted {
-  color: rgba(255, 255, 255, 0.75);
-}
-
-.ampersand {
-  font-family: 'Libre Baskerville', serif;
-  font-style: italic;
-}
-
-
-/*  ############################################################################
     Container classes.
 */
 
 .c-dark {
   background-color: #1e1134;
-}
-
-.c-svg svg {
-  display: block;
-  max-height: 4.5em;
-  width: 4.5em;
-  padding-right: 2em;
 }
 
 .c-zigzag::before {
