@@ -222,10 +222,10 @@ header {
   border: 0.125em solid rgba(0, 0, 0, 0.25);
   margin: 1em;
   padding: 0.5em 1.25em;
-  background-color: #392162;
+  background-color: rgba(0, 0, 0, 0.15)
   color: whitesmoke;
   text-shadow: rgba(0, 0, 0, 0.3) 2px 2px 0;
-  transition: box-shadow 0.075s ease-in-out, background-color 0.075s ease-in-out, border-color 0.075s ease-in-out;;
+  transition: box-shadow 0.075s ease-in-out, background-color 0.075s ease-in-out, border-color 0.075s ease-in-out;
 }
 
 .ctas a:hover {
