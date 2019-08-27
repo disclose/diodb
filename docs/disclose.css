@@ -1,127 +1,448 @@
 html,
 body {
   background-color: #4a2a82;
-  color: #fff;
-  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  font-family: 'Libre Baskerville', 'Baskerville', 'Baskerville Old Face', 'Hoefler Text', 'Garamond', 'Times New Roman', serif;
+  /* font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; */
   font-weight: 300;
-  letter-spacing: 0.008em;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-strong {
-  font-weight: 600;
+
+/*  ############################################################################
+    Document styles by semantic container.
+*/
+
+header > div,
+section > div,
+footer > div {
+  margin: 0 auto;
 }
 
-h1 {
+header > div {
+  padding: 4em;
+}
+
+footer {
+  margin-bottom: 0;
+  padding-bottom: 3em;
+}
+
+@media screen and (min-width: 768px) {
+  header > div,
+  section > div,
+  footer > div {
+    max-width: 61.8%;
+    /* 100 / Golden ratio. */
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  header > div,
+  section > div,
+  footer > div {
+    max-width: 1112px;
+    /* from Golden ratio. */
+  }
+}
+
+
+/*  ############################################################################
+    GitHub org badge link, top left.
+*/
+
+/* Thanks, GitHub. */
+a.github {
+  visibility: hidden;
+}
+
+a.github:hover {
+  color: black;
+}
+
+/* GH logo sizing. */
+a.github svg {
+  width: 1em;
+  margin-right: 0.25em;
+}
+
+@media screen and (min-width: 768px) {
+  a.github {
+    visibility: visible;
+    position: absolute;
+    top: 3em;
+    right: 3em;
+    max-height: 1.3em; /* IE */
+    padding: 0.5em 1em;
+    border: 1px solid rgba(27, 31, 35, 0.2);
+    border-radius: 0.25em;
+    display: flex;
+    align-items: center;
+    background-color: #eff3f6;
+    background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
+    color: #333;
+    font-size: 0.75em;
+    font-weight: 600;
+  }
+}
+
+
+/*  ############################################################################
+    Heading contents.
+*/
+
+header {
+  background: rgb(78,55,117);
+  background: radial-gradient(circle, rgba(78,55,117,1) 0%, rgba(69,46,108,1) 42%, rgba(59,40,91,1) 100%);
+}
+
+/* h1. */
+.disclose-logo {
+  margin: 0 0 1em 0;
+}
+
+/* h1 svg image. */
+.disclose-logo__svg {
+  border-radius: 50%;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
+  font-size: calc(64px + (96 - 64) * (100vw - 536px) / (992 - 536));
+  width: 1em;
+}
+
+
+/* Hero text. */
+.hero {
+  font-size: calc(18px + (26 - 18) * (100vw - 536px) / (992 - 536));
   font-weight: 400;
+  line-height: 1.9;
+  letter-spacing: 0.02em;
+    text-shadow: rgba(0, 0, 0, 0.1) 1px 1px 0;
+  margin: 0 0 0.5em 0;
 }
 
-p {
-  color: #c29eff;
+.hero__disclose {
+  font-size: 112.75%;
+  /* text-decoration: overline; */
 }
 
-p.footnote {
-  font-size: 0.75em;
+.safe-harbor-def {
+  font-size: calc(14px + (16 - 14) * (100vw - 536px) / (992 - 536));
+  display: inline-block;
+  padding-top: 0.5em;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  line-height: 1.5;
+  text-indent: -1.5em;
+  margin-bottom: 2.5em;
+}
+
+
+/* Call to action container. */
+.ctas {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+  font-size: calc(14px + (18 - 14) * (100vw - 536px) / (992 - 536));
+  margin-bottom: 2em;
+}
+
+/* Call to action button-like links. */
+.ctas a {
+  display: inline-block;
+  box-shadow: 0 1.5em 2em 0 rgba(0, 0, 0, 0.075);
+  border-radius: 1.5em;
+  border: 0.125em solid rgba(0, 0, 0, 0.25);
+  margin: 1em;
+  padding: 0.5em 1.25em;
+  background-color: #392162;
+  color: whitesmoke;
+  text-shadow: rgba(0, 0, 0, 0.3) 2px 2px 0;
+  /* font-weight: 600; */
+  transition: box-shadow 0.075s ease-in-out, background-color 0.075s ease-in-out, border-color 0.075s ease-in-out;;
+}
+
+.ctas a:hover {
+  background-color: #291747;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
+  text-decoration: none;
+}
+
+.ctas a:focus {
+  outline: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  border-color: rgba(0, 0, 0, 0.4);
+}
+
+.ctas a:active {  
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.15);
+  background-color: #1e1134;
+}
+
+
+/*  ############################################################################
+    Our goals.
+*/
+
+.goals > div {
+  padding-top: 0;
+  /* B/c of the zig-zag. */
+  padding-bottom: 3em;
+}
+
+.goals aside {
+  margin: 1em 2em 0 2em;
+  padding: 1em 2em;
+  border-radius: 1.5px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  /* width: 61.8%; */
+  /* margin: 0 auto; */
+  text-align: left;
+  font-size: calc(10px + (12 - 10) * (100vw - 536px) / (992 - 536));
+}
+
+.goals h2 {
+  font-size: calc(24px + (28 - 24) * (100vw - 536px) / (992 - 536));
+  line-height: 0.5;
+  margin-bottom: 3em;
+  font-weight: 400;
+  margin-left: 1em;
+}
+
+.goals h2 span {
+  display: inline-block;
+  position: relative;
+}
+
+.goals h2 span::before,
+.goals h2 span::after {
+  content: "";
+  position: absolute;
+  height: 0.25em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  top: 35%;
+  width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+  .goals h2 span::before,
+  .goals h2 span::after {
+    width: 9em;
+  }
+}
+
+.goals h2 span::before {
+  right: 100%;
+  margin-right: 0.5em;
+}
+
+.goals h2 span::after {
+  left: 100%;
+  margin-left: 0.5em;
+}
+
+.goals h3 {
+  font-size: calc(18px + (24 - 18) * (100vw - 536px) / (992 - 536));
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+  color: #dfcefc;
+}
+
+.goals .ampersand {
+  font-size: 75%;
+}
+
+ul.goal-list {
+  /* width: 61.8%; */
+  margin: 0 5% 0 11%;
+  text-align: left;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+ul.goal-list li {
+  margin-bottom: 4.5em;
+  display: flex;
+  flex-direction: column;
+}
+
+ul.goal-list li div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.goal-list svg {
+  display: block;
+  font-size: calc(32px + (48 - 32) * (100vw - 536px) / (992 - 536));
+  width: 1em;
+  padding-right: 0.75em;
+}
+
+ul.goal-list .aside {
+  font-size: calc(32px + (48 - 32) * (100vw - 536px) / (992 - 536));
+  margin-left: 1.75em;
+  line-height: 1.9;
+}
+
+.goal-list .aside p {
+  margin: 0.5em 0;
+  font-size: 37.5%;
+}
+
+@media screen and (min-width: 992px) {
+  ul.goal-list {
+    display: flex;
+    /* justify-content: space-between;
+    align-items: flex-end; */
+  }
+
+  .goal-list .aside p {
+    font-size: 27.5%;
+  }
+}
+
+
+/*  ############################################################################
+    Footer.
+*/
+
+footer {
+  padding-top: 3em;
+  background: rgb(30,17,52);
+  background: linear-gradient(180deg, rgba(30,17,52,1) 0%, rgba(21,11,37,1) 100%);
+}
+
+footer small {
+  font-size: calc(10px + (12 - 10) * (100vw - 536px) / (992 - 536));
+}
+
+
+/*  ############################################################################
+    Type
+*/
+
+a {
+  color: burlywood;
+  text-decoration: none;
+  transition: color 0.075s ease-in-out, text-decoration 0.075s ease-in-out, background-color 0.075s ease-in-out, box-shadow 0.075s ease-in-out;
+}
+
+a:hover,
+a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+  margin: 0 0 2em 0;
+}
+
+strong {
+  font-weight: 700;
 }
 
 sup {
   position: relative;
-  top: -0.4em;
   vertical-align: baseline;
+  top: -0.75em;
+  font-size: 0.625em;
+  padding-left: 0.25em;
 }
 
-a {
-  color: #f4edff;
-  text-decoration: none;
+.hinted {
+  color: rgba(255, 255, 255, 0.75);
 }
 
-a:hover {
-  color: #fff;
+.ampersand {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
 }
 
-/* Thanks, GitHub. */
-a.github {
-  align-items: center;
-  background-color: #eff3f6;
-  background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
-  border: 1px solid rgba(27, 31, 35, 0.2);
-  border-radius: 0.25em;
-  color: #24292e;
-  display: flex;
-  font-size: 0.75em;
-  font-weight: 600;
-  max-height: 1.5em; /* IE */
-  padding: 0.5em 1em;
-  position: absolute;
-  left: 1em;
-  top: 1em;
-}
 
-a.github svg {
-  margin-right: 0.25em;
-  width: 1em;
-}
+/*  ############################################################################
+    Container classes.
+*/
 
-a.terms {
-  background-color: #673ab6;
-  border-radius: 1.5em;
-  font-weight: 600;
-  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
-  display: inline-block;
-  height: 3em;
-  line-height: 3em;
-  padding: 0 1.5em;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  line-height: 1.5;
-}
-
-ul.framework li {
-  margin-bottom: 2em;
-}
-
-@media screen and (min-width: 50em) {
-  ul.framework {
-    display: flex;
-    justify-content: space-between;
-  }
-}
-
-section {
-  margin: 2em 0;
-  padding: 2em;
-}
-
-section:last-of-type {
-  margin-bottom: 0;
-  padding-bottom: 4em;
-}
-
-section > div {
-  margin: 0 auto;
-  max-width: 50em;
-}
-
-section.dark {
+.c-dark {
   background-color: #1e1134;
 }
 
-section.dark svg {
+.c-svg svg {
   display: block;
   max-height: 4.5em;
-  margin: 0 auto 1em;
+  width: 4.5em;
+  padding-right: 2em;
 }
 
-svg.logo {
-  border-radius: 50%;
-  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
-  width: 7.5em;
+.c-zigzag::before {
+  font-size: 16px;
+  background: 
+    linear-gradient(-45deg, #1e1134 1em, red 1em, blue 1em, transparent 0), 
+		linear-gradient(45deg, #1e1134 1em, transparent 0);
+  background-position: left top;
+  background-repeat: repeat-x;
+  background-size: 0.6875em 2em;
+  content: "";
+  display: block;
+  height: 2em;
+  width: 100%;
+  position: relative;
+  top: -1em;
+	left: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .c-zigzag::before {
+    font-size: 32px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .c-zigzag::before {
+    font-size: 48px;
+  }
+}
+
+
+/* Helper classes. */
+
+.h-sansserif {
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+.h-block {
+  display: block;
+}
+
+.h-underline {
+  text-decoration: underline;
+}
+
+/* Screen reader-only; visually hide. */
+.h-sronly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
