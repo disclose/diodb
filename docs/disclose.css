@@ -3,10 +3,9 @@ body {
   background-color: #4a2a82;
   color: white;
   font-family: 'Libre Baskerville', 'Baskerville', 'Baskerville Old Face', 'Hoefler Text', 'Garamond', 'Times New Roman', serif;
-  /* font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; */
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.7;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.01m;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -25,14 +24,14 @@ a {
 
 a:hover,
 a:focus {
-  color: #fff;
+  color: white;
   text-decoration: underline;
 }
 
 a:focus {
   outline: none;
   background-color: rgba(0, 0, 0, 0.15);
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.15);
 }
 
 h2 {
@@ -118,10 +117,14 @@ a.github:hover {
   color: black;
 }
 
+a.github:focus {
+  text-decoration: underline;
+}
+
 /* GH logo sizing. */
 a.github svg {
   width: 1em;
-  margin-right: 0.25em;
+  margin-right: 0.5em;
 }
 
 @media screen and (min-width: 768px) {
@@ -178,9 +181,12 @@ header {
   margin: 0 0 0.5em 0;
 }
 
+.hero strong.h-sansserif {
+  font-weight: 600;
+}
+
 .hero__disclose {
   font-size: 112.75%;
-  /* text-decoration: overline; */
 }
 
 .safe-harbor-def {
@@ -240,8 +246,7 @@ header {
 */
 
 .goals > div {
-  padding-top: 0;
-  /* B/c of the zig-zag. */
+  padding-top: 1em;
   padding-bottom: 3em;
 }
 
@@ -251,8 +256,6 @@ header {
   border-radius: 1.5px;
   background-color: rgba(0, 0, 0, 0.1);
   border: 2px solid rgba(255, 255, 255, 0.1);
-  /* width: 61.8%; */
-  /* margin: 0 auto; */
   text-align: left;
   font-size: calc(10px + (12 - 10) * (100vw - 536px) / (992 - 536));
 }
@@ -300,8 +303,8 @@ header {
 
 .goals h3 {
   font-size: calc(18px + (24 - 18) * (100vw - 536px) / (992 - 536));
-  font-weight: 400;
-  line-height: 1.2;
+  font-weight: 600;
+  line-height: 1.4;
   margin: 0;
   color: #dfcefc;
 }
@@ -311,7 +314,6 @@ header {
 }
 
 ul.goal-list {
-  /* width: 61.8%; */
   margin: 0 5% 0 11%;
   text-align: left;
   list-style: none;
@@ -342,7 +344,6 @@ ul.goal-list li div {
 ul.goal-list .aside {
   font-size: calc(32px + (48 - 32) * (100vw - 536px) / (992 - 536));
   margin-left: 1.75em;
-  line-height: 1.9;
 }
 
 .goal-list .aside p {
@@ -351,12 +352,6 @@ ul.goal-list .aside {
 }
 
 @media screen and (min-width: 992px) {
-  ul.goal-list {
-    display: flex;
-    /* justify-content: space-between;
-    align-items: flex-end; */
-  }
-
   .goal-list .aside p {
     font-size: 27.5%;
   }
@@ -420,6 +415,7 @@ footer small {
 
 .h-sansserif {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 300;
 }
 
 .h-block {
