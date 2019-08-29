@@ -1,37 +1,20 @@
 # disclose.io
 
-> Driving safety, simplicity, and standardization in vulnerability disclosure.
+> Driving simplicity, safety, and standardization in vulnerability disclosure.
 
-**disclose.io** is a collaborative and vendor-agnostic project to standardize best practices around safe harbor for good-faith security research, and expands on the work done by Bugcrowd and CipherLaw’s [Open Source Vulnerability Disclosure Framework](https://github.com/bugcrowd/disclosure-policy), Amit Elazari’s [#legalbugbounty](https://www.youtube.com/watch?v=0fMrZCcshyc), and Dropbox’s [recent blog post](https://blogs.dropbox.com/tech/2018/03/protecting-security-researchers/).
+[disclose.io](https://disclose.io) is a collaborative and vendor-agnostic movement that engagements security researchers, corporate and independant legal experts, and industry leaders from all around the world. 
 
-The design philosophy of the disclose.io framework is to balance four forces:
+The goal of the project is to support the accelerated the adoption of vulnerability disclosure best practices including **bi-lateral safe harbor, readability for non-legal and non-native language audiences, and a recognizable mark of solidarity with the disclose.io movement.**
 
-- Legal completeness,
-- Safe harbor for security researchers,
-- Safe harbor for program owners, and
-- Readability for those who don’t have a legal background or who don’t speak English as a first language.
+# Getting started
 
-Organizations displaying the disclose.io logo are committing to a set of **Core Terms** focused on creating safe harbor for good-faith security research. In order to uphold this commitment, such organizations are also required to provide clear definitions regarding the permitted **Scope** for such research, one or more **Official Communication Channels**, and a formal **Disclosure Policy**.
+*(Note: While we've engaged the legal opinion of many, this does not constitute legal advice. Please consult your legal counsel for the specific suitability of the disclose.io terms in your organization.)*
 
-## Requirements
-
-In order to leverage disclose.io for any given authorized security research program, organizations must have the following items clearly defined within the context of each disclose.io compliant program:
-
-- **Scope** – an exhaustive list of "In-Scope" properties that the organization is explicitly providing safe harbor for the good-faith security testing of, and optionally, a non-exhaustive list of "Out-of-Scope" properties that the organization strongly wishes to discourage testing against (on top of the implicit lack of safe harbor or authorization for security testing)
-- **Rewards** – whether compensation will be provided for (valid, unique) issues, as well as the form and magnitude of that compensation
-- **Official Communication Channels** – an exhaustive list of the communication methods that are considered acceptable by the organization for receiving and communicating about any information associated with potential vulnerabilities
-- **Disclosure Policy** – an explicit policy outlining the conditions under which the existence and/or details of a reported issue may be disclosed to third parties. Examples include:
-    - **Coordinated Disclosure**: Vulnerability details may be shared with third parties after the vulnerability has been fixed and the program owner has provided permission to disclose or after 90 days from submission, whichever is sooner.
-    - **Discretionary Disclosure**: Vulnerability details may be shared with third parties only after requesting and receiving explicit permission from the program owner.
-    - **Non-Disclosure**: Vulnerability details (and the existence of the program itself if private) cannot be shared with third parties.
-
-## Core Terms
-
-If the above requirements are met, an organization may display the disclose.io [Core Terms](core_terms/), as well as the disclose.io logo, in conjunction with their authorized security research program's policies in order to indicate their intention to provide safe harbor for good-faith security research.
-
-# "Partial" Safe Harbor
-
-Organizations that have not met all of the requirements for providing full safe harbor (e.g. do not sufficiently define the terms outlined in **Requirements**) may still provide a simplified goodwill statement about not pursuing legal action related to security research that DOES NOT represent the same level of commitment that full safe harbor in accordance with the Disclose.io requirements does.
+1. Choose the [legal terms](/terms) that best fit your vulnerabilty disclosure or bug bounty progam.
+2. Add the appropriate [disclose.io logo](/logos) to your public program brief.
+3. Submit a pull request to your program to the open-source disclose.io [programs list](/programs-list).  
+4. Let the world know you're joining the movement! Here are some examples of others who have.
+4. Contribute back! We're looking for lawyers, hackers, and experts to collaborate. Check our [issues log](/issues).
 
 ## License
 
