@@ -26,7 +26,7 @@ In each template we've also provided boilerplate examples for the additional sec
 
 ## Simple Safe Harbor
 
-If you already have a disclosure program, the [Simple Safe Harbor](/simple-safe-harbor) terms may suffice. These terms were written to be even more generic a simple to understand than the core terms, whilst still maxmizing legal completeness.
+If you already have a disclosure program, the [Simple Safe Harbor](/terms/simple-safe-harbor/simple-safe-harbor.md) terms may suffice. These terms were written to be even more generic a simple to understand than the core terms, whilst still maxmizing legal completeness.
 
 ## Example disclosure types
 
