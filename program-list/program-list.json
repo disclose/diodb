@@ -740,6 +740,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "Audi",
+    "policy_url": "https://www.audi.de/de/brand/de/kontakt-und-haendler.html#layer=/de/brand/de/neuwagen/layer/kontakt-audi-cyber-security.html",
+    "submission_url": "vulnerability@audi.de",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "false"
+  },
+  {
     "program_name": "Augur",
     "policy_url": "https://www.augur.net/bounty/",
     "submission_url": "bounty@augur.net",
@@ -2118,6 +2128,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "full"
+  },
+  {
+    "program_name": "Daimler",
+    "policy_url": "https://www.daimler.com/whitehat/",
+    "submission_url": "security@daimler.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "false"
   },
   {
     "program_name": "Danske Bank",
@@ -4688,6 +4708,26 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "MemoTrader",
+    "policy_url": "https://bugcrowd.com/memotrader",
+    "submission_url": "https://bugcrowd.com/memotrader/report",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Mercedes-Benz",
+    "policy_url": "https://www.mercedes-benz.com/en/whitehat/?owda=misc#coordinated-disclosure-guidlines",
+    "submission_url": "security@daimler.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "false"
   },
   {
     "program_name": "Microsoft (Online Services)",
