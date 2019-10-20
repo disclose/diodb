@@ -232,7 +232,7 @@
 "Directly","https://bugcrowd.com/directly","https://bugcrowd.com/directly/report","",true,false,true,"full"
 "Discourse","https://hackerone.com/discourse","https://hackerone.com/discourse","",true,false,true,""
 "Django","https://hackerone.com/django","","",true,false,true,""
-"Dominoes","https://dominos.responsibledisclosure.com/hc/en-us","https://dominos.responsibledisclosure.com/hc/en-us/requests/new","",false,false,true,""
+"Domino's","https://dominos.responsibledisclosure.com/hc/en-us","https://dominos.responsibledisclosure.com/hc/en-us/requests/new","",false,false,true,""
 "Dovecot","https://hackerone.com/dovecot","","",true,true,true,""
 "Dream11","https://www.dream11.com/security/rvdp","security@dream11.com","",false,false,false,"partial"
 "Dropbox","https://hackerone.com/dropbox","","",true,false,true,"full"
