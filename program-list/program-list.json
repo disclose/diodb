@@ -1341,11 +1341,11 @@
   },
   {
     "program_name": "Brave",
-    "policy_url": "https://hackerone.com/brave",
-    "submission_url": "",
-    "launch_date": "",
+    "policy_url": "https://hackerone.com/brave?view_policy=true",
+    "submission_url": "https://hackerone.com/brave/reports/new",
+    "launch_date": "2016",
     "bug_bounty": true,
-    "swag": false,
+    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": ""
   },

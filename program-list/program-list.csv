@@ -132,7 +132,7 @@
 "Boston Scientific","http://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html","product.security@bsci.com","",false,false,false,""
 "Box","https://www.box.com/about-us/security/","security-reports@box.com","",false,false,false,""
 "Braintree","https://www.braintreepayments.com/developers/disclosure","ppbugbounty@paypal.com","",false,false,true,""
-"Brave","https://hackerone.com/brave","","",true,false,true,""
+"Brave","https://hackerone.com/brave?view_policy=true","https://hackerone.com/brave/reports/new","2016",true,true,true,""
 "Buddy","https://buddy.works/disclosure-policy","security@buddy.works","",false,false,true,""
 "Buffer","https://bufferapp.com/security","security@bufferapp.com","",false,false,true,""
 "Bugcrowd","https://bugcrowd.com/bugcrowd","https://bugcrowd.com/bugcrowd/report","",true,false,true,"full"
