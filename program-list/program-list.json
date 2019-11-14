@@ -180,6 +180,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Absolute Technologies Lab",
+    "policy_url": "https://bugcrowd.com/absolutetechnologies",
+    "submission_url": "https://bugcrowd.com/absolutetechnologies/report",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Accenture",
     "policy_url": "https://www.accenture.com/us-en/company-accenture-responsible-disclosure",
     "submission_url": "Res.Disclosure@accenture.com",
@@ -1030,7 +1040,17 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "BiMserver",
+    "program_name": "Bigbank",
+    "policy_url": "https://bugcrowd.com/bigbank",
+    "submission_url": "https://bugcrowd.com/bigbank/report",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "BIMserver",
     "policy_url": "http://bimserver.org/about/bug-bounty/",
     "submission_url": "https://github.com/opensourceBIM/BIMserver/issues/",
     "launch_date": "",
@@ -1227,7 +1247,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Blinkforhome",
@@ -1938,6 +1958,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "ConvertKit",
+    "policy_url": "https://bugcrowd.com/convertkit-vdp",
+    "submission_url": "https://bugcrowd.com/convertkit-vdp/report",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Copper",
@@ -2757,7 +2787,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "FileZilla",
@@ -3230,6 +3260,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Gusto",
+    "policy_url": "https://bugcrowd.com/gusto",
+    "submission_url": "https://bugcrowd.com/gusto/report",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "HID",
     "policy_url": "https://www.hidglobal.com/security-center",
     "submission_url": "secure@hidglobal.com",
@@ -3488,6 +3528,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Ibotta",
+    "policy_url": "https://bugcrowd.com/ibotta",
+    "submission_url": "https://bugcrowd.com/ibotta/report",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "IBM",
@@ -5050,6 +5100,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Naspers",
+    "policy_url": "https://bugcrowd.com/naspers",
+    "submission_url": "https://bugcrowd.com/naspers/report",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "National Cyber Security Center (Netherlands)",
     "policy_url": "https://www.ncsc.nl/security",
     "submission_url": "ert@ncsc.nl",
@@ -5078,6 +5138,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Neophotonics",
+    "policy_url": "https://bugcrowd.com/neophotonics",
+    "submission_url": "https://bugcrowd.com/neophotonics/programs",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Neptune",
@@ -5847,7 +5917,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Piwik",
