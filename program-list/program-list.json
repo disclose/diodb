@@ -1570,6 +1570,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Centers for Medicare and Medicaid Services",
+    "policy_url": "https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/CIO-Directives-and-Policies/Downloads/CMS-Vulnerability-Disclosure-Policy.pdf",
+    "submission_url": "mailto:cms_it_service_desk@cms.hhs.gov",
+    "launch_date": "2019-04-24",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Centrify",
     "policy_url": "https://bugcrowd.com/centrify",
     "submission_url": "https://bugcrowd.com/centrify/report",
@@ -2110,6 +2120,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "District of Columbia Government",
+    "policy_url": "https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf",
+    "submission_url": "responsibledisclosure@dc.gov",
+    "launch_date": "2017-10-20",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "DJI",
     "policy_url": "https://security.dji.com/policy",
     "submission_url": "",
@@ -2272,12 +2292,12 @@
   {
     "program_name": "Department Of Defense",
     "policy_url": "https://hackerone.com/deptofdefense",
-    "submission_url": "",
-    "launch_date": "",
+    "submission_url": "https://hackerone.com/deptofdefense/reports/new",
+    "launch_date": "2016-11-21",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Deps",
@@ -5017,7 +5037,7 @@
     "bug_bounty": true,
     "swag": true,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "NCSC UK",
@@ -7351,7 +7371,7 @@
   },
   {
     "program_name": "State of Delaware",
-    "policy_url": "https://delaware.gov/help/responsible-disclosure.shtml",
+    "policy_url": "https://webfiles.dti.delaware.gov/pdfs/pp/Vulnerability%20Disclosure%20Policy.pdf",
     "submission_url": "https://delaware.gov/help/responsible-disclosure.shtml",
     "launch_date": "",
     "bug_bounty": false,
@@ -7503,11 +7523,11 @@
     "program_name": "TTS",
     "policy_url": "https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md",
     "submission_url": "https://hackerone.com/tts",
-    "launch_date": "",
+    "launch_date": "2016-10-30",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },
   {
     "program_name": "Take A Lot",
