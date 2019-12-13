@@ -150,6 +150,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Accuray",
+    "policy_url": "https://www.accuray.com/services/customer-resources/",
+    "submission_url": "https://www.accuray.com/contact-us/",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Acorns LLC",
     "policy_url": "https://bugcrowd.com/acorns",
     "submission_url": "https://bugcrowd.com/acorns/report",
@@ -1440,6 +1450,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Carestream",
+    "policy_url": "https://www.carestream.com/en/us/services-and-support/cybersecurity-and-privacy",
+    "submission_url": "",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Casper",
     "policy_url": "https://hackerone.com/casper",
     "submission_url": "",
@@ -1998,6 +2018,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Cydar",
+    "policy_url": "https://www.cydarmedical.com/security",
+    "submission_url": "security@cydar.co.uk",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
   },
   {
     "program_name": "Danske Bank",
@@ -3880,6 +3910,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "Leica Bio Systems",
+    "policy_url": "https://www.leicabiosystems.com/about/product-security/",
+    "submission_url": "lbs.productsecurity@leicabiosystems.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "LeverEX",
     "policy_url": "https://medium.com/leverex/leverex-bug-bounty-program-10e53d0d7901",
     "submission_url": "",
@@ -4278,6 +4318,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Medtronic",
+    "policy_url": "https://global.medtronic.com/xg-en/product-security/coordinated-disclosure-process.html",
+    "submission_url": "security@medtronic.com ",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
   },
   {
     "program_name": "Meet Fabric",
@@ -4927,6 +4977,16 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Olympus",
+    "policy_url": "https://medical.olympusamerica.com/customer-resources/product-security",
+    "submission_url": "productsecurity@olympus.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -5650,6 +5710,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Radiometer",
+    "policy_url": "https://www.radiometer.com/en/about-radiometer/legal/coordinated-vulnerability-disclosure",
+    "submission_url": "https://www.radiometer.com/en/about-radiometer/legal/coordinated-vulnerability-disclosure",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Ratelimited",
     "policy_url": "https://hackerone.com/ratelimited",
     "submission_url": "",
@@ -5907,6 +5977,16 @@
     "cash_reward": true,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Roche Diagnostics",
+    "policy_url": "https://diagnostics.roche.com/global/en/legal/vulnerability-and-incident-handling-policy.html",
+    "submission_url": "security@roche.com",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -6640,6 +6720,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "SuperSonic Imagine",
+    "policy_url": "https://www.supersonicimagine.com/security",
+    "submission_url": "https://www.supersonicimagine.com/security",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "SureVine",
     "policy_url": "https://www.surevine.com/responsible-disclosure-policy/",
     "submission_url": "security@surevine.com",
@@ -6847,6 +6937,16 @@
     "cash_reward": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "ThermoFisher Scientific",
+    "policy_url": "https://corporate.thermofisher.com/en/security/reporting-security-issues.html",
+    "submission_url": "https://corporate.thermofisher.com/en/security/reporting-security-issues.html",
+    "launch_date": "",
+    "cash_reward": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -7608,7 +7708,7 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
-  },  
+  },
   {
     "program_name": "Yelp",
     "policy_url": "https://hackerone.com/yelp",
