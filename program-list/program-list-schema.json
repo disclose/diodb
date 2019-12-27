@@ -27,7 +27,7 @@
             ""
           ]
         },
-        "cash_reward": {
+        "bug_bounty": {
           "type": "boolean"
         },
         "swag": {
@@ -41,7 +41,7 @@
         "program_name",
         "policy_url",
         "safe_harbor",
-        "cash_reward",
+        "bug_bounty",
         "swag",
         "hall_of_fame"
       ]
