@@ -4250,9 +4250,9 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "LiberaPay",
-    "policy_url": "https://en.liberapay.com/about/security",
-    "submission_url": "admin@liberapay.com",
+    "program_name": "Liberapay",
+    "policy_url": "https://hackerone.com/liberapay",
+    "submission_url": "https://hackerone.com/liberapay",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
