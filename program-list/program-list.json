@@ -802,7 +802,7 @@
   {
     "program_name": "Autodesk",
     "policy_url": "https://www.autodesk.com/trust/incident-response",
-    "submission_url": "https://www.autodesk.com/trust/report-an-issue",
+    "submission_url": "https://www.autodesk.com/trust/contact-us",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
