@@ -1650,6 +1650,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "Choice Hotels",
+    "policy_url": "https://www.choicehotels.com/legal/responsible-disclosure",
+    "submission_url": "responsibledisclosure@choicehotels.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Circ.lu",
     "policy_url": "https://www.circl.lu/pub/responsible-vulnerability-disclosure",
     "submission_url": "https://www.circl.lu/report/",
