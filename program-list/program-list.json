@@ -4050,6 +4050,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "KFC",
+    "policy_url": "https://kfc.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://kfc.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "KPN",
     "policy_url": "https://www.kpn.com/algemeen/missie-en-privacy-statement/beveiligingskwetsbaarheid/beveiligingslek-melden.htm",
     "submission_url": "https://www.kpn.com/algemeen/missie-en-privacy-statement/beveiligingskwetsbaarheid/beveiligingslek-melden.htm",
@@ -5120,6 +5130,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Nasdaq",
+    "policy_url": "https://nasdaq.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://nasdaq.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Naspers",
     "policy_url": "https://bugcrowd.com/naspers",
     "submission_url": "https://bugcrowd.com/naspers/report",
@@ -5137,6 +5157,16 @@
     "bug_bounty": true,
     "swag": true,
     "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "National Oilwell Varco",
+    "policy_url": "https://nov.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://nov.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -6603,6 +6633,16 @@
     "program_name": "Royal Bank of Scotland",
     "policy_url": "https://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html",
     "submission_url": "security.disclosures@rbs.co.uk",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Rubrik",
+    "policy_url": "https://rubrik.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://rubrik.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
