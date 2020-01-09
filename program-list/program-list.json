@@ -180,16 +180,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "Absolute Technologies Lab",
-    "policy_url": "https://bugcrowd.com/absolutetechnologies",
-    "submission_url": "https://bugcrowd.com/absolutetechnologies/report",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": "full"
-  },
-  {
     "program_name": "Accenture",
     "policy_url": "https://www.accenture.com/us-en/company-accenture-responsible-disclosure",
     "submission_url": "Res.Disclosure@accenture.com",
