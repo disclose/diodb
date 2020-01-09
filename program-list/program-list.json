@@ -1631,13 +1631,13 @@
   },
   {
     "program_name": "Chase",
-    "policy_url": "https://www.chase.com/digital/resources/privacy-security/security/vulnerability-disclosure",
-    "submission_url": "responsible.disclosure@jpmchase.com",
+    "policy_url": "https://responsibledisclosure.jpmorganchase.com/hc/en-us",
+    "submission_url": "https://responsibledisclosure.jpmorganchase.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "safe_harbor": ""
   },
   {
     "program_name": "Chaturbate",
