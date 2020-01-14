@@ -240,6 +240,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Adafruit",
+    "policy_url": "https://www.adafruit.com/reportingsecurityissues",
+    "submission_url": "security@adafruit.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Adobe",
     "policy_url": "https://helpx.adobe.com/security/alertus.html",
     "submission_url": "PSIRT@adobe.com",
