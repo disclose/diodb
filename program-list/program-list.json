@@ -4191,7 +4191,7 @@
   },
   {
     "program_name": "Kubernetes",
-    "policy_url": "https://kubernetes.io/docs/reference/issues-security/security/#report-a-vulnerability",
+    "policy_url": "https://kubernetes.io/security",
     "submission_url": "https://hackerone.com/kubernetes",
     "launch_date": "2020-01-14",
     "bug_bounty": true,
