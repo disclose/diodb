@@ -4190,6 +4190,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Kubernetes",
+    "policy_url": "https://kubernetes.io/security",
+    "submission_url": "https://hackerone.com/kubernetes",
+    "launch_date": "2020-01-14",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "LINE",
     "policy_url": "https://bugbounty.linecorp.com/en/",
     "submission_url": "https://bugbounty.linecorp.com/en/",
