@@ -350,13 +350,13 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Albert Heijn",
-    "policy_url": "https://www.ah.nl/kwetsbaarheid-melden",
+    "program_name": "Ahold Delhaize",
+    "policy_url": "https://www.aholddelhaize.com/en/security/",
     "submission_url": "ad.itsecurity.group@aholddelhaize.com",
     "launch_date": "",
     "bug_bounty": true,
     "swag": true,
-    "hall_of_fame": true,
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
