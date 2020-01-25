@@ -2240,6 +2240,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Decred",
+    "policy_url": "https://bounty.decred.org/",
+    "submission_url": "https://bounty.decred.org/",
+    "launch_date": "21-01-2019",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "DeNederlandscheBank",
     "policy_url": "https://www.dnb.nl/en/responsible-disclosure/index.jsp",
     "submission_url": "cvd@dnb.nl",
