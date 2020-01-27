@@ -3702,7 +3702,7 @@
   {
     "program_name": "Ikea",
     "policy_url": "https://www.ikea.com/ms/en_ES/responsible-disclosure/responsible_disclosure.html",
-    "submission_url": "https://app.zerocopter.com/rd/9213ded2-6bb5-4f1a-8d74-c6fc1a04b675",
+    "submission_url": "https://bugs.ikea.com/",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
