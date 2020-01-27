@@ -121,8 +121,8 @@
   },
   {
     "program_name": "ARK Ecosystem",
-    "policy_url": "https://bugcrowd.com/arkecosystem",
-    "submission_url": "https://bugcrowd.com/arkecosystem/report",
+    "policy_url": "https://blog.ark.io/ark-development-and-security-bounty-program-a95122d06879",
+    "submission_url": "security@ark.io",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
