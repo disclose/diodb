@@ -290,6 +290,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Ahold Delhaize",
+    "policy_url": "https://www.aholddelhaize.com/en/security/",
+    "submission_url": "ad.itsecurity.group@aholddelhaize.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Aion",
     "policy_url": "https://aion.network/terms-bounty/",
     "submission_url": "secure@Aion.network",
@@ -346,16 +356,6 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Ahold Delhaize",
-    "policy_url": "https://www.aholddelhaize.com/en/security/",
-    "submission_url": "ad.itsecurity.group@aholddelhaize.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": true,
     "hall_of_fame": false,
     "safe_harbor": ""
   },
