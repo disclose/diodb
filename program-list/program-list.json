@@ -7440,6 +7440,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "State Farm",
+    "policy_url": "https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy",
+    "submission_url": "https://www.statefarm.com/customer-care/privacy-security/security/vulnerability-disclosure-policy",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "State of Delaware",
     "policy_url": "https://webfiles.dti.delaware.gov/pdfs/pp/Vulnerability%20Disclosure%20Policy.pdf",
     "submission_url": "https://delaware.gov/help/responsible-disclosure.shtml",
