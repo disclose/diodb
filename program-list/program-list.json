@@ -3722,7 +3722,7 @@
   {
     "program_name": "ImmutableSoft",
     "policy_url": "https://immutablesoft.github.io/ImmutableEcosystem/",
-    "submission_url": "https://immutablesoft.github.io/ImmutableEcosystem/issues/new",
+    "submission_url": "https://github.com/ImmutableSoft/ImmutableEcosystem/issues",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
