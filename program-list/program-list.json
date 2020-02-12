@@ -3720,6 +3720,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "ImmutableSoft",
+    "policy_url": "https://immutablesoft.github.io/ImmutableEcosystem/",
+    "submission_url": "https://github.com/ImmutableSoft/ImmutableEcosystem/issues",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Impero Software",
     "policy_url": "https://www.imperosoftware.com/fr/reporting-vulnerabilities/",
     "submission_url": "security@imperosoftware.com",
