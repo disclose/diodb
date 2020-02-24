@@ -1810,6 +1810,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "CNote",
+    "policy_url": "https://www.mycnote.com/vulnerability-disclosure-program/",
+    "submission_url": "security@mycnote.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Co-Operative bank",
     "policy_url": "https://www.co-operativebank.co.uk/global/security/responsible-security-disclosure",
     "submission_url": "securitydisclosures@co-operativebank.co.uk",
