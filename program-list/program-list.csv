@@ -175,6 +175,7 @@
 "Cloudinary","https://bugcrowd.com/cloudinary","https://bugcrowd.com/cloudinary/report","",true,false,true,"full"
 "Cloudways","https://bugcrowd.com/cloudways","https://bugcrowd.com/cloudways/report","",true,false,true,"partial"
 "ClubCollect","https://www.clubcollect.com/en/responsible-disclosure/","rd@clubcollect.com","",false,false,false,"partial"
+"CNote","https://www.mycnote.com/vulnerability-disclosure-program/","security@cmycnote.com","",false,false,false,"full"
 "Co-Operative bank","https://www.co-operativebank.co.uk/global/security/responsible-security-disclosure","securitydisclosures@co-operativebank.co.uk","",false,false,false,""
 "Coalition","https://hackerone.com/coalition","","",false,false,true,""
 "Cobalt","https://cobalt.io/security/practices","security@cobalt.io","",false,false,true,""
