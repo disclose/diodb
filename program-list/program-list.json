@@ -8447,7 +8447,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "full"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Vodafone",
