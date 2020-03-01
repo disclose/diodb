@@ -33,7 +33,7 @@ Some examples of suggestions that won't be accepted:
     "program_name": "Tesla",
     "policy_url": "https://bugcrowd.com/tesla",
     "submission_url": "https://bugcrowd.com/tesla/report",
-    "launch_date": "",
+    "launch_date": "2013-11-26",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
@@ -41,7 +41,7 @@ Some examples of suggestions that won't be accepted:
   },
 ~~~~
 
-*Example: Tesla... Can you find the date they first launched their bug bounty program?*
+*Example: Tesla*
 
 ## How to fill out the safe harbor field
 

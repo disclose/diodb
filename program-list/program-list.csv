@@ -754,7 +754,7 @@
 "Tencent","http://en.security.tencent.com/","https://en.security.tencent.com/index.php/report/add","",true,false,false,""
 "Tendermint","https://hackerone.com/tendermint","","",true,false,false,"full"
 "Teradici","https://hackerone.com/teradici","","",false,false,true,""
-"Tesla","https://bugcrowd.com/tesla","https://bugcrowd.com/tesla/report","",true,false,true,"partial"
+"Tesla","https://bugcrowd.com/tesla","https://bugcrowd.com/tesla/report","2013-11-26",true,false,true,"partial"
 "Tezos","https://tezos.com/bugbounty/","security@tezos.com","",true,false,false,"full"
 "The Atlantic","https://www.theatlantic.com/responsible-disclosure-policy/","security@theatlantic.com","",false,false,false,""
 "The Dutch Security Cluster","https://www.thehaguesecuritydelta.com/responsible-disclosure","joris.denbruinen@thehaguesecuritydelta.com","",false,false,true,""
