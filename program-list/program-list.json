@@ -8424,10 +8424,10 @@
     "policy_url": "https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/",
     "submission_url": "responsible-disclosure@visma.com",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "full"
   },
   {
     "program_name": "Vivy",
