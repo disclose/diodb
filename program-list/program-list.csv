@@ -729,7 +729,7 @@
 "Stellar","https://www.stellar.org/bug-bounty-program/","security@stellar.org","",true,false,true,""
 "Stripe","https://stripe.com/docs/security/stripe","security@stripe.com","",true,false,false,""
 "Stryker","https://www.stryker.com/us/en/about/governance/cyber-security.html","ProductSecurity@stryker.com","",false,false,false,"partial"
-"Studo","https://studo.co/security","security@moshbit.com","",true,false,false,"partial"
+"Studo","https://studo.com/at/security","security@moshbit.com","",true,false,false,"partial"
 "Summa","https://www.summa.eu/nl/responsible-disclosure","security@summa.eu","",false,false,true,"full"
 "SureVine","https://www.surevine.com/responsible-disclosure-policy/","security@surevine.com","",false,false,true,"partial"
 "Sweatco","https://hackerone.com/sweatco_ltd","https://hackerone.com/sweatco_ltd","",false,false,true,""
