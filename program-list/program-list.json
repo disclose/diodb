@@ -8908,5 +8908,15 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Majid Al Futtaim",
+    "policy_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "submission_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
   }
 ]
