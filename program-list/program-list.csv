@@ -867,4 +867,4 @@
 "Zomato","https://www.zomato.com/security","security@zomato.com","",true,false,true,"full"
 "Zscaler","https://www.zscaler.com/company/vulnerability-disclosure-program","https://www.zscaler.com/vulnerability-disclosure-form","",false,false,false,""
 "Zynga Whitehat","https://bugcrowd.com/zynga-vdp","https://bugcrowd.com/zynga-vdp/report","",false,false,true,"partial"
-"SerenityOS","http://www.serenityos.org/bounty/","kling@serenityos.org","",true,false,false,"full"
+"SerenityOS","http://www.serenityos.org/bounty/","kling@serenityos.org","",true,false,false,""
