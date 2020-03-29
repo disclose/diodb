@@ -8898,5 +8898,15 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "SerenityOS",
+    "policy_url": "http://www.serenityos.org/bounty/",
+    "submission_url": "kling@serenityos.org",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
   }
 ]
