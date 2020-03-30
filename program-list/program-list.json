@@ -8918,5 +8918,15 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
+  },
+  {
+    "program_name": "CERT-In",
+    "policy_url": "https://www.cert-in.org.in/PDF/Vul_Report.pdf",
+    "submission_url": "info@cert-in.org.in",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
   }
 ]
