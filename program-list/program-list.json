@@ -8908,5 +8908,35 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Majid Al Futtaim",
+    "policy_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "submission_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "CERT-In",
+    "policy_url": "https://www.cert-in.org.in/PDF/Vul_Report.pdf",
+    "submission_url": "info@cert-in.org.in",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Offensive Security",
+    "policy_url": "https://www.offensive-security.com/bug-bounty-program/",
+    "submission_url": "security@offensive-security.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
   }
 ]
