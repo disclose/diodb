@@ -8938,5 +8938,25 @@
     "swag": false,
     "hall_of_fame": "true",
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Ferm Rotterdam",
+    "policy_url": "https://ferm-rotterdam.nl/nl/responsible-disclosure-statement",
+    "submission_url": "https://app.zerocopter.com/nl/rd/9abb2c09-6993-4390-9277-4212e7ef402a",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "KNB NL",
+    "policy_url": "https://www.knb.nl/english/responsible-disclosure",
+    "submission_url": "responsible-disclosure@knb.nl",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
   }
 ]
