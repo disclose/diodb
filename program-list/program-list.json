@@ -340,16 +340,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Airforce Mining",
-    "policy_url": "https://airforcemining.com/bounty",
-    "submission_url": "https://goo.gl/forms/b5lDTna3Gh8KYvFn1",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Airtable",
     "policy_url": "https://airtable.com/security",
     "submission_url": "security@airtable.com",
