@@ -855,6 +855,7 @@
 "Yesware","https://www.yesware.com/security/","security@yesware.com","",false,false,true,"partial"
 "You Need a Budget (YNAB)","https://bugcrowd.com/ynab","https://bugcrowd.com/ynab/report","",true,false,true,"full"
 "YouPorn","https://hackerone.com/youporn","","",true,false,true,""
+"Zaful","https://www.zaful.com/report-security-issues","https://www.zaful.com/security/src/vul_report_add","","true","","","full"
 "ZEIT","https://hackerone.com/zeit","https://hackerone.com/zeit","",false,false,true,"full"
 "Zarx","https://www.zarx.co.za/rights/terms-and-conditions","info@zarx.co.za","",false,false,false,"partial"
 "Zendesk","https://www.zendesk.de/company/policies-procedures/responsible-disclosure-policy/","https://hackerone.com/zendesk_connect","",true,false,true,""
