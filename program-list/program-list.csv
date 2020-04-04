@@ -277,7 +277,7 @@
 "Facebook","https://www.facebook.com/BugBounty/","https://www.facebook.com/BugBounty/","",true,false,true,""
 "Fair","https://www.fair.com/bug-bounty","security@fair.com","",true,false,false,"partial"
 "FanDuel","https://www.fanduel.com/security","https://hackerone.com/fanduel","",true,false,true,"full"
-"Fannie Mae","https://www.fanniemae.com/portal/about-fm/reporting-technology-vulnerability.html","https://www.fanniemae.com/portal/jsp/
+"Fannie Mae","https://www.fanniemae.com/portal/about-fm/reporting-technology-vulnerability.html","https://www.fanniemae.com/portal/jsp/contact-us-form.html?emailID=forty-six",false,false,false,""
 "FantasyTote","https://hackerone.com/fantasytote","","",false,false,true,""
 "FastMail","https://www.fastmail.com/about/bugbounty.html","bugreport@fastmail.com","",true,false,true,""
 "Fastly","https://www.fastly.com/security/report-security-issue","https://fastly.zendesk.com/hc/en-us/requests/new","",false,true,false,"partial"
