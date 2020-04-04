@@ -851,6 +851,7 @@
 "Xing","https://www.xing.com/rfc-2350.txt","","",false,false,false,""
 "Yammer","https://technet.microsoft.com/en-us/security/dn800983","https://technet.microsoft.com/en-us/security/dn800983","",true,false,false,""
 "Yandex","https://yandex.com/bugbounty/report/","https://yandex.com/bugbounty/report/","",true,false,true,""
+"YATRA","https://www.yatra.com/online/bug-bounty","https://www.yatra.com/online/bug-report-issue",false,false,true,""
 "Yelp","https://hackerone.com/yelp","","",true,false,true,""
 "Yesware","https://www.yesware.com/security/","security@yesware.com","",false,false,true,"partial"
 "You Need a Budget (YNAB)","https://bugcrowd.com/ynab","https://bugcrowd.com/ynab/report","",true,false,true,"full"
