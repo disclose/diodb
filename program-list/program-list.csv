@@ -762,6 +762,7 @@
 "The Things Network","https://www.thethingsnetwork.org/responsible-disclosure","johan@thethingsnetwork.org","",false,false,true,""
 "Thumbtack","https://help.thumbtack.com/article/responsible-disclosure-policy","security@thumbtack.com","",false,false,true,""
 "TicketSwap","https://www.ticketswap.com/content/responsible-disclosure","security@ticketswap.com","",false,false,true,"partial"
+"Tidelift","https://tidelift.com/docs/security","security@tidelift.com.","",false,false,false,"none"
 "Tinder","https://www.gotinder.com/security","security@gotinder.com","",false,false,false,""
 "Tinfoil Security","https://hackerone.com/tlon","https://hackerone.com/tlon","",false,false,false,""
 "Tlon Corp","https://www.tinfoilsecurity.com/security","security@tinfoilsecurity.com","",true,false,true,""
