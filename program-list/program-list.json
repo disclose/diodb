@@ -8949,4 +8949,14 @@
     "hall_of_fame": "true",
     "safe_harbor": ""
   }
+  {
+    "program_name": "Tidelift",
+    "policy_url": "https://tidelift.com/docs/security",
+    "submission_url": "security@tidelift.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "none"
+  },
 ]
