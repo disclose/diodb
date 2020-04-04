@@ -80,6 +80,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "24sessions",
+    "policy_url": "https://www.24sessions.com/responsible-disclosure",
+    "submission_url": "mailto:security@24sessions.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "4chan",
     "policy_url": "https://www.4chan.org/security",
     "submission_url": "security@4chan.org",
