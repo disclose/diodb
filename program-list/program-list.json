@@ -8958,5 +8958,15 @@
     "swag": "",
     "hall_of_fame": "",
     "safe_harbor": ""
-  }
+  },
+  {
+    "program_name": "JetBrains",
+    "policy_url": "https://www.jetbrains.com/legal/terms/coordinated-disclosure.html",
+    "submission_url": "security@jetbrains.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  
 ]
