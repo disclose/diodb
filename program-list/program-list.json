@@ -8986,7 +8986,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": "",
-    "hall_of_fame": "",
+    "hall_of_fame": true,
     "safe_harbor": "partial"
   },
   {
@@ -8996,7 +8996,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": "",
-    "hall_of_fame": "True",
+    "hall_of_fame": true,
     "safe_harbor": "partial"
   },
   
