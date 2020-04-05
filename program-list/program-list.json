@@ -490,16 +490,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Ancientbrain",
-    "policy_url": "https://ancientbrain.com/bugs.php",
-    "submission_url": "bugs@ancientbrain.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Android",
     "policy_url": "https://www.google.com/about/appsecurity/android-rewards/",
     "submission_url": "https://www.google.com/appserve/security-bugs/m2/new",
