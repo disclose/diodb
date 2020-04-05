@@ -14,7 +14,6 @@ required.add_argument('-oj', '--outfile-json', help='Output json file name', typ
 args = parser.parse_args()
 
 # Ensure proper arguments are given, and warn for missing ones.
-args_exit = False
 if None in (args.jsonfile, args.outfile_csv, args.outfile_json):
     if args.jsonfile is None: 
         print("Error: input json file (-j/--jsonfile) is required")
