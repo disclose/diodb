@@ -8968,5 +8968,35 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
-  } 
+  },
+  {
+    "program_name": "Freshworks",
+    "policy_url": "https://www.freshworks.com/security/responsible-disclosure/",
+    "submission_url": "bughunt@freshworks.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Nykaa",
+    "policy_url": "https://www.nykaa.com/responsible-disclosure",
+    "submission_url": "it-security@nykaa.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Central Bank",
+    "policy_url": "https://www.centralbank.net/personal/security/responsible-disclosure/",
+    "submission_url": "responsible.disclosure@centralbank.net",
+    "launch_date": "",
+    "bug_bounty": "",
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  }     
 ]
