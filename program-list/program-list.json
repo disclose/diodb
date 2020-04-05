@@ -8955,9 +8955,9 @@
     "submission_url": "security@makenotion.com",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": "",
+    "swag": "false",
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "Full"
   },
   {
     "program_name": "JetBrains",
@@ -8965,9 +8965,9 @@
     "submission_url": "security@jetbrains.com",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": "",
+    "swag": "false",
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Canva",
@@ -8977,6 +8977,6 @@
     "bug_bounty": true,
     "swag": "",
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "full"
   }
 ]
