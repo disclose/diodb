@@ -8957,7 +8957,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "Full"
+    "safe_harbor": "full"
   },
   {
     "program_name": "JetBrains",
@@ -8985,7 +8985,7 @@
     "submission_url": "security@repl.it",
     "launch_date": "",
     "bug_bounty": false,
-    "swag": "",
+    "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
@@ -8995,7 +8995,7 @@
     "submission_url": "security@mongodb.com",
     "launch_date": "",
     "bug_bounty": false,
-    "swag": "",
+    "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
   }
