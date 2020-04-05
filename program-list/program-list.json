@@ -8988,6 +8988,16 @@
     "swag": "",
     "hall_of_fame": "",
     "safe_harbor": "partial"
-  }
+  },
+  {
+    "program_name": "MongoDB",
+    "policy_url": "https://www.mongodb.com/security",
+    "submission_url": "security@mongodb.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": "",
+    "hall_of_fame": "True",
+    "safe_harbor": "partial"
+  },
   
 ]
