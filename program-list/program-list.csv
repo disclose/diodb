@@ -735,6 +735,7 @@
 "SureVine","https://www.surevine.com/responsible-disclosure-policy/","security@surevine.com","",false,false,true,"partial"
 "Sweatco","https://hackerone.com/sweatco_ltd","https://hackerone.com/sweatco_ltd","",false,false,true,""
 "Swiftype","https://swiftype.com/security","security@swiftype.com","",false,false,false,"partial"
+"Swiggy","https://www.swiggy.com/bug-bounty","security@swiggy.in","",true,false,false,"full"
 "Swisscom","https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html","bug.bounty@swisscom.com","",true,false,false,""
 "Symantec","https://www.symantec.com/security-center/vulnerability-management","https://www.symantec.com/security-center/vulnerability-management","",false,false,false,""
 "Synack","https://synack.responsibledisclosure.com/hc/en-us","https://synack.responsibledisclosure.com/hc/en-us/requests/new","",false,false,true,""
