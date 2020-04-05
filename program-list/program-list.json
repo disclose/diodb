@@ -8968,5 +8968,15 @@
     "swag": "",
     "hall_of_fame": "",
     "safe_harbor": ""
-  
+  },
+  {
+    "program_name": "Canva",
+    "policy_url": "https://www.canva.com/security/bug-bounty/",
+    "submission_url": "https://www.canva.com/security/bug-bounty/",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  }
 ]
