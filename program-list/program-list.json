@@ -7570,6 +7570,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Swiggy",
+    "policy_url": "https://www.swiggy.com/bug-bounty",
+    "submission_url": "security@swiggy.in",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Swisscom",
     "policy_url": "https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html",
     "submission_url": "bug.bounty@swisscom.com",
