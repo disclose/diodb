@@ -8948,5 +8948,16 @@
     "swag": false,
     "hall_of_fame": "true",
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Notion",
+    "policy_url": "https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c",
+    "submission_url": "security@makenotion.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": ""
   }
+  
 ]
