@@ -7590,6 +7590,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Synology",
+    "policy_url": "https://www.synology.com/de-de/security/bounty_program",
+    "submission_url": "bounty@synology.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "TD Ameritrade",
     "policy_url": "https://www.tdameritrade.com/security/security-vulnerability.page",
     "submission_url": "sirt@tdameritrade.com",
