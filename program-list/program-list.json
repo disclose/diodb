@@ -8955,7 +8955,7 @@
     "submission_url": "security@makenotion.com",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": "false",
+    "swag": false,
     "hall_of_fame": "",
     "safe_harbor": "Full"
   },
@@ -8965,7 +8965,7 @@
     "submission_url": "security@jetbrains.com",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": "false",
+    "swag": false,
     "hall_of_fame": "",
     "safe_harbor": "partial"
   },
