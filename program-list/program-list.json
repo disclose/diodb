@@ -8978,5 +8978,16 @@
     "swag": "",
     "hall_of_fame": "",
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Repl.it",
+    "policy_url": "https://docs.repl.it/misc/security",
+    "submission_url": "security@repl.it",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": "partial"
   }
+  
 ]
