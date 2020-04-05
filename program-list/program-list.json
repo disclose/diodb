@@ -5940,6 +5940,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "PayTm",
+    "policy_url": "https://bugbounty.paytm.com/",
+    "submission_url": "https://bugbounty.paytm.com/report",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Perl",
     "policy_url": "http://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION",
     "submission_url": "perl5-security-report@perl.org",
