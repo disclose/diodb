@@ -574,6 +574,7 @@
 "Paychoice","http://www.paychoice.com.au/security/#security-researchers","security@paychoice.com.au","",false,false,true,""
 "Paymill","https://developers.paymill.com/guides/security/security-standards","security@paymill.com","",false,false,true,""
 "Paypal","https://www.paypal.com/us/webapps/mpp/security-tools/reporting-security-issues","https://www.hackerone.com/","",true,false,true,""
+"PayTm","https://bugbounty.paytm.com/","https://bugbounty.paytm.com/report","",true,false,true,"full"
 "Perl","http://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION","perl5-security-report@perl.org","",true,false,true,""
 "Personal Capital","https://www.personalcapital.com/responsible-disclosure/","https://www.personalcapital.com/responsible-disclosure/","",false,false,false,"full"
 "Phabricator","https://hackerone.com/phabricator","","",true,false,true,""
