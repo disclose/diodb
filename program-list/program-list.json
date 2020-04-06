@@ -6744,7 +6744,7 @@
     "policy_url": "https://hackerone.com/savedroid",
     "submission_url": "https://hackerone.com/savedroid",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -9003,6 +9003,16 @@
     "program_name": "KNB NL",
     "policy_url": "https://www.knb.nl/english/responsible-disclosure",
     "submission_url": "responsible-disclosure@knb.nl",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "MTN Group",
+    "policy_url": "https://hackerone.com/mtn_group",
+    "submission_url": "https://hackerone.com/mtn_group/reports/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
