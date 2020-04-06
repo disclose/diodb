@@ -872,6 +872,7 @@
 "Yandex","https://yandex.com/bugbounty/report/","https://yandex.com/bugbounty/report/","",true,false,true,""
 "Yelp","https://hackerone.com/yelp","","",true,false,true,""
 "Yesware","https://www.yesware.com/security/","security@yesware.com","",false,false,true,"partial"
+"Yes We Hack ","https://yeswehack.com/programs/yes-we-hack","https://yeswehack.com/programs/yes-we-hack","",true,false,true,"full"
 "You Need a Budget (YNAB)","https://bugcrowd.com/ynab","https://bugcrowd.com/ynab/report","",true,false,true,"full"
 "YouPorn","https://hackerone.com/youporn","","",true,false,true,""
 "Zaful","https://www.zaful.com/report-security-issues","https://www.zaful.com/security/src/vul_report_add","","true","","","full"
