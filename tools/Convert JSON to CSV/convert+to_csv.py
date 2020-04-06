@@ -4,6 +4,7 @@ import argparse
 import csv
 import json
 import sys
+from collections import OrderedDict
 
 # Add commandline arguments.
 parser = argparse.ArgumentParser()
@@ -29,7 +30,7 @@ if args_exit:
 
 # Open and load JSON file. Load as utf-8, due to non-ascii characters in some names.
 with open(args.jsonfile, 'r', encoding='utf-8') as f:
-    programs = json.load(f)
+    programs = json.load(f,  object_pairs_hook=OrderedDict)
 
 # Sort list alphabetically and dump to file.
 # Converting key to lowercase is to ensure proper sorting, as capitals are given preference over lowercase.
