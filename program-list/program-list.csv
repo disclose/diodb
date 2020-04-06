@@ -8,6 +8,7 @@
 "21 Century Fox","https://www.21cf.com/responsible-vulnerability-disclosure-policy/","disclosures@21cf.com","",false,false,false,"partial"
 "23andme","https://www.23andme.com/security-report/","https://www.23andme.com/security-report/","",true,false,false,""
 "24sessions","https://www.24sessions.com/responsible-disclosure","mailto:security@24sessions.com","",true,false,true,"partial"
+"3DS OUTSCALE ","https://yeswehack.com/programs/outscale","https://yeswehack.com/programs/outscale","",true,false,false,"partial"
 "4chan","https://www.4chan.org/security","security@4chan.org","",false,true,true,""
 "98 Point 6","https://www.98point6.com/responsible-disclosure-policy/","security@98point6.com","",false,false,true,"partial"
 "ABNAMRO BANK","http://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html","security.disclosures@rbs.co.uk","",false,false,true,""
