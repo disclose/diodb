@@ -4310,6 +4310,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "KU Leuven",
+    "policy_url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
+    "submission_url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "LINE",
     "policy_url": "https://bugbounty.linecorp.com/en/",
     "submission_url": "https://bugbounty.linecorp.com/en/",
