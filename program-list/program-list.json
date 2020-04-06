@@ -8940,6 +8940,13 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Zaful",
+    "policy_url": "https://www.zaful.com/report-security-issues",
+    "submission_url": "https://www.zaful.com/security/src/vul_report_add",
+    "bug_bounty": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "ZEIT",
     "policy_url": "https://hackerone.com/zeit",
     "submission_url": "https://hackerone.com/zeit",
