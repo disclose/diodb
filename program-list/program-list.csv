@@ -785,6 +785,7 @@
 "TomTom","https://hackerone.com/tomtom","https://hackerone.com/tomtom","",false,false,true,""
 "TopDesk","https://www.topdesk.com/us/responsible-disclosure/","security@topdesk.com","",false,false,false,""
 "Tor","https://hackerone.com/torproject","","",true,false,true,""
+"Torfs","https://www.intigriti.com/programs/torfs/torfs/detail","https://www.intigriti.com/programs/torfs/torfs","",true,false,true,"partial"
 "Toyota","https://hackerone.com/toyota","","",false,false,true,"partial"
 "TradingView","https://www.tradingview.com/bounty/","security@tradingview.com","",true,false,false,""
 "Transloadit","https://transloadit.com/security/","support@transloadit.com","",false,false,true,""
