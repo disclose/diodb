@@ -9205,7 +9205,8 @@
     "swag": false,
     "hall_of_fame": "true",
     "safe_harbor": ""
-  {
+  },
+    {
     "program_name": "YATRA",
     "policy_url": "https://www.yatra.com/online/bug-bounty",
     "submission_url": "https://www.yatra.com/online/bug-report-issue",
@@ -9213,6 +9214,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
   },
   {
     "program_name": "Tidelift",
