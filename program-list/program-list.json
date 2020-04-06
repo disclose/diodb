@@ -2390,6 +2390,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Deriv",
+    "policy_url": "https://www.intigriti.com/programs/deriv/derivcom/detail",
+    "submission_url": "https://www.intigriti.com/programs/deriv/derivcom",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Detectify",
     "policy_url": "https://detectify.com/responsible_disclosure",
     "submission_url": "disclosure@detectify.com",
