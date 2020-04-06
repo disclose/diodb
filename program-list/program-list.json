@@ -8080,6 +8080,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Torfs",
+    "policy_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "submission_url": "https://www.intigriti.com/programs/torfs/torfs",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Toyota",
     "policy_url": "https://hackerone.com/toyota",
     "submission_url": "",
