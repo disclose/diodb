@@ -233,6 +233,7 @@
 "Department Of Defense","https://hackerone.com/deptofdefense","","",false,false,true,""
 "Deps","https://www.deps.co/security/","security@deps.co","",false,false,false,"partial"
 "Deribit","https://www.deribit.com/pages/information/bug-bounty-program","support@deribit.com","",true,false,true,"partial"
+"Deriv","https://www.intigriti.com/programs/deriv/derivcom/detail","https://www.intigriti.com/programs/deriv/derivcom","",true,false,true,"full"
 "Detectify","https://detectify.com/responsible_disclosure","disclosure@detectify.com","",false,false,true,""
 "Deutsche Telekom","https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/closing-security-gaps-360054","bugbounty@t-mobile.cz","",true,false,true,""
 "dfuse Platform","https://hackerone.com/dfuse","https://hackerone.com/dfuse","",true,false,true,""
