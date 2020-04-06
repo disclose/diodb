@@ -885,3 +885,5 @@
 "Zscaler","https://www.zscaler.com/company/vulnerability-disclosure-program","https://www.zscaler.com/vulnerability-disclosure-form","",false,false,false,""
 "Zynga Whitehat","https://bugcrowd.com/zynga-vdp","https://bugcrowd.com/zynga-vdp/report","",false,false,true,"partial"
 "MTN Group","https://hackerone.com/mtn_group","https://hackerone.com/mtn_group/reports/new","",false,false,true,""
+"Scraping Hub","https://scrapinghub.com/responsible-disclosure-policy/","bughunt@scrapinghub.com","",true,false,true,""
+"Issuu","https://issuu.com/responsible-disclosure","security@issuu","",false,false,true,""
