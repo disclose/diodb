@@ -9150,6 +9150,15 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "YATRA",
+    "policy_url": "https://www.yatra.com/online/bug-bounty",
+    "submission_url": "https://www.yatra.com/online/bug-report-issue",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+  },
+  {
     "program_name": "Tidelift",
     "policy_url": "https://tidelift.com/docs/security",
     "submission_url": "security@tidelift.com",
