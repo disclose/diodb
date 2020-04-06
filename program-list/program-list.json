@@ -9156,6 +9156,45 @@
     "hall_of_fame": "true",
     "safe_harbor": ""
   },
+ {
+    "program_name": "Mollie",
+    "policy_url": "https://www.mollie.com/en/responsible-disclosure",
+    "submission_url": "security@mollie.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Pon Cat",
+    "policy_url": "https://www.pon-cat.com/en/responsible-disclosure",
+    "submission_url": "rd@pon.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Freshworks",
+    "policy_url": "https://www.freshworks.com/security/responsible-disclosure/",
+    "submission_url": "bughunt@freshworks.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Nykaa",
+    "policy_url": "https://www.nykaa.com/responsible-disclosure",
+    "submission_url": "it-security@nykaa.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
   {
     "program_name": "YATRA",
     "policy_url": "https://www.yatra.com/online/bug-bounty",
@@ -9184,5 +9223,15 @@
     "swag": false,
     "hall_of_fame": "true",
     "safe_harbor": ""
-  }
+  },
+  {
+    "program_name": "Central Bank",
+    "policy_url": "https://www.centralbank.net/personal/security/responsible-disclosure/",
+    "submission_url": "responsible.disclosure@centralbank.net",
+    "launch_date": "",
+    "bug_bounty": "",
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  }     
 ]
