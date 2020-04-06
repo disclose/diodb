@@ -420,6 +420,7 @@
 "Kiwa","https://www.kiwa.com/en/responsible-disclosure-policy/","responsibledisclosure@kiwa.nl","",false,false,false,"partial"
 "Kraken","https://www.kraken.com/security/bug-bounty","bugbounty@kraken.com","",true,false,true,""
 "Kroger","https://www.kroger.com/.well-known/security.txt","isoc@kroger.com","",false,false,false,""
+"KU Leuven","https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail","https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing","",true,false,true,"full"
 "LINE","https://bugbounty.linecorp.com/en/","https://bugbounty.linecorp.com/en/","",true,false,true,""
 "LastPass","https://bugcrowd.com/lastpass","https://bugcrowd.com/lastpass/report","",true,false,true,"partial"
 "Leetcode","https://leetcode.com/bugbounty/","support@leetcode.com","",true,false,false,"partial"
