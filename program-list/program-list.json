@@ -490,16 +490,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Ancientbrain",
-    "policy_url": "https://ancientbrain.com/bugs.php",
-    "submission_url": "bugs@ancientbrain.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Android",
     "policy_url": "https://www.google.com/about/appsecurity/android-rewards/",
     "submission_url": "https://www.google.com/appserve/security-bugs/m2/new",
@@ -718,6 +708,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Athento",
+    "policy_url": "https://www.athento.com/bug-bounty-program-en/",
+    "submission_url": "support@athento.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "None"
   },
   {
     "program_name": "Atlassian",
@@ -4430,6 +4430,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "LoginRadius",
+    "policy_url": "https://www.loginradius.com/bug-bounty/",
+    "submission_url": "security@loginradius.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "Partial"
+  },
+  {
     "program_name": "Loofah",
     "policy_url": "https://hackerone.com/loofah",
     "submission_url": "",
@@ -6734,7 +6744,7 @@
     "policy_url": "https://hackerone.com/savedroid",
     "submission_url": "https://hackerone.com/savedroid",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
@@ -7340,6 +7350,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Spreaker",
+    "policy_url": "https://www.spreaker.com/security",
+    "submission_url": "security@spreaker.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "Partial"
+  },
+  {
     "program_name": "Sprout Social",
     "policy_url": "https://bugcrowd.com/sproutsocial",
     "submission_url": "https://bugcrowd.com/sproutsocial/report",
@@ -7438,6 +7458,16 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "StarLeaf",
+    "policy_url": "https://www.starleaf.com/c/bug-bounty-program/",
+    "submission_url": "bugbounty@starleaf.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "None"
   },
   {
     "program_name": "Starling Bank Limited",
@@ -7590,6 +7620,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Synology",
+    "policy_url": "https://www.synology.com/de-de/security/bounty_program#scope_and_reward",
+    "submission_url": "bounty@synology.com with https://www.synology.com/de-de/support/security_pgp_key",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "None"
+  },
+  {
     "program_name": "TD Ameritrade",
     "policy_url": "https://www.tdameritrade.com/security/security-vulnerability.page",
     "submission_url": "sirt@tdameritrade.com",
@@ -7668,6 +7708,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "TechGig",
+    "policy_url": "https://www.techgig.com/bugbounty",
+    "submission_url": "https://www.techgig.com/bugbounty#security-issue",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": "None"
   },
   {
     "program_name": "TechSmith",
@@ -8460,6 +8510,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Vultr",
+    "policy_url": "https://www.vultr.com/bug-bounty/",
+    "submission_url": "https://www.vultr.com/bug-bounty/#report-issue",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "None"
+  },
+  {
     "program_name": "Vyond",
     "policy_url": "https://help.vyond.com/hc/en-us/articles/360000497723-How-do-I-Report-a-Security-Vulnerability-",
     "submission_url": "security@vyond.com",
@@ -8958,5 +9018,15 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "none"
+  },
+  {
+    "program_name": "MTN Group",
+    "policy_url": "https://hackerone.com/mtn_group",
+    "submission_url": "https://hackerone.com/mtn_group/reports/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": "true",
+    "safe_harbor": ""
   }
 ]
