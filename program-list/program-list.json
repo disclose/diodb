@@ -9245,5 +9245,15 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
+  },     
+  {
+    "program_name": "Decos",
+    "policy_url": "https://www.decos.com/en/security",
+    "submission_url": "security@decos.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": ""
   }     
 ]
