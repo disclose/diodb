@@ -90,6 +90,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "3DS OUTSCALE ",
+    "policy_url": "https://yeswehack.com/programs/outscale",
+    "submission_url": "https://yeswehack.com/programs/outscale",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "4chan",
     "policy_url": "https://www.4chan.org/security",
     "submission_url": "security@4chan.org",
