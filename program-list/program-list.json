@@ -8959,6 +8959,16 @@
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
+  
+    "program_name": "Yes We Hack ",
+    "policy_url": "https://yeswehack.com/programs/yes-we-hack",
+    "submission_url": "https://yeswehack.com/programs/yes-we-hack",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
   {
     "program_name": "You Need a Budget (YNAB)",
     "policy_url": "https://bugcrowd.com/ynab",
