@@ -9245,5 +9245,25 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
-  }     
+  },
+  {
+    "program_name": "Bentley",
+    "policy_url": "https://www.bentley.com/responsible_disclosure.pdf",
+    "submission_url": "https://www.bentley.com/en/about-us/contact-us/contact-us-form?topic=11",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": true
+  },
+  {
+    "program_name": "TransIP",
+    "policy_url": "https://www.transip.eu/legal-and-security/security",
+    "submission_url": "security@transip.nl",
+    "launch_date": "",
+    "bug_bounty": "",
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": ""
+  }
 ]
