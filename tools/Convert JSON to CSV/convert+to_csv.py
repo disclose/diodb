@@ -41,6 +41,6 @@ output_json = json.dump(programs, open(args.outfile_json, "w", encoding='utf8'),
 # Write CSV file from sorted JSON
 with open(args.outfile_csv, 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["program_name", "policy_url", "submission_url", "launch_date", "bug_bounty", "swag", "hall_of_fame", "safe_harbor"])
+    writer.writerow(programs[0].keys())
     for program in programs:
-        writer.writerow(["program_name", "policy_url", "submission_url", "launch_date", "bug_bounty", "swag", "hall_of_fame", "safe_harbor"])
+         writer.writerow(program.values())
