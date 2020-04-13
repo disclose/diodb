@@ -39,4 +39,4 @@ with open(args.outfile_csv, 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(programs[0].keys())
     for program in programs:
-         writer.writerow(program.values())
+        writer.writerow(program.values())
