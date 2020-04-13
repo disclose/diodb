@@ -9165,7 +9165,7 @@
     "swag": false,
     "hall_of_fame": "true",
     "safe_harbor": ""
-  },
+  },  
  {
     "program_name": "Mollie",
     "policy_url": "https://www.mollie.com/en/responsible-disclosure",
@@ -9186,6 +9186,7 @@
     "hall_of_fame": "",
     "safe_harbor": ""
   },
+ 
   {
     "program_name": "Freshworks",
     "policy_url": "https://www.freshworks.com/security/responsible-disclosure/",
@@ -9206,7 +9207,7 @@
     "hall_of_fame": "true",
     "safe_harbor": ""
   },
-    {
+   {
     "program_name": "YATRA",
     "policy_url": "https://www.yatra.com/online/bug-bounty",
     "submission_url": "https://www.yatra.com/online/bug-report-issue",
@@ -9245,6 +9246,56 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
+  },     
+   {
+    "program_name": "Notion",
+    "policy_url": "https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c",
+    "submission_url": "security@makenotion.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "JetBrains",
+    "policy_url": "https://www.jetbrains.com/legal/terms/coordinated-disclosure.html",
+    "submission_url": "security@jetbrains.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Canva",
+    "policy_url": "https://www.canva.com/security/bug-bounty/",
+    "submission_url": "https://www.canva.com/security/bug-bounty/",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Repl.it",
+    "policy_url": "https://docs.repl.it/misc/security",
+    "submission_url": "security@repl.it",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "MongoDB",
+    "policy_url": "https://www.mongodb.com/security",
+    "submission_url": "security@mongodb.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Bentley",

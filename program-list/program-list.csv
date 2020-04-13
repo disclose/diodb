@@ -887,3 +887,8 @@
 "Zscaler","https://www.zscaler.com/company/vulnerability-disclosure-program","https://www.zscaler.com/vulnerability-disclosure-form","",false,false,false,""
 "Zynga Whitehat","https://bugcrowd.com/zynga-vdp","https://bugcrowd.com/zynga-vdp/report","",false,false,true,"partial"
 "MTN Group","https://hackerone.com/mtn_group","https://hackerone.com/mtn_group/reports/new","",false,false,true,""
+"Notion","https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c","security@makenotion.com","",true,false,"","full"
+"JetBrains","https://www.jetbrains.com/legal/terms/coordinated-disclosure.html","security@jetbrains.com","",true,false,"","partial"
+"Canva","https://www.canva.com/security/bug-bounty/","https://www.canva.com/security/bug-bounty/","",true,"","","partial"
+"Repl.it","https://docs.repl.it/misc/security","security@repl.it","",false,false,true,"partial"
+"MongoDB","https://www.mongodb.com/security","security@mongodb.com","",false,false,"true","partial"
