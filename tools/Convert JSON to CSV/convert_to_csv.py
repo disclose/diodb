@@ -4,6 +4,7 @@ import argparse
 import csv
 import json
 import sys
+from collections import OrderedDict
 
 # Add commandline arguments.
 parser = argparse.ArgumentParser()
@@ -25,7 +26,7 @@ if None in (args.jsonfile, args.outfile_csv, args.outfile_json):
 
 # Open and load JSON file. Load as utf-8, due to non-ascii characters in some names.
 with open(args.jsonfile, 'r', encoding='utf-8') as f:
-    programs = json.load(f)
+    programs = json.load(f,  object_pairs_hook=OrderedDict)
 
 # Sort list alphabetically and dump to file.
 # Converting key to lowercase is to ensure proper sorting, as capitals are given preference over lowercase.
@@ -36,6 +37,6 @@ output_json = json.dump(programs, open(args.outfile_json, "w", encoding='utf8'),
 # Write CSV file from sorted JSON
 with open(args.outfile_csv, 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["program_name", "policy_url"])
+    writer.writerow(programs[0].keys())
     for program in programs:
-        writer.writerow([program['program_name'], program['policy_url']])
+        writer.writerow(program.values())
