@@ -9251,6 +9251,12 @@
     "program_name": "Decos",
     "policy_url": "https://www.decos.com/en/security",
     "submission_url": "security@decos.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": "",
+    "safe_harbor": "full"
+  },
    {
     "program_name": "Notion",
     "policy_url": "https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c",
@@ -9310,9 +9316,7 @@
     "swag": true,
     "hall_of_fame": true,
     "safe_harbor": ""
-  }     
-    "safe_harbor": true
-  },
+  } ,
   {
     "program_name": "TransIP",
     "policy_url": "https://www.transip.eu/legal-and-security/security",
