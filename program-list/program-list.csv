@@ -754,6 +754,7 @@
 "Swisscom","https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html","bug.bounty@swisscom.com","",true,false,false,""
 "Symantec","https://www.symantec.com/security-center/vulnerability-management","https://www.symantec.com/security-center/vulnerability-management","",false,false,false,""
 "Synack","https://synack.responsibledisclosure.com/hc/en-us","https://synack.responsibledisclosure.com/hc/en-us/requests/new","",false,false,true,""
+"Synology","https://www.synology.com/de-de/security/bounty_program","bounty@synology.com","",true,false,true,""
 "TD Ameritrade","https://www.tdameritrade.com/security/security-vulnerability.page","sirt@tdameritrade.com","",false,false,false,""
 "TIAA","https://tiaa.responsibledisclosure.com/hc/en-us","https://tiaa.responsibledisclosure.com/hc/en-us/requests/new","",false,false,true,""
 "TTS","https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md","https://hackerone.com/tts","",true,false,true,""
