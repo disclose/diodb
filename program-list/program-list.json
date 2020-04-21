@@ -8953,8 +8953,11 @@
     "program_name": "Zaful",
     "policy_url": "https://www.zaful.com/report-security-issues",
     "submission_url": "https://www.zaful.com/security/src/vul_report_add",
+    "launch_date": "",
     "bug_bounty": true,
-    "safe_harbor": "full"
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
   },
   {
     "program_name": "ZEIT",
