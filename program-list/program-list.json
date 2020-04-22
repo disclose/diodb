@@ -6920,16 +6920,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Sarahny",
-    "policy_url": "https://sarahny.com/security.html",
-    "submission_url": "security@sarahny.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": "full"
-  },
-  {
     "program_name": "ScaleFT",
     "policy_url": "https://www.scaleft.com/company/security/",
     "submission_url": "security@scaleft.com",
