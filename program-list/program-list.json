@@ -130,16 +130,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ARK Ecosystem",
-    "policy_url": "https://bugcrowd.com/arkecosystem",
-    "submission_url": "https://bugcrowd.com/arkecosystem/report",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": "partial"
-  },
-  {
     "program_name": "ARM mBed",
     "policy_url": "https://tls.mbed.org/c-library-bug-bounty-program",
     "submission_url": "Support.mbedtls@arm.com",
@@ -1198,16 +1188,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
-  },
-  {
-    "program_name": "Blend",
-    "policy_url": "https://bugcrowd.com/blend",
-    "submission_url": "https://bugcrowd.com/blend/report",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": "full"
   },
   {
     "program_name": "Blinkforhome",
