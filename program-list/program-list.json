@@ -5,7 +5,7 @@
     "submission_url": "https://bugcrowd.com/isc2/report",
     "launch_date": "",
     "bug_bounty": false,
-    "swag": false,
+    "swagf": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
@@ -2681,7 +2681,7 @@
   },
   {
     "program_name": "F Secure",
-    "policy_url": "https://www.f-secure.com/en/web/labs_global/vulnerability-reward-program",
+    "policy_url": "https://www.f-secure.com/en/business/programs/vulnerability-reward-program",
     "submission_url": "security@f-secure.com",
     "launch_date": "",
     "bug_bounty": true,
@@ -2997,16 +2997,6 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "GateCoin",
-    "policy_url": "https://gatecoin.com/bugBounty",
-    "submission_url": "security@gatecoin.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -3381,8 +3371,8 @@
   },
   {
     "program_name": "Heroku",
-    "policy_url": "https://bugcrowd.com/heroku",
-    "submission_url": "https://bugcrowd.com/heroku/report",
+    "policy_url": "https://www.heroku.com/policy/security",
+    "submission_url": "bugbountymanager@salesforce.com",
     "launch_date": "",
     "bug_bounty": true,
     "swag": true,
@@ -3980,16 +3970,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Jet.com",
-    "policy_url": "https://bugcrowd.com/jet",
-    "submission_url": "https://bugcrowd.com/jet/report",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": "partial"
-  },
-  {
     "program_name": "JohnBlackBourn",
     "policy_url": "https://hackerone.com/johnblackbourn",
     "submission_url": "",
@@ -4288,16 +4268,6 @@
     "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "full"
-  },
-  {
-    "program_name": "Lifelock",
-    "policy_url": "https://lifelock.responsibledisclosure.com/hc/en-us",
-    "submission_url": "https://lifelock.responsibledisclosure.com/hc/en-us/requests/new",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
   },
   {
     "program_name": "Liferay",
@@ -4780,16 +4750,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "MemoTrader",
-    "policy_url": "https://bugcrowd.com/memotrader",
-    "submission_url": "https://bugcrowd.com/memotrader/report",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Mercedes-Benz",
     "policy_url": "https://www.mercedes-benz.com/en/whitehat/?owda=misc#coordinated-disclosure-guidlines",
     "submission_url": "security@daimler.com",
@@ -5070,16 +5030,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "NN",
-    "policy_url": "https://www.nn-group.com/Footer-Pages/Ethical-hacking-NN-Groups-Responsible-Disclosure-Policy.htm",
-    "submission_url": "responsible-disclosure@nn-group.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "NSN Nokia Solutions Networks",
     "policy_url": "http://nsn.com/responsible-disclosure",
     "submission_url": "security-alert@nokia.com",
@@ -5091,7 +5041,7 @@
   },
   {
     "program_name": "NWB Bank",
-    "policy_url": "https://www.nwbbank.com/responsible-disclosure-2",
+    "policy_url": "https://www.nwbbank.com/en/responsible-disclosure",
     "submission_url": "info@nwbbank.com",
     "launch_date": "",
     "bug_bounty": true,
@@ -5281,7 +5231,7 @@
   },
   {
     "program_name": "Nokia",
-    "policy_url": "https://networks.nokia.com/responsible-disclosure",
+    "policy_url": "https://www.nokia.com/responsible-disclosure/",
     "submission_url": "security-alert@nokia.com",
     "launch_date": "",
     "bug_bounty": false,
@@ -5293,16 +5243,6 @@
     "program_name": "Nokogiri",
     "policy_url": "https://hackerone.com/nokogiri",
     "submission_url": "",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Norada",
-    "policy_url": "http://norada.com/crm-software/security_response",
-    "submission_url": "security@norada.com",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -5591,8 +5531,8 @@
   },
   {
     "program_name": "Opera",
-    "policy_url": "https://www.opera.com/security/policy",
-    "submission_url": "security@opera.com",
+    "policy_url": "https://security.opera.com/report-security-issue/",
+    "submission_url": "https://security.opera.com/report-security-issue/",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -5788,16 +5728,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
-  },
-  {
-    "program_name": "Partnerize",
-    "policy_url": "https://partnerize.com/en/responsible-disclosure?q=%2Fen%2Fresponsible-disclosure",
-    "submission_url": "https://docs.google.com/forms/d/e/1FAIpQLSeqDvr0OgelqiWjBL0c-qEEDUSoF-nTWpczlSM84SLAvn90JQ/viewform",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "full"
   },
   {
     "program_name": "Passhash",
@@ -6251,8 +6181,8 @@
   },
   {
     "program_name": "RSK",
-    "policy_url": "https://hackerone.com/rsksmart",
-    "submission_url": "",
+    "policy_url": "https://developers.rsk.co/contribute/bug-bounty-program/",
+    "submission_url": "https://developers.rsk.co/contribute/bug-bounty-program/",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
@@ -7073,16 +7003,6 @@
     "program_name": "Solidus",
     "policy_url": "https://hackerone.com/solidus",
     "submission_url": "https://hackerone.com/solidus",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Solve360",
-    "policy_url": "https://solve360.com/security-response/",
-    "submission_url": "security@norada.com",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -8031,8 +7951,8 @@
   },
   {
     "program_name": "Ubiquiti Networks",
-    "policy_url": "https://hackerone.com/ubnt",
-    "submission_url": "",
+    "policy_url": "https://hackerone.com/ui",
+    "submission_url": "https://hackerone.com/ui",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
