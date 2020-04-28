@@ -5181,7 +5181,7 @@
   },
   {
     "program_name": "Nginx",
-    "policy_url": "http://nginx.org/en/security_advisories.html",
+    "policy_url": "https://nginx.org/en/security_advisories.html",
     "submission_url": "security-alert@nginx.org",
     "launch_date": "",
     "bug_bounty": true,
@@ -5371,7 +5371,7 @@
   },
   {
     "program_name": "Observu",
-    "policy_url": "http://observu.com/security.php",
+    "policy_url": "https://observu.com/security.php",
     "submission_url": "info@observu.com",
     "launch_date": "",
     "bug_bounty": false,
@@ -5481,7 +5481,7 @@
   },
   {
     "program_name": "OpenBSD",
-    "policy_url": "http://www.openbsd.org/security.html",
+    "policy_url": "https://www.openbsd.org/security.html",
     "submission_url": "deraadt@openbsd.org",
     "launch_date": "",
     "bug_bounty": false,
@@ -5771,7 +5771,7 @@
   },
   {
     "program_name": "Paychoice",
-    "policy_url": "http://www.paychoice.com.au/security/#security-researchers",
+    "policy_url": "https://www.paychoice.com.au/security/#security-researchers",
     "submission_url": "security@paychoice.com.au",
     "launch_date": "",
     "bug_bounty": false,
@@ -6070,16 +6070,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "Pushfor",
-    "policy_url": "https://pushfor.com/bug-bounty/",
-    "submission_url": "security-report@pushfor.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Python",
     "policy_url": "https://www.python.org/news/security/",
     "submission_url": "security@python.org",
@@ -6101,8 +6091,8 @@
   },
   {
     "program_name": "Qmail",
-    "policy_url": "http://cr.yp.to/qmail/guarantee.html",
-    "submission_url": "http://cr.yp.to/qmail/guarantee.html",
+    "policy_url": "https://cr.yp.to/qmail/guarantee.html",
+    "submission_url": "https://cr.yp.to/qmail/guarantee.html",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
@@ -6365,16 +6355,6 @@
     "submission_url": "https://www.researchgate.net/contact",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Resmed",
-    "policy_url": "https://www.resmed.com/us/en/consumer/security/disclosure.html",
-    "submission_url": "securityreports@resmed.com",
-    "launch_date": "",
-    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
@@ -6891,7 +6871,7 @@
   },
   {
     "program_name": "Skoodat",
-    "policy_url": "http://www.skoodat.com/security",
+    "policy_url": "https://www.skoodat.com/security",
     "submission_url": "security@skoodat.com",
     "launch_date": "",
     "bug_bounty": false,
@@ -8191,7 +8171,7 @@
   },
   {
     "program_name": "Viadeo",
-    "policy_url": "http://www.viadeo.com/en/securite",
+    "policy_url": "https://www.viadeo.com/en/securite",
     "submission_url": "security@viadeo.com",
     "launch_date": "",
     "bug_bounty": false,
@@ -8691,7 +8671,7 @@
   },
   {
     "program_name": "SerenityOS",
-    "policy_url": "http://www.serenityos.org/bounty/",
+    "policy_url": "https://www.serenityos.org/bounty/",
     "submission_url": "kling@serenityos.org",
     "launch_date": "",
     "bug_bounty": true,
