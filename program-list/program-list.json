@@ -4890,10 +4890,10 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "MovieXchange",
+    "program_name": "movieXchange",
     "policy_url": "https://moviexchange.com/responsible-disclosure-policy/",
-    "submission_url": "security@movieXchange.com",
-    "launch_date": "",
+    "submission_url": "mailtto:security@movieXchange.com",
+    "launch_date": "2018-11-08",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
