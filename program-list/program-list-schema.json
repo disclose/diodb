@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "program_name": {
+          "type": "string"
+        },
+        "policy_url": {
+          "type": "string"
+        },
+        "submission_url": {
+          "type": "string"
+        },
+        "launch_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "safe_harbor": {
+          "type": "string",
+          "enum": [
+            "full",
+            "partial",
+            "none",
+            ""
+          ]
+        },
+        "bug_bounty": {
+          "type": "boolean"
+        },
+        "swag": {
+          "type": "boolean"
+        },
+        "hall_of_fame": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "program_name",
+        "policy_url",
+        "safe_harbor",
+        "bug_bounty",
+        "swag",
+        "hall_of_fame"
+      ]
+    }
+  ]
+}
