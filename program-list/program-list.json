@@ -8220,6 +8220,16 @@
     "safe_harbor": "full"
   },
   {
+    "program_name": "Vista Entertainment Solutions",
+    "policy_url": "https://vista.co/responsible-disclosure-policy/",
+    "submission_url": "maitlto:security@vista.co",
+    "launch_date": "2018-05-01",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Vivy",
     "policy_url": "https://hackerone.com/vivy",
     "submission_url": "https://hackerone.com/vivy",

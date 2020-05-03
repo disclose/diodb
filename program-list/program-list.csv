@@ -839,6 +839,7 @@
 "Viadeo","http://www.viadeo.com/en/securite","security@viadeo.com","",false,false,true,""
 "Vimeo","https://hackerone.com/vimeo","https://hackerone.com/vimeo","",true,false,true,"partial"
 "Visma","https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/","responsible-disclosure@visma.com","",true,false,true,"full"
+"Vista Entertainment Solutions","https://vista.co/responsible-disclosure-policy/","mailto:security@vista.co","2018-05-01",false,false,true,"full"
 "Vivy","https://hackerone.com/vivy","https://hackerone.com/vivy","",false,false,true,"full"
 "Voatz","https://hackerone.com/voatz","","",true,false,true,"full"
 "Vodafone","https://www.vodafone.nl/over-deze-website/privacy-en-disclaimer/report-security-leak.shtml","https://www.vodafone.nl/over-deze-website/privacy-en-disclaimer/report-security-leak.shtml","",false,false,false,""
