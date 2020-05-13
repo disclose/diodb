@@ -13,7 +13,7 @@
     "program_name": ".nz Registry",
     "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
     "submission_url": "security@internetnz.net.nz",
-    "launch_date": "",
+    "launch_date": "hello",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
