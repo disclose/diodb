@@ -3,7 +3,7 @@
     "program_name": "(ISC)²",
     "policy_url": "https://bugcrowd.com/isc2",
     "submission_url": "https://bugcrowd.com/isc2/report",
-    "launch_date": "",
+    "launch_date": null,
     "bug_bounty": false,
     "swagf": false,
     "hall_of_fame": true,
