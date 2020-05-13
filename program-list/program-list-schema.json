@@ -15,8 +15,18 @@
           "type": "string"
         },
         "launch_date": {
-          "type": ["string", "null"],
-          "format": "date-time"
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                ""
+              ]
+            },
+            {
+              "type": "string",
+              "format": "date"
+            }
+          ]
         },
         "safe_harbor": {
           "type": "string",
