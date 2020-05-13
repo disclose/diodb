@@ -15,7 +15,7 @@
           "type": "string"
         },
         "launch_date": {
-          "type": "string",
+          "type": ["string", "null"],
           "format": "date-time"
         },
         "safe_harbor": {
