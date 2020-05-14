@@ -8879,6 +8879,16 @@
     "swag": false,
     "hall_of_fame": "",
     "safe_harbor": ""
+  },
+  {   
+    "program_name": "Scraping Hub",
+    "policy_url": "https://scrapinghub.com/responsible-disclosure-policy/",
+    "submission_url": "bughunt@scrapinghub.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
   },     
    {
     "program_name": "Notion",
