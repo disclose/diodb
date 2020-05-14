@@ -8787,7 +8787,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": "true",
-    "safe_harbor": ""
+    "safe_harbor": "full"
   },  
  {
     "program_name": "Mollie",
