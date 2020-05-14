@@ -15,8 +15,18 @@
           "type": "string"
         },
         "launch_date": {
-          "type": "string",
-          "format": "date-time"
+          "anyOf": [
+            {
+              "type": "string",
+              "enum": [
+                ""
+              ]
+            },
+            {
+              "type": "string",
+              "format": "date"
+            }
+          ]
         },
         "safe_harbor": {
           "type": "string",
@@ -42,7 +52,6 @@
         "policy_url",
         "safe_harbor",
         "bug_bounty",
-        "swag",
         "hall_of_fame"
       ]
     }
