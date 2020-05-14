@@ -2510,6 +2510,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Eggy",
+    "policy_url": "https://eggy.com.au/vulnerability-disclosure",
+    "submission_url": "https://eggy.com.au/vulnerability-disclosure",
+    "launch_date": "2020-04-27",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Electroneum",
     "policy_url": "https://hackerone.com/electroneum",
     "submission_url": "",
