@@ -5,7 +5,7 @@
     "submission_url": "https://bugcrowd.com/isc2/report",
     "launch_date": "",
     "bug_bounty": false,
-    "swagf": false,
+    "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
@@ -4890,10 +4890,10 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "MovieXchange",
+    "program_name": "movieXchange",
     "policy_url": "https://moviexchange.com/responsible-disclosure-policy/",
-    "submission_url": "security@movieXchange.com",
-    "launch_date": "",
+    "submission_url": "mailtto:security@movieXchange.com",
+    "launch_date": "2018-11-08",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
@@ -8215,6 +8215,16 @@
     "submission_url": "responsible-disclosure@visma.com",
     "launch_date": "",
     "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Vista Entertainment Solutions",
+    "policy_url": "https://vista.co/responsible-disclosure-policy/",
+    "submission_url": "maitlto:security@vista.co",
+    "launch_date": "2018-05-01",
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "full"
