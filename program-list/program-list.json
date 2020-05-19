@@ -1870,23 +1870,13 @@
 	},
 	{
 		"program_name": "Comcast",
-		"policy_url": "https://my.xfinity.com/vulnerabilityreport",
-		"submission_url": "https://my.xfinity.com/vulnerabilityreport",
+		"policy_url": "https://bugcrowd.com/comcastvdp",
+		"submission_url": "https://bugcrowd.com/comcastvdp/report",
 		"launch_date": "",
 		"bug_bounty": false,
 		"swag": false,
-		"hall_of_fame": false,
-		"safe_harbor": "full"
-	},
-	{
-		"program_name": "Comcast",
-		"policy_url": "https://my.xfinity.com/vulnerabilityreport",
-		"submission_url": "https://my.xfinity.com/vulnerabilityreport",
-		"launch_date": "",
-		"bug_bounty": false,
-		"swag": false,
-		"hall_of_fame": false,
-		"safe_harbor": ""
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Commonsware",
@@ -2812,6 +2802,16 @@
 		"program_name": "Fiat Chrysler Automobiles",
 		"policy_url": "https://bugcrowd.com/fca",
 		"submission_url": "https://bugcrowd.com/fca/report",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Files.com",
+		"policy_url": "https://bugcrowd.com/files",
+		"submission_url": "https://bugcrowd.com/files/report",
 		"launch_date": "",
 		"bug_bounty": true,
 		"swag": false,
@@ -6059,16 +6059,6 @@
 		"safe_harbor": "full"
 	},
 	{
-		"program_name": "Procter & Gamble",
-		"policy_url": "https://hackerone.com/proctergamble",
-		"submission_url": "https://hackerone.com/81892a26-2ee2-4d58-9eaa-73aec3508844/embedded_submissions/new",
-		"launch_date": "",
-		"bug_bounty": false,
-		"swag": false,
-		"hall_of_fame": false,
-		"safe_harbor": "full"
-	},
-	{
 		"program_name": "Proofpoint",
 		"policy_url": "https://www.proofpoint.com/us/security",
 		"submission_url": "security@proofpoint.com",
@@ -7546,17 +7536,7 @@
 		"bug_bounty": false,
 		"swag": true,
 		"hall_of_fame": true,
-		"safe_harbor": "None"
-	},
-	{
-		"program_name": "TechGig",
-		"policy_url": "https://www.techgig.com/bugbounty",
-		"submission_url": "https://www.techgig.com/bugbounty#security-issue",
-		"launch_date": "",
-		"bug_bounty": false,
-		"swag": true,
-		"hall_of_fame": true,
-		"safe_harbor": "None"
+		"safe_harbor": ""
 	},
 	{
 		"program_name": "TechSmith",
@@ -8550,13 +8530,13 @@
 	},
 	{
 		"program_name": "Xfinity",
-		"policy_url": "https://my.xfinity.com/vulnerabilityreport",
-		"submission_url": "https://my.xfinity.com/vulnerabilityreport",
+		"policy_url": "https://bugcrowd.com/xfinity-home",
+		"submission_url": "https://bugcrowd.com/xfinity-home/report",
 		"launch_date": "",
-		"bug_bounty": false,
+		"bug_bounty": true,
 		"swag": false,
-		"hall_of_fame": false,
-		"safe_harbor": ""
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Xilinx",
@@ -8783,7 +8763,7 @@
 		"policy_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
 		"submission_url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
 		"launch_date": "",
-		"bug_bounty": true,
+		"bug_bounty": false,
 		"swag": false,
 		"hall_of_fame": "",
 		"safe_harbor": ""
@@ -8925,17 +8905,7 @@
 		"launch_date": "",
 		"bug_bounty": false,
 		"swag": false,
-		"hall_of_fame": "true",
-		"safe_harbor": ""
-	},
-	{
-		"program_name": "Central Bank",
-		"policy_url": "https://www.centralbank.net/personal/security/responsible-disclosure/",
-		"submission_url": "responsible.disclosure@centralbank.net",
-		"launch_date": "",
-		"bug_bounty": "",
-		"swag": false,
-		"hall_of_fame": "",
+		"hall_of_fame": true,
 		"safe_harbor": ""
 	},
 	{
@@ -9006,7 +8976,7 @@
 		"bug_bounty": true,
 		"swag": true,
 		"hall_of_fame": true,
-		"safe_harbor": true
+		"safe_harbor": ""
 	},
 	{
 		"program_name": "TransIP",
@@ -9017,5 +8987,85 @@
 		"swag": "",
 		"hall_of_fame": "",
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Unilever",
+		"policy_url": "https://bugcrowd.com/unilever-vdp",
+		"submission_url": "https://bugcrowd.com/unilever-vdp/report",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
+	},
+	{
+		"program_name": "TransferWise",
+		"policy_url": "https://bugcrowd.com/transferwise",
+		"submission_url": "https://bugcrowd.com/transferwise/report",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Takeaway.com",
+		"policy_url": "https://bugcrowd.com/takeaway",
+		"submission_url": "https://bugcrowd.com/takeaway/report",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Vonage",
+		"policy_url": "https://bugcrowd.com/vonage",
+		"submission_url": "https://bugcrowd.com/vonage/report",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Lime",
+		"policy_url": "https://bugcrowd.com/lime",
+		"submission_url": "https://bugcrowd.com/lime/report",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Boozt Fashion",
+		"policy_url": "https://bugcrowd.com/boozt-og",
+		"submission_url": "https://bugcrowd.com/boozt-og/report",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "BitDiscovery",
+		"policy_url": "https://bugcrowd.com/bitdiscovery",
+		"submission_url": "https://bugcrowd.com/bitdiscovery/report",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Blend",
+		"policy_url": "https://bugcrowd.com/blend-vdp",
+		"submission_url": "https://bugcrowd.com/blend-vdp/report",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
 	}
 ]
