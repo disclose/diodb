@@ -906,4 +906,4 @@
 "JetBrains","https://www.jetbrains.com/legal/terms/coordinated-disclosure.html","security@jetbrains.com","",true,false,"","partial"
 "Canva","https://www.canva.com/security/bug-bounty/","https://www.canva.com/security/bug-bounty/","",true,"","","partial"
 "Repl.it","https://docs.repl.it/misc/security","security@repl.it","",false,false,true,"partial"
-"MongoDB","https://www.mongodb.com/security","security@mongodb.com","",false,false,"true","partial"
+"MongoDB","https://www.mongodb.com/security","security@mongodb.com","",false,false,true,"partial"
