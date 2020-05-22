@@ -329,6 +329,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Airmap",
+		"policy_url": "https://www.airmap.com/responsible-disclosure-policy/",
+		"submission_url": "security@airmap.com",
+		"launch_date": "2017-01-20",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "full"
+	},
+	{
 		"program_name": "Airtable",
 		"policy_url": "https://airtable.com/security",
 		"submission_url": "security@airtable.com",
@@ -1997,6 +2007,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Cox.com",
+		"policy_url": "https://www.cox.com/aboutus/policies/cox-security-responsible-disclosure-policy.html",
+		"submission_url": "securebug@cox.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Craigslist",
@@ -4229,6 +4249,16 @@
 		"safe_harbor": "partial"
 	},
 	{
+		"program_name": "Lego",
+		"policy_url": "https://www.lego.com/en-nl/legal/notices-and-policies/responsible-disclosure-policy/",
+		"submission_url": "whitehat@lego.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
+	},
+	{
 		"program_name": "Lenova",
 		"policy_url": "https://www.lenovo.com/us/en/product-security/vulnerability-disclosure-policy",
 		"submission_url": "psirt@lenovo.com",
@@ -5139,6 +5169,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Needabreak",
+		"policy_url": "https://needabreak.com/responsible-disclosure-policy/",
+		"submission_url": "responsibledisclosure@choicehotels.com",
+		"launch_date": "2019-03-09",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": ""
+	},
+	{
 		"program_name": "Neophotonics",
 		"policy_url": "https://bugcrowd.com/neophotonics",
 		"submission_url": "https://bugcrowd.com/neophotonics/programs",
@@ -5267,6 +5307,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Northwestern Mutual",
+		"policy_url": "https://www.northwesternmutual.com/responsible-disclosure-policy/",
+		"submission_url": "security@northwesternmutual.com",
+		"launch_date": "2019-11-15",
+		"bug_bounty": "",
+		"swag": "",
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Notepad++",
@@ -6029,6 +6079,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Practo",
+		"policy_url": "https://www.practo.com/company/responsible-disclosure-policy",
+		"submission_url": "secure@practo.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
 		"program_name": "Prezi",
 		"policy_url": "https://bugbounty.prezi.com/",
 		"submission_url": "security@infogr.am",
@@ -6307,6 +6367,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Realtor",
+		"policy_url": "https://www.realtor.com/responsible-disclosure-policy/",
+		"submission_url": "security@move.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Recargapay",
