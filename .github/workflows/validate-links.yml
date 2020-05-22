@@ -9,5 +9,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+    - name: Install dependencies
+      run: npm ci
     - name: validate-links action step
       uses: ./.github/actions/validate-links
