@@ -3119,6 +3119,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "GetAmbassador",
+		"policy_url": "https://www.getambassador.com/responsible-disclosure-policy",
+		"submission_url": "security@getambassador.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": true,
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
+	},
+	{
 		"program_name": "Getbase",
 		"policy_url": "https://bugbounty.getbase.com/",
 		"submission_url": "https://bugbounty.getbase.com/",
@@ -4430,6 +4440,16 @@
 	},
 	{
 		"program_name": "Lookout",
+		"policy_url": "https://www.lumosity.com/en/legal/responsible_disclosure_policy/",
+		"submission_url": "disclosure@lumoslabs.com",
+		"launch_date": "2019-08-08",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Lumosity",
 		"policy_url": "https://www.lookout.com/legal/responsible-disclosure",
 		"submission_url": "security@lookout.com",
 		"launch_date": "",
@@ -4807,6 +4827,16 @@
 		"swag": false,
 		"hall_of_fame": false,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Merkle Inc.",
+		"policy_url": "https://www.merkleinc.com/responsible-disclosure-policy",
+		"submission_url": "responsibledisclosure@merkleinc.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Microsoft (Online Services)",
