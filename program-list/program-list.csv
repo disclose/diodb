@@ -88,7 +88,7 @@
 "Ayden","https://support.adyen.com/hc/en-us/articles/115001187330-How-do-I-report-a-possible-security-issue-to-Adyen-","https://support.adyen.com/hc/en-us/requests/new","",false,false,false,""
 "Ayers Rock Resort","https://www.ayersrockresort.com.au/terms-and-conditions/security","vulnerability@voyages.com.au","",false,false,true,"partial"
 "BASF","https://www.basf.com/global/en/legal/responsible-disclosure-statement.html","securemail@basf.com","",false,true,true,""
-"BBC","https://www.bbc.com/backstage/security-disclosure-policy/","mailo:security@bbc.co.uk","",false,false,true,"partial"
+"BBC","https://www.bbc.com/backstage/security-disclosure-policy/","mailo:security@bbc.co.uk","",false,true,true,"partial"
 "BD","https://www.bd.com/en-us/support/product-security-and-privacy/","productsecurity@bd.com","",false,false,false,""
 "BMW","https://www.bmwgroup.com/en/general/Security.html","report-vulnerabilities@bmwgroup.com","",false,false,true,""
 "BTX Trader","https://www.btxtrader.com/bugbounty.html#/bugbounty","security@btxtrader.com","",false,false,false,""

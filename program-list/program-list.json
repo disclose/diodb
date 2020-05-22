@@ -894,7 +894,7 @@
 		"submission_url": "mailo:security@bbc.co.uk",
 		"launch_date": "",
 		"bug_bounty": false,
-		"swag": false,
+		"swag": true,
 		"hall_of_fame": true,
 		"safe_harbor": "partial"
 	},
