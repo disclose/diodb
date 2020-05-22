@@ -11,5 +11,6 @@ jobs:
       uses: actions/checkout@v2
     - name: Install dependencies
       run: npm ci
+      working-directory: ./.github/actions/validate-links
     - name: validate-links action step
       uses: ./.github/actions/validate-links
