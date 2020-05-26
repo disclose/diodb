@@ -298,7 +298,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
   try {
     main();
   } catch (error) {
-    console.log(error.message);
+    core.setFailed(error.message);
     return;
   };
 
