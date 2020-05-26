@@ -256,7 +256,6 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       file = await fsPromises.readFile(PROGRAM_LIST_FILE, 'utf8');
     } catch (error) {
       core.setFailed(error.message);
-      done = true;
       return;
     }
 
@@ -264,7 +263,6 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       programsList = JSON.parse(file);
     } catch (error) {
       core.setFailed(error.message);
-      done = true;
       return;
     }
 
@@ -291,24 +289,21 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       } else {
         console.log('\nAll policy URLs appear to be valid.\n');
       }
-      done = true;
     });
   };
 
   try {
-    main();
+    main().then(() => { done = true; });
   } catch (error) {
     core.setFailed(error.message);
-    return;
+    done = true;
   };
 
-  // Wait for fulfillment of main() promise
-  if (!done) {
-    const timeout = setInterval(() => {
-      if (done) {
-        clearInterval(timeout);
-      }
-    }, 1000);
-  }
+  // Prevent process from exiting until main() promise is settled (See
+  // https://github.com/nodejs/node/issues/22088)
+  const noExitUntilPromiseSettled = () => {
+    if (!done) { setTimeout(noExitUntilPromiseSettled, 1000); }
+  };
+  noExitUntilPromiseSettled();
 })();
 
