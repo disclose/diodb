@@ -105,12 +105,10 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
           resolve(true);
         } else {
           let additionalInfo;
-          if (statusCode === 404) {
-            additionalInfo = tryingGETMsg;
-          } else if ([301, 308].includes(statusCode)) {
+          if ([301, 308].includes(statusCode)) {
             additionalInfo = '\nLocation: ' +
                 `${incomingMessage.headers['location']}`;
-          } else {
+          } else { // including 404
             additionalInfo = tryingGETMsg;
           }
           reject(new Error(headMsgIntro + `${incomingMessage.statusCode} ` +
