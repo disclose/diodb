@@ -81,7 +81,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
     'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ' +
       '(KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36',
   };
-  const tryingGETStr = 'Trying GET...';
+  const tryingGETMsg = 'Trying GET...';
 
   const tryHEADRequest = (protocol, url) => {
     return new Promise((resolve, reject) => {
@@ -106,12 +106,12 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
         } else {
           let additionalInfo;
           if (statusCode === 404) {
-            additionalInfo = tryingGETStr;
+            additionalInfo = tryingGETMsg;
           } else if ([301, 308].includes(statusCode)) {
             additionalInfo = '\nLocation: ' +
                 `${incomingMessage.headers['location']}`;
           } else {
-            additionalInfo = tryingGETStr;
+            additionalInfo = tryingGETMsg;
           }
           reject(new Error(headMsgIntro + `${incomingMessage.statusCode} ` +
               `${incomingMessage.statusMessage}. ${additionalInfo}`));
@@ -120,10 +120,10 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
         clientRequest.destroy();
         reject(new Error(headMsgIntro +
             `Socket timed out after more than ${SOCKET_IDLE_TIMEOUT / 1000}` +
-            ' seconds of inactivity. ' + tryingGETStr));
+            ' seconds of inactivity. ' + tryingGETMsg));
       }).on('error', (error) => {
         clientRequest.destroy();
-        reject(new Error(headMsgIntro + error.message + '. ' + tryingGETStr));
+        reject(new Error(headMsgIntro + error.message + '. ' + tryingGETMsg));
       }).end();
     });
   };
@@ -200,7 +200,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
         await tryHEADRequest(protocol, url);
         resolve(true);
       } catch (error) {
-        if (error.message.endsWith(tryingGETStr)) {
+        if (error.message.endsWith(tryingGETMsg)) {
           const headErrorMsg = error.message;
           try {
             await tryGETRequest(protocol, url);
