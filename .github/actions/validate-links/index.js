@@ -28,8 +28,6 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
   const decompressResponseBody = async (incomingMessage) => {
     return new Promise(async (resolve, reject) => {
       let encoding;
-      let responseBodyStream;
-
       try {
         encoding = incomingMessage.headers['content-type'].split('=')[1].trim()
             .toLowerCase() === 'iso-8859-1'? 'latin1': 'utf8';
@@ -38,6 +36,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       }
 
       const contentEncodingHeader = incomingMessage.headers['content-encoding'];
+      let responseBodyStream;
       switch (
         contentEncodingHeader? contentEncodingHeader.toLowerCase(): 'identity'
       ) {
@@ -176,7 +175,6 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
 
   const checkPolicyURL = async (program) => {
     return new Promise(async (resolve, reject) => {
-      let protocol;
       let url;
       try {
         url = new URL(program.policy_url);
@@ -185,6 +183,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
         return;
       }
 
+      let protocol;
       if (url.protocol === 'https:') {
         protocol = https;
       } else if (url.protocol === 'http:') {
@@ -244,12 +243,8 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
   };
 
 
-  let done = false;
-
   const main = async () => {
     let file;
-    let programsList;
-
     try {
       file = await fsPromises.readFile(PROGRAM_LIST_FILE, 'utf8');
     } catch (error) {
@@ -257,6 +252,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       return;
     }
 
+    let programsList;
     try {
       programsList = JSON.parse(file);
     } catch (error) {
@@ -290,6 +286,7 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
     });
   };
 
+  let done = false;
   try {
     main().then(() => { done = true; });
   } catch (error) {
