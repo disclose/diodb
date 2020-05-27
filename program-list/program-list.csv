@@ -254,6 +254,7 @@
 "Ed","https://hackerone.com/ed","","",false,false,true,"full"
 "Edmodo","","privacy@edmodo.com","",false,true,false,""
 "Eero","https://bugcrowd.com/eero","https://bugcrowd.com/eero/report","",false,true,true,"partial"
+"Eggy","https://eggy.com.au/vulnerability-disclosure","https://eggy.com.au/vulnerability-disclosure","2020-04-27",false,false,true,"full"
 "Electroneum","https://hackerone.com/electroneum","","",true,false,true,""
 "Electronic Frontier Foundation","https://www.eff.org/security","vulnerabilities@eff.org","",false,true,true,"partial"
 "Eligible","https://eligible.com/responsible_disclosure_program","security@eligible.com","",true,false,false,""
