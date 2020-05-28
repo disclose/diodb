@@ -4,8 +4,11 @@ Check if program-list.json is correctly ordered.
 
 ## How to use
 
-Run the bash script passing a json namefile as argument:
-
+The script is a python3 script, which can take the following arguments:
 ~~~~
-./test_order.sh program-list.json
+-j, --jsonfile <JSONFILE>
+    Input json file (default: program-list.json)
+    
+-oj, --outfile-json <OUTFILE_JSON>
+    Output json file (default: program-list.json)
 ~~~~

@@ -25,7 +25,7 @@ To encourage vulnerability research and to avoid any confusion between legitimat
 - You should only interact with test accounts you own or with explicit permission from the account holder; and
 - Do not engage in extortion.
 
-# Safe Harbor
+# Safe Harbour
 
 We consider vulnerability research that attempts, in good faith, to comply with this policy to be:
 
