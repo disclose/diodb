@@ -336,6 +336,7 @@
 "HR Partner","https://www.hrpartner.io/security.html","support@hrpartner.io","",false,false,false,"partial"
 "HTC","https://www.htc.com/us/terms/product-security/","security@htc.com","",false,false,false,""
 "Hack Me!","https://bugcrowd.com/hackme","https://bugcrowd.com/hackme/report","",false,false,true,"partial"
+"Hackchecks Infosec Solutions","https://hackchecks.in/responsible-disclosure/","security@hackchecks.in", "2020-05-01",false,false,true,""
 "Hackerone","https://hackerone.com/security","","",true,false,true,"full"
 "Hanno's Project","https://hackerone.com/hannob","","",false,false,true,"full"
 "Harmony","http://get.harmonyapp.com/security/","security@collectiveidea.com","",false,false,true,""
