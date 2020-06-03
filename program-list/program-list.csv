@@ -589,6 +589,7 @@
 "PayTm","https://bugbounty.paytm.com/","https://bugbounty.paytm.com/report","",true,false,true,"full"
 "Perl","http://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION","perl5-security-report@perl.org","",true,false,true,""
 "Pfizer","https://hackerone.com/pfizer","Privacy.Officer@pfizer.com","",false,false,false,"false"
+"Pepperfry","https://www.pepperfry.com/whitehat.html","security@pepperfry.com","","false","false","true",""
 "Personal Capital","https://www.personalcapital.com/responsible-disclosure/","https://www.personalcapital.com/responsible-disclosure/","",false,false,false,"full"
 "Phabricator","https://hackerone.com/phabricator","","",true,false,true,""
 "Philips","https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure.html","productsecurity@philips.com","",false,false,true,"partial"
