@@ -5,7 +5,7 @@
 		"submission_url": "https://bugcrowd.com/isc2/report",
 		"launch_date": "",
 		"bug_bounty": false,
-		"swagf": false,
+		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": "partial"
 	},
