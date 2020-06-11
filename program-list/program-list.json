@@ -18098,5 +18098,15 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": "full"
+	},
+	{
+		"program_name": "ClickUp",
+		"policy_url": "https://clickup.com/bug-bounty",
+		"submission_url": "https://dev-forms.clickup.com/f/ad-5962/ZGGQR8LQHBS6C700K0",
+		"launch_date": "",
+		"bug_bounty": true,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": ""
 	}
 ]
