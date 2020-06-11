@@ -3338,6 +3338,16 @@
 		"hall_of_fame": true,
 		"safe_harbor": "partial"
 	},
+ 	{
+		"program_name": "Hackchecks Infosec Solutions",
+		"policy_url": "https://hackchecks.in/responsible-disclosure/",
+		"submission_url": "security@hackchecks.in",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": ""
+	},
 	{
 		"program_name": "Hackerone",
 		"policy_url": "https://hackerone.com/security",
@@ -5847,6 +5857,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": "full"
+	},
+ 	{
+		"program_name": "Pepperfry",
+		"policy_url": "https://www.pepperfry.com/whitehat.html",
+		"submission_url": "security@pepperfry.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": ""
 	},
 	{
 		"program_name": "Perl",
