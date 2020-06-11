@@ -329,6 +329,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Airmap",
+		"policy_url": "https://www.airmap.com/responsible-disclosure-policy/",
+		"submission_url": "security@airmap.com",
+		"launch_date": "2017-01-20",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "full"
+	},
+	{
 		"program_name": "Airtable",
 		"policy_url": "https://airtable.com/security",
 		"submission_url": "security@airtable.com",
@@ -884,7 +894,7 @@
 		"submission_url": "mailo:security@bbc.co.uk",
 		"launch_date": "",
 		"bug_bounty": false,
-		"swag": false,
+		"swag": true,
 		"hall_of_fame": true,
 		"safe_harbor": "partial"
 	},
@@ -1987,6 +1997,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Cox.com",
+		"policy_url": "https://www.cox.com/aboutus/policies/cox-security-responsible-disclosure-policy.html",
+		"submission_url": "securebug@cox.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Craigslist",
@@ -3097,6 +3117,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "GetAmbassador",
+		"policy_url": "https://www.getambassador.com/responsible-disclosure-policy",
+		"submission_url": "security@getambassador.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": true,
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Getbase",
@@ -4239,6 +4269,16 @@
 		"safe_harbor": "partial"
 	},
 	{
+		"program_name": "Lego",
+		"policy_url": "https://www.lego.com/en-nl/legal/notices-and-policies/responsible-disclosure-policy/",
+		"submission_url": "whitehat@lego.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
+	},
+	{
 		"program_name": "Lenova",
 		"policy_url": "https://www.lenovo.com/us/en/product-security/vulnerability-disclosure-policy",
 		"submission_url": "psirt@lenovo.com",
@@ -4410,6 +4450,16 @@
 	},
 	{
 		"program_name": "Lookout",
+		"policy_url": "https://www.lumosity.com/en/legal/responsible_disclosure_policy/",
+		"submission_url": "disclosure@lumoslabs.com",
+		"launch_date": "2019-08-08",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Lumosity",
 		"policy_url": "https://www.lookout.com/legal/responsible-disclosure",
 		"submission_url": "security@lookout.com",
 		"launch_date": "",
@@ -4789,6 +4839,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Merkle Inc.",
+		"policy_url": "https://www.merkleinc.com/responsible-disclosure-policy",
+		"submission_url": "responsibledisclosure@merkleinc.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
+	},
+	{
 		"program_name": "Microsoft (Online Services)",
 		"policy_url": "http://technet.microsoft.com/en-us/security/dn800983",
 		"submission_url": "secure@microsoft.com",
@@ -5149,6 +5209,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Needabreak",
+		"policy_url": "https://needabreak.com/responsible-disclosure-policy/",
+		"submission_url": "responsibledisclosure@choicehotels.com",
+		"launch_date": "2019-03-09",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": ""
+	},
+	{
 		"program_name": "Neophotonics",
 		"policy_url": "https://bugcrowd.com/neophotonics",
 		"submission_url": "https://bugcrowd.com/neophotonics/programs",
@@ -5277,6 +5347,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": ""
+	},
+	{
+		"program_name": "Northwestern Mutual",
+		"policy_url": "https://www.northwesternmutual.com/responsible-disclosure-policy/",
+		"submission_url": "security@northwesternmutual.com",
+		"launch_date": "2019-11-15",
+		"bug_bounty": "",
+		"swag": "",
+		"hall_of_fame": true,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Notepad++",
@@ -6049,6 +6129,16 @@
 		"safe_harbor": ""
 	},
 	{
+		"program_name": "Practo",
+		"policy_url": "https://www.practo.com/company/responsible-disclosure-policy",
+		"submission_url": "secure@practo.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": true,
+		"safe_harbor": "full"
+	},
+	{
 		"program_name": "Prezi",
 		"policy_url": "https://bugbounty.prezi.com/",
 		"submission_url": "security@infogr.am",
@@ -6317,6 +6407,16 @@
 		"swag": false,
 		"hall_of_fame": true,
 		"safe_harbor": "full"
+	},
+	{
+		"program_name": "Realtor",
+		"policy_url": "https://www.realtor.com/responsible-disclosure-policy/",
+		"submission_url": "security@move.com",
+		"launch_date": "",
+		"bug_bounty": false,
+		"swag": false,
+		"hall_of_fame": false,
+		"safe_harbor": "partial"
 	},
 	{
 		"program_name": "Recargapay",
