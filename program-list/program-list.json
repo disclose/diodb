@@ -8800,14 +8800,14 @@
         "safe_harbor": "partial"
     },
     {
-      "program_name": "Wedbio",
-      "policy_url": "https://wedbio.com/report-incident",
-      "submission_url": "contact@wedbio.com",
-      "launch_date": "",
-      "bug_bounty": false,
-      "swag": false,
-      "hall_of_fame": "true",
-      "safe_harbor": ""
+        "program_name": "Wedbio",
+        "policy_url": "https://wedbio.com/report-incident",
+        "submission_url": "contact@wedbio.com",
+        "launch_date": "",
+        "bug_bounty": false,
+        "swag": false,
+        "hall_of_fame": "true",
+        "safe_harbor": ""
     },
     {
         "program_name": "Wepay",
