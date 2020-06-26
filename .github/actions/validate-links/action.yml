@@ -1,0 +1,6 @@
+name: 'Validate links'
+description: "Validate programs' policy_urls, and flag the ones that appear to be invalid."
+runs:
+  using: 'node12'
+  main: 'index.js'
+

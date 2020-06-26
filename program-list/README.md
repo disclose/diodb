@@ -3,12 +3,12 @@
 > The community-powered index of ALL known public bug bounty and vulnerability disclosure programs, including their safe harbor status.  
 
 ## How to contribute  
-If you've found a new program, new information on an existing program, or think a program should be deleted, you can contribute to bug-bounty-list by issuing a pull request (PR) to the repo. If you're new to Github, [this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) is a good primer on how PRs work. 
+If you've found a new program, new information on an existing program, or think a program should be deleted, you can contribute to the bug-bounty-list by issuing a pull request (PR) to the repo. If you're new to Github, [this article](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) is a good primer on how PRs work. 
 
 ## Before you go hunting for new programs to add...
 
-Programs on bug-bounty-list need to satisfy the definition of a public bug bounty or vulnerability disclosure program, which means they need two key components:
-  1. A publicly accessible vulnerability disclosure policy sometimes called a program brief, or bounty brief, and 
+Programs on the bug-bounty-list need to satisfy the definition of a public bug bounty or vulnerability disclosure program, which means they need two key components:
+  1. A publicly accessible vulnerability disclosure policy, sometimes called a program brief or bounty brief, and 
   2. A publicly accessible channel for vulnerability submission **which is explicitly mentioned in the vulnerability disclosure policy**.  
   
 Some examples of suggestions that won't be accepted:
@@ -33,7 +33,7 @@ Some examples of suggestions that won't be accepted:
     "program_name": "Tesla",
     "policy_url": "https://bugcrowd.com/tesla",
     "submission_url": "https://bugcrowd.com/tesla/report",
-    "launch_date": "",
+    "launch_date": "2013-11-26",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
@@ -41,14 +41,14 @@ Some examples of suggestions that won't be accepted:
   },
 ~~~~
 
-*Example: Tesla... Can you find the date they first launched their bug bounty program?*
+*Example: Tesla*
 
 ## How to fill out the safe harbor field
 
 The list supports three safe harbor states: Full, Partial, and None. The flow below will help you determine which applies to the policy as you contribute to the list:  
 
 1. Does the policy mention anything about legal protections for good-faith hackers? If it does, go to Step 2. If not, then you should choose **"None"**. 
-2. Does the policy talk about authorization of testing and/or an exemption from preexisting legal terms? In addition, does the policy clearly define the scope of testing, the compensation for valid findings, the official communication channels, and a disclosure policy? If so, you should choose **"Full"**. If not got to Step 3.
+2. Does the policy talk about authorization of testing and/or an exemption from pre-existing legal terms? In addition, does the policy clearly define the scope of testing, the compensation for valid findings, the official communication channels, and a disclosure policy? If so, you should choose **"Full"**. If not got to Step 3.
 3. Does the policy talk about "not legally pursuing researchers" or use similar language, but does not explicitly grant authorization and/or exemption for security testing? Are any of the key parameters described above ambiguously defined or missing completely? If so, you should choose **"Partial"**. 
 
 ## Other tips  
