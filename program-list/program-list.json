@@ -2600,6 +2600,16 @@
         "safe_harbor": "partial"
     },
     {
+        "program_name": "Elektra Labs",
+        "policy_url": "https://www.elektralabs.com/security",
+        "submission_url": "https://www.elektralabs.com/security",
+        "launch_date": "2019-10-08",
+        "bug_bounty": false,
+        "swag": false,
+        "hall_of_fame": false,
+        "safe_harbor": "full"
+    },
+    {
         "program_name": "Eligible",
         "policy_url": "https://eligible.com/responsible_disclosure_program",
         "submission_url": "security@eligible.com",
