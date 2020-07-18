@@ -987,7 +987,7 @@
         "bug_bounty": true,
         "swag": true,
         "hall_of_fame": true,
-        "safe_harbor": true
+        "safe_harbor": ""
     },
     {
         "program_name": "Better",
