@@ -5514,7 +5514,7 @@
         "policy_url": "https://www.nvidia.com/object/submit-security-vulnerability.html",
         "submission_url": "https://www.nvidia.com/object/submit-security-vulnerability.html",
         "launch_date": "",
-        "bug_bounty": true,
+        "bug_bounty": false,
         "swag": false,
         "hall_of_fame": true,
         "safe_harbor": ""
@@ -8034,7 +8034,7 @@
         "policy_url": "https://www.tinfoilsecurity.com/security",
         "submission_url": "security@tinfoilsecurity.com",
         "launch_date": "",
-        "bug_bounty": true,
+        "bug_bounty": false,
         "swag": false,
         "hall_of_fame": true,
         "safe_harbor": ""
