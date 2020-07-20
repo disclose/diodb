@@ -9200,7 +9200,7 @@
         "safe_harbor": "full"
     },
     {
-        "program_name": "certifix"
+        "program_name": "Certifix"
         "policy_url": "https://app.certifix.eu/security.txt"
         "submission_url": "security@certifix.eu"
         "launch_date": "",
