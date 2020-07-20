@@ -9198,5 +9198,15 @@
         "swag": false,
         "hall_of_fame": true,
         "safe_harbor": "full"
+    },
+    {
+        "program_name": "certifix"
+        "policy_url": "https://app.certifix.eu/security.txt"
+        "submission_url": "security@certifix.eu"
+        "launch_date": "",
+        "bug_bounty": true,
+        "swag": false,
+        "hall_of_fame": true,
+        "safe_harbor": ""
     }
 ]
