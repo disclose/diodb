@@ -985,9 +985,9 @@
     "submission_url": "https://www.bentley.com/en/about-us/contact-us/contact-us-form?topic=11",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": true,
-    "hall_of_fame": true,
-    "safe_harbor": ""
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Better",
@@ -7424,10 +7424,10 @@
     "policy_url": "https://www.splendiddata.com/responsible-disclosure-policy/",
     "submission_url": "security-alert@splendiddata.com",
     "launch_date": "",
-    "bug_bounty": false,
-    "swag": true,
-    "hall_of_fame": false,
-    "safe_harbor": ""
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "none"
   },
   {
     "program_name": "Splitwise",
@@ -7451,12 +7451,12 @@
   },
   {
     "program_name": "Spokeo",
-    "policy_url": "https://www.spokeo.com/security",
+    "policy_url": "https://www.spokeo.com/bug-bounty",
     "submission_url": "security@spokeo.com",
     "launch_date": "",
     "bug_bounty": true,
-    "swag": true,
-    "hall_of_fame": true,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": "partial"
   },
   {
@@ -9238,5 +9238,15 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Letsbuild",
+    "policy_url": "https://letsbuild.com/responsible-disclosure",
+    "submission_url": "security@letsbuild.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   }
 ]
