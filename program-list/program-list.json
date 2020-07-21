@@ -4541,13 +4541,13 @@
   },
   {
     "program_name": "Lumosity",
-    "policy_url": "https://www.lookout.com/legal/responsible-disclosure",
-    "submission_url": "security@lookout.com",
+    "policy_url": "https://www.lumosity.com/en/legal/responsible_disclosure_policy/",
+    "submission_url": "disclosure@lumoslabs.com",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Lyft",
