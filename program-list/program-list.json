@@ -7102,7 +7102,7 @@
   { "program_name": "Shape Security",
     "policy_url": "https://www.shapesecurity.com/report-a-vulnerability",
     "submission_url": "security@shapesecurity.com ",
-    "launch_date": "”,
+    "launch_date": "",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
