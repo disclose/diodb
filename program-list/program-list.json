@@ -2774,9 +2774,9 @@
     "policy_url": "https://support.f5.com/csp/article/K4602",
     "submission_url": "f5sirt@f5.com",
     "launch_date": "",
-    "bug_bounty": true,
+    "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
