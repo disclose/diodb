@@ -7101,7 +7101,7 @@
   },
   { 
     "program_name": "Shape Security",
-    "policy_url": "https://www.shapesecurity.com/report-a-vulnerability",
+    "policy_url": "https://hackerone.com/shape_security",
     "submission_url": "security@shapesecurity.com",
     "launch_date": "",
     "bug_bounty": true,
