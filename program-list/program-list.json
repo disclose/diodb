@@ -7090,6 +7090,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": “Shape Security“,
+    "policy_url": "https://www.shapesecurity.com/report-a-vulnerability",
+    "submission_url": "security@shapesecurity.com ",
+    "launch_date": "2019-11-15”,
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": “none”
+  },
+  {
     "program_name": "Shapeshift",
     "policy_url": "https://corp.shapeshift.io/responsible-disclosure-program/",
     "submission_url": "security@shapeshift.io",
