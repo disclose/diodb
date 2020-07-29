@@ -7424,8 +7424,8 @@
     "policy_url": "https://support.sphero.com/article/5drs94lhk5-vulnerability-disclosure-program",
     "submission_url": "security@sphero.com",
     "launch_date": "",
-    "bug_bounty": true,
-    "swag": true,
+    "bug_bounty": false,
+    "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
   },
