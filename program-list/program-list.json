@@ -707,7 +707,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "None"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Atlassian",
@@ -1446,7 +1446,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -1496,7 +1496,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": "",
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": "partial"
   },
   {
@@ -2876,7 +2876,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -3056,7 +3056,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -4086,7 +4086,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": "partial"
   },
   {
@@ -4156,7 +4156,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -4507,7 +4507,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "Partial"
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Loofah",
@@ -4596,7 +4596,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -4706,7 +4706,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -5026,7 +5026,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -5496,7 +5496,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": "full"
   },
   {
@@ -5526,7 +5526,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -5626,7 +5626,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
@@ -6107,7 +6107,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "false"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Phabricator",
@@ -6216,7 +6216,7 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -6397,7 +6397,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "false"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Qiwi",
@@ -7487,7 +7487,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "Partial"
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Sprout Social",
@@ -7577,7 +7577,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "None"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Starbucks",
@@ -7757,7 +7757,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "None"
+    "safe_harbor": "none"
   },
   {
     "program_name": "TD Ameritrade",
@@ -7847,7 +7847,7 @@
     "bug_bounty": false,
     "swag": true,
     "hall_of_fame": true,
-    "safe_harbor": "None"
+    "safe_harbor": "none"
   },
   {
     "program_name": "TechSmith",
@@ -8106,7 +8106,7 @@
     "launch_date": "",
     "bug_bounty": "",
     "swag": "",
-    "hall_of_fame": "",
+    "hall_of_fame": false,
     "safe_harbor": ""
   },
   {
@@ -8697,7 +8697,7 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "None"
+    "safe_harbor": "none"
   },
   {
     "program_name": "Vyond",
@@ -8806,7 +8806,7 @@
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": "true",
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
