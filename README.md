@@ -1,6 +1,6 @@
 # Disclose.io Terms
 
-> Our Vision: A healthy and ubiquitous Internet Immune System
+> Our Vision: A healthy and ubiquitous Internet Immune System  
 > Our Mission: To drive vulnerability disclosure adoption through safety, simplicity, and standardization.  
 
 [disclose.io](https://disclose.io) is a collaborative and vendor-agnostic movement that engages security researchers, corporate and independent legal experts, and industry leaders from all around the world. 
