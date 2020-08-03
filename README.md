@@ -1,4 +1,4 @@
-# Disclose.io Terms
+# disclose.io
 
 > Our Vision: A healthy and ubiquitous Internet Immune System  
 > Our Mission: To drive vulnerability disclosure adoption through safety, simplicity, and standardization.  
