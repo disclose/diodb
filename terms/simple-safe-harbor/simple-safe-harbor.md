@@ -1,5 +1,0 @@
-# Simple Safe Harbor
-
-We consider activities conducted consistent with this policy to constitute “authorized” access under anti-hacking laws. To the extent your activities are inconsistent with certain restrictions in our Acceptable Use Policy, we waive those restrictions for the limited purpose of permitting security research under this policy. We will not bring a  claim against you for circumventing the technological measures we have used to protect the applications in scope. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy. We will not pursue civil action or initiate a complaint to law enforcement for accidental, good faith violations of this policy. 
-
-Please submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.
