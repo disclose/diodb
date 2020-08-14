@@ -21,7 +21,7 @@ The disclose.io Project exists to drive the accelerated adoption of vulnerabilit
 1. Choose the [legal terms](https://github.com/disclose/terms) that best fit your vulnerabilty disclosure or bug bounty progam.
 2. Add the appropriate [disclose.io seal](https://github.com/disclose/seal) to your public program brief.
 3. Submit a pull request to add your program to the open-source disclose.io [program list](https://github.com/disclose/list).
-4. Let the world know you're joining the movement! Here are some [examples of others who have](https://github.com/disclose/list/program-list/program-list.json).
+4. Let the world know you're joining the movement! Here are some [examples of others who have](https://github.com/disclose/list/blob/master/program-list/program-list.json).
 4. Contribute back! We're looking for lawyers, hackers, and experts to collaborate. Check our [issues log](https://github.com/disclose/disclose/issues).
 
 For a more complete overview of disclose.io, a presentation from GRIMMCon is available [here](https://m.disclose.io/2ZuYjkg), and a video walkthrough of the project is available [here](https://www.youtube.com/watch?v=ARWG35whYLs).  
