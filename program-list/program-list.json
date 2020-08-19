@@ -20,6 +20,30 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "mackeeper.com",
+    "policy_url": "https://hackerone.com/clario/",
+    "contact_url": "bugbounty@weareclario.com"
+  },
+  {
+    "program_name": "Kromtech",
+    "policy_url": "https://hackerone.com/clario/",
+    "contact_url": "bugbounty@weareclario.com"
+  },
+  {
+    "program_name": "gener8ads.com",
+    "policy_url": "https://hackerone.com/gener8",
+    "contact_url": "https://hackerone.com/gener8",
+    "hall_of_fame": "https://hackerone.com/gener8/thanks",
+    "securitytxt_url": "https://gener8ads.com/.well-known/security.txt"
+  },
+  {
+    "program_name": "Allegro",
+    "policy_url": "https://hackerone.com/allegro?view_policy=true",
+    "contact_url": "https://hackerone.com/allegro/reports/new",
+    "hall_of_fame": "https://hackerone.com/allegro/hacktivity",
+    "hiring": "https://allegro.tech/jobs/"
+  },
+  {
     "program_name": "0x Project",
     "policy_url": "https://blog.0xproject.com/announcing-the-0x-protocol-bug-bounty-b0559d2738c",
     "submission_url": "team@0xproject.com",
