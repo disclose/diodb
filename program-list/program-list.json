@@ -20,11 +20,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "mackeeper.com",
-    "policy_url": "https://hackerone.com/clario/",
-    "contact_url": "bugbounty@weareclario.com"
-  },
-  {
     "program_name": "Kromtech",
     "policy_url": "https://hackerone.com/clario/",
     "contact_url": "bugbounty@weareclario.com"
@@ -4804,6 +4799,12 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Marriott",
+    "policy_url": "https://hackerone.com/marriott",
+    "contact_url": "mailto:security@marriott.com",
+    "hall_of_fame": "https://hackerone.com/marriott/thanks"
+  },
+    {
     "program_name": "Marketo",
     "policy_url": "https://documents.marketo.com/legal/notices/responsible-disclosure-policy.pdf",
     "submission_url": "securityteam@marketo.com",
@@ -7662,6 +7663,18 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "ui.com",
+    "policy_url": "https://ui.com/security/",
+    "contact_url": "security@ui.com",
+    "pgp_key": "https://ui.com/support/security-rewards/pgp-key/"
+  },
+  {
+    "program_name": "grab.com",
+    "policy_url": "https://hackerone.com/grab?view_policy=true",
+    "contact_url": "https://hackerone.com/grab",
+    "hall_of_fame": "https://hackerone.com/grab/thanks"
   },
   {
     "program_name": "StatusPage.io",
