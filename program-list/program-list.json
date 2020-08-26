@@ -39,16 +39,6 @@
     "hiring": "https://allegro.tech/jobs/"
   },
   {
-    "program_name": "0x Project",
-    "policy_url": "https://blog.0xproject.com/announcing-the-0x-protocol-bug-bounty-b0559d2738c",
-    "submission_url": "team@0xproject.com",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "123 Contact Form",
     "policy_url": "http://www.123contactform.com/security-acknowledgements.htm",
     "submission_url": "https://www.123formbuilder.com/contactus.html",
@@ -77,16 +67,6 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "full"
-  },
-  {
-    "program_name": "21 Century Fox",
-    "policy_url": "https://www.21cf.com/responsible-vulnerability-disclosure-policy/",
-    "submission_url": "disclosures@21cf.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
   },
   {
     "program_name": "23andme",
@@ -190,13 +170,13 @@
   },
   {
     "program_name": "Accenture",
-    "policy_url": "https://www.accenture.com/us-en/company-accenture-responsible-disclosure",
-    "submission_url": "Res.Disclosure@accenture.com",
+    "policy_url": "https://accenture.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://accenture.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "hall_of_fame": true,
+    "safe_harbor": ""
   },
   {
     "program_name": "Accredible",
@@ -3109,6 +3089,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "FusionFabric.cloud",
+    "policy_url": "https://fusionfabriccloud.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://fusionfabriccloud.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "GO-JEK",
     "policy_url": "https://bugcrowd.com/gojek",
     "submission_url": "https://bugcrowd.com/gojek/report",
@@ -5125,6 +5115,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Morgan Stanley",
+    "policy_url": "https://morganstanley.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://morganstanley.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Motorola",
     "policy_url": "https://www.motorola.com/us/legal/security-vulnerability",
     "submission_url": "security@motorola.com",
@@ -5185,16 +5185,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "MyStuff2 App",
-    "policy_url": "http://www.maddysoft.com/iphone/mystuff/bounty.php",
-    "submission_url": "rmaddy@maddysoft.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": true,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Mycrypto",
     "policy_url": "https://hackerone.com/mycrypto",
     "submission_url": "",
@@ -5218,6 +5208,16 @@
     "program_name": "Myob",
     "policy_url": "https://www.myob.com/au/about/security/report-security-vulnerability",
     "submission_url": "securityteam@myob.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Navy Federal",
+    "policy_url": "https://navyfederal.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://navyfederal.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -5895,6 +5895,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Palo Alto Networks",
+    "policy_url": "https://paloaltoneworks.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://paloaltoneworks.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "PC Extreme",
     "policy_url": "https://www.pcextreme.com/policies/responsible-disclosure",
     "submission_url": "security@pcextreme.nl",
@@ -6188,6 +6198,16 @@
     "program_name": "Piwik",
     "policy_url": "http://piwik.org/security/",
     "submission_url": "security@matomo.org",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Pizza Hut",
+    "policy_url": "https://pizzahut.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://pizzahut.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -7817,6 +7837,16 @@
     "safe_harbor": "none"
   },
   {
+    "program_name": "Taco Bell",
+    "policy_url": "https://tacobell.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://tacobell.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "TD Ameritrade",
     "policy_url": "https://www.tdameritrade.com/security/security-vulnerability.page",
     "submission_url": "sirt@tdameritrade.com",
@@ -8567,6 +8597,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Varo Money",
+    "policy_url": "https://varomoney.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://varomoney.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "VHX",
     "policy_url": "https://hackerone.com/vhx",
     "submission_url": "https://hackerone.com/vhx",
@@ -9072,6 +9112,16 @@
     "submission_url": "",
     "launch_date": "",
     "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Yum!",
+    "policy_url": "https://yum.responsibledisclosure.com/hc/en-us",
+    "submission_url": "https://yum.responsibledisclosure.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
