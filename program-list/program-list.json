@@ -6137,11 +6137,11 @@
   {
     "program_name": "Personal Capital",
     "policy_url": "https://www.personalcapital.com/responsible-disclosure/",
-    "submission_url": "https://www.personalcapital.com/responsible-disclosure/",
+    "submission_url": "https://bugcrowd.com/personalcapital/",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": "full"
   },
   {
