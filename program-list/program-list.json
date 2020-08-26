@@ -460,12 +460,12 @@
   },
   {
     "program_name": "Amazon",
-    "policy_url": "http://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201182150",
-    "submission_url": "http://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201182150",
+    "policy_url": "https://hackerone.com/amazonvrp",
+    "submission_url": "https://hackerone.com/amazonvrp",
     "launch_date": "",
-    "bug_bounty": false,
+    "bug_bounty": true,
     "swag": false,
-    "hall_of_fame": false,
+    "hall_of_fame": true,
     "safe_harbor": ""
   },
   {
