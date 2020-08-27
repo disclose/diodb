@@ -20,25 +20,6 @@
     "safe_harbor": "partial"
   },
   {
-    "program_name": "Kromtech",
-    "policy_url": "https://hackerone.com/clario/",
-    "contact_url": "bugbounty@weareclario.com"
-  },
-  {
-    "program_name": "gener8ads.com",
-    "policy_url": "https://hackerone.com/gener8",
-    "contact_url": "https://hackerone.com/gener8",
-    "hall_of_fame": "https://hackerone.com/gener8/thanks",
-    "securitytxt_url": "https://gener8ads.com/.well-known/security.txt"
-  },
-  {
-    "program_name": "Allegro",
-    "policy_url": "https://hackerone.com/allegro?view_policy=true",
-    "contact_url": "https://hackerone.com/allegro/reports/new",
-    "hall_of_fame": "https://hackerone.com/allegro/hacktivity",
-    "hiring": "https://allegro.tech/jobs/"
-  },
-  {
     "program_name": "123 Contact Form",
     "policy_url": "http://www.123contactform.com/security-acknowledgements.htm",
     "submission_url": "https://www.123formbuilder.com/contactus.html",
@@ -3351,8 +3332,8 @@
   {
     "program_name": "Grab",
     "policy_url": "https://hackerone.com/grab",
-    "submission_url": "",
-    "launch_date": "",
+    "submission_url": "https://hackerone.com/grab/reports/new",
+    "launch_date": "August 2015",
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
@@ -4799,12 +4780,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Marriott",
-    "policy_url": "https://hackerone.com/marriott",
-    "contact_url": "mailto:security@marriott.com",
-    "hall_of_fame": "https://hackerone.com/marriott/thanks"
-  },
-    {
     "program_name": "Marketo",
     "policy_url": "https://documents.marketo.com/legal/notices/responsible-disclosure-policy.pdf",
     "submission_url": "securityteam@marketo.com",
@@ -7695,18 +7670,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "ui.com",
-    "policy_url": "https://ui.com/security/",
-    "contact_url": "security@ui.com",
-    "pgp_key": "https://ui.com/support/security-rewards/pgp-key/"
-  },
-  {
-    "program_name": "grab.com",
-    "policy_url": "https://hackerone.com/grab?view_policy=true",
-    "contact_url": "https://hackerone.com/grab",
-    "hall_of_fame": "https://hackerone.com/grab/thanks"
-  },
-  {
     "program_name": "StatusPage.io",
     "policy_url": "https://bugcrowd.com/statuspage",
     "submission_url": "https://bugcrowd.com/statuspage/report",
@@ -9385,5 +9348,55 @@
     "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "full"
+  },
+  {
+    "program_name": "Clario",
+    "policy_url": "https://hackerone.com/clario",
+    "submission_url": "https://hackerone.com/clario/reports/new",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "gener8ads.com",
+    "policy_url": "https://hackerone.com/gener8",
+    "submission_url": "https://hackerone.com/gener8/reports/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Allegro",
+    "policy_url": "https://hackerone.com/allegro",
+    "submission_url": "https://hackerone.com/clario/reports/new",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Marriott",
+    "policy_url": "https://hackerone.com/marriott",
+    "submission_url": "https://hackerone.com/clario/reports/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Ubiquiti - Aside program to the current at HackerOne",
+    "policy_url": "https://ui.com/security/",
+    "submission_url": "https://www.ui.com/support/security-rewards/submit/",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
   }
 ]
