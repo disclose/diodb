@@ -3761,23 +3761,23 @@
   },
   {
     "program_name": "Ikea",
-    "policy_url": "https://www.ikea.com/ms/en_ES/responsible-disclosure/responsible_disclosure.html",
+    "policy_url": "https://www.ikea.com/es/en/customer-service/bug-bounty-program-pubf110a501",
+    "submission_url": "https://hackerone.com/a1a8c149-2765-43a8-ba68-a53c7970c869/embedded_submissions/new",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Illumio",
+    "policy_url": "https://illumio.responsibledisclosure.com/hc/en-us",
     "submission_url": "https://illumio.responsibledisclosure.com/hc/en-us/requests/new",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
-  },
-  {
-    "program_name": "Illumio",
-    "policy_url": "https://illumio.responsibledisclosure.com/hc/en-us",
-    "submission_url": "https://bugs.ikea.com/",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": "partial"
   },
   {
     "program_name": "Imgur",
