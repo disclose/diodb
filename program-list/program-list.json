@@ -681,10 +681,10 @@
   },
   {
     "program_name": "Athento",
-    "policy_url": "https://www.athento.com/bug-bounty-program-en/",
-    "submission_url": "support@athento.com",
+    "policy_url": "https://athento.zendesk.com/hc/es/articles/360010484720",
+    "submission_url": "https://athento.zendesk.com/hc/es/articles/360023151053",
     "launch_date": "",
-    "bug_bounty": true,
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "none"
@@ -5550,19 +5550,9 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "OLA",
-    "policy_url": "https://www.olacabs.com/whitehat?",
-    "submission_url": "https://www.olacabs.com/whitehat?page=reportIssue",
-    "launch_date": "",
-    "bug_bounty": true,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "OLAcabs",
     "policy_url": "https://www.olacabs.com/whitehat",
-    "submission_url": "https://www.olacabs.com/whitehat?page=reportIssue",
+    "submission_url": "https://whitehat.olacabs.com/report",
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
