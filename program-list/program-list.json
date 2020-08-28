@@ -1,6 +1,6 @@
 [
   {
-    "program_name": "(ISC)²",
+    "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
     "submission_url": "https://bugcrowd.com/isc2/report",
     "launch_date": "",
@@ -8,6 +8,25 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Grammarly",
+    "policy_url": "https://hackerone.com/grammarly",
+    "submission_url": "security@grammarly.com",
+    "hall_of_fame": "https://hackerone.com/grammarly/thanks",
+  },
+  {
+    "program_name": "The Hut Group",
+    "policy_url": "https://www.thg.com/bounty",
+    "submission_url": "mailto:securitybugs@thehutgroup.com",
+    "pgp_key": "https://www.thg.com/pgp-key.asc"
+  },
+  {
+    "program_name": "linode.com",
+    "policy_url": "https://hackerone.com/linode",
+    "submission_url": "disclosure@linode.com",
+    "pgp_key": "https://keybase.io/linodesecurity/pgp_keys.asc",
+    "hiring": "https://linode.com/careers"
   },
   {
     "program_name": ".nz Registry",
@@ -558,6 +577,12 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "navolnenoze.cz",
+    "policy_url": "https://navolnenoze.cz/o-nas/soukromi/",
+    "submission_url": "mailto:robert@vla.ch",
+    "preferred_languages": "cs"
   },
   {
     "program_name": "Aragon",
@@ -4080,6 +4105,14 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "jet.com",
+    "policy_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "submission_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "hiring": "https://careers.jet.com",
+    "securitytxt_url": "https://jet.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
     "program_name": "Jenkins",
     "policy_url": "https://wiki.jenkins-ci.org/display/JENKINS/How+to+report+an+issue#Howtoreportanissue-Creatingtheissue",
     "submission_url": "https://wiki.jenkins.io/display/JENKINS/How+to+report+an+issue#Howtoreportanissue-Creatingtheissue",
@@ -4758,6 +4791,28 @@
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "mnm.be",
+    "policy_url": "https://www.vrt.be/en/responsible-disclosure-policy-english-version/",
+    "submission_url": "mailto:infosec@vrt.be",
+    "hall_of_fame": "https://www.vrt.be/nl/info/responsible-disclosure-policy/responsible-disclosure-hall-of-fame/",
+    "pgp_key": "https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt"
+  },
+  {
+    "program_name": "Duo Security",
+    "policy_url": "https://duo.com/about/security-and-reliability/security-response",
+    "submission_url": "psirt@duosecurity.com",
+    "pgp_key": "https://duo.com/assets/files/duosec_pgp.txt",
+    "hiring": "https://duo.com/about/careers"
+  },
+  {
+    "program_name": "avm.de",
+    "policy_url": "https://avm.de/service/sicherheitsinfos-zu-updates/",
+    "submission_url": "security@avm.de",
+    "hall_of_fame": "https://avm.de/service/sicherheitsinfos-zu-updates/",
+    "pgp_key": "https://avm.de/fileadmin/user_upload/Global/Service/Sicherheit/avm_security.asc",
+    "hiring": "https://jobs.avm.de/"
   },
   {
     "program_name": "MapsMarker.com.eu",
