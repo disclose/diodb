@@ -9292,7 +9292,7 @@
   {
     "program_name": "movieXchange",
     "policy_url": "https://moviexchange.com/responsible-disclosure-policy/",
-    "submission_url": "mailtto:security@movieXchange.com",
+    "submission_url": "security@movieXchange.com",
     "launch_date": "2018-11-08",
     "bug_bounty": false,
     "swag": false,
@@ -9397,6 +9397,186 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Joyus",
+    "policy_url": "https://joyus.zendesk.com/hc/en-us/articles/115005402923-Responsible-Disclosure-of-Security-Vulnerabilities-",
+    "submission_url": "https://joyus.zendesk.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "CNN Store",
+    "policy_url": "https://cnn.zendesk.com/hc/en-us/articles/115005570566-Responsible-Disclosure-of-Security-Vulnerabilities-",
+    "submission_url": "https://cnn.zendesk.com/hc/en-us/requests/new",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Billogram",
+    "policy_url": "https://billogram.zendesk.com/hc/en-us/articles/360011911300-",
+    "submission_url": "security@billogram.com",
+    "launch_date": "2020-02-19",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "NBX",
+    "policy_url": "https://nbxsupport.zendesk.com/hc/en-us/articles/360044264592-NBX-Responsible-Disclosure-Policy",
+    "submission_url": "disclosure@nbx.com",
+    "launch_date": "2020-06-05",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Onfo",
+    "policy_url": "https://onfo.zendesk.com/hc/en-us/articles/360025769031-Bug-Bounty-Program",
+    "submission_url": "drew@onfocoin.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Monarx",
+    "policy_url": "https://monarx.zendesk.com/hc/en-us/articles/360040111711-Responsible-Disclosure",
+    "submission_url": "security@monarx.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Coin Wallet",
+    "policy_url": "https://coinapp.zendesk.com/hc/en-us/articles/115001730468-Does-CoinSpace-have-a-bug-bounty-program-",
+    "submission_url": "support@Coin.Space",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Safe Send Returns",
+    "policy_url": "https://safesendreturns.zendesk.com/hc/en-us/articles/360049940054-Information-Security-Overview",
+    "submission_url": "support@cPaperless.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Cobu",
+    "policy_url": "https://livecobu.zendesk.com/hc/en-us/articles/360029473411-Member-Agreement",
+    "submission_url": "support@livecobu.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Marqeta",
+    "policy_url": "https://www.marqeta.com/responsible-disclosure",
+    "submission_url": "https://www.marqeta.com/responsible-disclosure",
+    "launch_date": "Updated 2019-01-18",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Garofalo",
+    "policy_url": "https://garofalo.zendesk.com/hc/en-us/articles/360034129952-Report-Site-Vulnerabilities",
+    "submission_url": "security-reports@reslifeportal.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Guilded",
+    "policy_url": "https://support.guilded.gg/hc/en-us/articles/360039728333-Contact",
+    "submission_url": "security@guilded.gg",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "WeVPN",
+    "policy_url": "https://wevpn.com/responsible-disclosure",
+    "submission_url": "security@wevpn.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Recurly",
+    "policy_url": "https://support.recurly.com/hc/en-us/articles/360024300812-Does-Recurly-have-a-bug-bounty-program-",
+    "submission_url": "security@recurly.com",
+    "launch_date": "2019-02-26",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Defibox",
+    "policy_url": "https://support.newdex.net/hc/en-us/articles/360046715092-Defibox-launches-bug-bounty-program-officially",
+    "submission_url": "bounty@defibox.io",
+    "launch_date": "2020-07-31",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Qtrade",
+    "policy_url": "https://qtrade.io/bug_bounty",
+    "submission_url": "security@qtrade.io",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "DragonEx",
+    "policy_url": "https://dragonex.zendesk.com/hc/en-us/articles/360036938832-BUG-Bounty-Program",
+    "submission_url": "service@dragonex.io",
+    "launch_date": "2019-11-28",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Blade Storm",
+    "policy_url": "https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program",
+    "submission_url": "security@bladestorm.org",
+    "launch_date": "Updated 2020-08-15",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": ""
   }
 ]
