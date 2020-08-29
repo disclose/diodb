@@ -10,6 +10,22 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "Australia Post",
+    "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "contact_url": "mailto:security@auspost.com.au",
+    "hall_of_fame": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "pgp_key": "https://auspost.com.au/.well-known/pgp-key.txt",
+    "hiring": "https://auspost.com.au/jobs",
+    "securitytxt_url": "https://auspost.com.au/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "program_name": "Auvik",
+    "policy_url": "https://www.auvik.com/disclosure-policy.html",
+    "contact_url": "incident@auvik.com",
+    "pgp_key": "https://www.auvik.com/pgp-key.txt"
+  },
+  {
     "program_name": "Grammarly",
     "policy_url": "https://hackerone.com/grammarly",
     "submission_url": "security@grammarly.com",
