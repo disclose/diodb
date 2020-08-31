@@ -2911,6 +2911,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Fermi National Accelerator Laboratory",
+    "policy_url": "https://computing.fnal.gov/cybersecurity/vulnerability-disclosure-policy/",
+    "submission_url": "mailto:cybersecurity@fnal.gov",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "Fiat Chrysler Automobiles",
     "policy_url": "https://bugcrowd.com/fca",
     "submission_url": "https://bugcrowd.com/fca/report",
@@ -8621,6 +8631,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "U.S. Department of Energy Office of Scientific and Technical Information",
+    "policy_url": "https://www.osti.gov/.well-known/security.txt",
+    "submission_url": "mailto:security@osti.gov",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "partial"
+  },
+  {
     "program_name": "Ushahidi",
     "policy_url": "https://www.ushahidi.com/security",
     "submission_url": "security@ushahidi.com",
@@ -8629,6 +8649,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "U.S. Securities and Exchange Commission",
+    "policy_url": "https://www.sec.gov/vulnerability-disclosure-policy",
+    "submission_url": "mailto:security@sec.gov",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
   },
   {
     "program_name": "Varo Money",
