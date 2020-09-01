@@ -7011,6 +7011,16 @@
     "safe_harbor": "partial"
   },
   {
+    "program_name": "SecPoint Penetrator",
+    "policy_url": "https://bugcrowd.com/secpoint",
+    "submission_url": "support@secpoint.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
+  },  
+  {
     "program_name": "SEEK",
     "policy_url": "https://bugcrowd.com/seek",
     "submission_url": "https://bugcrowd.com/seek/report",
