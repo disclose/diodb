@@ -1,6 +1,6 @@
 name: validate-links
 
-on: pull_request
+on: push
 
 jobs:
   validate_links_job:
