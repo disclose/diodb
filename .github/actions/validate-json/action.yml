@@ -1,0 +1,11 @@
+name: 'Validate JSON'
+description: "Validate the structure of the JSON list within discloseio."
+runs:
+  using: 'composite'
+  steps:
+    - run: sudo apt-get install python3-setuptools
+      shell: bash
+    - run: pip3 install jsonschema
+      shell: bash
+    - run: python3 ${{ github.action_path }}/validate_json.py ${{ github.action_path }}/../../../program-list/
+      shell: bash

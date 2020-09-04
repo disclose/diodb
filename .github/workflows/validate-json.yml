@@ -1,14 +1,13 @@
-name: Validate JSONs
+name: validate-json
 
 on: [pull_request]
 
 jobs:
-  verify-json-validation:
+  validate_json_fix_job:
     runs-on: ubuntu-latest
+    name: validate-json job
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_JSONS: /program-list/program-list.json
-          INPUT_SCHEMA: /program-list/program-list-schema.json
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: validate-json action step
+      uses: ./.github/actions/validate-json
