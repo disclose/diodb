@@ -1,0 +1,7 @@
+name: 'Validate JSON'
+description: "Validate the structure of the JSON list within discloseio."
+runs:
+  using: 'composite'
+  steps:
+    - run: python3 ${{ github.action_path }}/validate_json.py
+      shell: bash
