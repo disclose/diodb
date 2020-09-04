@@ -3,7 +3,7 @@ description: "Validate the structure of the JSON list within discloseio."
 runs:
   using: 'composite'
   steps:
-    - run: apt-get install python3-setuptools
+    - run: sudo apt-get install python3-setuptools
       shell: bash
     - run: pip3 install jsonschema
       shell: bash
