@@ -216,7 +216,7 @@
   },
   {
     "program_name": "Acquia",
-    "policy_url": "https://www.acquia.com/how-report-security-issue",
+    "policy_url": "https://www.acquia.com/solutions/security",
     "submission_url": "security@acquia.com",
     "launch_date": "",
     "bug_bounty": false,
