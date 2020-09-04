@@ -146,7 +146,7 @@
   },
   {
     "program_name": "ASN Bank",
-    "policy_url": "https://www.devolksbank.nl/veiligheid.html",
+    "policy_url": "https://www.devolksbank.nl/over-ons/kwetsbaarheden-melden",
     "submission_url": "responsible-disclosure@devolksbank.nl",
     "launch_date": "",
     "bug_bounty": false,
@@ -226,7 +226,7 @@
   },
   {
     "program_name": "Actility",
-    "policy_url": "https://www.actility.com/company/security/",
+    "policy_url": "https://www.actility.com/security/",
     "submission_url": "http://app.yogosha.com/",
     "launch_date": "",
     "bug_bounty": true,
