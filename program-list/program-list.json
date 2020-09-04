@@ -33,7 +33,7 @@
   },
   {
     "program_name": "The Hut Group",
-    "policy_url": "https://www.thg.com/bounty",
+    "policy_url": "https://dl8hes3yo0qpy.cloudfront.net/wp-content/uploads/2020/03/10164322/271658331-EB-THG-Bug-Bounty.pdf",
     "submission_url": "mailto:securitybugs@thehutgroup.com",
     "pgp_key": "https://www.thg.com/pgp-key.asc"
   },
@@ -46,7 +46,7 @@
   },
   {
     "program_name": ".nz Registry",
-    "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
+    "policy_url": "https://internetnz.nz/report-a-vulnerability",
     "submission_url": "security@internetnz.net.nz",
     "launch_date": "",
     "bug_bounty": false,
@@ -56,7 +56,7 @@
   },
   {
     "program_name": "123 Contact Form",
-    "policy_url": "http://www.123contactform.com/security-acknowledgements.htm",
+    "policy_url": "https://www.123formbuilder.com/security-acknowledgements/",
     "submission_url": "https://www.123formbuilder.com/contactus.html",
     "launch_date": "",
     "bug_bounty": false,
