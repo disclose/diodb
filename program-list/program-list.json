@@ -722,7 +722,7 @@
   },
   {
     "program_name": "ASUS",
-    "policy_url": " https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/",
+    "policy_url": "https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/",
     "submission_url": "security@asus.com",
     "launch_date": "",
     "bug_bounty": false,
