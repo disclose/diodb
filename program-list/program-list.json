@@ -366,7 +366,7 @@
   },
   {
     "program_name": "Alcyon",
-    "policy_url": "http://www.alcyon.nl/responsible-disclosure/",
+    "policy_url": "https://www.alcyon.nl/responsible-disclosure/",
     "submission_url": "security@alcyon.nl",
     "launch_date": "",
     "bug_bounty": false,
@@ -376,7 +376,7 @@
   },
   {
     "program_name": "Algolia",
-    "policy_url": "https://www.algolia.com/security",
+    "policy_url": "https://hackerone.com/algolia",
     "submission_url": "https://hackerone.com/algolia",
     "launch_date": "",
     "bug_bounty": true,
@@ -406,8 +406,8 @@
   },
   {
     "program_name": "Alienvault",
-    "policy_url": "https://www.alienvault.com/documentation/usm-appliance/system-overview/how-to-submit-a-security-issue-to-alienvault.htm",
-    "submission_url": "https://hackerone.com/alienvault_security",
+    "policy_url": "https://cybersecurity.att.com/documentation/usm-appliance/system-overview/how-to-submit-a-security-issue-to-alienvault.htm",
+    "submission_url": "https://cybersecurity.att.com/documentation/usm-appliance/system-overview/how-to-submit-a-security-issue-to-alienvault.htm",
     "launch_date": "",
     "bug_bounty": false,
     "swag": false,
@@ -446,7 +446,7 @@
   },
   {
     "program_name": "Amara",
-    "policy_url": "http://amara.org/en/security",
+    "policy_url": "https://amara.org/en/security",
     "submission_url": "security@amara.org",
     "launch_date": "",
     "bug_bounty": false,
