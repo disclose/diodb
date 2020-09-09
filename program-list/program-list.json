@@ -2535,7 +2535,7 @@
     "policy_url": "https://droom.in/bugbounty",
     "submission_url": "Bugbounty@droom.in",
     "launch_date": "",
-    "bug_bounty": true,
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
     "safe_harbor": ""
