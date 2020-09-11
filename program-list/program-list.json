@@ -13111,8 +13111,8 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "example",
-    "policy_url": "https://www.openbugbounty.org/bugbounty/obb117/",
+    "program_name": "CoinLoan",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/coin_loan/",
     "submission_url": "https://www.openbugbounty.org/report/",
     "launch_date": "",
     "bug_bounty": ,
@@ -13121,8 +13121,488 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "CoinLoan",
-    "policy_url": "https://www.openbugbounty.org/bugbounty/coin_loan/",
+    "program_name": "eduvdom",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/RMV1983/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "scmsjournal.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/MichaelJGroh/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Hearthstone Hungary",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/hearthstonehu/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Twoucan",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/twoucan/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "silveradorecords.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/lmao2895/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "library.citytech.cuny.edu",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/JuniorTidal/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "FCG Flowmedik Oy",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/Jerski124/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "SMART VALOR",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/smartvalorinc/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Assurance Maladie",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/supsocosi/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "The James Hutton Institute",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/apthorburn/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "proteinbolaget.se",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/troelspoppe/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "SteamPrices",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/SteamPrices/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Zefyx",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/Zefyx/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Grrr",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/aapit/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "aShemaleTube",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/ashemaletubecom/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "MalagaCar.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/MalagaCarCom/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "tbconcept",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/titomOo/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "METANET",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/metanetDev/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "autotorg.kz",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/eduha/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Mon-Net.Org",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/Vink_78/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Lovenamepix.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/lovenamepix/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "creativesparkstudios.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/CreativeSparkSt/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "WorldWideEntertainmentClient",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/BrianTafoya/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "TradingView",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/tvsecurity1/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "mixable",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/derbarkeeper/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "intrusivethoughts.org",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/tabweg/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "putzflorian",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/putzflorian/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Lancaster Univerisity",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/LancasterUniSOC/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "First Kid Bank",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/steven_chanin/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Generations/Jazz",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/everlats/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "kaleidos.ca",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/JonathanTruchon/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Red Publish",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/HimYung2/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "stringerasia.it",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/stringerasia1/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "heinergoebbels.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/CMCM_Webdesign/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "AngularJobs.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/angularjobs/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "sunyjcc.edu",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/jcc_test/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Libcast",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/libcast_IO/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "hausgemacht.ch",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/straysan/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "iGopher",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/iGopherFr/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "namelix.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/JackinCanada/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "PetrovicLubos",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/PetrovicLubos/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "One2Net",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/ONE2NET/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "finviz.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/petersandtner/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "deal.pl",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/enejcz/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "SMI",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/circulaires_qc/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Infrafrontier GmbH",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/MChinnasamy/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "Bentley Systems",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/AppBentley/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "technometalpost.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/Cats_Laboratory/",
+    "submission_url": "https://www.openbugbounty.org/report/",
+    "launch_date": "",
+    "bug_bounty": ,
+    "swag": ,
+    "hall_of_fame": ,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "xavier.edu",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/McMullen_Greg/",
     "submission_url": "https://www.openbugbounty.org/report/",
     "launch_date": "",
     "bug_bounty": ,
