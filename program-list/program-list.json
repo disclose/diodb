@@ -1,4 +1,15 @@
 [
+  
+  {
+    "program_name": "Volkis",
+    "policy_url": "https://www.volkis.com.au/vulnerability-disclosure/",
+    "submission_url": "mailto:security@volkis.com.au",
+    "launch_date": "2020-09-17",
+    "safe_harbor": "full",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": true
+  },
   {
     "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
