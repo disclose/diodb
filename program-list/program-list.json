@@ -721,6 +721,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "ASUS",
+    "policy_url": "https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/",
+    "submission_url": "security@asus.com",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "none"
+  },
+  {
     "program_name": "Athento",
     "policy_url": "https://athento.zendesk.com/hc/es/articles/360010484720",
     "submission_url": "https://athento.zendesk.com/hc/es/articles/360023151053",
@@ -1338,6 +1348,16 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Bose",
+    "policy_url": "https://global.bose.com/en_us/product_security_vulnerability_response.html",
+    "submission_url": "privacyandsecurity@bose.com",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": "partial"
   },
   {
@@ -2509,6 +2529,16 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
+  },
+  {
+    "program_name": "Droom",
+    "policy_url": "https://droom.in/bugbounty",
+    "submission_url": "Bugbounty@droom.in",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
   },
   {
     "program_name": "Dropbox",
@@ -5827,6 +5857,16 @@
     "launch_date": "",
     "bug_bounty": true,
     "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": "partial"
+  },
+  {
+    "program_name": "One Plus",
+    "policy_url": "https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128",
+    "submission_url": "https://security.oneplus.com/add.html",
+    "launch_date": "2019-12-17",
+    "bug_bounty": true,
+    "swag": true,
     "hall_of_fame": true,
     "safe_harbor": "partial"
   },
