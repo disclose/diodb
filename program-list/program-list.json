@@ -2512,6 +2512,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Dominion Voting Systems",
+    "policy_url": "https://www.dominionvoting.com/coordinated-vulnerability-disclosure-policy/",
+    "submission_url": "mailto:security@dominionvoting.com",
+    "launch_date": "2020-09-03",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": "full"
+  },
+  {
     "program_name": "Domino's",
     "policy_url": "https://dominos.responsibledisclosure.com/hc/en-us",
     "submission_url": "https://dominos.responsibledisclosure.com/hc/en-us/requests/new",
@@ -3549,6 +3559,16 @@
     "bug_bounty": true,
     "swag": false,
     "hall_of_fame": true,
+    "safe_harbor": "full"
+  },
+  {
+    "program_name": "Hart InterCivic",
+    "policy_url": "https://www.hartintercivic.com/wp-content/uploads/HartVulnerabilityDisclosurePolicy_82020.pdf",
+    "submission_url": "mailto:security@hartic.com",
+    "launch_date": "2020-09-20",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
     "safe_harbor": "full"
   },
   {
