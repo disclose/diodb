@@ -1999,7 +1999,7 @@
     "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "partial"
   },
   {
     "program_name": "Commonsware",
