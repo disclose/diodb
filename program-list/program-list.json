@@ -6846,7 +6846,7 @@
     "policy_url": "http://www.relaso.com/disclosure/",
     "submission_url": "security@relaso.com",
     "launch_date": "",
-    "bug_bounty": true,
+    "bug_bounty": false,
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": "partial"
