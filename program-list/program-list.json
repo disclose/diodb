@@ -802,16 +802,6 @@
     "safe_harbor": "full"
   },
   {
-    "program_name": "Australian Postal Corporation",
-    "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
-    "submission_url": "security@auspost.com.au",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "Auth0",
     "policy_url": "https://auth0.com/responsible-disclosure-policy/",
     "submission_url": "https://auth0.com/responsible-disclosure-policy/",
