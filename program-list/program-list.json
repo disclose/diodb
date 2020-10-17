@@ -8242,26 +8242,6 @@
     "safe_harbor": ""
   },
   {
-    "program_name": "Tinfoil Security",
-    "policy_url": "https://hackerone.com/tlon",
-    "submission_url": "https://hackerone.com/tlon",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": false,
-    "safe_harbor": ""
-  },
-  {
-    "program_name": "Tlon Corp",
-    "policy_url": "https://www.tinfoilsecurity.com/security",
-    "submission_url": "security@tinfoilsecurity.com",
-    "launch_date": "",
-    "bug_bounty": false,
-    "swag": false,
-    "hall_of_fame": true,
-    "safe_harbor": ""
-  },
-  {
     "program_name": "TomTom",
     "policy_url": "https://hackerone.com/tomtom",
     "submission_url": "https://hackerone.com/tomtom",
