@@ -9740,5 +9740,25 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Achmea",
+    "policy_url": "https://www.achmea.nl/en/responsibledisclosure",
+    "submission_url": "https://www.achmea.nl/en/responsibledisclosure",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
+    "program_name": "TheStandard",
+    "policy_url": "https://www.standard.com/about-standard/responsible-disclosure-program",
+    "submission_url": "https://www.standard.com/individual/report-vulnerability",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": false,
+    "safe_harbor": ""
   }
 ]
