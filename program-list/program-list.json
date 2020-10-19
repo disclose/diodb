@@ -1782,6 +1782,16 @@
     "safe_harbor": ""
   },
   {
+    "program_name": "Citrix",
+    "policy_url": "https://www.citrix.com/about/trust-center/vulnerability-process.html",
+    "submission_url": "https://www.citrix.com/about/trust-center/vulnerability-process.html#lightbox-38764",
+    "launch_date": "",
+    "bug_bounty": false,
+    "swag": false,
+    "hall_of_fame": true,
+    "safe_harbor": ""
+  },
+  {
     "program_name": "City-Data.com",
     "policy_url": "http://www.city-data.com/bug-bounty.html",
     "submission_url": "http://www.city-data.com/bug-bounty-report.php",
