@@ -9770,5 +9770,15 @@
     "swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "AlwaysData",
+    "policy_url": "https://www.alwaysdata.com/en/bug-bounty/",
+    "submission_url": "https://admin.alwaysdata.com/support/",
+    "launch_date": "",
+    "bug_bounty": true,
+    "swag": true,
+    "hall_of_fame": true,
+    "safe_harbor": "full"
   }
 ]
