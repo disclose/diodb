@@ -88,11 +88,15 @@
       },
       "anyOf": [
         {
-          "properties": {
-            "public_disclosure": {
-              "const": "co-ordinated"
+          "not": {
+            "properties": {
+              "public_disclosure": {
+                "const": "co-ordinated"
+              }
             }
-          },
+          }
+        },
+        {
           "required": ["disclosure_timeline_days"]
         }
       ],
