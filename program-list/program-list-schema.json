@@ -86,17 +86,16 @@
           "type": "string"
         }
       },
-      "if": {
-        "properties": {
-          "public_disclosure": {
-            "const": "co-ordinated"
-          }
-        },
-        "required": "public_disclosure"
-      },
-      "then": {
-        "required": ["disclosure_timeline_days"]
-      },
+      "anyOf": [
+        {
+          "properties": {
+            "public_disclosure": {
+              "const": "co-ordinated"
+            }
+          },
+          "required": ["disclosure_timeline_days"]
+        }
+      ],
       "required": [
         "policy_url",
         "contact_url",
