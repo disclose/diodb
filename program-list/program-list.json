@@ -8,7 +8,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "Australia Post",
@@ -18,32 +19,37 @@
     "pgp_key": "https://auspost.com.au/.well-known/pgp-key.txt",
     "hiring": "https://auspost.com.au/jobs",
     "securitytxt_url": "https://auspost.com.au/.well-known/security.txt",
-    "preferred_languages": "en"
+    "preferred_languages": "en",
+    "public_disclosure": ""
   },
   {
     "program_name": "Auvik",
     "policy_url": "https://www.auvik.com/disclosure-policy.html",
     "contact_url": "incident@auvik.com",
-    "pgp_key": "https://www.auvik.com/pgp-key.txt"
+    "pgp_key": "https://www.auvik.com/pgp-key.txt",
+    "public_disclosure": ""
   },
   {
     "program_name": "Grammarly",
     "policy_url": "https://hackerone.com/grammarly",
     "contact_url": "security@grammarly.com",
-    "hall_of_fame": "https://hackerone.com/grammarly/thanks"
+    "hall_of_fame": "https://hackerone.com/grammarly/thanks",
+    "public_disclosure": ""
   },
   {
     "program_name": "The Hut Group",
     "policy_url": "https://www.thg.com/bounty",
     "contact_url": "mailto:securitybugs@thehutgroup.com",
-    "pgp_key": "https://www.thg.com/pgp-key.asc"
+    "pgp_key": "https://www.thg.com/pgp-key.asc",
+    "public_disclosure": ""
   },
   {
     "program_name": "linode.com",
     "policy_url": "https://hackerone.com/linode",
     "contact_url": "disclosure@linode.com",
     "pgp_key": "https://keybase.io/linodesecurity/pgp_keys.asc",
-    "hiring": "https://linode.com/careers"
+    "hiring": "https://linode.com/careers",
+    "public_disclosure": ""
   },
   {
     "program_name": ".nz Registry",
@@ -53,7 +59,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "123 Contact Form",
@@ -63,7 +70,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "18F",
@@ -73,7 +81,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": ""
   },
   {
     "program_name": "1Password Game",
@@ -83,7 +92,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": ""
   },
   {
     "program_name": "23andme",
@@ -93,7 +103,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "24sessions",
@@ -103,7 +114,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "4chan",
@@ -113,7 +125,8 @@
     "offers_bounty": false,
     "offers_swag": true,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "98 Point 6",
@@ -123,7 +136,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "AOL",
@@ -133,7 +147,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "ARM mBed",
@@ -143,7 +158,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "ASN Bank",
@@ -153,7 +169,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "AT&T",
@@ -163,7 +180,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Abbott",
@@ -173,7 +191,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Abn Amro",
@@ -183,7 +202,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "Accenture",
@@ -193,7 +213,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Accredible",
@@ -203,7 +224,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Acorns LLC",
@@ -213,7 +235,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": ""
   },
   {
     "program_name": "Acquia",
@@ -223,7 +246,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Actility",
@@ -233,7 +257,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "ActiveProspect",
@@ -243,7 +268,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": ""
   },
   {
     "program_name": "Adafruit",
@@ -253,7 +279,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Adobe",
@@ -263,7 +290,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Aerohive",
@@ -273,7 +301,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Aeternity",
@@ -283,7 +312,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": ""
   },
   {
     "program_name": "Ahold Delhaize",
@@ -293,7 +323,8 @@
     "offers_bounty": true,
     "offers_swag": true,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Aion",
@@ -303,7 +334,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Air Miles",
@@ -313,7 +345,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": ""
   },
   {
     "program_name": "Air Miles Shop",
@@ -323,7 +356,8 @@
     "offers_bounty": false,
     "offers_swag": true,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Airbnb",
@@ -333,7 +367,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Airmap",
@@ -343,7 +378,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Airtable",
@@ -353,7 +389,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Alcatel Lucent",
@@ -363,7 +400,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Alcyon",
@@ -373,7 +411,8 @@
     "offers_bounty": false,
     "offers_swag": true,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Algolia",
@@ -383,7 +422,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Algorand",
@@ -393,7 +433,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "full"
+    "safe_harbor": "full",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Alibaba",
@@ -403,7 +444,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Alienvault",
@@ -413,7 +455,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Aliexpress",
@@ -423,7 +466,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": "partial"
+    "safe_harbor": "partial",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Altervista",
@@ -433,7 +477,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Altilly",
@@ -443,7 +488,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Amara",
@@ -453,7 +499,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Amazon",
@@ -463,7 +510,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Amazon Web Services",
@@ -473,7 +521,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "American Express",
@@ -483,7 +532,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Amitree Inc",
@@ -493,7 +543,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Android",
@@ -503,7 +554,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apache",
@@ -513,7 +565,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apache (Bug Bounty)",
@@ -523,7 +576,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apache httpd",
@@ -533,7 +587,8 @@
     "offers_bounty": true,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apparmor",
@@ -543,7 +598,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Appcelerator",
@@ -553,7 +609,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apple",
@@ -563,7 +620,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": true,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Appoptics",
@@ -573,7 +631,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Apptentive",
@@ -583,7 +642,8 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Aptible",
@@ -593,13 +653,15 @@
     "offers_bounty": false,
     "offers_swag": false,
     "hall_of_fame": false,
-    "safe_harbor": ""
+    "safe_harbor": "",
+    "public_disclosure": "" 
   },
   {
     "program_name": "navolnenoze.cz",
     "policy_url": "https://navolnenoze.cz/o-nas/soukromi/",
     "contact_url": "mailto:robert@vla.ch",
-    "preferred_languages": "cs"
+    "preferred_languages": "cs",
+    "public_disclosure": "" 
   },
   {
     "program_name": "Aragon",
