@@ -9,10 +9,10 @@
           "type": "string"
         },
         "policy_url": {
-          "type": "string"
+          "type": "uri"
         },
         "contact_url": {
-          "type": "string"
+          "type": "uri"
         },
         "launch_date": {
           "anyOf": [
@@ -29,13 +29,22 @@
           ]
         },
         "offers_bounty": {
-          "type": "boolean"
+          "type": "string",
+          "enum": [
+            "yes",
+            "no",
+            "partial"
+          ]
         },
         "offers_swag": {
-          "type": "boolean"
+          "type": "boolean",
+          "enum": [
+            "yes",
+            "no"
+          ]
         },
         "hall_of_fame": {
-          "type": "string"
+          "type": "uri"
         },
         "safe_harbor": {
           "type": "string",
@@ -59,13 +68,13 @@
           "minimum": 0
         },
         "pgp_key": {
-          "type": "string"
+          "type": "uri"
         },
         "hiring": {
-          "type": "string"
+          "type": "uri"
         },
         "securitytxt_url": {
-          "type": "string"
+          "type": "uri"
         },
         "preferred_languages": {
           "type": "string"
