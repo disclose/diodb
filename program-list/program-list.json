@@ -1,16 +1,6 @@
 [
   
   {
-    "program_name": "Volkis",
-    "policy_url": "https://www.volkis.com.au/vulnerability-disclosure/",
-    "contact_url": "mailto:security@volkis.com.au",
-    "launch_date": "2020-09-17",
-    "safe_harbor": "full",
-    "offers_bounty": true,
-    "offers_swag": true,
-    "hall_of_fame": true
-  },
-  {
     "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
     "contact_url": "https://bugcrowd.com/isc2/report",
@@ -8910,6 +8900,16 @@
     "offers_swag": false,
     "hall_of_fame": false,
     "safe_harbor": ""
+  },
+  {
+    "program_name": "Volkis",
+    "policy_url": "https://www.volkis.com.au/vulnerability-disclosure/",
+    "contact_url": "mailto:security@volkis.com.au",
+    "launch_date": "2020-09-17",
+    "safe_harbor": "full",
+    "offers_bounty": true,
+    "offers_swag": true,
+    "hall_of_fame": true
   },
   {
     "program_name": "Vonage",
