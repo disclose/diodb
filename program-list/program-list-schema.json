@@ -39,11 +39,7 @@
           ]
         },
         "offers_swag": {
-          "type": "boolean",
-          "enum": [
-            "yes",
-            "no"
-          ]
+          "type": "boolean"
         },
         "hall_of_fame": {
           "type": "string",
