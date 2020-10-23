@@ -91,7 +91,8 @@
           "public_disclosure": {
             "const": "co-ordinated"
           }
-        }
+        },
+        "required": "public_disclosure"
       },
       "then": {
         "required": ["disclosure_timeline_days"]
