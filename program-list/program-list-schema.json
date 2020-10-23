@@ -90,9 +90,11 @@
         "properties": {
           "public_disclosure": {
             "const": "co-ordinated"
-          },
-          "required": ["disclosure_timeline_days"]
+          }
         }
+      },
+      "then": {
+        "required": ["disclosure_timeline_days"]
       },
       "required": [
         "policy_url",
