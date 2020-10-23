@@ -86,6 +86,14 @@
           "type": "string"
         }
       },
+      "if": {
+        "properties": {
+          "public_disclosure": {
+            "const": "co-ordinated"
+          },
+          "required": ["disclosure_timeline_days"]
+        }
+      },
       "required": [
         "policy_url",
         "contact_url",
