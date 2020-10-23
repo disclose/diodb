@@ -11,7 +11,7 @@
         "policy_url": {
           "type": "string"
         },
-        "submission_url": {
+        "contact_url": {
           "type": "string"
         },
         "launch_date": {
@@ -28,31 +28,53 @@
             }
           ]
         },
+        "offers_bounty": {
+          "type": "boolean"
+        },
+        "offers_swag": {
+          "type": "boolean"
+        },
+        "hall_of_fame": {
+          "type": "string"
+        },
         "safe_harbor": {
           "type": "string",
           "enum": [
             "full",
             "partial",
-            "none",
+            "none"
+          ]
+        },
+        "public_disclosure": {
+          "type": "string",
+          "enum": [
+            "nda",
+            "discretionary",
+            "co-ordinated",
             ""
           ]
         },
-        "bug_bounty": {
-          "type": "boolean"
+        "disclosure_timeline_days": {
+          "type": "number",
+          "minimum": 0
         },
-        "swag": {
-          "type": "boolean"
+        "pgp_key": {
+          "type": "string"
         },
-        "hall_of_fame": {
-          "type": "boolean"
+        "hiring": {
+          "type": "string"
+        },
+        "securitytxt_url": {
+          "type": "string"
+        },
+        "preferred_languages": {
+          "type": "string"
         }
       },
       "required": [
-        "program_name",
         "policy_url",
-        "safe_harbor",
-        "bug_bounty",
-        "hall_of_fame"
+        "contact_url",
+        "public_disclosure"
       ]
     }
   ]
