@@ -9,10 +9,12 @@
           "type": "string"
         },
         "policy_url": {
-          "type": "string"
+          "type": "string",
+          "format": "uri"
         },
-        "submission_url": {
-          "type": "string"
+        "contact_url": {
+          "type": "string",
+          "format": "uri"
         },
         "launch_date": {
           "anyOf": [
@@ -28,31 +30,72 @@
             }
           ]
         },
+        "offers_bounty": {
+          "type": "string",
+          "enum": [
+            "yes",
+            "no",
+            "partial"
+          ]
+        },
+        "offers_swag": {
+          "type": "boolean"
+        },
+        "hall_of_fame": {
+          "type": "string",
+          "format": "uri"
+        },
         "safe_harbor": {
           "type": "string",
           "enum": [
             "full",
             "partial",
-            "none",
+            "none"
+          ]
+        },
+        "public_disclosure": {
+          "type": "string",
+          "enum": [
+            "nda",
+            "discretionary",
+            "co-ordinated",
             ""
           ]
         },
-        "bug_bounty": {
-          "type": "boolean"
+        "disclosure_timeline_days": {
+          "type": "number",
+          "minimum": 0
         },
-        "swag": {
-          "type": "boolean"
+        "pgp_key": {
+          "type": "string",
+          "format": "uri"
         },
-        "hall_of_fame": {
-          "type": "boolean"
+        "hiring": {
+          "type": "string",
+          "format": "uri"
+        },
+        "securitytxt_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "preferred_languages": {
+          "type": "string"
         }
       },
+      "if": {
+        "properties": {
+          "public_disclosure": {
+            "const": "co-ordinated"
+          }
+        }
+      },
+      "then": {
+        "required": ["disclosure_timeline_days"]
+      },
       "required": [
-        "program_name",
         "policy_url",
-        "safe_harbor",
-        "bug_bounty",
-        "hall_of_fame"
+        "contact_url",
+        "public_disclosure"
       ]
     }
   ]
