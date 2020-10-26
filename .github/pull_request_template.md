@@ -9,3 +9,4 @@
 | Disclosure terms are publicly available |     |
 | Public URL                              |     |
 | Single Source, or all sources appended  |     |
+| Submission follows the [Diodb schema](https://github.com/disclose/diodb/blob/master/program-list/program-list-schema.json)     |     |
