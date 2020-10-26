@@ -70,7 +70,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -103,7 +103,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -125,7 +125,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -147,7 +147,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -158,7 +158,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -169,7 +169,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -180,7 +180,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -191,7 +191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -213,7 +213,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -224,7 +224,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -246,7 +246,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -257,7 +257,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -279,7 +279,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -290,7 +290,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -301,7 +301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -323,7 +323,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -334,7 +334,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -345,7 +345,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": ""
   },
   {
@@ -367,7 +367,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -389,7 +389,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -400,7 +400,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -411,7 +411,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -422,7 +422,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -455,7 +455,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -477,7 +477,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -488,7 +488,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -499,7 +499,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -510,7 +510,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -521,7 +521,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -532,7 +532,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -543,7 +543,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -554,7 +554,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -565,7 +565,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -576,7 +576,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -587,7 +587,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -598,7 +598,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -609,7 +609,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -620,7 +620,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -631,7 +631,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -642,7 +642,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -653,7 +653,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "" 
   },
   {
@@ -671,7 +671,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Arduino",
@@ -691,7 +691,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Arkadiyt Projects",
@@ -741,7 +741,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Asana",
@@ -751,7 +751,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Aspen",
@@ -761,7 +761,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Assuring Medical Apps",
@@ -781,7 +781,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ASUS",
@@ -831,7 +831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Augur",
@@ -871,7 +871,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Automattic",
@@ -881,7 +881,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Avalara",
@@ -891,7 +891,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Avast!",
@@ -901,7 +901,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Avira",
@@ -911,7 +911,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Avito",
@@ -921,7 +921,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ayden",
@@ -931,7 +931,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ayers Rock Resort",
@@ -951,7 +951,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "BBC",
@@ -971,7 +971,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "BMW",
@@ -981,7 +981,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Backblaze",
@@ -991,7 +991,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Badoo",
@@ -1001,7 +1001,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bank of America",
@@ -1011,7 +1011,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Barracuda Networks",
@@ -1031,7 +1031,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Basecamp",
@@ -1041,7 +1041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Basware",
@@ -1051,7 +1051,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Beanstalk",
@@ -1061,7 +1061,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bentley",
@@ -1091,7 +1091,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Beyond Trust",
@@ -1101,7 +1101,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bigbank",
@@ -1121,7 +1121,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Binance",
@@ -1141,7 +1141,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Binder",
@@ -1161,7 +1161,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "BitDiscovery",
@@ -1181,7 +1181,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "BitWall",
@@ -1191,7 +1191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bitcoin Gold",
@@ -1201,7 +1201,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bitcoin.de",
@@ -1211,7 +1211,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bitdefender",
@@ -1251,7 +1251,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bitwarden",
@@ -1261,7 +1261,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bizmerlin",
@@ -1271,7 +1271,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blackberry",
@@ -1281,7 +1281,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blackboard",
@@ -1291,7 +1291,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blend",
@@ -1331,7 +1331,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blockimmo",
@@ -1351,7 +1351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blogger",
@@ -1361,7 +1361,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blue Jeans Network",
@@ -1381,7 +1381,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Boozt Fashion",
@@ -1421,7 +1421,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Box",
@@ -1431,7 +1431,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Braintree",
@@ -1441,7 +1441,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Brave",
@@ -1451,7 +1451,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Buddy",
@@ -1461,7 +1461,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Buffer",
@@ -1471,7 +1471,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bugcrowd",
@@ -1491,7 +1491,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Buku",
@@ -1511,7 +1511,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Bunq",
@@ -1541,7 +1541,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CERT/CC",
@@ -1551,7 +1551,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CFP Time",
@@ -1561,7 +1561,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CNote",
@@ -1601,7 +1601,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Carbon Black",
@@ -1611,7 +1611,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Carrier",
@@ -1621,7 +1621,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Casper",
@@ -1631,7 +1631,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Castle Gate IT",
@@ -1661,7 +1661,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Centers for Medicare and Medicaid Services",
@@ -1681,7 +1681,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Centrify",
@@ -1721,7 +1721,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Channable",
@@ -1741,7 +1741,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Chase",
@@ -1751,7 +1751,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Chaturbate",
@@ -1791,7 +1791,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CircleCi",
@@ -1801,7 +1801,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cisco",
@@ -1811,7 +1811,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cisco Meraki",
@@ -1821,7 +1821,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Citigroup",
@@ -1831,7 +1831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Citrix",
@@ -1841,7 +1841,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "City-Data.com",
@@ -1861,7 +1861,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Clause",
@@ -1871,7 +1871,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Clipperz",
@@ -1891,7 +1891,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CloudFlare",
@@ -1901,7 +1901,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cloudapp",
@@ -1951,7 +1951,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Coalition",
@@ -1961,7 +1961,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cobalt",
@@ -1971,7 +1971,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cobinhood",
@@ -1991,7 +1991,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Codeigniter",
@@ -2001,7 +2001,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CoinJar",
@@ -2011,7 +2011,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Coinbase",
@@ -2031,7 +2031,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cointracker",
@@ -2061,7 +2061,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Compose",
@@ -2071,7 +2071,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Conclusion",
@@ -2091,7 +2091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Constant Contact",
@@ -2111,7 +2111,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ConvertKit",
@@ -2131,7 +2131,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CoreOS",
@@ -2141,7 +2141,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Coupa",
@@ -2151,7 +2151,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Coursera",
@@ -2161,7 +2161,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cox.com",
@@ -2181,7 +2181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Credit Karma",
@@ -2201,7 +2201,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Crypto",
@@ -2211,7 +2211,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Curl",
@@ -2231,7 +2231,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Customer Insight",
@@ -2241,7 +2241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cuvva",
@@ -2261,7 +2261,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cybermarqt",
@@ -2291,7 +2291,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DNSimple",
@@ -2301,7 +2301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DPD",
@@ -2331,7 +2331,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Danske Bank",
@@ -2341,7 +2341,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dashlane",
@@ -2351,7 +2351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Data Processing",
@@ -2361,7 +2361,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dato Capital",
@@ -2371,7 +2371,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DeNederlandscheBank",
@@ -2381,7 +2381,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Debian Security Tracker",
@@ -2391,7 +2391,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Decred",
@@ -2401,7 +2401,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DefectDojo",
@@ -2421,7 +2421,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Deliveroo",
@@ -2431,7 +2431,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dell",
@@ -2491,7 +2491,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Deutsche Telekom",
@@ -2501,7 +2501,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Digital Asset",
@@ -2541,7 +2541,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "District of Columbia Government",
@@ -2561,7 +2561,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dominion Voting Systems",
@@ -2581,7 +2581,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dovecot",
@@ -2591,7 +2591,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dream11",
@@ -2611,7 +2611,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Dropbox",
@@ -2641,7 +2641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DuckDuckGo",
@@ -2651,7 +2651,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eclipse",
@@ -2661,7 +2661,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ecobee",
@@ -2691,7 +2691,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eero",
@@ -2731,7 +2731,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Electronic Frontier Foundation",
@@ -2761,7 +2761,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Elive",
@@ -2791,7 +2791,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eobot",
@@ -2801,7 +2801,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Equifax",
@@ -2811,7 +2811,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eset",
@@ -2821,7 +2821,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eslint",
@@ -2831,7 +2831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Etsy",
@@ -2851,7 +2851,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Event Espresso",
@@ -2861,7 +2861,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Eventbrite",
@@ -2871,7 +2871,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Evernote",
@@ -2881,7 +2881,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Expatistan",
@@ -2891,7 +2891,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ExpressionEngine",
@@ -2901,7 +2901,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "F Secure",
@@ -2911,7 +2911,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "F5 Networks",
@@ -2921,7 +2921,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FFmpeg",
@@ -2931,7 +2931,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FUSION",
@@ -2941,7 +2941,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Facebook",
@@ -2951,7 +2951,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fair",
@@ -2981,7 +2981,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FantasyTote",
@@ -2991,7 +2991,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FastMail",
@@ -3001,7 +3001,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fastly",
@@ -3021,7 +3021,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fermi National Accelerator Laboratory",
@@ -3031,7 +3031,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fiat Chrysler Automobiles",
@@ -3071,7 +3071,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fireeye",
@@ -3081,7 +3081,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fitbit",
@@ -3111,7 +3111,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fontys",
@@ -3141,7 +3141,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FormAssembly",
@@ -3151,7 +3151,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fountain",
@@ -3161,7 +3161,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Foursquare",
@@ -3171,7 +3171,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FoxyCart",
@@ -3191,7 +3191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Freshbooks",
@@ -3201,7 +3201,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Freshworks",
@@ -3211,7 +3211,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Fuga",
@@ -3231,7 +3231,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "FusionFabric.cloud",
@@ -3241,7 +3241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "GO-JEK",
@@ -3261,7 +3261,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Garmin",
@@ -3271,7 +3271,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Gay.Capital",
@@ -3291,7 +3291,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Gemfury",
@@ -3301,7 +3301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "General Electric",
@@ -3311,7 +3311,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "General Motors Company",
@@ -3341,7 +3341,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "GetAdmiral",
@@ -3351,7 +3351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "GetAmbassador",
@@ -3371,7 +3371,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ghost",
@@ -3381,7 +3381,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ghostscript",
@@ -3391,7 +3391,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Github",
@@ -3411,7 +3411,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Glance Networks",
@@ -3431,7 +3431,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "GlobaLeaks",
@@ -3441,7 +3441,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "GoCD",
@@ -3451,7 +3451,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Goldman Sachs",
@@ -3461,7 +3461,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Google",
@@ -3471,7 +3471,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Google Chrome",
@@ -3481,7 +3481,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Google PRP",
@@ -3491,7 +3491,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Grab",
@@ -3501,7 +3501,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Grammarly",
@@ -3521,7 +3521,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Greenhouse.io",
@@ -3531,7 +3531,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Grok Learning",
@@ -3541,7 +3541,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Gusto",
@@ -3561,7 +3561,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "HR Partner",
@@ -3581,7 +3581,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hack Me!",
@@ -3601,7 +3601,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hackerone",
@@ -3641,7 +3641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Harvest",
@@ -3651,7 +3651,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "HealthifyMe",
@@ -3671,7 +3671,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Heroku",
@@ -3691,7 +3691,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hex-Rays",
@@ -3701,7 +3701,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "HitBTC",
@@ -3711,7 +3711,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hiver",
@@ -3721,7 +3721,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Holland Controls",
@@ -3731,7 +3731,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Homebrew",
@@ -3741,7 +3741,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Honeywell",
@@ -3751,7 +3751,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hootsuite",
@@ -3761,7 +3761,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hostinger",
@@ -3781,7 +3781,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "HubSpot",
@@ -3811,7 +3811,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Hyatt",
@@ -3831,7 +3831,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "IBM",
@@ -3841,7 +3841,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ICQ",
@@ -3851,7 +3851,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "IHC",
@@ -3871,7 +3871,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "IOTA",
@@ -3891,7 +3891,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ian Dunn",
@@ -3901,7 +3901,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ibotta",
@@ -3921,7 +3921,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Iconloop",
@@ -3931,7 +3931,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ikea",
@@ -3951,7 +3951,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Imgur",
@@ -3961,7 +3961,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ImmutableSoft",
@@ -3981,7 +3981,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Impinj",
@@ -3991,7 +3991,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "InVision",
@@ -4031,7 +4031,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Inflectra",
@@ -4041,7 +4041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Infoplus Commerce",
@@ -4051,7 +4051,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Informatica",
@@ -4061,7 +4061,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Informatiebeveiliging",
@@ -4071,7 +4071,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ing",
@@ -4081,7 +4081,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ingenico",
@@ -4091,7 +4091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "InnoGames",
@@ -4111,7 +4111,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Instructure",
@@ -4121,7 +4121,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "IntegraXor (SCADA)",
@@ -4131,7 +4131,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Intel",
@@ -4141,7 +4141,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Intercom",
@@ -4161,7 +4161,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Internetwache",
@@ -4181,7 +4181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "IpSwitch",
@@ -4191,7 +4191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Issuu",
@@ -4201,7 +4201,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Iterable",
@@ -4211,7 +4211,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ivanti",
@@ -4241,7 +4241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Jazz Networks",
@@ -4269,7 +4269,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "JetBrains",
@@ -4289,7 +4289,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Johnson & Johnson",
@@ -4299,7 +4299,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Jruby",
@@ -4309,7 +4309,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "JumpleAd",
@@ -4329,7 +4329,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "KFC",
@@ -4339,7 +4339,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "KNB NL",
@@ -4349,7 +4349,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "KPN",
@@ -4359,7 +4359,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kadince",
@@ -4369,7 +4369,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kaspersky",
@@ -4389,7 +4389,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kayesa",
@@ -4399,7 +4399,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Keeper Security",
@@ -4419,7 +4419,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kenna Security",
@@ -4429,7 +4429,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Keybase",
@@ -4439,7 +4439,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Khan Academy",
@@ -4449,7 +4449,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kissflow",
@@ -4459,7 +4459,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kiwa",
@@ -4479,7 +4479,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kroger",
@@ -4489,7 +4489,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Kubernetes",
@@ -4509,7 +4509,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "LastPass",
@@ -4549,7 +4549,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "LeverEX",
@@ -4559,7 +4559,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Liberapay",
@@ -4579,7 +4579,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Librato",
@@ -4589,7 +4589,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "LifeOmic",
@@ -4609,7 +4609,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Light Speed",
@@ -4619,7 +4619,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Lime",
@@ -4639,7 +4639,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Linksys",
@@ -4679,7 +4679,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Logentries",
@@ -4689,7 +4689,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "LoginRadius",
@@ -4709,7 +4709,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Looker",
@@ -4749,7 +4749,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Lyst",
@@ -4759,7 +4759,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "M-Files",
@@ -4769,7 +4769,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "MSV",
@@ -4789,7 +4789,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Magento",
@@ -4829,7 +4829,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mahara",
@@ -4839,7 +4839,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mail.Ru",
@@ -4849,7 +4849,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mailchimp",
@@ -4879,7 +4879,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mailtrack",
@@ -4889,7 +4889,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Majid Al Futtaim",
@@ -4899,7 +4899,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Maker Ecosystem Growth Holdings",
@@ -4909,7 +4909,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Malwarebytes",
@@ -4919,7 +4919,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ManageWP",
@@ -4929,7 +4929,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mapbox",
@@ -4939,7 +4939,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "mnm.be",
@@ -4971,7 +4971,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "MariaDB",
@@ -4981,7 +4981,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Marketo",
@@ -4991,7 +4991,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Marktplaats",
@@ -5001,7 +5001,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Massachusetts Institute of Technology",
@@ -5011,7 +5011,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mastercard",
@@ -5031,7 +5031,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mattermost",
@@ -5041,7 +5041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Maximum",
@@ -5051,7 +5051,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "McAfee",
@@ -5061,7 +5061,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "McKinsey",
@@ -5071,7 +5071,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "MedISAO",
@@ -5081,7 +5081,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "MediaTek",
@@ -5091,7 +5091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mediamarktsaturn",
@@ -5101,7 +5101,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Medium",
@@ -5121,7 +5121,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Meet Fabric",
@@ -5141,7 +5141,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mercedes-Benz",
@@ -5151,7 +5151,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Merkle Inc.",
@@ -5171,7 +5171,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Microsoft (bounty programs)",
@@ -5181,7 +5181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Microweber",
@@ -5191,7 +5191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mimecast",
@@ -5221,7 +5221,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mobile Vikings",
@@ -5231,7 +5231,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mollie",
@@ -5241,7 +5241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Monero",
@@ -5251,7 +5251,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Monetha",
@@ -5261,7 +5261,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Moneybird",
@@ -5301,7 +5301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Morgan Stanley",
@@ -5311,7 +5311,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Motorola",
@@ -5321,7 +5321,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "MovieXchange",
@@ -5351,7 +5351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mvorisicochecker",
@@ -5371,7 +5371,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Mycrypto",
@@ -5381,7 +5381,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Myntra",
@@ -5391,7 +5391,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Myob",
@@ -5401,7 +5401,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Navy Federal",
@@ -5411,7 +5411,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "NCSC UK",
@@ -5421,7 +5421,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "NCSC-NL",
@@ -5461,7 +5461,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "NSN Nokia Solutions Networks",
@@ -5471,7 +5471,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "NWB Bank",
@@ -5491,7 +5491,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nasdaq",
@@ -5501,7 +5501,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Naspers",
@@ -5521,7 +5521,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "National Oilwell Varco",
@@ -5531,7 +5531,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Navcoin",
@@ -5541,7 +5541,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Naver Whale",
@@ -5551,7 +5551,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Needabreak",
@@ -5561,7 +5561,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Neophotonics",
@@ -5581,7 +5581,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Netflix",
@@ -5601,7 +5601,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nextcloud",
@@ -5611,7 +5611,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nexuzhealth",
@@ -5631,7 +5631,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nike",
@@ -5641,7 +5641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nimiq",
@@ -5651,7 +5651,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nintendo",
@@ -5661,7 +5661,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Node.js",
@@ -5671,7 +5671,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nokia",
@@ -5681,7 +5681,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nokogiri",
@@ -5691,7 +5691,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Northwestern Mutual",
@@ -5731,7 +5731,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nvidia",
@@ -5741,7 +5741,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Nykaa",
@@ -5751,7 +5751,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OLAcabs",
@@ -5761,7 +5761,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OSLO BORS",
@@ -5781,7 +5781,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OWASP CSRFGuard",
@@ -5831,7 +5831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Offensive Security",
@@ -5841,7 +5841,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ohio Secretary of State",
@@ -5861,7 +5861,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Okta",
@@ -5881,7 +5881,7 @@
     "offers_bounty": "yes",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Olx",
@@ -5891,7 +5891,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Omise",
@@ -5901,7 +5901,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ondeck",
@@ -5911,7 +5911,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "One Identity",
@@ -5921,7 +5921,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OneLogin",
@@ -5931,7 +5931,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Online Seminar",
@@ -5971,7 +5971,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OpenSSL",
@@ -5981,7 +5981,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OpenStack",
@@ -5991,7 +5991,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OpenText",
@@ -6001,7 +6001,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "OpenVPN",
@@ -6011,7 +6011,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Opera",
@@ -6021,7 +6021,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Optimizely",
@@ -6041,7 +6041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Orion Health",
@@ -6051,7 +6051,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Orkut",
@@ -6061,7 +6061,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Overstock",
@@ -6081,7 +6081,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Palo Alto Networks",
@@ -6091,7 +6091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PC Extreme",
@@ -6111,7 +6111,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PHP",
@@ -6121,7 +6121,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PHP (Bug Bounty)",
@@ -6131,7 +6131,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PIVX-Project",
@@ -6141,7 +6141,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PTC",
@@ -6161,7 +6161,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Palo Alto Networks",
@@ -6171,7 +6171,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Panasonic",
@@ -6181,7 +6181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Pantheon",
@@ -6201,7 +6201,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Paragon Initiative Enterprises",
@@ -6221,7 +6221,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Partnerize",
@@ -6241,7 +6241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Passit",
@@ -6251,7 +6251,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PasteCoin",
@@ -6261,7 +6261,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PayTm",
@@ -6291,7 +6291,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Paymill",
@@ -6301,7 +6301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Paypal",
@@ -6311,7 +6311,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Pepperfry",
@@ -6321,7 +6321,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Perl",
@@ -6331,7 +6331,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Personal Capital",
@@ -6361,7 +6361,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Philips",
@@ -6391,7 +6391,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Pizza Hut",
@@ -6401,7 +6401,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Plaid",
@@ -6411,7 +6411,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PlanetHoster",
@@ -6471,7 +6471,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Pornhub",
@@ -6481,7 +6481,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PortSwigger Web Security",
@@ -6491,7 +6491,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PostNL",
@@ -6521,7 +6521,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PowerDNS",
@@ -6531,7 +6531,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Practo",
@@ -6551,7 +6551,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Priceline",
@@ -6581,7 +6581,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Punchh",
@@ -6591,7 +6591,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Puppet",
@@ -6601,7 +6601,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Puppet Labs",
@@ -6611,7 +6611,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "PureVPN",
@@ -6631,7 +6631,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Python",
@@ -6641,7 +6641,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "QWANT",
@@ -6661,7 +6661,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Qmail",
@@ -6671,7 +6671,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Qualcomm",
@@ -6681,7 +6681,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "QuantStamp",
@@ -6691,7 +6691,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Quantopian",
@@ -6701,7 +6701,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Quest",
@@ -6711,7 +6711,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Quora",
@@ -6731,7 +6731,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "RSK",
@@ -6741,7 +6741,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Rackspace",
@@ -6751,7 +6751,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Rapid7",
@@ -6761,7 +6761,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ratelimited",
@@ -6771,7 +6771,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Razer US",
@@ -6781,7 +6781,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Razorpay",
@@ -6821,7 +6821,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Recorded Future",
@@ -6831,7 +6831,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Red Gate",
@@ -6851,7 +6851,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Reddit",
@@ -6861,7 +6861,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Redox",
@@ -6881,7 +6881,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Redtube",
@@ -6891,7 +6891,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Refereum",
@@ -6901,7 +6901,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Relaso",
@@ -6941,7 +6941,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Resmed",
@@ -6951,7 +6951,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Reverb",
@@ -6961,7 +6961,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Revive Adserver",
@@ -6971,7 +6971,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ribose",
@@ -6981,7 +6981,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Riot Games",
@@ -7001,7 +7001,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ripple",
@@ -7011,7 +7011,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Riskalyze",
@@ -7021,7 +7021,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Robeco",
@@ -7041,7 +7041,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Rocket.Chat",
@@ -7051,7 +7051,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "RockstarGames",
@@ -7061,7 +7061,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Rollbar",
@@ -7071,7 +7071,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Royal Bank of Scotland",
@@ -7081,7 +7081,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Rubrik",
@@ -7091,7 +7091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ruby",
@@ -7101,7 +7101,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ruby on Rails",
@@ -7111,7 +7111,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "RubyGems",
@@ -7121,7 +7121,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SAP Concur",
@@ -7161,7 +7161,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SNS Bank",
@@ -7171,7 +7171,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sails.js",
@@ -7181,7 +7181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Salesforce",
@@ -7201,7 +7201,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Samsung SmartTV",
@@ -7211,7 +7211,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SaveDroid",
@@ -7221,7 +7221,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ScaleFT",
@@ -7231,7 +7231,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Scraping Hub",
@@ -7241,7 +7241,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Secure Cyber Future",
@@ -7251,7 +7251,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SecureDrop",
@@ -7271,7 +7271,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Segment",
@@ -7291,7 +7291,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Selz",
@@ -7301,7 +7301,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Semmle",
@@ -7311,7 +7311,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SendSafely",
@@ -7321,7 +7321,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sense",
@@ -7341,7 +7341,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SerenityOS",
@@ -7351,7 +7351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Shape Security",
@@ -7371,7 +7371,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Shell",
@@ -7381,7 +7381,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Shieldox Security LTD",
@@ -7391,7 +7391,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Shipt",
@@ -7401,7 +7401,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Shopify",
@@ -7421,7 +7421,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sidefx",
@@ -7441,7 +7441,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Signify",
@@ -7451,7 +7451,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Signup",
@@ -7511,7 +7511,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Skuid",
@@ -7521,7 +7521,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sky TV",
@@ -7531,7 +7531,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Skyscanner",
@@ -7551,7 +7551,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "SmartThings",
@@ -7571,7 +7571,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Smule",
@@ -7581,7 +7581,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Snapchat",
@@ -7591,7 +7591,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Snyk",
@@ -7621,7 +7621,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Solvinity",
@@ -7641,7 +7641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sony",
@@ -7651,7 +7651,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sophos",
@@ -7681,7 +7681,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Sphero",
@@ -7691,7 +7691,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Splendid Data",
@@ -7711,7 +7711,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Splunk",
@@ -7721,7 +7721,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Spokeo",
@@ -7741,7 +7741,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Spreaker",
@@ -7791,7 +7791,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Stack Exchange",
@@ -7801,7 +7801,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "StackPath",
@@ -7821,7 +7821,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Stanford University",
@@ -7831,7 +7831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "StarLeaf",
@@ -7851,7 +7851,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Starling Bank Limited",
@@ -7871,7 +7871,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "State of Delaware",
@@ -7881,7 +7881,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "StatusPage.io",
@@ -7901,7 +7901,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Stripe",
@@ -7911,7 +7911,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Stryker",
@@ -7961,7 +7961,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Swiftype",
@@ -7991,7 +7991,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Symantec",
@@ -8001,7 +8001,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Synack",
@@ -8011,7 +8011,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Synology",
@@ -8031,7 +8031,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TD Ameritrade",
@@ -8041,7 +8041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TIAA",
@@ -8051,7 +8051,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TTS",
@@ -8101,7 +8101,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tarsnap",
@@ -8111,7 +8111,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TechGig",
@@ -8131,7 +8131,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tele2",
@@ -8161,7 +8161,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Telenet",
@@ -8181,7 +8181,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tencent",
@@ -8191,7 +8191,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tendermint",
@@ -8211,7 +8211,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tesla",
@@ -8231,7 +8231,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "The Dutch Security Cluster",
@@ -8241,7 +8241,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "The Internet",
@@ -8251,7 +8251,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "The Things Network",
@@ -8261,7 +8261,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Thumbtack",
@@ -8271,7 +8271,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TicketSwap",
@@ -8301,7 +8301,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TomTom",
@@ -8311,7 +8311,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TopDesk",
@@ -8321,7 +8321,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tor",
@@ -8331,7 +8331,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Toyota",
@@ -8351,7 +8351,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TransIP",
@@ -8361,7 +8361,7 @@
     "offers_bounty": "",
     "offers_swag": "",
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TransferWise",
@@ -8381,7 +8381,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Trello",
@@ -8401,7 +8401,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Trezor",
@@ -8451,7 +8451,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Trustpilot",
@@ -8461,7 +8461,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tube8",
@@ -8471,7 +8471,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tuenti",
@@ -8481,7 +8481,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Tumblr",
@@ -8491,7 +8491,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Twilio",
@@ -8511,7 +8511,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Twitch",
@@ -8521,7 +8521,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Twitter",
@@ -8531,7 +8531,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Twizo",
@@ -8551,7 +8551,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "UMA Project",
@@ -8591,7 +8591,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ubiquiti Networks",
@@ -8601,7 +8601,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Udemy",
@@ -8611,7 +8611,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "UiPath",
@@ -8621,7 +8621,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Unisyn Voting Solutions",
@@ -8641,7 +8641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Unikrn",
@@ -8671,7 +8671,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "United Nations",
@@ -8681,7 +8681,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Unity3d",
@@ -8691,7 +8691,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Universiteit Leiden",
@@ -8711,7 +8711,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Unloq",
@@ -8721,7 +8721,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Upgrade",
@@ -8731,7 +8731,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Upserve",
@@ -8761,7 +8761,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "U.S. Department of Energy Office of Scientific and Technical Information",
@@ -8801,7 +8801,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "VHX",
@@ -8831,7 +8831,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Valve",
@@ -8841,7 +8841,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Vanilla",
@@ -8851,7 +8851,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "VeraCrypt",
@@ -8861,7 +8861,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Verizon",
@@ -8871,7 +8871,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Verizon Media",
@@ -8891,7 +8891,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Viadeo",
@@ -8901,7 +8901,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Vimeo",
@@ -8961,7 +8961,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Volkis",
@@ -9041,7 +9041,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Walmart",
@@ -9061,7 +9061,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "WeTransfer",
@@ -9081,7 +9081,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Weblate",
@@ -9091,7 +9091,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Wefact",
@@ -9111,7 +9111,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Wepay",
@@ -9121,7 +9121,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Western Union",
@@ -9161,7 +9161,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Wordfence",
@@ -9171,7 +9171,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Wordpoints",
@@ -9181,7 +9181,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Wordpress",
@@ -9191,7 +9191,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Workmarket",
@@ -9201,7 +9201,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Xen Project",
@@ -9211,7 +9211,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Xerox",
@@ -9221,7 +9221,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Xfinity",
@@ -9231,7 +9231,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Xilinx",
@@ -9251,7 +9251,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "YATRA",
@@ -9261,7 +9261,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Yammer",
@@ -9271,7 +9271,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Yandex",
@@ -9281,7 +9281,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Yelp",
@@ -9291,7 +9291,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Yesware",
@@ -9321,7 +9321,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Yum!",
@@ -9331,7 +9331,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "ZEIT",
@@ -9371,7 +9371,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Zero Disclo",
@@ -9401,7 +9401,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Zilliqa",
@@ -9421,7 +9421,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Zoho",
@@ -9431,7 +9431,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Zomato",
@@ -9451,7 +9451,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Zynga Whitehat",
@@ -9471,7 +9471,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "cPaperless",
@@ -9481,7 +9481,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "dfuse Platform",
@@ -9491,7 +9491,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "eBay",
@@ -9501,7 +9501,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "iFixit",
@@ -9511,7 +9511,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "iRobot",
@@ -9571,7 +9571,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Letsbuild",
@@ -9611,7 +9611,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Marriott",
@@ -9621,7 +9621,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Ubiquiti - Aside program to the current at HackerOne",
@@ -9631,7 +9631,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Joyus",
@@ -9641,7 +9641,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "CNN Store",
@@ -9651,7 +9651,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Billogram",
@@ -9661,7 +9661,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "NBX",
@@ -9711,7 +9711,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Cobu",
@@ -9741,7 +9741,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Guilded",
@@ -9751,7 +9751,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "WeVPN",
@@ -9771,7 +9771,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Defibox",
@@ -9781,7 +9781,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Qtrade",
@@ -9791,7 +9791,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "DragonEx",
@@ -9801,7 +9801,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Blade Storm",
@@ -9811,7 +9811,7 @@
     "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "Achmea",
@@ -9821,7 +9821,7 @@
     "offers_bounty": "no",
     "offers_swag": true,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "TheStandard",
@@ -9831,7 +9831,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "",
-    "safe_harbor": ""
+    "safe_harbor": "none"
   },
   {
     "program_name": "AlwaysData",
