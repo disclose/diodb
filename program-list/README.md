@@ -16,23 +16,24 @@ Some examples of suggestions that won't be accepted:
   2. Invitation-only programs  
   3. Programs that you heard about from a friend but aren't listed publicly  
   4. Programs without a public policy or a nominated channel for communication  
+  5. Programs 
 
 ## Definition of fields 
 
-- **program_name (required):** What is the name of the company or product team responsible for the program?  
+- **program_name (optional):** What is the name of the company or product team responsible for the program?  
 - **policy_url (required):** Where can the policy which defines the program be found? (Usually a webpage e.g. /security, a URL on a vulnerability management platform, or in a robots.txt or security.txt file).  
-- **submission_url (required):** Where does policy say vulnerability submissions should be sent? (Usually a web form, a URL on a vulnerability management platform, or an email address. Emails can be added as URLs using 'mailto:').  
+- **contact_url (required):** Where does policy say vulnerability submissions should be sent? (Usually a web form, a URL on a vulnerability management platform, or an email address. Emails can be added as URLs using 'mailto:').  
 - **launch_date (optional):** When does the program say it was launched?  
 - **bug_bounty (optional):** Does the program commit to rewarding vulnerabilities?  
 - **swag (optional):** Does the program commit to sending swag out for vulnerabilities?  
-- **hall_of_fame (optional):** Does the program have a listing or Hall of Fame page acknowledging vulnerability reporters?
+- **hall_of_fame (optional):** Does the program have a Thanks page, Hall of Fame, or other page acknowledging vulnerability reporters?
 - **safe_harbor (required):** Does the program support full or partial safe-harbor?  
 
 ~~~~
   {
     "program_name": "Tesla",
     "policy_url": "https://bugcrowd.com/tesla",
-    "submission_url": "https://bugcrowd.com/tesla/report",
+    "contact_url": "https://bugcrowd.com/tesla/report",
     "launch_date": "2013-11-26",
     "bug_bounty": true,
     "swag": false,
