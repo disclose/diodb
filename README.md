@@ -36,7 +36,9 @@ If you work with an organization like this, encourage them to launch a formal an
 
 ### Some examples of suggestions that won't be accepted:
 
-Remember, the goal of disclose.io is to drive companies who are proactive and clear about adopting VDPs, so we'll only accept entries that satisfy the Policy and Intake requirement above. Sometimes, organizations have informal vulnerability reporting setups. While these organizations provide lucky or persistent folks with the option to report issues, this arrangement does NOT constitute a formally established and fully endorsed public VDP.
+Remember, the goal of The disclose.io Project is to drive the adoption of VDP with best practices, so we'll only accept entries that satisfy the Policy and Intake requirement above.  
+
+Sometimes, organizations have informal vulnerability reporting setups. While these organizations provide lucky or persistent folks with the option to report issues, this arrangement does NOT constitute a formally established and fully endorsed public VDP.
 
 Some examples of this include:
 
