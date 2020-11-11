@@ -12849,10 +12849,10 @@
   },
   {
     "program_name": "Splunk",
-    "policy_url": "https://www.splunk.com/goto/report_vulnerabilities",
-    "contact_url": "https://www.splunk.com/goto/report_vulnerabilities_global",
+    "policy_url": "https://www.splunk.com/en_us/product-security.html",
+    "contact_url": "https://www.splunk.com/en_us/product-security/report.html",
     "launch_date": "",
-    "offers_bounty": "no",
+    "offers_bounty": "partial",
     "offers_swag": false,
     "hall_of_fame": "",
     "safe_harbor": "none",
