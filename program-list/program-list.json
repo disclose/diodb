@@ -27058,5 +27058,20 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": ""
+  },
+  {
+    "program_name": "Grofers",
+    "policy_url": "https://grofers.com/bug-bounty",
+    "contact_url": "mailto:https://grofers.com/bug-bounty",
+    "launch_date": "",
+    "offers_bounty": "",
+    "offers_swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": "",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
   }
 ]
