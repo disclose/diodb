@@ -27064,7 +27064,7 @@
     "policy_url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
     "contact_url": "https://nowpayments.io/contact-us",
     "launch_date": "",
-    "offers_bounty": "no",
+    "offers_bounty": "yes",
     "offers_swag": false,
     "hall_of_fame": "no",
     "safe_harbor": "partial",
