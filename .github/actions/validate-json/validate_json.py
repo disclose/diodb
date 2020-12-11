@@ -5,12 +5,22 @@ from jsonschema import validate
 
 
 def validateJson(json_data, schema):
+    is_valid = False
     try:
         validate(instance=json_data, schema=schema)
+        is_valid = True
     except ValidationError as err:
         print(err)
         return False
-    return True
+
+    data = json.loads(json_data)
+
+    for record in data:
+        if isinstance(record["hall_of_fame"], bool):
+            print("hall_of_fame value is a boolean, but should be a string. Program: " + record["program_name"])
+            is_valid = False
+
+    return is_valid
 
 
 if __name__ == "__main__":
