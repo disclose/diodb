@@ -1,20 +1,5 @@
 [
   {
-    "program_name": "Ministry of Defence",
-    "policy_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
-    "contact_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
-    "launch_date": "",
-    "offers_bounty": "no",
-    "offers_swag": false,
-    "hall_of_fame": "",
-    "safe_harbor": "partial",
-    "public_disclosure": "",
-    "pgp_key": "",
-    "hiring": "",
-    "securitytxt_url": "",
-    "preferred_languages": ""
-  },
-  {
     "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
     "contact_url": "https://bugcrowd.com/isc2/report",
@@ -12060,6 +12045,21 @@
     "preferred_languages": ""
   },
   {
+    "program_name": "Grofers",
+    "policy_url": "https://grofers.com/bug-bounty",
+    "contact_url": "mailto:https://grofers.com/bug-bounty",
+    "launch_date": "",
+    "offers_bounty": "",
+    "offers_swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": "",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
+  },
+  {
     "program_name": "Grok Learning",
     "policy_url": "https://groklearning.com/security",
     "contact_url": "security@groklearning.com",
@@ -16035,6 +16035,21 @@
     "preferred_languages": ""
   },
   {
+    "program_name": "Ministry of Defence",
+    "policy_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
+    "contact_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "partial",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
+  },
+  {
     "program_name": "missguided.com",
     "policy_url": "https://www.missguided.co.uk/responsible-disclosure",
     "contact_url": "mailto:cybersecurity@missguided.com",
@@ -17233,6 +17248,21 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": ""
+  },
+  {
+    "program_name": "NOWPayments",
+    "policy_url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
+    "contact_url": "https://nowpayments.io/contact-us",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "no",
+    "safe_harbor": "partial",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "English"
   },
   {
     "program_name": "Nowsecure",
@@ -19752,7 +19782,7 @@
     "pgp_key": "",
     "hiring": "",
     "securitytxt_url": "",
-    "preferred_languages":  "en"
+    "preferred_languages": "en"
   },
   {
     "program_name": "Rapid7",
@@ -27083,37 +27113,6 @@
     "offers_swag": false,
     "hall_of_fame": "",
     "safe_harbor": "partial",
-    "public_disclosure": "",
-    "pgp_key": "",
-    "hiring": "",
-    "securitytxt_url": "",
-    "preferred_languages": ""
-  },
-  {
-    "program_name": "NOWPayments",
-    "policy_url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
-    "contact_url": "https://nowpayments.io/contact-us",
-    "launch_date": "",
-    "offers_bounty": "yes",
-    "offers_swag": false,
-    "hall_of_fame": "no",
-    "safe_harbor": "partial",
-    "public_disclosure": "",
-    "pgp_key": "",
-    "hiring": "",
-    "securitytxt_url": "",
-    "preferred_languages": "English"
-  },
-  {
-    "program_name": "Grofers",
-    "policy_url": "https://grofers.com/bug-bounty",
-    "contact_url": "mailto:https://grofers.com/bug-bounty",
-    "launch_date": "",
-    "offers_bounty": "",
-    "offers_swag": "",
-    "hall_of_fame": "",
-    "safe_harbor": "",
-    "preferred_languages": "",
     "public_disclosure": "",
     "pgp_key": "",
     "hiring": "",
