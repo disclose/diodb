@@ -1,6 +1,6 @@
 name: duplicate-check
 
-on: [push]
+on: [pull_request]
 
 jobs:
   duplicate_check_job:
