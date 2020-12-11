@@ -1,5 +1,20 @@
 [
   {
+    "program_name": "Ministry of Defence",
+    "policy_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
+    "contact_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "partial",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
+  },
+  {
     "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
     "contact_url": "https://bugcrowd.com/isc2/report",
@@ -19725,6 +19740,21 @@
     "preferred_languages": ""
   },
   {
+    "program_name": "RangeMe",
+    "policy_url": "https://www.rangeme.com/vulnerability_disclosure_program",
+    "contact_url": "security@rangeme.com",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages":  "en"
+  },
+  {
     "program_name": "Rapid7",
     "policy_url": "https://www.rapid7.com/security/disclosure",
     "contact_url": "https://www.rapid7.com/security/disclosure",
@@ -27073,5 +27103,21 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "English"
+  },
+  {
+    "program_name": "Grofers",
+    "policy_url": "https://grofers.com/bug-bounty",
+    "contact_url": "mailto:https://grofers.com/bug-bounty",
+    "launch_date": "",
+    "offers_bounty": "",
+    "offers_swag": "",
+    "hall_of_fame": "",
+    "safe_harbor": "",
+    "preferred_languages": ""
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
   }
 ]
