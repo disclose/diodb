@@ -1,6 +1,6 @@
 name: validate-json
 
-on: [push]
+on: [pull_request]
 
 jobs:
   validate_json_fix_job:
