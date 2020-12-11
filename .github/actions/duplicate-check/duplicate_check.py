@@ -11,7 +11,7 @@ def duplicate_check_boilerplate(json_data, param, context):
 			print("Duplicate " + context + " found. " + context + ": " + program[param])
 			ret_val = True
 		else:
-			values.append(program[context])
+			values.append(program[param])
 
 	return ret_val
 
