@@ -20,6 +20,10 @@ def duplicate_check_policy_url(json_data):
 	return duplicate_check_boilerplate(json_data, "policy_url", "policy url")
 
 
+def duplicate_check_contact_url(json_data):
+	return duplicate_check_boilerplate(json_data, "contact_url", "contact url")
+
+
 def duplicate_check_program_name(json_data):
 	return duplicate_check_boilerplate(json_data, "program_name", "name")
 
