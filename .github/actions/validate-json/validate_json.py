@@ -13,9 +13,7 @@ def validateJson(json_data, schema):
         print(err)
         return False
 
-    data = json.loads(json_data)
-
-    for record in data:
+    for record in json_data:
         if isinstance(record["hall_of_fame"], bool):
             print("hall_of_fame value is a boolean, but should be a string. Program: " + record["program_name"])
             is_valid = False
