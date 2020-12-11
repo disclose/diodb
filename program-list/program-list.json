@@ -27090,6 +27090,21 @@
     "preferred_languages": ""
   },
   {
+    "program_name": "NOWPayments",
+    "policy_url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
+    "contact_url": "https://nowpayments.io/contact-us",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "no",
+    "safe_harbor": "partial",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "English"
+  },
+  {
     "program_name": "Grofers",
     "policy_url": "https://grofers.com/bug-bounty",
     "contact_url": "mailto:https://grofers.com/bug-bounty",
@@ -27098,6 +27113,7 @@
     "offers_swag": "",
     "hall_of_fame": "",
     "safe_harbor": "",
+    "preferred_languages": ""
     "public_disclosure": "",
     "pgp_key": "",
     "hiring": "",
