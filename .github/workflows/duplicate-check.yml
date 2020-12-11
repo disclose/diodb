@@ -1,0 +1,13 @@
+name: duplicate-check
+
+on: [push]
+
+jobs:
+  duplicate_check_job:
+    runs-on: ubuntu-latest
+    name: duplicate-check job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: duplicate-check action step
+      uses: ./.github/actions/duplicate-check
