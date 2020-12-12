@@ -3435,6 +3435,21 @@
     "preferred_languages": ""
   },
   {
+	"program_name": "Buildxact",
+	"policy_url": "https://www.buildxact.com.au/responsible-disclosure/",
+    "contact_url": "support@bugcrowd.com",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": ""
+  },
+  {
     "program_name": "Bunq",
     "policy_url": "https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf",
     "contact_url": "responsible-disclosure@bunq.com",
