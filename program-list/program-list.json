@@ -3450,8 +3450,8 @@
     "preferred_languages": ""
   },
   {
-	"program_name": "Buildxact",
-	"policy_url": "https://www.buildxact.com.au/responsible-disclosure/",
+    "program_name": "Buildxact",
+    "policy_url": "https://www.buildxact.com.au/responsible-disclosure/",
     "contact_url": "support@bugcrowd.com",
     "launch_date": "",
     "offers_bounty": "no",
