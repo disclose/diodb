@@ -1927,7 +1927,7 @@
     "offers_bounty": "no",
     "offers_swag": false,
     "hall_of_fame": "https://www.health.gov.au/using-our-websites/vulnerability-disclosure-policy",
-    "safe_harbor": "",
+    "safe_harbor": "none",
     "public_disclosure": "",
     "pgp_key": "",
     "hiring": "",
