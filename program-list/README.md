@@ -1,4 +1,4 @@
-# disclose.io/bug-bounty-list
+# disclose.io/program-list
 
 > The community-powered index of ALL known public bug bounty and vulnerability disclosure programs, including their safe harbor status.  
 
