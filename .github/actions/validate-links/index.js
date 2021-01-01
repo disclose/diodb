@@ -11,7 +11,7 @@ const MAX_CONCURRENT_REQUESTS = 8;
 // Requests responses (e.g. by sending requests to many URLs from different
 // programs on the same bug bounty platform). With too many concurrent
 // requests, we may also hit other resource limits.
-const PROGRAM_LIST_FILE = 'program-list/program-list.json';
+const PROGRAM_LIST_FILE = './program-list.json';
 const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
 
 
