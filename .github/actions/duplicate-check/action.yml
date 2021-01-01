@@ -7,5 +7,5 @@ runs:
       shell: bash
     - run: pip3 install tldextract
       shell: bash
-    - run: python3 ${{ github.action_path }}/duplicate_check.py ${{ github.action_path }}/../../../program-list/
+    - run: python3 ${{ github.action_path }}/duplicate_check.py ${{ github.action_path }}/../../../
       shell: bash

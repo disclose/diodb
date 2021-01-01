@@ -8,7 +8,7 @@ import json
 import pandas as pd
 
 def main():
-    gh_url = "https://raw.githubusercontent.com/disclose/diodb/master/program-list/program-list.json"
+    gh_url = "https://raw.githubusercontent.com/disclose/diodb/master/program-list.json"
     df_gh = pd.read_json(gh_url)
     df_gh.fillna('', inplace=True)
     df_gh.set_index('program_name', drop=False, inplace=True)
