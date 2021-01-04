@@ -6061,8 +6061,8 @@
   },
   {
     "program_name": "DigitalOcean",
-    "policy_url": "https://bugcrowd.com/digitalocean",
-    "contact_url": "https://bugcrowd.com/digitalocean/report",
+    "policy_url": "https://hackerone.com/digitalocean",
+    "contact_url": "https://hackerone.com/digitalocean/reports/new",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -6751,8 +6751,8 @@
   },
   {
     "program_name": "edas.info",
-    "policy_url": "https://edas.info/doc/vulnerability.html",
-    "contact_url": "mailto:help@edas.info",
+    "policy_url": "https://www.edas.info/doc/disclosure.html",
+    "contact_url": "https://www.edas.info/doc/disclosure.html",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -7306,7 +7306,7 @@
   },
   {
     "program_name": "exabeam.com",
-    "policy_url": "https://www.exabeam.com/security-policy/",
+    "policy_url": "https://www.exabeam.com/.well-known/security.txt",
     "contact_url": "mailto:vulnerability@exabeam.com",
     "launch_date": "",
     "offers_bounty": "",
