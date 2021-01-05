@@ -7651,8 +7651,8 @@
   },
   {
     "program_name": "Files.com",
-    "policy_url": "https://bugcrowd.com/files",
-    "contact_url": "https://bugcrowd.com/files/report",
+    "policy_url": "https://hackerone.com/files",
+    "contact_url": "https://hackerone.com/files/reports",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -8581,8 +8581,8 @@
   },
   {
     "program_name": "GetAmbassador",
-    "policy_url": "https://www.getambassador.com/responsible-disclosure-policy",
-    "contact_url": "security@getambassador.com",
+    "policy_url": "https://blog.getambassador.io/security-in-ambassador-a-risk-based-approach-fd24e364ea84",
+    "contact_url": "secalert@datawire.io",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": true,
