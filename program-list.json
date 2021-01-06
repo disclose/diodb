@@ -1105,7 +1105,7 @@
   },
   {
     "program_name": "American Express",
-    "policy_url": "https://www.americanexpress.com/us/security-center/responsible-disclosure-policy/",
+    "policy_url": "https://www.americanexpress.com/us/security-center/cybersecurity.html",
     "contact_url": "responsible.disclosure@aexp.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -1693,7 +1693,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "arxiv-org.atlassian.net",
@@ -1985,7 +1985,7 @@
   },
   {
     "program_name": "Augur",
-    "policy_url": "https://www.augur.net/bounty/",
+    "policy_url": "https://augur.net/blog/v2-bug-bounty/",
     "contact_url": "bounty@augur.net",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -2625,8 +2625,8 @@
   },
   {
     "program_name": "bill.com",
-    "policy_url": "https://bugcrowd.com/bill01?preview=7a986440b1d2acd8c3e8c78e4f178faf",
-    "contact_url": "abuse@hq.bill.com",
+    "policy_url": "https://www.bill.com/security",
+    "contact_url": "bill01@submit.bugcrowd.com",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -6513,8 +6513,8 @@
   },
   {
     "program_name": "DigitalOcean",
-    "policy_url": "https://bugcrowd.com/digitalocean",
-    "contact_url": "https://bugcrowd.com/digitalocean/report",
+    "policy_url": "https://hackerone.com/digitalocean",
+    "contact_url": "https://hackerone.com/digitalocean/reports/new",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -7249,8 +7249,8 @@
   },
   {
     "program_name": "edas.info",
-    "policy_url": "https://edas.info/doc/vulnerability.html",
-    "contact_url": "mailto:help@edas.info",
+    "policy_url": "https://www.edas.info/doc/disclosure.html",
+    "contact_url": "https://www.edas.info/doc/disclosure.html",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -7841,7 +7841,7 @@
   },
   {
     "program_name": "exabeam.com",
-    "policy_url": "https://www.exabeam.com/security-policy/",
+    "policy_url": "https://www.exabeam.com/.well-known/security.txt",
     "contact_url": "mailto:vulnerability@exabeam.com",
     "launch_date": "",
     "offers_bounty": "",
@@ -8209,8 +8209,8 @@
   },
   {
     "program_name": "Files.com",
-    "policy_url": "https://bugcrowd.com/files",
-    "contact_url": "https://bugcrowd.com/files/report",
+    "policy_url": "https://hackerone.com/files",
+    "contact_url": "https://hackerone.com/files/reports",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -9201,8 +9201,8 @@
   },
   {
     "program_name": "GetAmbassador",
-    "policy_url": "https://www.getambassador.com/responsible-disclosure-policy",
-    "contact_url": "security@getambassador.com",
+    "policy_url": "https://blog.getambassador.io/security-in-ambassador-a-risk-based-approach-fd24e364ea84",
+    "contact_url": "secalert@datawire.io",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": true,
@@ -14625,8 +14625,8 @@
   },
   {
     "program_name": "IOTA",
-    "policy_url": "https://bugcrowd.com/iota",
-    "contact_url": "https://bugcrowd.com/iota/report",
+    "policy_url": "https://github.com/iotaledger/iota-java/blob/dev/.github/SECURITY.md",
+    "contact_url": "security@iota.org",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -15265,8 +15265,8 @@
   },
   {
     "program_name": "Kadince",
-    "policy_url": "https://www.kadince.com/legal/security_policy",
-    "contact_url": "security@kandice.com",
+    "policy_url": "https://hackerone.com/kadince",
+    "contact_url": "security@kadince.com",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -22946,7 +22946,7 @@
   {
     "program_name": "Shape Security",
     "policy_url": "https://www.shapesecurity.com/report-a-vulnerability",
-    "contact_url": "security@shapesecurity.com ",
+    "contact_url": "security@shapesecurity.com",
     "launch_date": "2019-11-15",
     "offers_bounty": "yes",
     "offers_swag": false,
