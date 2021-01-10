@@ -3181,7 +3181,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "blog.agilecraft.com",
@@ -5501,7 +5501,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "Copper",
@@ -8829,7 +8829,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "FUSION",
@@ -14893,7 +14893,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "Jazz Networks",
@@ -15901,7 +15901,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "Librato",
@@ -16573,7 +16573,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "magicable.atlassian.net",
@@ -16605,7 +16605,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "Magix AG",
@@ -18641,8 +18641,8 @@
   },
   {
     "program_name": "nospamproxy.de",
-    "policy_url": "https://www.nospamproxy.de/en/cyber-security-product-security-incident-response-team-psirt/#tab-id-1",
-    "contact_url": "https://www.nospamproxy.de/en/cyber-security-product-security-incident-response-team-psirt/",
+    "policy_url": "https://www.nospamproxy.de/en/cybersecurity-product-security-incident-response-team-psirt/",
+    "contact_url": "psirt@nospamproxy.com",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -21149,7 +21149,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "pushlife.com",
@@ -21409,8 +21409,8 @@
   },
   {
     "program_name": "raf.mod.uk",
-    "policy_url": "https://www.raf.mod.uk/privacy/vulnerability-reporting/",
-    "contact_url": "https://hackerone.com/34160193-e594-4c17-ad4d-27e0cbf22f70/embedded_submissions/new",
+    "policy_url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system",
+    "contact_url": "https://hackerone.com/ef81a495-9cb5-49bb-88ec-430fc4cffb90/embedded_submissions/new",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -21537,8 +21537,8 @@
   },
   {
     "program_name": "reachtheworldonfacebook.com",
-    "policy_url": "https://reachtheworldonfacebook.com/whitehat/info/",
-    "contact_url": "https://reachtheworldonfacebook.com/whitehat/report/",
+    "policy_url": "https://www.facebook.com/whitehat",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -21921,7 +21921,7 @@
   },
   {
     "program_name": "Resmed",
-    "policy_url": "https://www.resmed.com/us/en/consumer/security/disclosure.html",
+    "policy_url": "https://www.resmed.com/en-us/security/",
     "contact_url": "securityreports@resmed.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -22637,7 +22637,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "secrethub.io",
