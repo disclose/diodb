@@ -12,6 +12,13 @@
           "type": "string",
           "format": "uri"
         },
+        "policy_url_status": {
+          "type": "string",
+          "enum": [
+            "alive",
+            "dead"
+          ]
+        },
         "contact_url": {
           "type": "string",
           "format": "uri"
