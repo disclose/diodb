@@ -2000,22 +2000,6 @@
     "policy_url_status": "alive"
   },
   {
-    "program_name": "Augur Project",
-    "policy_url": "https://www.augur.net/bounty/",
-    "contact_url": "https://hackerone.com/augurproject",
-    "launch_date": "",
-    "offers_bounty": "yes",
-    "offers_swag": false,
-    "hall_of_fame": "",
-    "safe_harbor": "full",
-    "public_disclosure": "",
-    "pgp_key": "",
-    "hiring": "",
-    "securitytxt_url": "",
-    "preferred_languages": "",
-    "policy_url_status": "alive"
-  },
-  {
     "program_name": "Australia Post",
     "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
     "contact_url": "mailto:security@auspost.com.au",
