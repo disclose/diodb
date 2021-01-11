@@ -23201,8 +23201,8 @@
   },
   {
     "program_name": "Simple",
-    "policy_url": "https://bugcrowd.com/simple",
-    "contact_url": "https://bugcrowd.com/simple/report",
+    "policy_url": "https://www.simple.com/policies/security",
+    "contact_url": "security@simple.com",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -25425,8 +25425,8 @@
   },
   {
     "program_name": "sviesolutions.com",
-    "policy_url": "https://www.sviesolutions.com/security-policy.html",
-    "contact_url": "mailto:pog@sviesolutions.com",
+    "policy_url": "https://www.openbugbounty.org/bugbounty/sviesolutions/",
+    "contact_url": "https://www.openbugbounty.org/bugbounty/sviesolutions/",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -28161,8 +28161,8 @@
   },
   {
     "program_name": "wakatime.com",
-    "policy_url": "https://wakatime.com/security",
-    "contact_url": "security@wakatime.com",
+    "policy_url": "https://hackerone.com/wakatime?type=team",
+    "contact_url": "https://hackerone.com/wakatime/reports/new?type=team&report_type=vulnerability",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -29217,8 +29217,8 @@
   },
   {
     "program_name": "Zilliqa",
-    "policy_url": "https://bugcrowd.com/zilliqa",
-    "contact_url": "https://bugcrowd.com/zilliqa/report",
+    "policy_url": "https://dev.zilliqa.com/docs/contributors/contribute-bug-bounty/",
+    "contact_url": "https://dev.zilliqa.com/docs/contributors/contribute-bug-bounty/",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -31617,7 +31617,7 @@
   },
   {
     "program_name": "Deutsche Bank",
-    "policy_url": "https://www.db.com/company/en/Responsible-disclosure.htm",
+    "policy_url": "https://www.db.com/legal-resources/responsible-disclosure-process",
     "contact_url": "https://www.db.com/legal-resources/responsible-disclosure-process",
     "launch_date": "",
     "offers_bounty": "no",
