@@ -241,7 +241,7 @@
   },
   {
     "program_name": "Abn Amro",
-    "policy_url": "https://www.abnamro.com/en/footer/responsible-disclosure.html",
+    "policy_url": "https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html",
     "contact_url": "responsible.disclosure@nl.abnamro.com",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -257,7 +257,7 @@
   },
   {
     "program_name": "ABNAMRO BANK",
-    "policy_url": "http://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html",
+    "policy_url": "https://personal.rbs.co.uk/personal/fraud-and-security/responsible-disclosure.html",
     "contact_url": "security.disclosures@rbs.co.uk",
     "launch_date": "",
     "offers_bounty": "no",
@@ -385,7 +385,7 @@
   },
   {
     "program_name": "Acquia",
-    "policy_url": "https://www.acquia.com/how-report-security-issue",
+    "policy_url": "https://www.acquia.com/solutions/security",
     "contact_url": "security@acquia.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -401,7 +401,7 @@
   },
   {
     "program_name": "Actility",
-    "policy_url": "https://www.actility.com/company/security/",
+    "policy_url": "https://www.actility.com/security/",
     "contact_url": "http://app.yogosha.com/",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -849,7 +849,7 @@
   },
   {
     "program_name": "Alcyon",
-    "policy_url": "http://www.alcyon.nl/responsible-disclosure/",
+    "policy_url": "https://www.alcyon.nl/responsible-disclosure/",
     "contact_url": "security@alcyon.nl",
     "launch_date": "",
     "offers_bounty": "no",
@@ -897,8 +897,8 @@
   },
   {
     "program_name": "Algolia",
-    "policy_url": "https://www.algolia.com/security",
-    "contact_url": "https://hackerone.com/algolia",
+    "policy_url": "https://hackerone.com/algolia",
+    "contact_url": "https://hackerone.com/algolia/reports/new?type=team&report_type=vulnerability",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -1089,7 +1089,7 @@
   },
   {
     "program_name": "Amazon Web Services",
-    "policy_url": "http://aws.amazon.com/security/vulnerability-reporting",
+    "policy_url": "https://aws.amazon.com/security/vulnerability-reporting/",
     "contact_url": "aws-security@amazon.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -1313,7 +1313,7 @@
   },
   {
     "program_name": "Appcelerator",
-    "policy_url": "https://www.appcelerator.com/privacy/responsible-disclosure-of-security-vulnerabilities/",
+    "policy_url": "https://www.appcelerator.com/responsible-disclosure-of-security-vulnerabilities/",
     "contact_url": "appc.support@axway.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -1457,7 +1457,7 @@
   },
   {
     "program_name": "Aptible",
-    "policy_url": "https://www.aptible.com/legal/responsible-disclosure/",
+    "policy_url": "https://www.aptible.com/legal/responsible-disclosure",
     "contact_url": "security@aptible.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -1473,7 +1473,7 @@
   },
   {
     "program_name": "Aragon",
-    "policy_url": "https://blog.aragon.org/aragon-token-sale-bug-bounty-a15d192902e9/",
+    "policy_url": "https://aragon.org/blog/aragon-token-sale-bug-bounty-a15d192902e9",
     "contact_url": "security@aragon.one",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -1537,7 +1537,7 @@
   },
   {
     "program_name": "Ark",
-    "policy_url": "https://blog.ark.io/ark-github-development-bounty-113806ae9ffe",
+    "policy_url": "https://ark.io/blog/ark-development-and-security-bounty-program-arkio-blog",
     "contact_url": "security@ark.io",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -2065,8 +2065,8 @@
   },
   {
     "program_name": "Automattic",
-    "policy_url": "http://automattic.com/security/",
-    "contact_url": "https://hackerone.com/automattic",
+    "policy_url": "https://hackerone.com/automattic?type=team",
+    "contact_url": "https://hackerone.com/automattic/reports/new?type=team&report_type=vulnerability",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -2129,8 +2129,8 @@
   },
   {
     "program_name": "Avast!",
-    "policy_url": "http://www.avast.com/bug-bounty",
-    "contact_url": "bugs@avast.com",
+    "policy_url": "https://www.avast.com/bug-bounty",
+    "contact_url": "https://www.avast.com/bug-report",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
@@ -2209,7 +2209,7 @@
   },
   {
     "program_name": "Ayden",
-    "policy_url": "https://support.adyen.com/hc/en-us/articles/115001187330-How-do-I-report-a-possible-security-issue-to-Adyen-",
+    "policy_url": "https://www.adyen.help/hc/en-us/articles/115001187330-How-do-I-report-a-possible-security-issue-to-Adyen",
     "contact_url": "https://support.adyen.com/hc/en-us/requests/new",
     "launch_date": "",
     "offers_bounty": "no",
@@ -2273,8 +2273,8 @@
   },
   {
     "program_name": "Badoo",
-    "policy_url": "http://corp.badoo.com/security",
-    "contact_url": "https://hackerone.com/badoo",
+    "policy_url": "https://hackerone.com/badoo",
+    "contact_url": "https://hackerone.com/badoo/reports/new?type=team&report_type=vulnerability",
     "launch_date": "",
     "offers_bounty": "yes",
     "offers_swag": false,
