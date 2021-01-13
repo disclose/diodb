@@ -5905,7 +5905,7 @@
   },
   {
     "program_name": "data.mx.com",
-    "policy_url": "https://mx.com/security-policy",
+    "policy_url": "https://www.mx.com/security-policy",
     "contact_url": "vulns@mx.com",
     "launch_date": "",
     "offers_bounty": "",
@@ -6193,8 +6193,8 @@
   },
   {
     "program_name": "dennisbabkin.com",
-    "policy_url": "https://dennisbabkin.com/security",
-    "contact_url": "https://dennisbabkin.com/contact",
+    "policy_url": "https://dennisbabkin.com/security/",
+    "contact_url": "https://dennisbabkin.com/sfb/?what=bug",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -6289,7 +6289,7 @@
   },
   {
     "program_name": "Detectify",
-    "policy_url": "https://detectify.com/responsible_disclosure",
+    "policy_url": "https://detectify.com/responsible-disclosure",
     "contact_url": "disclosure@detectify.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -6385,8 +6385,8 @@
   },
   {
     "program_name": "developers.tezos.com",
-    "policy_url": "https://tezos.foundation/security",
-    "contact_url": "mailto:security@tezos.com",
+    "policy_url": "https://tezos.foundation/security/",
+    "contact_url": "security@tezos.com",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
