@@ -2401,7 +2401,7 @@
   },
   {
     "program_name": "Basware",
-    "policy_url": "https://www.basware.com/en-us/responsible-disclosure",
+    "policy_url": "https://www.basware.com/en-en/footer/responsible-disclosure/",
     "contact_url": "secure@basware.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -2433,8 +2433,8 @@
   },
   {
     "program_name": "BD",
-    "policy_url": "https://www.bd.com/en-us/support/product-security-and-privacy/",
-    "contact_url": "productsecurity@bd.com",
+    "policy_url": "https://cybersecurity.bd.com/vulnerability-disclosures",
+    "contact_url": "https://go.bd.com/bd-cybersecurity-potential-vulnerability-claim-report.html",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -2449,7 +2449,7 @@
   },
   {
     "program_name": "Beanstalk",
-    "policy_url": "http://support.beanstalkapp.com/customer/portal/articles/1317175-responsible-disclosure-policy",
+    "policy_url": "https://support.beanstalkapp.com/article/890-responsible-disclosure-policy",
     "contact_url": "https://wildbit.wufoo.com/forms/wildbit-security-response/",
     "launch_date": "",
     "offers_bounty": "no",
@@ -2769,7 +2769,7 @@
   },
   {
     "program_name": "Bitcoin Gold",
-    "policy_url": "https://github.com/BTCGPU/dev/blob/master/responsible-disclosure.md",
+    "policy_url": "https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md",
     "contact_url": "admin@bitcoingold.org",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -3021,7 +3021,7 @@
     "hiring": "",
     "securitytxt_url": "",
     "preferred_languages": "",
-    "policy_url_status": "alive"
+    "policy_url_status": "dead"
   },
   {
     "program_name": "Bizmerlin",
@@ -3057,8 +3057,8 @@
   },
   {
     "program_name": "Blackberry",
-    "policy_url": "https://global.blackberry.com/secure/report-an-issue/en.html",
-    "contact_url": "secure@blackberry.com",
+    "policy_url": "https://www.blackberry.com/us/en/services/blackberry-product-security-incident-response",
+    "contact_url": "https://www.blackberry.com/us/en/services/blackberry-incident-response-team/report-an-issue",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -3073,8 +3073,8 @@
   },
   {
     "program_name": "Blackboard",
-    "policy_url": "https://www.blackboard.com/legal/security-policy.html",
-    "contact_url": "learnsecurity@blackboard.com",
+    "policy_url": "https://help.blackboard.com/Product_Security",
+    "contact_url": "https://help.blackboard.com/Product_Security/Submit_Vulnerability",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -3217,8 +3217,8 @@
   },
   {
     "program_name": "blog.mariadb.org",
-    "policy_url": "https://mariadb.org/about/security-policy/",
-    "contact_url": "https://hackerone.com/mariadb",
+    "policy_url": "https://mariadb.org/about/#security-policy",
+    "contact_url": "security@mariadb.org",
     "launch_date": "",
     "offers_bounty": "",
     "offers_swag": "",
@@ -3249,7 +3249,7 @@
   },
   {
     "program_name": "Blogger",
-    "policy_url": "http://www.google.com/about/appsecurity/reward-program/",
+    "policy_url": "https://www.google.com/about/appsecurity/reward-program/",
     "contact_url": "https://www.google.com/appserve/security-bugs/m2/new?rl=&key=",
     "launch_date": "",
     "offers_bounty": "yes",
@@ -3425,8 +3425,8 @@
   },
   {
     "program_name": "Bosch",
-    "policy_url": "https://psirt.bosch.com/en/responsibleDisclosurePolicy.html",
-    "contact_url": "psirt@bosch.com",
+    "policy_url": "https://psirt.bosch.com/bosch-responsible-disclosure-policy/",
+    "contact_url": "https://psirt.bosch.com/report-a-vulnerability/",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -3457,7 +3457,7 @@
   },
   {
     "program_name": "Boston Scientific",
-    "policy_url": "http://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html",
+    "policy_url": "https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html",
     "contact_url": "product.security@bsci.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -3585,8 +3585,8 @@
   },
   {
     "program_name": "Buffer",
-    "policy_url": "https://bufferapp.com/security",
-    "contact_url": "security@bufferapp.com",
+    "policy_url": "https://buffer.com/legal#security",
+    "contact_url": "security@buffer.com",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -3953,8 +3953,8 @@
   },
   {
     "program_name": "Capital One",
-    "policy_url": "https://www.capitalone.com/applications/responsible-disclosure/",
-    "contact_url": "https://hackerone.com/capital-one",
+    "policy_url": "https://www.capitalone.com/digital/responsible-disclosure/",
+    "contact_url": "https://hackerone.com/capital-one/reports/new?type=team&report_type=vulnerability",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -3985,8 +3985,8 @@
   },
   {
     "program_name": "Carbon Black",
-    "policy_url": "https://www.carbonblack.com/resources/reporting-security-vulnerability/",
-    "contact_url": "productsecurity@carbonblack.com",
+    "policy_url": "https://www.carbonblack.com/legal/reporting-security-vulnerability/",
+    "contact_url": "security@vmware.com",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -4321,7 +4321,7 @@
   },
   {
     "program_name": "Channable",
-    "policy_url": "https://www.channable.com/wp-content/uploads/2018/12/Responsible-disclosure-of-security-vulnerabilities.pdf",
+    "policy_url": "https://www.channable.com/bug-bounty/",
     "contact_url": "security@channable.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -4513,7 +4513,7 @@
   },
   {
     "program_name": "Circ.lu",
-    "policy_url": "https://www.circl.lu/pub/responsible-vulnerability-disclosure",
+    "policy_url": "https://www.circl.lu/pub/responsible-vulnerability-disclosure/",
     "contact_url": "https://www.circl.lu/report/",
     "launch_date": "",
     "offers_bounty": "no",
@@ -4529,8 +4529,8 @@
   },
   {
     "program_name": "CircleCi",
-    "policy_url": "https://circleci.com/security",
-    "contact_url": "security@circleci.com",
+    "policy_url": "https://circleci.com/security/",
+    "contact_url": "https://circleci.com/security/#concerns",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": true,
@@ -4785,7 +4785,7 @@
   },
   {
     "program_name": "Cloudapp",
-    "policy_url": "https://get.cloudapp.help/hc/en-us/articles/223617748-Responsible-Disclosure-Report-found-vulnerabilities",
+    "policy_url": "https://support.getcloudapp.com/article/260-responsible-disclosure-report-found-vulnerabilities",
     "contact_url": "support@getcloudapp.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -4817,8 +4817,8 @@
   },
   {
     "program_name": "CloudFlare",
-    "policy_url": "https://www.cloudflare.com/disclosure",
-    "contact_url": "https://hackerone.com/cloudflare",
+    "policy_url": "https://www.cloudflare.com/en-gb/disclosure/",
+    "contact_url": "https://hackerone.com/cloudflare/reports/new",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -4961,7 +4961,7 @@
   },
   {
     "program_name": "Cobu",
-    "policy_url": "https://livecobu.zendesk.com/hc/en-us/articles/360029473411-Member-Agreement",
+    "policy_url": "https://intercom.help/cobu/en/articles/4342104-member-agreement",
     "contact_url": "support@livecobu.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -5233,7 +5233,7 @@
   },
   {
     "program_name": "Commonsware",
-    "policy_url": "http://commonsware.com/bounty.html",
+    "policy_url": "https://commonsware.com/bounty.html",
     "contact_url": "ummmmm-hi@commonsware.com",
     "launch_date": "",
     "offers_bounty": "no",
@@ -5281,8 +5281,8 @@
   },
   {
     "program_name": "Compose",
-    "policy_url": "https://www.compose.io/security",
-    "contact_url": "security@compose.io",
+    "policy_url": "https://www.compose.com/security",
+    "contact_url": "security@compose.com",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -5569,7 +5569,7 @@
   },
   {
     "program_name": "Coupa",
-    "policy_url": "http://www.coupa.com/success/vulnerability-reporting-policy",
+    "policy_url": "https://success.coupa.com/Trust/Security_Policies/02_Vulnerability_Reporting_Policy",
     "contact_url": "security@coupa.com",
     "launch_date": "",
     "offers_bounty": "no",
