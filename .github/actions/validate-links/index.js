@@ -3,6 +3,7 @@ const fsPromises = require('fs').promises;
 const http = require('http');
 const https = require('https');
 const zlib = require('zlib');
+require('tls').DEFAULT_MIN_VERSION = 'TLSv1';
 
 
 const MAX_CONCURRENT_REQUESTS = 8;
