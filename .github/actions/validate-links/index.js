@@ -269,6 +269,9 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
       let invalidURLsCount = 0;
       for (const [index, result] of results.entries()) {
         const program = programsList[index];
+        if (program.policy_url_status == "dead"){
+          continue
+        }
         const programInfo = `${index + 1}. ${program.program_name} ` +
             `(${program.policy_url}): `;
         if (result.status === 'rejected') {
