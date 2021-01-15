@@ -268,6 +268,9 @@ const SOCKET_IDLE_TIMEOUT = 10 * 1000; // 10 seconds
         MAX_CONCURRENT_REQUESTS)).then((results) => {
       let invalidURLsCount = 0;
       for (const [index, result] of results.entries()) {
+        if (program.policy_url_status == "dead"){
+          continue
+        }
         const program = programsList[index];
         const programInfo = `${index + 1}. ${program.program_name} ` +
             `(${program.policy_url}): `;
