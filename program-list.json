@@ -13424,11 +13424,11 @@
     "policy_url_status": "alive"
   },
   {
-    "program_name": "help.youtube.com",
+    "program_name": "YouTube",
     "policy_url": "https://g.co/vrp",
     "contact_url": "https://g.co/vulnz",
     "launch_date": "",
-    "offers_bounty": "",
+    "offers_bounty": "yes",
     "offers_swag": "",
     "hall_of_fame": "",
     "safe_harbor": "",
