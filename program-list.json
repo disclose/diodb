@@ -2,7 +2,7 @@
   {
     "program_name": "(ISC)2",
     "policy_url": "https://bugcrowd.com/isc2",
-    "contact_ur": "https://bugcrowd.com/isc2/report",
+    "contact_url": "https://bugcrowd.com/isc2/report",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
@@ -18,7 +18,7 @@
   {
     "program_name": ".nz Registry",
     "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
-    "contact_url": "security@internetnz.net.nz",
+    "contact_email": "security@internetnz.net.nz",
     "launch_date": "",
     "offers_bounty": "no",
     "offers_swag": false,
