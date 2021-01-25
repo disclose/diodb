@@ -23,6 +23,10 @@
           "type": "string",
           "format": "uri"
         },
+        "contact_email": {
+          "type": "string",
+          "format": "email"
+        },
         "launch_date": {
           "anyOf": [
             {
@@ -101,8 +105,19 @@
       },
       "required": [
         "policy_url",
-        "contact_url",
         "public_disclosure"
+      ],
+      "anyOf": [
+        {
+          "required": [
+            "contact_url"
+          ]
+        },
+        {
+          "required": [
+            "contact_email"
+          ]
+        }
       ]
     }
   ]

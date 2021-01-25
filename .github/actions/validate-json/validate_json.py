@@ -18,6 +18,13 @@ def validateJson(json_data, schema):
             print("hall_of_fame value is a boolean, but should be a string. Program: " + record["program_name"])
             is_valid = False
 
+        try:
+            if "@" not in record["contact_email"]:
+                print(f"An invalid email has been provided for {record['program_name']}")
+                is_valid = False
+        except KeyError:
+            pass
+
     return is_valid
 
 
