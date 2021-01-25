@@ -6258,6 +6258,22 @@
       "contact_email": "security@favordelivery.com"
   },
   {
+    "program_name": "Federacy",
+    "policy_url": "https://www.federacy.com/federacy",
+    "contact_url": "https://www.federacy.com/federacy",
+    "launch_date": "2018-07-27",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
+  },
+  {
       "program_name": "Ferm Rotterdam",
       "policy_url": "https://ferm-rotterdam.nl/nl/responsible-disclosure-statement",
       "contact_url": "https://app.zerocopter.com/nl/rd/9abb2c09-6993-4390-9277-4212e7ef402a",
@@ -12434,6 +12450,22 @@
       "contact_email": "security@pagopa.it"
   },
   {
+    "program_name": "Paladin Cyber Bug Bounty",
+    "policy_url": "https://www.federacy.com/paladin-cyber-bug-bounty",
+    "contact_url": "https://www.federacy.com/paladin-cyber-bug-bounty",
+    "launch_date": "2019-01-08",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
+  },
+  {
       "program_name": "Palantir",
       "policy_url": "https://www.palantir.com/responsible-disclosure/",
       "launch_date": "",
@@ -14034,6 +14066,22 @@
       "contact_email": "support@remitano.com"
   },
   {
+    "program_name": "RenoFi",
+    "policy_url": "https://www.federacy.com/renofi",
+    "contact_url": "https://www.federacy.com/renofi",
+    "launch_date": "2019-02-14",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
+  },
+  {
       "program_name": "Repl.it",
       "policy_url": "https://docs.repl.it/misc/security",
       "launch_date": "",
@@ -14096,6 +14144,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "securityreports@resmed.com"
+  },
+  {
+    "program_name": "RevenueCat",
+    "policy_url": "https://www.federacy.com/revenuecat",
+    "contact_url": "https://www.federacy.com/revenuecat",
+    "launch_date": "2019-11-12",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
   },
   {
       "program_name": "Revolut",
@@ -20896,6 +20960,22 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+  },
+  {
+    "program_name": "Check",
+    "policy_url": "https://www.federacy.com/check",
+    "contact_url": "https://www.federacy.com/check",
+    "launch_date": "2020-03-02",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
   },
   {
       "program_name": "chem.libretexts.org",
@@ -29280,6 +29360,22 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+  },
+  {
+    "program_name": "Modern Treasury",
+    "policy_url": "https://www.federacy.com/modern-treasury",
+    "contact_url": "https://www.federacy.com/modern-treasury",
+    "launch_date": "2018-11-30",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "hall_of_fame": "",
+    "safe_harbor": "full",
+    "public_disclosure": "discretionary",
+    "pgp_key": "",
+    "hiring": "",
+    "securitytxt_url": "",
+    "preferred_languages": "",
+    "policy_url_status": "alive"
   },
   {
       "program_name": "moderntribe.atlassian.net",
