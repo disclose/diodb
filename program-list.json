@@ -1922,8 +1922,8 @@
   },
   {
       "program_name": "Backblaze",
-      "policy_url": "https://hackerone.com/backblaze",
-      "contact_url": "https://hackerone.com/backblaze",
+      "policy_url": "https://www.backblaze.com/security.html",
+      "contact_url": "https://www.backblaze.com/security.html",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
