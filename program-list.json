@@ -4993,6 +4993,23 @@
       "policy_url_status": "alive"
   },
   {
+      "program_name": "Debricked",
+      "policy_url": "https://debricked.com/report-a-vulnerability/",
+      "contact_url": "https://debricked.com/report-a-vulnerability/",
+      "launch_date": "",
+      "offers_bounty": true,
+      "offers_swag": false,
+      "hall_of_fame": true,
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://debricked.com/.well-known/pgp_pubkey.asc",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@debricked.com"
+  },
+  {
       "program_name": "Decos",
       "policy_url": "https://www.decos.com/en/security",
       "launch_date": "",
