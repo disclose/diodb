@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # Authors:      prodigysml <https://github.com/prodigysml>
 #               Sick.Codes <https://github.com/sickcodes>
+#               0ddInput   <https://github.com/0ddInput>
 # License:      MIT
-# Copyright:    CC 2020 Disclose.io
+# Copyright:    CC 2021 Disclose.io
 
 import json
 
