@@ -1,22 +1,18 @@
 #!/usr/bin/python
 # Authors:      prodigysml <https://github.com/prodigysml>
 #               Sick.Codes <https://github.com/sickcodes>
+#               0ddInput   <https://github.com/0ddInput>
 # License:      MIT
-# Copyright:    CC 2020 Disclose.io
+# Copyright:    CC 2021 Disclose.io
 
 import json
-import pandas as pd
 
 def main():
-    gh_url = "https://raw.githubusercontent.com/disclose/diodb/master/program-list.json"
-    df_gh = pd.read_json(gh_url)
-    df_gh.fillna('', inplace=True)
-    df_gh.set_index('program_name', drop=False, inplace=True)
-    df_gh_sorted = df_gh.iloc[df_gh.program_name.str.lower().argsort()]
-    # df_gh.sort_index(inplace=True)
-    f = open('program-list.json', 'w')
-    f.write(json.dumps(df_gh_sorted.to_dict(orient='records')))
-    f.close
+    master_list = json.loads(open("../../program-list.json").read())
+
+    master_list = sorted(master_list, key=lambda k: k["program_name"])
+
+    print(json.dumps(master_list, indent=4))
 
 if __name__ == "__main__":
     main()
