@@ -8,6 +8,15 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 - Availability rewards, hall of fame, swag
 - Disclosure policy
 
+### Quick Links
+
+|Purpose|Link|
+|-|-|
+| Search through the database front-end  | [https://disclose.io/programs](https://disclose.io/programs)  |
+| Download the raw database in .json format  | [https://github.com/disclose/diodb/raw/master/program-list.json](https://github.com/disclose/diodb/raw/master/program-list.json)  |
+| Join disclose.io Community Forum  | [https://community.disclose.io](https://community.disclose.io) |
+| Create a Vulnerability Disclosure Program (VDP) | [https://github.com/disclose/dioterms](https://github.com/disclose/dioterms) |
+
 ### Why does diodb exist?
 
 diodb exists to drive the adoption of Safe Harbor for hackers and promote the cybersecurity posture of early adopters, simplify the process of finding the right contacts and channel at an organization, and help both finders and vendors align around the expectations of engagement. It also provides a simple, vendor-agnostic point of engagement for program operators, potential program operators, and the security community to maintain updates to their program. 
