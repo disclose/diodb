@@ -15352,6 +15352,22 @@
         "policy_url_status": "alive"
     },
     {
+        "program_name": "SAP",
+        "policy_url": "https://wiki.scn.sap.com/wiki/display/PSR/Disclosure+Guidelines+for+SAP+Security+Advisories",
+        "contact_url": "https://vulnerability-form.cfapps.sap.hana.ondemand.com",
+        "launch_date": "",
+        "offers_bounty": "yes",
+        "offers_swag": false,
+        "hall_of_fame": "https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers",
+        "safe_harbor": "partial",
+        "public_disclosure": "",
+        "pgp_key": "http://www.sap.com/dmc/policies/pgp/keyblock.txt",
+        "hiring": "",
+        "securitytxt_url": "",
+        "preferred_languages": "",
+        "policy_url_status": "alive"
+    },
+    {
         "program_name": "SAP Concur",
         "policy_url": "https://bugcrowd.com/concur",
         "contact_url": "https://bugcrowd.com/concur/report",
