@@ -15372,7 +15372,7 @@
         "policy_url": "https://wiki.scn.sap.com/wiki/display/PSR/Disclosure+Guidelines+for+SAP+Security+Advisories",
         "contact_url": "https://vulnerability-form.cfapps.sap.hana.ondemand.com",
         "launch_date": "",
-        "offers_bounty": "yes",
+        "offers_bounty": "no",
         "offers_swag": false,
         "hall_of_fame": "https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers",
         "safe_harbor": "partial",
