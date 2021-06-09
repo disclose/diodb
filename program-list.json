@@ -240,22 +240,6 @@
       "contact_email":"cybersecurity@ch.abb.com"
    },
    {
-      "program_name":"ABNAMRO BANK",
-      "policy_url":"https://personal.rbs.co.uk/personal/fraud-and-security/responsible-disclosure.html",
-      "launch_date":"",
-      "offers_bounty":"no",
-      "offers_swag":false,
-      "hall_of_fame":"",
-      "safe_harbor":"none",
-      "public_disclosure":"",
-      "pgp_key":"",
-      "hiring":"",
-      "securitytxt_url":"",
-      "preferred_languages":"",
-      "policy_url_status":"alive",
-      "contact_email":"security.disclosures@rbs.co.uk"
-   },
-   {
       "program_name":"ADP",
       "policy_url":"https://www.adp.com/about-adp/data-security.aspx",
       "launch_date":"",
