@@ -200,6 +200,16 @@
    "hall_of_fame": true
  },
  {
+   "program_name": "Antavo Loyalty Management Platform",
+   "policy_url": "https://www.hacktify.eu/en/hackers/public-programs/",
+   "submission_url": "https://www.hacktify.eu/en/hackers/login/",
+   "launch_date": "6th July 2021",
+   "safe_harbor": true,
+   "cash_reward": true,
+   "swag": false,
+   "hall_of_fame": true
+ }, 
+ {
    "program_name": "AOL",
    "policy_url": "https://contact.security.aol.com/",
    "submission_url": "",
