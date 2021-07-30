@@ -204,8 +204,8 @@
    "policy_url": "",
    "submission_url": "info@hacktify.eu",
    "launch_date": "6th July 2021",
-   "safe_harbor": true,
-   "cash_reward": true,
+   "safe_harbor": "",
+   "cash_reward": "",
    "swag": false,
    "hall_of_fame": true
  }, 
