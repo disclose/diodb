@@ -14087,6 +14087,22 @@
       "contact_email":"security@polycom.com"
    },
    {
+      "program_name":"polypoly",
+      "policy_url":"https://polypoly.coop/en-de/security/vdp",
+      "launch_date":"2021-05-04",
+      "offers_bounty":"no",
+      "offers_swag":"",
+      "hall_of_fame":"",
+      "safe_harbor":"full",
+      "public_disclosure":"",
+      "pgp_key":"https://polypoly.coop/en/security/polypoly-security-pgp-key.txt",
+      "hiring":"",
+      "securitytxt_url":"https://polypoly.coop/.well-known/security.txt",
+      "preferred_languages":"en",
+      "policy_url_status":"alive",
+      "contact_email":"security@polypoly.net"
+   },
+   {
       "program_name":"Pon Cat",
       "policy_url":"https://www.pon-cat.com/en/responsible-disclosure",
       "launch_date":"",
