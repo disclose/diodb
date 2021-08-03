@@ -3488,22 +3488,6 @@
       "policy_url_status":"alive",
       "contact_email":"responsible.disclosure@centralbank.net"
    },
-      {
-      "program_name":"Centrica",
-      "policy_url":"https://www.centrica.com/site-tools/security/",
-      "contact_url":"https://www.centrica.com/site-tools/security/",
-      "launch_date":"",
-      "offers_bounty":"no",
-      "offers_swag":false,
-      "hall_of_fame":"",
-      "safe_harbor":"partial",
-      "public_disclosure":"",
-      "pgp_key":"",
-      "hiring":"",
-      "securitytxt_url":"",
-      "preferred_languages":"",
-      "policy_url_status":"alive"
-   },
    {
       "program_name":"Centrify",
       "policy_url":"https://bugcrowd.com/centrify",
