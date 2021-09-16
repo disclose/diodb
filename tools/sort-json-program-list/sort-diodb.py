@@ -12,7 +12,7 @@ def main():
 
     master_list = sorted(master_list, key=lambda k: k["program_name"])
 
-    print(json.dumps(master_list, indent=4))
+    print(json.dumps(master_list, indent=3, separators=(",", ":")))
 
 if __name__ == "__main__":
     main()
