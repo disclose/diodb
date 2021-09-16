@@ -1,6 +1,11 @@
 name: validate-program-list
 
-on: [pull_request]
+on:
+  pull_request:
+    paths:
+      - 'program-list.json'
+      - 'program-list-schema.json'
+      - '.github/**'
 
 jobs:
   duplicate_check_job:
