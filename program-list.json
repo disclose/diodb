@@ -5234,6 +5234,22 @@
       "contact_email":"bounty@defibox.io"
    },
    {
+      "program_name":"Definity Inc.",
+      "policy_url":"https://definityinc.com/bug-bounty-program/",
+      "launch_date":"",
+      "offers_bounty":"yes",
+      "offers_swag":false,
+      "hall_of_fame":"https://definityinc.com/hall-of-fame/",
+      "safe_harbor":"partial",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"",
+      "securitytxt_url":"https://definityinc.com/.well-known/security.txt",
+      "policy_url_status":"alive",
+      "preferred_languages":"en",
+      "contact_email":"security@definityinc.com"
+   },
+   {
       "program_name":"Delaware Consulting",
       "policy_url":"https://www.delawareconsulting.com/en-us/about-us/responsible-disclosure",
       "launch_date":"",
