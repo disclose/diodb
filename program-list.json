@@ -3041,6 +3041,38 @@
       "contact_email":"contact@briskinfosec.com"
    },
    {
+      "program_name":"British Gas",
+      "policy_url":"https://www.britishgas.co.uk/global-maintenance/responsible-disclosure.html",
+      "contact_url":"https://www.britishgas.co.uk/global-maintenance/responsible-disclosure.html",
+      "launch_date":"",
+      "offers_bounty":"no",
+      "offers_swag":false,
+      "hall_of_fame":"",
+      "safe_harbor":"partial",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"",
+      "securitytxt_url":"",
+      "preferred_languages":"",
+      "policy_url_status":"alive"
+   },
+   {
+      "program_name":"British Gas Evolve",
+      "policy_url":"https://www.britishgasevolve.co.uk/responsible-disclosure",
+      "contact_url":"https://www.britishgasevolve.co.uk/responsible-disclosure",
+      "launch_date":"",
+      "offers_bounty":"no",
+      "offers_swag":false,
+      "hall_of_fame":"",
+      "safe_harbor":"partial",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"",
+      "securitytxt_url":"",
+      "preferred_languages":"",
+      "policy_url_status":"alive"
+   },
+   {
       "program_name":"Buddy",
       "policy_url":"https://buddy.works/disclosure-policy",
       "launch_date":"",
