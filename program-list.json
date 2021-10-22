@@ -34998,6 +34998,23 @@
       "policy_url_status":"alive"
    },
    {
+      "program_name":"Swiss National Cyber Security Center (NCSC.ch)",
+      "policy_url":"https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
+      "contact_url":"https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
+      "launch_date":"",
+      "offers_bounty":"no",
+      "offers_swag":false,
+      "hall_of_fame":"",
+      "safe_harbor":"",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"",
+      "securitytxt_url":"",
+      "preferred_languages":"",
+      "policy_url_status":"alive",
+      "contact_email":"vulnerability@ncsc.ch"
+   },
+   {
       "program_name":"switch.ch",
       "policy_url":"https://www.switch.ch/security/.galleries/files/SWITCH-CERT.txt",
       "contact_url":"https://www.switch.ch/security/contact/",
