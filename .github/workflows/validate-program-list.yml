@@ -1,0 +1,39 @@
+name: validate-program-list
+
+on:
+  pull_request:
+    paths:
+      - 'program-list.json'
+      - 'program-list-schema.json'
+      - '.github/**'
+
+jobs:
+  duplicate_check_job:
+    runs-on: ubuntu-latest
+    name: duplicate-check job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: duplicate-check action step
+      uses: ./.github/actions/duplicate-check
+
+  validate_json_fix_job:
+    runs-on: ubuntu-latest
+    name: validate-json job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: validate-json action step
+      uses: ./.github/actions/validate-json
+
+  validate_links_job:
+    runs-on: ubuntu-latest
+    name: validate-links job
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: npm ci
+      working-directory: ./.github/actions/validate-links
+    - name: validate-links action step
+      uses: ./.github/actions/validate-links
