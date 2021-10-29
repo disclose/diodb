@@ -36790,5 +36790,21 @@
    "preferred_languages":"",
    "policy_url_status":"alive",
    "contact_email":"security@recidiviz.org"
-  }
+  },
+  {
+   "program_name":"Gitpod",
+   "policy_url":"https://www.gitpod.io/security/report",
+   "contact_url":"https://www.gitpod.io/security/report",
+   "launch_date":"",
+   "offers_bounty":"no",
+   "offers_swag":false,
+   "hall_of_fame":"https://www.gitpod.io/security/thanks",
+   "safe_harbor":"partial",
+   "public_disclosure":"",
+   "pgp_key":"",
+   "hiring":"https://www.gitpod.io/careers",
+   "securitytxt_url":"https://www.gitpod.io/.well-known/security.txt",
+   "preferred_languages":"en,de",
+   "policy_url_status":"alive"
+}
 ]
