@@ -8,9 +8,11 @@ This tool is designed to take program-list.json, and export an alphabetically so
 # License:      MIT
 # Copyright:    CC 2020 Disclose.io
 
+touch program-list.sqlite
 pipenv run pip install -r requirements.txt
 pipenv run python sort-diodb.py
 jq < program-list.json > program-list.json.tmp
-mv program-list.json.tmp program-list.json
+mv program-list.json.tmp ../../program-list.json
+mv program-list.sqlite ../../program-list.sqlite
 
 ```
