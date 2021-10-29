@@ -560,6 +560,23 @@
       "contact_email":"security@activeprospect.com"
    },
    {
+      "program_name":"Ada Health",
+      "policy_url":"https://ada.com/security-vulnerability-disclosure-policy/",
+      "contact_url":"https://ada.com/security-vulnerability-disclosure-policy/",
+      "launch_date":"",
+      "offers_bounty":"no",
+      "offers_swag":false,
+      "hall_of_fame":"",
+      "safe_harbor":"partial",
+      "public_disclosure":"",
+      "pgp_key":"https://ada.com/pgp-key.txt",
+      "hiring":"https:/ada.com/careers/",
+      "securitytxt_url":"https://ada.com/.well-known/security.txt",
+      "preferred_languages":"en, de",
+      "policy_url_status":"alive",
+      "contact_email":"security@ada.com"
+   },
+   {
       "program_name":"Adafruit",
       "policy_url":"https://www.adafruit.com/reportingsecurityissues",
       "launch_date":"",
