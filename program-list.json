@@ -36823,5 +36823,21 @@
    "securitytxt_url":"https://www.gitpod.io/.well-known/security.txt",
    "preferred_languages":"en,de",
    "policy_url_status":"alive"
+  },
+  {	
+   "program_name":"Productboard",
+   "policy_url":"https://www.productboard.com/product/security/#application-security",
+   "contact_url":"https://www.productboard.com/product/security/#application-security",
+   "launch_date":"",
+   "offers_bounty":"yes",
+   "offers_swag":false,
+   "hall_of_fame":"",
+   "safe_harbor":"partial",
+   "public_disclosure":"",
+   "pgp_key":"",
+   "hiring":"https://www.productboard.com/careers/open-positions/",
+   "securitytxt_url":"https://www.productboard.com/.well-known/security.txt",
+   "preferred_languages":"en",
+   "policy_url_status":"alive"
 }
 ]
