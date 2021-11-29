@@ -36840,4 +36840,20 @@
    "preferred_languages":"en",
    "policy_url_status":"alive"
 }
+{
+   "program_name":"HackerRank",
+   "policy_url":"https://docs.google.com/document/d/e/2PACX-1vQnpwaSmghgwwepiui4dqNw3S2LslBM1woAYaTuX6q9KenJ2zAgBpBPivdC8sQs2Gy-FKKuxWJLYwIz/pub",
+   "contact_url":"https://www.hackerrank.com/trust/security",
+   "launch_date":"",
+   "offers_bounty":"no",
+   "offers_swag":true,
+   "hall_of_fame":"no",
+   "safe_harbor":"partial",
+   "public_disclosure":"no",
+   "pgp_key":"",
+   "hiring":"https://www.hackerrank.com/careers",
+   "securitytxt_url":"https://www.hackerrank.com/trust/security",
+   "preferred_languages":"en",
+   "policy_url_status":"alive"   
+}
 ]
