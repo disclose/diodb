@@ -32856,20 +32856,20 @@
       "contact_email":"security@revizto.com"
    },
    {
-      "program_name":"rewind.io",
-      "policy_url":"https://www.rewind.io/vulnerability-disclosure-policy",
+      "program_name":"Rewind",
+      "policy_url":"https://rewind.com/legal/vulnerability-disclosure-policy/",
       "launch_date":"",
-      "offers_bounty":"",
-      "offers_swag":"",
+      "offers_bounty":"yes",
+      "offers_swag":"true",
       "hall_of_fame":"",
-      "safe_harbor":"",
+      "safe_harbor":"partial",
       "public_disclosure":"",
       "pgp_key":"",
       "hiring":"",
       "securitytxt_url":"",
       "preferred_languages":"",
       "policy_url_status":"alive",
-      "contact_email":"security@rewind.io"
+      "contact_email":"security@rewind.com"
    },
    {
       "program_name":"ro.duolingo.com",
@@ -36824,7 +36824,7 @@
    "preferred_languages":"en,de",
    "policy_url_status":"alive"
   },
-  {	
+  {
    "program_name":"Productboard",
    "policy_url":"https://www.productboard.com/product/security/#application-security",
    "contact_url":"https://www.productboard.com/product/security/#application-security",
@@ -36839,7 +36839,24 @@
    "securitytxt_url":"https://www.productboard.com/.well-known/security.txt",
    "preferred_languages":"en",
    "policy_url_status":"alive"
-}
+  },
+  {
+   "program_name": "Vipps AS",
+   "policy_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+   "contact_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+   "launch_date": "",
+   "offers_bounty": "no",
+   "offers_swag": true,
+   "hall_of_fame": "https://www.vipps.no/sikkerhet/security-hall-of-fame/",
+   "safe_harbor": "",
+   "public_disclosure": "",
+   "pgp_key": "https://www.vipps.no/sikkerhet/pgp/",
+   "hiring": "https://vipps.no/om-oss/jobb-hos-oss/",
+   "securitytxt_url": "https://vipps.no/.well-known/security.txt",
+   "preferred_languages": "en",
+   "policy_url_status": "alive",
+   "contact_email": "responsible-disclosure@vipps.no"
+  }
 {
    "program_name":"HackerRank",
    "policy_url":"https://docs.google.com/document/d/e/2PACX-1vQnpwaSmghgwwepiui4dqNw3S2LslBM1woAYaTuX6q9KenJ2zAgBpBPivdC8sQs2Gy-FKKuxWJLYwIz/pub",
@@ -36848,12 +36865,13 @@
    "offers_bounty":"no",
    "offers_swag":true,
    "hall_of_fame":"no",
-   "safe_harbor":"partial",
+   "safe_harbor":"",
    "public_disclosure":"no",
    "pgp_key":"",
    "hiring":"https://www.hackerrank.com/careers",
    "securitytxt_url":"https://www.hackerrank.com/trust/security",
    "preferred_languages":"en",
-   "policy_url_status":"alive"   
-}
+   "policy_url_status":"alive"
+   "contact_email":"security@hackerrank.com"   
+}  
 ]
