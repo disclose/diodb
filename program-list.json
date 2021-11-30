@@ -36839,5 +36839,22 @@
    "securitytxt_url":"https://www.productboard.com/.well-known/security.txt",
    "preferred_languages":"en",
    "policy_url_status":"alive"
-}
+  },
+  {
+   "program_name": "Vipps AS",
+   "policy_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+   "contact_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+   "launch_date": "",
+   "offers_bounty": "no",
+   "offers_swag": true,
+   "hall_of_fame": "https://www.vipps.no/sikkerhet/security-hall-of-fame/",
+   "safe_harbor": "",
+   "public_disclosure": "",
+   "pgp_key": "https://www.vipps.no/sikkerhet/pgp/",
+   "hiring": "",
+   "securitytxt_url": "",
+   "preferred_languages": "en",
+   "policy_url_status": "alive",
+   "contact_email": "responsible-disclosure@vipps.no"
+  }
 ]
