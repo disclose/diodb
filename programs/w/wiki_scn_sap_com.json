@@ -1,0 +1,16 @@
+{
+    "contact_url": "https://vulnerability-form.cfapps.sap.hana.ondemand.com",
+    "hall_of_fame": "https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers",
+    "hiring": "",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "pgp_key": "http://www.sap.com/dmc/policies/pgp/keyblock.txt",
+    "policy_url": "https://wiki.scn.sap.com/wiki/display/PSR/Disclosure+Guidelines+for+SAP+Security+Advisories",
+    "policy_url_status": "alive",
+    "preferred_languages": "",
+    "program_name": "SAP",
+    "public_disclosure": "",
+    "safe_harbor": "partial",
+    "securitytxt_url": ""
+}

@@ -1,0 +1,16 @@
+{
+    "contact_email": "security@definityinc.com",
+    "hall_of_fame": "https://definityinc.com/hall-of-fame/",
+    "hiring": "",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "",
+    "policy_url": "https://definityinc.com/bug-bounty-program/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Definity Inc.",
+    "public_disclosure": "",
+    "safe_harbor": "partial",
+    "securitytxt_url": "https://definityinc.com/.well-known/security.txt"
+}

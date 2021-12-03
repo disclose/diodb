@@ -1,0 +1,17 @@
+{
+    "contact_email": "security@ethereum.org",
+    "contact_url": "https://bounty.ethereum.org/",
+    "hall_of_fame": "https://bounty.ethereum.org/#leaderboard",
+    "hiring": "https://ethereum.org/en/about/#open-jobs",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "https://ethereum.org/security_at_ethereum.org.asc",
+    "policy_url": "https://bounty.ethereum.org/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Ethereum Execution Layer",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": "https://ethereum.org/.well-known/security.txt"
+}

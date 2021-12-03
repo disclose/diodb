@@ -1,0 +1,17 @@
+{
+    "contact_email": "security@debricked.com",
+    "contact_url": "https://debricked.com/report-a-vulnerability/",
+    "hall_of_fame": "https://debricked.com/security-hall-of-fame/",
+    "hiring": "",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "https://debricked.com/.well-known/pgp_pubkey.asc",
+    "policy_url": "https://debricked.com/report-a-vulnerability/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Debricked",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": "https://debricked.com/.well-known/security.txt"
+}

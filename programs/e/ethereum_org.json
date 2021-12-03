@@ -1,0 +1,17 @@
+{
+    "contact_email": "security@ethereum.org",
+    "contact_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
+    "hall_of_fame": "https://ethereum.org/en/eth2/get-involved/bug-bounty/#leaderboard",
+    "hiring": "https://ethereum.org/en/about/#open-jobs",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "https://ethereum.org/eth2security_at_ethereum.org.asc",
+    "policy_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Ethereum Consensus Layer",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": "https://ethereum.org/.well-known/security.txt"
+}

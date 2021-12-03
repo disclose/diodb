@@ -1,0 +1,16 @@
+{
+    "contact_email": "security@auspost.com.au",
+    "hall_of_fame": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "hiring": "https://auspost.com.au/jobs",
+    "launch_date": "",
+    "offers_bounty": "",
+    "offers_swag": "",
+    "pgp_key": "https://auspost.com.au/.well-known/pgp-key.txt",
+    "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Australia Post",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": "https://auspost.com.au/.well-known/security.txt"
+}
