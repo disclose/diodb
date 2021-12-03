@@ -24,9 +24,6 @@ def main():
         os.makedirs(os.path.join(args.o, d), exist_ok=True)
 
     for program in program_list:
-        if is_platform(program):
-            continue
-
         slug = to_slug(program)
         alnum = to_first_alnum(slug)
 
@@ -43,32 +40,32 @@ def is_platform(program):
     # https://github.com/disclose/bug-bounty-platforms/blob/edbfc11ad07b642dc6daa1a712c1fb8389fdfbf2/README.md
     # cat README.md|grep -oE 'https?://[a-zA-Z0-9./_-]+'|cut -d '/' -f 3|sort -u|sed "s/^/'/g; s/$/',/g"|grep -vE 'github\.com'
     platforms = [
-        "app.cobalt.io",
-        "app.crowdswarm.io",
-        "bugbounty.jp",
-        "bugbounty.vn",
+        # "app.cobalt.io",
+        # "app.crowdswarm.io",
+        # "bugbounty.jp",
+        # "bugbounty.vn",
         "bugcrowd.com",
-        "bughunt.com.br",
-        "hackenproof.com",
+        # "bughunt.com.br",
+        # "hackenproof.com",
         "hackerone.com",
-        "hckrt.com",
-        "huntr.dev",
-        "immunefi.com",
-        "intigriti.com",
-        "safevuln.com",
-        "securityat.me",
-        "whitehub.net",
-        "www.antihack.me",
-        "www.cyberarmy.id",
-        "www.hacktify.eu",
-        "www.intigriti.com",
-        "www.openbugbounty.org",
-        "www.redstorm.io",
-        "www.vulbox.com",
-        "www.vulnerability-lab.com",
-        "www.vulnscope.com",
-        "www.zerodayinitiative.com",
-        "yeswehack.com",
+        # "hckrt.com",
+        # "huntr.dev",
+        # "immunefi.com",
+        # "intigriti.com",
+        # "safevuln.com",
+        # "securityat.me",
+        # "whitehub.net",
+        # "www.antihack.me",
+        # "www.cyberarmy.id",
+        # "www.hacktify.eu",
+        # "www.intigriti.com",
+        # "www.openbugbounty.org",
+        # "www.redstorm.io",
+        # "www.vulbox.com",
+        # "www.vulnerability-lab.com",
+        # "www.vulnscope.com",
+        # "www.zerodayinitiative.com",
+        # "yeswehack.com",
     ]
 
     _, netloc, _, _, _ = urllib.parse.urlsplit(program["policy_url"])
@@ -79,18 +76,19 @@ def is_platform(program):
 
 
 def to_slug(program):
-    url = None
+    slug = None
 
-    if program["policy_url"]:
-        url = program["policy_url"]
-    else:
-        raise Exception(f"no url in program: {program}")
-
+    url = program["policy_url"]
     if not url.startswith("https://") and not url.startswith("http://"):
         url = "https://" + url
 
-    _, netloc, _, _, _ = urllib.parse.urlsplit(url)
-    slug = netloc.replace(".", "_").replace(":", "_").lower()
+    if is_platform(program):
+        _, _, path, _, _ = urllib.parse.urlsplit(url)
+        slug = path.replace("/", "")
+    else:
+        _, netloc, _, _, _ = urllib.parse.urlsplit(url)
+        slug = netloc.replace(".", "_").replace(":", "_").lower()
+
     return slug
 
 
