@@ -7582,6 +7582,22 @@
       "policy_url_status":"alive"
    },
    {
+      "program_name":"G-Core Labs",
+      "policy_url":"https://gcorelabs.com/bug-bounty-program/",
+      "contact_url":"mailto:support@gcorelabs.com",
+      "launch_date":"2021-12-09",
+      "offers_bounty":"yes",
+      "offers_swag":"",
+      "hall_of_fame":"",
+      "safe_harbor":"",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"https://gcorelabs.com/careers/",
+      "securitytxt_url":"https://gcorelabs.com/.well-known/security.txt",
+      "preferred_languages":"en",
+      "policy_url_status":"alive"
+   },
+   {
       "program_name":"GO-JEK",
       "policy_url":"https://bugcrowd.com/gojek",
       "contact_url":"https://bugcrowd.com/gojek/report",
