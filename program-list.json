@@ -16841,6 +16841,23 @@
       "preferred_languages":"",
       "policy_url_status":"alive",
       "contact_email":"HWBugBounty@solaredge.com"
+   },  
+   {
+      "program_name":"SolarWinds",
+      "policy_url":"https://www.solarwinds.com/information-security/vulnerability-disclosure-policy",
+      "contact_url":"https://www.solarwinds.com/information-security/vulnerability-disclosure-policy",
+      "launch_date":"",
+      "offers_bounty":"no",
+      "offers_swag":"",
+      "hall_of_fame":"",
+      "safe_harbor":"",
+      "public_disclosure":"",
+      "pgp_key":"",
+      "hiring":"https://www.solarwinds.jobs",
+      "securitytxt_url":"",
+      "preferred_languages":"en",
+      "policy_url_status":"alive",
+      "contact_email":"security@solarwinds.com"
    },
    {
       "program_name":"Solidus",
