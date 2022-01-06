@@ -37093,5 +37093,22 @@
    "preferred_languages": "",
    "policy_url_status": "alive",
    "contact_email": "security@0x.org"
+  },
+  {
+   "program_name": "Ubuntu",
+   "policy_url": "https://ubuntu.com/security/disclosure-policy",
+   "contact_url": "",
+   "launch_date": "",
+   "offers_bounty": "",
+   "offers_swag": false,
+   "hall_of_fame": "",
+   "safe_harbor": "",
+   "public_disclosure": "yes",
+   "pgp_key": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x407260f7616ece4d9d12462798e9740dc34539e0",
+   "hiring": "",
+   "securitytxt_url": "",
+   "preferred_languages": "",
+   "policy_url_status": "alive",
+   "contact_email": "security@ubuntu.com"
   }
 ]
