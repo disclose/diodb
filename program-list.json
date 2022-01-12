@@ -8142,6 +8142,24 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Gradle",
+      "policy_url": "https://github.com/gradle/.github/blob/master/SECURITY.md",
+      "contact_url": "https://github.com/gradle/.github/blob/master/SECURITY.md",
+      "launch_date": "January 2022",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 50,
+      "pgp_key": "",
+      "hiring": "https://gradle.com/careers/",
+      "securitytxt_url": "https://gradle.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@gradle.com"
+   },
+   {
       "program_name": "GreenBone",
       "policy_url": "https://www.greenbone.net/en/responsible-disclosure/",
       "contact_url": "https://www.greenbone.net/en/contact/",
