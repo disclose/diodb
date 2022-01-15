@@ -32902,11 +32902,7 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive",
-<<<<<<< HEAD
       "contact_email": "security@rewind.com"
-=======
-      "contact_email": "vdp@rewind.io"
->>>>>>> 8a63d3465891c9a80312a0810a282e60757be3e9
    },
    {
       "program_name": "ro.duolingo.com",
