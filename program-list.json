@@ -36906,5 +36906,22 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@hackerrank.com"
+   },
+   {
+      "program_name": "Orgnostic Inc.",
+      "policy_url": "https://orgnostic.com/vulnerability-disclosure",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://orgnostic.com/thanks.txt",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://orgnostic.com/pgp-key.txt",
+      "hiring": "",
+      "securitytxt_url": "https://orgnostic.com/.well-known/security.txt",
+      "preferred_languages": "en, rs",
+      "policy_url_status": "alive",
+      "contact_email": "security@orgnostic.com"
    }
 ]
