@@ -37127,5 +37127,22 @@
    "preferred_languages": "",
    "policy_url_status": "alive",
    "contact_email": "support@float.com"
+  },
+  {
+   "program_name": "Multichain",
+   "policy_url": "https://docs.multichain.org/security/bug-bounty",
+   "contact_url": "",
+   "launch_date": "",
+   "offers_bounty": "yes",
+   "offers_swag": false,
+   "hall_of_fame": "",
+   "safe_harbor": "",
+   "public_disclosure": "",
+   "pgp_key": "",
+   "hiring": "",
+   "securitytxt_url": "",
+   "preferred_languages": "",
+   "policy_url_status": "alive",
+   "contact_email": "security@multichain.org"
   }
 ]
