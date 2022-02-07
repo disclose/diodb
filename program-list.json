@@ -36906,5 +36906,22 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@hackerrank.com"
+   },
+   {
+      "program_name": "Roadie",
+      "policy_url": "https://roadie.io/security/responsible-disclosure/",
+      "contact_url": "https://roadie.io/security/responsible-disclosure/",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "hall_of_fame": "no",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://roadie.io/security/responsible-disclosure/",
+      "hiring": "https://careers.roadie.io",
+      "securitytxt_url": "",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@roadie.io"
    }
 ]
