@@ -6,6 +6,10 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 - Availability rewards, hall of fame, swag
 - Disclosure policy
 
+## View the database online: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
+
+## View the database raw: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
+
 ## Visit this project on GitHub: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
 
 [![Disclose.io Vulnerability, VDP, and Bug Bounty Program Database](diodb-hero-image.png?raw=true "Disclose.io Vulnerability, VDP, and Bug Bounty Program Database")](https://github.com/disclose/diodb)
@@ -25,6 +29,12 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 diodb exists to drive the adoption of Safe Harbor for hackers and promote the cybersecurity posture of early adopters, simplify the process of finding the right contacts and channel at an organization, and help both finders and vendors align around the expectations of engagement. It also provides a simple, vendor-agnostic point of engagement for program operators, potential program operators, and the security community to maintain updates to their program. 
 
 ## How to contribute
+
+Please sort your contributions using `jq`, or allow editing forks by maintainers :)
+```bash
+jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > program-list.json.tmp
+mv program-list.json.tmp program-list.json
+```
 
 ### Getting started
 
