@@ -6,7 +6,7 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 - Availability rewards, hall of fame, swag
 - Disclosure policy
 
-## View the database online: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
+## Quickly search the database online: [https://disclose.io/programs/](https://disclose.io/programs/)
 
 ## View the database raw: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
 
