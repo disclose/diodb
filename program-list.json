@@ -36940,5 +36940,22 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@hackerrank.com"
+   },
+   {
+      "program_name": "Family Zone",
+      "policy_url": "https://www.familyzone.com/vulnerability-disclosure-policy",
+      "contact_url": "https://www.familyzone.com/vulnerability-disclosure-policy",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": "no",
+      "hall_of_fame": "no",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://www.linewize.com/careers",
+      "securitytxt_url": "https://www.linewize.com/embed/legal#legal_customerdetail",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@familyzone.com"
    }
 ]
