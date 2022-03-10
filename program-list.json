@@ -32926,8 +32926,8 @@
       "program_name": "Rewind",
       "policy_url": "https://rewind.com/legal/vulnerability-disclosure-policy/",
       "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": "true",
+      "offers_bounty": "no",
+      "offers_swag": false,
       "hall_of_fame": "",
       "safe_harbor": "partial",
       "public_disclosure": "",
@@ -32935,8 +32935,7 @@
       "hiring": "",
       "securitytxt_url": "",
       "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@rewind.com"
+      "policy_url_status": "alive"
    },
    {
       "program_name": "ro.duolingo.com",
