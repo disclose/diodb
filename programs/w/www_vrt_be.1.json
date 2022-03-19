@@ -1,0 +1,16 @@
+{
+    "contact_email": "infosec@vrt.be",
+    "hall_of_fame": "https://www.vrt.be/nl/info/responsible-disclosure-policy/responsible-disclosure-hall-of-fame/",
+    "hiring": "",
+    "launch_date": "",
+    "offers_bounty": "",
+    "offers_swag": "",
+    "pgp_key": "https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt",
+    "policy_url": "https://www.vrt.be/en/responsible-disclosure-policy-english-version/",
+    "policy_url_status": "alive",
+    "preferred_languages": "",
+    "program_name": "mnm.be",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": ""
+}

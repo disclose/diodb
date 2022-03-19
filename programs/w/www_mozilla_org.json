@@ -1,0 +1,16 @@
+{
+    "contact_email": "security@mozilla.org",
+    "hall_of_fame": "",
+    "hiring": "",
+    "launch_date": "",
+    "offers_bounty": "yes",
+    "offers_swag": true,
+    "pgp_key": "",
+    "policy_url": "https://www.mozilla.org/en-US/security/bug-bounty/",
+    "policy_url_status": "alive",
+    "preferred_languages": "",
+    "program_name": "Mozilla",
+    "public_disclosure": "",
+    "safe_harbor": "full",
+    "securitytxt_url": ""
+}

@@ -1,0 +1,16 @@
+{
+    "contact_email": "security@whatbox.ca",
+    "hall_of_fame": "https://whatbox.ca/policies/security/hall_of_fame",
+    "hiring": "https://whatbox.ca/jobs",
+    "launch_date": "2013-12-03",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "",
+    "policy_url": "https://whatbox.ca/policies/security",
+    "policy_url_status": "alive",
+    "preferred_languages": "English",
+    "program_name": "Whatbox",
+    "public_disclosure": "co-ordinated",
+    "safe_harbor": "full",
+    "securitytxt_url": ""
+}

@@ -1,0 +1,16 @@
+{
+    "contact_url": "https://hackerone.com/kubernetes",
+    "hall_of_fame": "",
+    "hiring": "",
+    "launch_date": "2020-01-14",
+    "offers_bounty": "yes",
+    "offers_swag": false,
+    "pgp_key": "",
+    "policy_url": "https://kubernetes.io/security",
+    "policy_url_status": "alive",
+    "preferred_languages": "",
+    "program_name": "Kubernetes",
+    "public_disclosure": "",
+    "safe_harbor": "full",
+    "securitytxt_url": ""
+}

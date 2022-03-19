@@ -1,0 +1,16 @@
+{
+    "contact_url": "https://www.gitpod.io/security/report",
+    "hall_of_fame": "https://www.gitpod.io/security/thanks",
+    "hiring": "https://www.gitpod.io/careers",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "pgp_key": "",
+    "policy_url": "https://www.gitpod.io/security/report",
+    "policy_url_status": "alive",
+    "preferred_languages": "en,de",
+    "program_name": "Gitpod",
+    "public_disclosure": "",
+    "safe_harbor": "partial",
+    "securitytxt_url": "https://www.gitpod.io/.well-known/security.txt"
+}

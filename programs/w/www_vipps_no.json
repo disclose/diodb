@@ -1,0 +1,17 @@
+{
+    "contact_email": "responsible-disclosure@vipps.no",
+    "contact_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+    "hall_of_fame": "https://www.vipps.no/sikkerhet/security-hall-of-fame/",
+    "hiring": "https://vipps.no/om-oss/jobb-hos-oss/",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": true,
+    "pgp_key": "https://www.vipps.no/sikkerhet/pgp/",
+    "policy_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en",
+    "program_name": "Vipps AS",
+    "public_disclosure": "",
+    "safe_harbor": "",
+    "securitytxt_url": "https://vipps.no/.well-known/security.txt"
+}

@@ -1,0 +1,17 @@
+{
+    "contact_email": "security@ada.com",
+    "contact_url": "https://ada.com/security-vulnerability-disclosure-policy/",
+    "hall_of_fame": "",
+    "hiring": "https:/ada.com/careers/",
+    "launch_date": "",
+    "offers_bounty": "no",
+    "offers_swag": false,
+    "pgp_key": "https://ada.com/pgp-key.txt",
+    "policy_url": "https://ada.com/security-vulnerability-disclosure-policy/",
+    "policy_url_status": "alive",
+    "preferred_languages": "en, de",
+    "program_name": "Ada Health",
+    "public_disclosure": "",
+    "safe_harbor": "partial",
+    "securitytxt_url": "https://ada.com/.well-known/security.txt"
+}
