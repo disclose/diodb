@@ -36939,5 +36939,22 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@hackerrank.com"
+   },
+   {
+      "program_name": "NOS Comunicações S.A.",
+      "policy_url": "https://www.nos.pt/institucional/EN/Pages/responsible-disclosure-of-vulnerabilities.aspx",
+      "contact_url": "https://www.nos.pt/well-known/security.txt",
+      "launch_date": "February 2022",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://www.nos.pt/institucional/EN/Pages/cibersecurity-hall-of-fame.aspx",
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "pgp_key": "https://www.nos.pt/well-known/sec.rvd_nos-pgp.txt",
+      "hiring": "https://www.linkedin.com/company/nos-sgps/jobs/",
+      "securitytxt_url": "https://www.nos.pt/well-known/security.txt",
+      "preferred_languages": "en, pt",
+      "policy_url_status": "alive",
+      "contact_email": "sec.rvd@nos.pt"
    }
 ]
