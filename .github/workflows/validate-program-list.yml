@@ -29,6 +29,7 @@ jobs:
   validate_links_job:
     runs-on: ubuntu-latest
     name: validate-links job
+    if: false
     steps:
     - name: Checkout
       uses: actions/checkout@v2
