@@ -37227,5 +37227,21 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@tv2.dk"
+   },
+   {
+      "program_name": "AirSwap",
+      "policy_url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bounty@airswap.io"
    }
 ]
