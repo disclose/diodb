@@ -32,6 +32,23 @@
       "contact_email": "security@internetnz.net.nz"
    },
    {
+      "program_name": "0x",
+      "policy_url": "https://0x.org/docs/guides/bug-bounty-program",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@0x.org"
+   },
+   {
       "program_name": "0xdata.atlassian.net",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -560,6 +577,22 @@
       "contact_email": "security@activeprospect.com"
    },
    {
+      "program_name": "AdQuick",
+      "policy_url": "https://www.adquick.com/disclosure",
+      "contact_url": "https://www.adquick.com/disclosure",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "no",
+      "safe_harbor": "",
+      "public_disclosure": "no",
+      "hiring": "https://jobs.adquick.com",
+      "securitytxt_url": "https://www.adquick.com/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@adquick.com"
+   },
+   {
       "program_name": "Ada Health",
       "policy_url": "https://ada.com/security-vulnerability-disclosure-policy/",
       "contact_url": "https://ada.com/security-vulnerability-disclosure-policy/",
@@ -607,22 +640,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "PSIRT@adobe.com"
-   },
-   {
-      "program_name": "AdQuick",
-      "policy_url": "https://www.adquick.com/disclosure",
-      "contact_url": "https://www.adquick.com/disclosure",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "no",
-      "safe_harbor": "",
-      "public_disclosure": "no",
-      "hiring": "https://jobs.adquick.com",
-      "securitytxt_url": "https://www.adquick.com/security.txt",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "security@adquick.com"
    },
    {
       "program_name": "Aerohive",
@@ -735,6 +752,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "klantenservice@airmilesshop.nl"
+   },
+   {
+      "program_name": "AirSwap",
+      "policy_url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bounty@airswap.io"
    },
    {
       "program_name": "AirVPN",
@@ -4690,6 +4723,23 @@
       "contact_email": "cigieitvdp@cigie.gov"
    },
    {
+      "program_name": "Countly",
+      "policy_url": "https://count.ly/.well-known/security.txt",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://count.ly/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@count.ly"
+   },
+   {
       "program_name": "Coupa",
       "policy_url": "https://success.coupa.com/Trust/Security_Policies/02_Vulnerability_Reporting_Policy",
       "launch_date": "",
@@ -6079,6 +6129,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "ENS",
+      "policy_url": "https://docs.ens.domains/bug-bounty-program",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bugs@ens.domains"
+   },
+   {
       "program_name": "Early Warning",
       "policy_url": "https://www.earlywarning.com/responsible-disclosure-program",
       "launch_date": "",
@@ -6237,6 +6304,23 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@essvote.com"
+   },
+   {
+      "program_name": "Electron",
+      "policy_url": "https://github.com/electron/electron/blob/main/SECURITY.md",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@electronjs.org"
    },
    {
       "program_name": "Electronic Arts",
@@ -6446,6 +6530,23 @@
       "contact_email": "security@eset.com"
    },
    {
+      "program_name": "Ethereum Consensus Layer",
+      "policy_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
+      "contact_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "https://ethereum.org/en/eth2/get-involved/bug-bounty/#leaderboard",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://ethereum.org/eth2security_at_ethereum.org.asc",
+      "hiring": "https://ethereum.org/en/about/#open-jobs",
+      "securitytxt_url": "https://ethereum.org/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@ethereum.org"
+   },
+   {
       "program_name": "Ethereum Execution Layer",
       "policy_url": "https://bounty.ethereum.org/",
       "contact_url": "https://bounty.ethereum.org/",
@@ -6463,21 +6564,21 @@
       "contact_email": "security@ethereum.org"
    },
    {
-      "program_name": "Ethereum Consensus Layer",
-      "policy_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
-      "contact_url": "https://ethereum.org/en/eth2/get-involved/bug-bounty/",
+      "program_name": "Etherscan",
+      "policy_url": "https://etherscan.io/bugbounty",
+      "contact_url": "",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
-      "hall_of_fame": "https://ethereum.org/en/eth2/get-involved/bug-bounty/#leaderboard",
+      "hall_of_fame": "",
       "safe_harbor": "",
       "public_disclosure": "",
-      "pgp_key": "https://ethereum.org/eth2security_at_ethereum.org.asc",
-      "hiring": "https://ethereum.org/en/about/#open-jobs",
-      "securitytxt_url": "https://ethereum.org/.well-known/security.txt",
-      "preferred_languages": "en",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
       "policy_url_status": "alive",
-      "contact_email": "security@ethereum.org"
+      "contact_email": "info@EtherScan.io"
    },
    {
       "program_name": "Etsy",
@@ -7052,6 +7153,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Filecoin",
+      "policy_url": "https://security.filecoin.io/bug-bounty/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@filecoin.org"
    },
    {
       "program_name": "Files.com",
@@ -8014,6 +8132,22 @@
       "contact_email": "security@gitlab.com"
    },
    {
+      "program_name": "Gitpod",
+      "policy_url": "https://www.gitpod.io/security/report",
+      "contact_url": "https://www.gitpod.io/security/report",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://www.gitpod.io/security/thanks",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://www.gitpod.io/careers",
+      "securitytxt_url": "https://www.gitpod.io/.well-known/security.txt",
+      "preferred_languages": "en,de",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Glance Networks",
       "policy_url": "https://ww2.glance.net/privacy-policy/",
       "launch_date": "",
@@ -8396,6 +8530,23 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@hackchecks.in"
+   },
+   {
+      "program_name": "HackerRank",
+      "policy_url": "https://docs.google.com/document/d/e/2PACX-1vQnpwaSmghgwwepiui4dqNw3S2LslBM1woAYaTuX6q9KenJ2zAgBpBPivdC8sQs2Gy-FKKuxWJLYwIz/pub",
+      "contact_url": "https://www.hackerrank.com/trust/security",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "hall_of_fame": "no",
+      "safe_harbor": "",
+      "public_disclosure": "no",
+      "pgp_key": "",
+      "hiring": "https://www.hackerrank.com/careers",
+      "securitytxt_url": "https://www.hackerrank.com/trust/security",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@hackerrank.com"
    },
    {
       "program_name": "Harmony",
@@ -8926,6 +9077,23 @@
       "contact_email": "security@iota.org"
    },
    {
+      "program_name": "IPFS",
+      "policy_url": "https://github.com/ipfs/go-ipfs#security-issues",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@ipfs.io"
+   },
+   {
       "program_name": "Ibotta",
       "policy_url": "https://bugcrowd.com/ibotta",
       "contact_url": "https://bugcrowd.com/ibotta/report",
@@ -8988,6 +9156,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Idena",
+      "policy_url": "https://www.idena.io/contribute#contribute-3-1",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "info@idena.io"
    },
    {
       "program_name": "Illumio",
@@ -9806,6 +9991,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "KISS Investments",
+      "policy_url": "https://kissinvestments.com/responsible-disclosure/",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "none",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@kissinvestments.com"
+   },
+   {
       "program_name": "KNB NL",
       "policy_url": "https://www.knb.nl/english/responsible-disclosure",
       "launch_date": "",
@@ -9996,22 +10197,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@kissflow.com"
-   },
-   {
-      "program_name": "KISS Investments",
-      "policy_url": "https://kissinvestments.com/responsible-disclosure/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@kissinvestments.com"
    },
    {
       "program_name": "Kiwa",
@@ -11790,6 +11975,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Multichain",
+      "policy_url": "https://docs.multichain.org/security/bug-bounty",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@multichain.org"
+   },
+   {
       "program_name": "Mural",
       "policy_url": "https://www.mural.co/security/vdp",
       "launch_date": "",
@@ -11966,6 +12168,23 @@
       "contact_email": "disclosure@ngahr.com"
    },
    {
+      "program_name": "NOS Comunicações S.A.",
+      "policy_url": "https://www.nos.pt/institucional/EN/Pages/responsible-disclosure-of-vulnerabilities.aspx",
+      "contact_url": "https://www.nos.pt/well-known/security.txt",
+      "launch_date": "February 2022",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://www.nos.pt/institucional/EN/Pages/cibersecurity-hall-of-fame.aspx",
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "pgp_key": "https://www.nos.pt/well-known/sec.rvd_nos-pgp.txt",
+      "hiring": "https://www.linkedin.com/company/nos-sgps/jobs/",
+      "securitytxt_url": "https://www.nos.pt/well-known/security.txt",
+      "preferred_languages": "en, pt",
+      "policy_url_status": "alive",
+      "contact_email": "sec.rvd@nos.pt"
+   },
+   {
       "program_name": "NOWPayments",
       "policy_url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
       "contact_url": "https://nowpayments.io/contact-us",
@@ -12093,21 +12312,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "National Australia Bank",
-      "policy_url": "https://bugcrowd.com/nationalaustraliabankog",
-      "launch_date": "2020-11-28",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "https://bugcrowd.com/nationalaustraliabankog/hall-of-fame",
-      "safe_harbor": "Partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "National Archives and Records Administration",
       "policy_url": "https://www.nara.gov/vulnerability-disclosure-policy",
       "launch_date": "",
@@ -12122,6 +12326,21 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security-vdp@nara.gov"
+   },
+   {
+      "program_name": "National Australia Bank",
+      "policy_url": "https://bugcrowd.com/nationalaustraliabankog",
+      "launch_date": "2020-11-28",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/nationalaustraliabankog/hall-of-fame",
+      "safe_harbor": "Partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
    },
    {
       "program_name": "National Capital Planning Commission",
@@ -13675,6 +13894,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Parity Technologies",
+      "policy_url": "https://www.parity.io/bug-bounty/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bugbounty@parity.io"
+   },
+   {
       "program_name": "Particle",
       "policy_url": "https://www.particle.io/legal/responsible-disclosure/",
       "launch_date": "",
@@ -14235,22 +14471,6 @@
       "contact_email": "security@polycom.com"
    },
    {
-      "program_name": "polypoly",
-      "policy_url": "https://polypoly.coop/en-de/security/vdp",
-      "launch_date": "2021-05-04",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "https://polypoly.coop/en/security/polypoly-security-pgp-key.txt",
-      "hiring": "",
-      "securitytxt_url": "https://polypoly.coop/.well-known/security.txt",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "security@polypoly.net"
-   },
-   {
       "program_name": "Pon Cat",
       "policy_url": "https://www.pon-cat.com/en/responsible-disclosure",
       "launch_date": "",
@@ -14473,6 +14693,39 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "soc@pclob.gov"
+   },
+   {
+      "program_name": "Productboard",
+      "policy_url": "https://www.productboard.com/product/security/#application-security",
+      "contact_url": "https://www.productboard.com/product/security/#application-security",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://www.productboard.com/careers/open-positions/",
+      "securitytxt_url": "https://www.productboard.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Proof Of Humanity",
+      "policy_url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/issues/54",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "clement@kleros.io"
    },
    {
       "program_name": "Proofpoint",
@@ -15003,6 +15256,22 @@
       "contact_email": "security@move.com"
    },
    {
+      "program_name": "Recidiviz",
+      "policy_url": "https://www.federacy.com/recidiviz?tab=Intro",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@recidiviz.org"
+   },
+   {
       "program_name": "Reclaim.ai",
       "policy_url": "https://reclaim.ai/responsible-disclosure",
       "contact_url": "https://reclaim.ai/responsible-disclosure",
@@ -15364,6 +15633,21 @@
       "offers_swag": "",
       "hall_of_fame": "",
       "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Rewind",
+      "policy_url": "https://rewind.com/legal/vulnerability-disclosure-policy/",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
       "public_disclosure": "",
       "pgp_key": "",
       "hiring": "",
@@ -16461,6 +16745,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Signal",
+      "policy_url": "https://support.signal.org/hc/en-us/articles/360007320791-How-can-I-report-a-security-vulnerability-",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@signal.org"
+   },
+   {
       "program_name": "SignalFX",
       "policy_url": "https://www.signalfx.com/trust/security/responsible-disclosure",
       "launch_date": "",
@@ -16858,6 +17159,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Solana",
+      "policy_url": "https://github.com/solana-labs/solana/security/policy",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@solana.com"
    },
    {
       "program_name": "SolarEdge",
@@ -17661,6 +17979,23 @@
       "contact_email": "security@swiggy.in"
    },
    {
+      "program_name": "Swiss National Cyber Security Center (NCSC.ch)",
+      "policy_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
+      "contact_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "vulnerability@ncsc.ch"
+   },
+   {
       "program_name": "Swisscom",
       "policy_url": "https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html",
       "launch_date": "",
@@ -17997,7 +18332,7 @@
       "contact_email": "point@tele2.com"
    },
    {
-      "program_name": "Telef\u00f3nica Germany",
+      "program_name": "Telefónica Germany",
       "policy_url": "https://bugcrowd.com/telefonicavdp",
       "contact_url": "https://bugcrowd.com/telefonicavdp/report",
       "launch_date": "",
@@ -18109,6 +18444,22 @@
       "contact_email": "security@termius.com"
    },
    {
+      "program_name": "Terra",
+      "policy_url": "https://www.terra.money/bugcrowd",
+      "contact_url": "https://www.terra.money/bugcrowd",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Tesla",
       "policy_url": "https://bugcrowd.com/tesla",
       "contact_url": "https://bugcrowd.com/tesla/report",
@@ -18173,7 +18524,7 @@
       "contact_email": "securitybugs@thehutgroup.com"
    },
    {
-      "program_name": "The Pok\u00e9mon Company",
+      "program_name": "The Pokémon Company",
       "policy_url": "https://www.pokemon.com/us/vulnerability-disclosure-program/",
       "contact_url": "https://www.pokemon.com/us/vulnerability-disclosure-program/",
       "launch_date": "",
@@ -18860,6 +19211,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Ubuntu",
+      "policy_url": "https://ubuntu.com/security/disclosure-policy",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "yes",
+      "pgp_key": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x407260f7616ece4d9d12462798e9740dc34539e0",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@ubuntu.com"
+   },
+   {
       "program_name": "Udemy",
       "policy_url": "https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability",
       "contact_url": "https://hackerone.com/udemy",
@@ -19448,6 +19816,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Vipps AS",
+      "policy_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+      "contact_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "hall_of_fame": "https://www.vipps.no/sikkerhet/security-hall-of-fame/",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://www.vipps.no/sikkerhet/pgp/",
+      "hiring": "https://vipps.no/om-oss/jobb-hos-oss/",
+      "securitytxt_url": "https://vipps.no/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "responsible-disclosure@vipps.no"
    },
    {
       "program_name": "Virtru",
@@ -32315,6 +32700,22 @@
       "contact_email": "security@tv2.dk"
    },
    {
+      "program_name": "polypoly",
+      "policy_url": "https://polypoly.coop/en-de/security/vdp",
+      "launch_date": "2021-05-04",
+      "offers_bounty": "no",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "https://polypoly.coop/en/security/polypoly-security-pgp-key.txt",
+      "hiring": "",
+      "securitytxt_url": "https://polypoly.coop/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@polypoly.net"
+   },
+   {
       "program_name": "portix.bitbucket.org",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -32921,21 +33322,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@revizto.com"
-   },
-   {
-      "program_name": "Rewind",
-      "policy_url": "https://rewind.com/legal/vulnerability-disclosure-policy/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "ro.duolingo.com",
@@ -35050,23 +35436,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Swiss National Cyber Security Center (NCSC.ch)",
-      "policy_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
-      "contact_url": "https://www.ncsc.admin.ch/ncsc/en/home/infos-fuer/infos-it-spezialisten/themen/schwachstelle-melden.html",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "vulnerability@ncsc.ch"
-   },
-   {
       "program_name": "switch.ch",
       "policy_url": "https://www.switch.ch/security/.galleries/files/SWITCH-CERT.txt",
       "contact_url": "https://www.switch.ch/security/contact/",
@@ -36347,6 +36716,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "web3 foundation",
+      "policy_url": "https://web3.foundation/security-report/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://web3.foundation/security-report/",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security-report@web3.foundation"
+   },
+   {
       "program_name": "webarchive.jira.com",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -36857,104 +37243,5 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@tv2.dk"
-   },
-   {
-      "program_name": "Recidiviz",
-      "policy_url": "https://www.federacy.com/recidiviz?tab=Intro",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@recidiviz.org"
-   },
-   {
-      "program_name": "Gitpod",
-      "policy_url": "https://www.gitpod.io/security/report",
-      "contact_url": "https://www.gitpod.io/security/report",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "https://www.gitpod.io/security/thanks",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "https://www.gitpod.io/careers",
-      "securitytxt_url": "https://www.gitpod.io/.well-known/security.txt",
-      "preferred_languages": "en,de",
-      "policy_url_status": "alive"
-   },
-   {
-      "program_name": "Productboard",
-      "policy_url": "https://www.productboard.com/product/security/#application-security",
-      "contact_url": "https://www.productboard.com/product/security/#application-security",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "https://www.productboard.com/careers/open-positions/",
-      "securitytxt_url": "https://www.productboard.com/.well-known/security.txt",
-      "preferred_languages": "en",
-      "policy_url_status": "alive"
-   },
-   {
-      "program_name": "Vipps AS",
-      "policy_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
-      "contact_url": "https://www.vipps.no/sikkerhet/responsible-disclosure-policy/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": true,
-      "hall_of_fame": "https://www.vipps.no/sikkerhet/security-hall-of-fame/",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "https://www.vipps.no/sikkerhet/pgp/",
-      "hiring": "https://vipps.no/om-oss/jobb-hos-oss/",
-      "securitytxt_url": "https://vipps.no/.well-known/security.txt",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "responsible-disclosure@vipps.no"
-   },
-   {
-      "program_name": "HackerRank",
-      "policy_url": "https://docs.google.com/document/d/e/2PACX-1vQnpwaSmghgwwepiui4dqNw3S2LslBM1woAYaTuX6q9KenJ2zAgBpBPivdC8sQs2Gy-FKKuxWJLYwIz/pub",
-      "contact_url": "https://www.hackerrank.com/trust/security",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": true,
-      "hall_of_fame": "no",
-      "safe_harbor": "",
-      "public_disclosure": "no",
-      "pgp_key": "",
-      "hiring": "https://www.hackerrank.com/careers",
-      "securitytxt_url": "https://www.hackerrank.com/trust/security",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "security@hackerrank.com"
-   },
-   {
-      "program_name": "NOS Comunicações S.A.",
-      "policy_url": "https://www.nos.pt/institucional/EN/Pages/responsible-disclosure-of-vulnerabilities.aspx",
-      "contact_url": "https://www.nos.pt/well-known/security.txt",
-      "launch_date": "February 2022",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "https://www.nos.pt/institucional/EN/Pages/cibersecurity-hall-of-fame.aspx",
-      "safe_harbor": "partial",
-      "public_disclosure": "discretionary",
-      "pgp_key": "https://www.nos.pt/well-known/sec.rvd_nos-pgp.txt",
-      "hiring": "https://www.linkedin.com/company/nos-sgps/jobs/",
-      "securitytxt_url": "https://www.nos.pt/well-known/security.txt",
-      "preferred_languages": "en, pt",
-      "policy_url_status": "alive",
-      "contact_email": "sec.rvd@nos.pt"
    }
 ]
