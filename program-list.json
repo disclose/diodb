@@ -6429,22 +6429,22 @@
       "policy_url_status": "alive",
       "contact_email": "cert@eur.nl"
    },
-  {
-    "program_name": "Eset",
-    "policy_url": "https://www.eset.com/int/security-vulnerability-reporting/",
-    "launch_date": "",
-    "offers_bounty": "yes",
-    "offers_swag": true,
-    "hall_of_fame": "",
-    "safe_harbor": "none",
-    "public_disclosure": "",
-    "pgp_key": "https://www.eset.com/fileadmin/ESET/INT/Pages/Security_vulnerability/PGP_key_2020.txt",
-    "hiring": "",
-    "securitytxt_url": "https://www.eset.com/.well-known/security-ht.txt",
-    "preferred_languages": "",
-    "policy_url_status": "alive",
-    "contact_email": "security@eset.com"
-  },
+   {
+      "program_name": "Eset",
+      "policy_url": "https://www.eset.com/int/security-vulnerability-reporting/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": true,
+      "hall_of_fame": "",
+      "safe_harbor": "none",
+      "public_disclosure": "",
+      "pgp_key": "https://www.eset.com/fileadmin/ESET/INT/Pages/Security_vulnerability/PGP_key_2020.txt",
+      "hiring": "",
+      "securitytxt_url": "https://www.eset.com/.well-known/security-ht.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@eset.com"
+   },
    {
       "program_name": "Ethereum Foundation",
       "policy_url": "https://bounty.ethereum.org/",
