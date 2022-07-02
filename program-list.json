@@ -33952,6 +33952,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "South Carolina State Election Commission",
+      "policy_url": "https://scvotes.gov/vulnerability-disclosure-program",
+      "launch_date": "2022-03-10",
+      "offers_bounty": "",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "Elections-VDP@cisecurity.org"
+   },
+   {
       "program_name": "southamptonairport.com",
       "policy_url": "https://www.agsairports.co.uk/report-a-vulnerability/",
       "contact_url": "https://www.agsairports.co.uk/report-a-vulnerability/",
