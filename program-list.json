@@ -32,6 +32,23 @@
       "contact_email": "security@internetnz.net.nz"
    },
    {
+      "program_name": "0x",
+      "policy_url": "https://0x.org/docs/guides/bug-bounty-program",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@0x.org"
+   },
+   {
       "program_name": "0xdata.atlassian.net",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -735,6 +752,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "klantenservice@airmilesshop.nl"
+   },
+   {
+      "program_name": "AirSwap",
+      "policy_url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bounty@airswap.io"
    },
    {
       "program_name": "AirVPN",
@@ -4700,6 +4733,23 @@
       "contact_email": "cigieitvdp@cigie.gov"
    },
    {
+      "program_name": "Countly",
+      "policy_url": "https://count.ly/.well-known/security.txt",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://count.ly/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@count.ly"
+   },
+   {
       "program_name": "Coupa",
       "policy_url": "https://success.coupa.com/Trust/Security_Policies/02_Vulnerability_Reporting_Policy",
       "launch_date": "",
@@ -6089,6 +6139,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "ENS",
+      "policy_url": "https://docs.ens.domains/bug-bounty-program",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bugs@ens.domains"
+   },
+   {
       "program_name": "Early Warning",
       "policy_url": "https://www.earlywarning.com/responsible-disclosure-program",
       "launch_date": "",
@@ -6247,6 +6314,23 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@essvote.com"
+   },
+   {
+      "program_name": "Electron",
+      "policy_url": "https://github.com/electron/electron/blob/main/SECURITY.md",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@electronjs.org"
    },
    {
       "program_name": "Electronic Arts",
@@ -6471,6 +6555,23 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@ethereum.org"
+   },
+   {
+      "program_name": "Etherscan",
+      "policy_url": "https://etherscan.io/bugbounty",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "info@EtherScan.io"
    },
    {
       "program_name": "Etsy",
@@ -7062,6 +7163,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Filecoin",
+      "policy_url": "https://security.filecoin.io/bug-bounty/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@filecoin.org"
    },
    {
       "program_name": "Files.com",
@@ -7989,6 +8107,15 @@
       "hiring": "",
       "securitytxt_url": "",
       "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Gitcoin",
+      "policy_url": "https://docs.gitcoin.co/mk_securitybounty/",
+      "contact_email": "engineering@gitcoin.co",
+      "offers_bounty": "yes",
+      "hall_of_fame": "",
+      "public_disclosure": "",
       "policy_url_status": "alive"
    },
    {
@@ -8987,6 +9114,23 @@
       "contact_email": "security@iota.org"
    },
    {
+      "program_name": "IPFS",
+      "policy_url": "https://github.com/ipfs/go-ipfs#security-issues",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@ipfs.io"
+   },
+   {
       "program_name": "Ibotta",
       "policy_url": "https://bugcrowd.com/ibotta",
       "contact_url": "https://bugcrowd.com/ibotta/report",
@@ -9049,6 +9193,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Idena",
+      "policy_url": "https://www.idena.io/contribute#contribute-3-1",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "info@idena.io"
    },
    {
       "program_name": "Illumio",
@@ -11851,6 +12012,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Multichain",
+      "policy_url": "https://docs.multichain.org/security/bug-bounty",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@multichain.org"
+   },
+   {
       "program_name": "Mural",
       "policy_url": "https://www.mural.co/security/vdp",
       "launch_date": "",
@@ -13753,6 +13931,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Parity Technologies",
+      "policy_url": "https://www.parity.io/bug-bounty/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "bugbounty@parity.io"
+   },
+   {
       "program_name": "Particle",
       "policy_url": "https://www.particle.io/legal/responsible-disclosure/",
       "launch_date": "",
@@ -14551,6 +14746,23 @@
       "securitytxt_url": "https://www.productboard.com/.well-known/security.txt",
       "preferred_languages": "en",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Proof Of Humanity",
+      "policy_url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/issues/54",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "clement@kleros.io"
    },
    {
       "program_name": "Proofpoint",
@@ -16570,6 +16782,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Signal",
+      "policy_url": "https://support.signal.org/hc/en-us/articles/360007320791-How-can-I-report-a-security-vulnerability-",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@signal.org"
+   },
+   {
       "program_name": "SignalFX",
       "policy_url": "https://www.signalfx.com/trust/security/responsible-disclosure",
       "launch_date": "",
@@ -16967,6 +17196,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Solana",
+      "policy_url": "https://github.com/solana-labs/solana/security/policy",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@solana.com"
    },
    {
       "program_name": "SolarEdge",
@@ -17658,6 +17904,22 @@
       "contact_email": "security@moshbit.com"
    },
    {
+      "program_name": "Substack",
+      "policy_url": "https://substack.com/vulnerability-disclosure",
+      "contact_email": "security@substackinc.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://substack.com/hall-of-fame",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://substack.com/vulnerability-disclosure",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "SugarCRM",
       "policy_url": "https://support.sugarcrm.com/Resources/Security/Bug_Bounty_Program/",
       "launch_date": "",
@@ -18249,6 +18511,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@termius.com"
+   },
+   {
+      "program_name": "Terra",
+      "policy_url": "https://www.terra.money/bugcrowd",
+      "contact_url": "https://www.terra.money/bugcrowd",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
    },
    {
       "program_name": "Tesla",
@@ -19000,6 +19278,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Ubuntu",
+      "policy_url": "https://ubuntu.com/security/disclosure-policy",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "yes",
+      "pgp_key": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x407260f7616ece4d9d12462798e9740dc34539e0",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@ubuntu.com"
    },
    {
       "program_name": "Udemy",
@@ -36501,6 +36796,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "web3 foundation",
+      "policy_url": "https://web3.foundation/security-report/",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://web3.foundation/security-report/",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security-report@web3.foundation"
+   },
+   {
       "program_name": "webarchive.jira.com",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -36978,6 +37290,16 @@
       "hiring": "",
       "securitytxt_url": "",
       "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "zkSync",
+      "policy_url": "https://zksync.io/dev/bug-bounty.html",
+      "contact_email": "security@zksync.io",
+      "offers_bounty": "yes",
+      "hall_of_fame": "",
+      "public_disclosure": "",
+      "pgp_key": "https://zksync.io/dev/bug-bounty.html#pgp-key",
       "policy_url_status": "alive"
    },
    {
