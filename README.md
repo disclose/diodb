@@ -31,9 +31,9 @@ diodb exists to drive the adoption of Safe Harbor for hackers and promote the cy
 ## How to contribute
 
 Please sort your contributions using `jq`, or allow editing forks by maintainers :)
+
 ```bash
-jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > program-list.json.tmp
-mv program-list.json.tmp program-list.json
+jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > _ && mv _ program-list.json
 ```
 
 ### Getting started
