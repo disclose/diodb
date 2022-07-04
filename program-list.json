@@ -13626,6 +13626,23 @@
       "contact_email": "secalert_us@oracle.com"
    },
    {
+      "program_name": "Orgnostic Inc.",
+      "policy_url": "https://orgnostic.com/vulnerability-disclosure",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://orgnostic.com/thanks.txt",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://orgnostic.com/pgp-key.txt",
+      "hiring": "",
+      "securitytxt_url": "https://orgnostic.com/.well-known/security.txt",
+      "preferred_languages": "en, rs",
+      "policy_url_status": "alive",
+      "contact_email": "security@orgnostic.com"
+   },
+   {
       "program_name": "Orion Health",
       "policy_url": "https://orionhealth.com/us/support/responsible-disclosure/",
       "contact_url": "http://web.orionhealth.com/General-Enquiries-Form-US.html",
