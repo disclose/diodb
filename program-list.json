@@ -37350,5 +37350,21 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@tv2.dk"
+   },
+   {
+      "program_name": "FIS",
+      "policy_url": "https://bugcrowd.com/programs/teasers/divine-darkness-4842",
+      "contact_url": "https://bugcrowd.com/programs/teasers/divine-darkness-4842",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "nda",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
    }
 ]
