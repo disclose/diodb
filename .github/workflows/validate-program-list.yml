@@ -1,6 +1,11 @@
 name: validate-program-list
 
 on:
+  push:
+    paths:
+      - 'program-list.json'
+      - 'program-list-schema.json'
+      - '.github/**'
   pull_request:
     paths:
       - 'program-list.json'
