@@ -11229,6 +11229,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "MariaDB",
+      "policy_url": "https://mariadb.org/about/#security-policy",
+      "contact_url": "https://hackerone.com/mariadb",
+      "contact_email": "security@mariadb.org",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Marketo",
       "policy_url": "https://documents.marketo.com/legal/notices/responsible-disclosure-policy.pdf",
       "launch_date": "",
@@ -22318,22 +22335,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "blog.mariadb.org",
-      "policy_url": "https://mariadb.org/about/#security-policy",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@mariadb.org"
-   },
-   {
       "program_name": "blog.oneiroi.co.uk",
       "policy_url": "https://oneiroi.co.uk/.well-known/policy.txt",
       "launch_date": "",
@@ -30958,22 +30959,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "mariadb.atlassian.net",
-      "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
-      "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "mariadb.com",
       "policy_url": "https://mariadb.com/security",
       "launch_date": "",
@@ -30988,22 +30973,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@mariadb.com"
-   },
-   {
-      "program_name": "mariadb.org",
-      "policy_url": "https://mariadb.org/about/security-policy/",
-      "contact_url": "https://hackerone.com/mariadb",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "marketplace.atlassian.com",
