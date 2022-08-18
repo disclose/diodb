@@ -10,6 +10,6 @@
   "author": "",
   "license": "CC-BY-4.0",
   "dependencies": {
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^1.9.1"
   }
 }
