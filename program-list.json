@@ -35632,6 +35632,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "szns",
+      "policy_url": "https://docs.szns.io/smart-contracts/bug-bounty",
+      "contact_url": "",
+      "contact_email": "security@szns.io",
+      "launch_date": "2022-08-10",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "tZERO",
       "policy_url": "https://bugcrowd.com/tzero-vdp",
       "contact_url": "https://bugcrowd.com/tzero-vdp/report",
