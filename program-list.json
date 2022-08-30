@@ -4366,6 +4366,22 @@
       "contact_email": "security@codeclimate.com"
    },
    {
+      "program_name": "Coder",
+      "policy_url": "https://www.coder.com/security/policy",
+      "contact_url": "https://www.coder.com/security/report",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "hall_of_fame": "https://www.coder.com/security/thanks",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://www.coder.com/careers",
+      "securitytxt_url": "https://www.coder.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Cofense",
       "policy_url": "https://cofense.com/responsible-disclosure/",
       "launch_date": "",
