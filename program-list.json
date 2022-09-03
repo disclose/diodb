@@ -15985,6 +15985,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Rust",
+      "policy_url": "https://www.rust-lang.org/policies/security",
+      "contact_email": "security@rust-lang.org",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://www.rust-lang.org/static/keys/rust-security-team-key.gpg.ascii",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "SAP",
       "policy_url": "https://wiki.scn.sap.com/wiki/display/PSR/Disclosure+Guidelines+for+SAP+Security+Advisories",
       "contact_url": "https://vulnerability-form.cfapps.sap.hana.ondemand.com",
