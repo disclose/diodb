@@ -1325,6 +1325,22 @@
       "contact_email": "psirt@solarwinds.com"
    },
    {
+      "program_name": "Appsmith",
+      "policy_url": "https://docs.appsmith.com/product/security",
+      "contact_email": "security@appsmith.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Apptentive",
       "policy_url": "https://www.apptentive.com/contact",
       "contact_url": "https://www.apptentive.com/about/contact-us/",
