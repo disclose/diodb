@@ -50,10 +50,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Verify formatting
-        run: |
-          jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > _
-          if ! diff program-list.json _; then
-            echo 'Please format `program-list.json` with https://github.com/disclose/diodb#how-to-contribute.'
-            exit 1
-          fi
+      - uses: ./.github/actions/validate-format
+
+  feedback:
+    needs: [duplicate_check_job, validate_json_fix_job, validate_links_job, format]
+    runs-on: ubuntu-latest
+    if: failure()
+    steps:
+      - uses: peter-evans/create-or-update-comment@c9fcb64660bc90ec1cc535646af190c992007c32 # v2.0.0
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            Some of the automated checkes have failed. Passing the checks is required to merge the pull request. Please see annotations at https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} for details and steps to remediate the issue(s).
