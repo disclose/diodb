@@ -1,0 +1,6 @@
+name: 'Validate Format'
+runs:
+  using: 'composite'
+  steps:
+    - run: /bin/bash "${{ github.action_path }}/validate_format.sh" "${{ github.workspace }}/program-list.json"
+      shell: bash

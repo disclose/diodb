@@ -50,10 +50,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Verify formatting
-        run: |
-          jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > _
-          if ! diff program-list.json _; then
-            echo 'Please format `program-list.json` with https://github.com/disclose/diodb#how-to-contribute.'
-            exit 1
-          fi
+      - uses: ./.github/actions/validate-format
