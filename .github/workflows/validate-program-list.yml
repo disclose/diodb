@@ -55,6 +55,8 @@ jobs:
   feedback:
     needs: [duplicate_check_job, validate_json_fix_job, validate_links_job, format]
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     if: failure()
     steps:
       - uses: peter-evans/create-or-update-comment@c9fcb64660bc90ec1cc535646af190c992007c32 # v2.0.0
