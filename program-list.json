@@ -6478,6 +6478,22 @@
       "contact_email": "disclosure@ellucian.com"
    },
    {
+      "program_name": "Ember.js",
+      "policy_url": "https://emberjs.com/security/",
+      "contact_email": "security@emberjs.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://emberjs.com/security/public-key.txt",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Eneco Group",
       "policy_url": "https://www.eneco.com/responsible-disclosure/",
       "launch_date": "",
@@ -6524,6 +6540,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "VSMT@EPA.GOV"
+   },
+   {
+      "program_name": "Envoy",
+      "policy_url": "https://github.com/envoyproxy/envoy/blob/main/SECURITY.md",
+      "contact_email": "envoy-security@googlegroups.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
    },
    {
       "program_name": "Equal Employment Opportunity Commission",
@@ -25334,6 +25366,22 @@
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "gRPC",
+      "policy_url": "https://github.com/grpc/proposal/blob/master/P4-grpc-cve-process.md",
+      "contact_email": "grpc-security@googlegroups.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
       "hall_of_fame": "",
       "safe_harbor": "",
       "public_disclosure": "",
