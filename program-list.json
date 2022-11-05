@@ -5056,8 +5056,7 @@
    },
    {
       "program_name": "Cybrary",
-      "policy_url": "https://bugcrowd.com/cybrary",
-      "contact_url": "https://bugcrowd.com/cybrary/report",
+      "policy_url": "https://www.cybrary.it/info/responsible-disclosure-program/",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -5068,7 +5067,8 @@
       "hiring": "",
       "securitytxt_url": "",
       "preferred_languages": "",
-      "policy_url_status": "alive"
+      "policy_url_status": "alive",
+      "contact_email": "report@cybrary.it"
    },
    {
       "program_name": "DC.Gov",
