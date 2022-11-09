@@ -9821,6 +9821,23 @@
       "contact_email": "disclosure@jtglobal.com"
    },
    {
+      "program_name": "Jackal Protocol",
+      "policy_url": "https://jackaldao.medium.com/announcement-jackal-bug-bounty-program-31d4e03ab7e2",
+      "contact_url": "",
+      "contact_email": "security@jackallabs.io",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "James Madison Memorial Fellowship Foundation",
       "policy_url": "https://www.jamesmadison.gov/vulnerability-disclosure-policy",
       "launch_date": "",
