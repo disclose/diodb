@@ -11439,6 +11439,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Mastodon",
+      "policy_url": "https://github.com/mastodon/mastodon/security/policy",
+      "contact_email": "security@joinmastodon.org",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Mathworks",
       "policy_url": "https://www.mathworks.com/company/aboutus/policies_statements/vulnerability-disclosure-policy.html",
       "launch_date": "",
