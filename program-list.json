@@ -2558,6 +2558,22 @@
       "contact_email": "request@bitwall.io"
    },
    {
+      "program_name": "Bitcoin Core",
+      "policy_url": "https://github.com/bitcoin/bitcoin/security/policy",
+      "contact_email": "security@bitcoincore.org",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://github.com/bitcoin/bitcoin/security/policy",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Bitcoin Gold",
       "policy_url": "https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md",
       "launch_date": "",
