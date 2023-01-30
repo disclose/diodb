@@ -9292,6 +9292,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Idaho Secretary of State",
+      "policy_url": "https://voteidaho.gov/vulnerability-disclosure-policy/",
+      "launch_date": "2022-11-17",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "Elections-VDP@cisecurity.org"
+   },
+   {
       "program_name": "Idena",
       "policy_url": "https://www.idena.io/contribute#contribute-3-1",
       "contact_url": "",
@@ -11727,6 +11743,22 @@
       "contact_email": "responsibledisclosure@merkleinc.com"
    },
    {
+      "program_name": "Metropolitan Government of Nashville and Davidson County ",
+      "policy_url": "https://www.nashville.gov/sites/default/files/2021-11/ISM-19-Vulnerability-Disclosure-Policy.pdf",
+      "launch_date": "2021-10-06",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "metroitshelpdesk@nashville.gov"
+   },
+   {
       "program_name": "Micro Focus",
       "policy_url": "https://www.microfocus.com/support-and-services/report-security/",
       "contact_url": "https://softwaresupport.softwaregrp.com/psrt",
@@ -13412,7 +13444,7 @@
       "offers_swag": false,
       "hall_of_fame": "",
       "safe_harbor": "full",
-      "public_disclosure": "",
+      "public_disclosure": "co-ordinated",
       "pgp_key": "",
       "hiring": "",
       "securitytxt_url": "",
@@ -18019,6 +18051,22 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "State of Minnesota",
+      "policy_url": "https://mn.gov/mnit/about-mnit/security/securing-the-state/vulnerability-disclosure-program.jsp",
+      "launch_date": "2022-12-28",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "none",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "appsec@state.mn.us"
    },
    {
       "program_name": "StatusPage.io",
