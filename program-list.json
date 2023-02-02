@@ -1373,6 +1373,22 @@
       "contact_email": "security@aptible.com"
    },
    {
+      "program_name": "Aqua Security",
+      "policy_url": "https://www.aquasec.com/trust/security/responsible-disclosure-program/",
+      "contact_email": "psirt@aquasec.com",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Aragon",
       "policy_url": "https://blog.aragon.org/aragon-network-bug-bounty/",
       "launch_date": "",
