@@ -4398,6 +4398,23 @@
       "contact_email": "support@livecobu.com"
    },
    {
+      "program_name": "Cockroach Labs",
+      "policy_url": "https://www.cockroachlabs.com/security/responsible-disclosure-policy/",
+      "contact_url": "",
+      "contact_email": "security@cockroachlabs.com",
+      "offers_bounty": false,
+      "offers_swag": false,
+      "pgp_key": "https://www.cockroachlabs.com/security/security@cockroachlabs.com.pub.txt",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Code Climate",
       "policy_url": "https://codeclimate.com/security",
       "launch_date": "",
