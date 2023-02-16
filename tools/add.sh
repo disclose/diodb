@@ -7,7 +7,7 @@ read -r -d '' entry << EOM
   "policy_url": "",
   "contact_url": "",
   "contact_email": "",
-  "offers_bounty": "",
+  "offers_bounty": "no",
   "offers_swag": false,
   "pgp_key": "",
   "hall_of_fame": "",
