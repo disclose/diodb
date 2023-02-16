@@ -562,6 +562,23 @@
       "contact_email": "security@acquia.com"
    },
    {
+      "program_name": "Across Protocol",
+      "policy_url": "https://docs.across.to/v/developer-docs/additional-info/bug-bounty",
+      "contact_url": "",
+      "contact_email": "bugs@umaproject.org",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Actility",
       "policy_url": "https://www.actility.com/security/",
       "contact_url": "http://app.yogosha.com/",
@@ -4402,7 +4419,7 @@
       "policy_url": "https://www.cockroachlabs.com/security/responsible-disclosure-policy/",
       "contact_url": "",
       "contact_email": "security@cockroachlabs.com",
-      "offers_bounty": false,
+      "offers_bounty": "no",
       "offers_swag": false,
       "pgp_key": "https://www.cockroachlabs.com/security/security@cockroachlabs.com.pub.txt",
       "hall_of_fame": "",
