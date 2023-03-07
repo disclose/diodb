@@ -20102,6 +20102,23 @@
       "contact_email": "corporate@vusecurity.com"
    },
    {
+      "program_name": "VanMoof",
+      "policy_url": "https://www.vanmoof.com/en/responsible-disclosure-policy",
+      "contact_url": "",
+      "contact_email": "security@vanmoof.com",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Varo Money",
       "policy_url": "https://varomoney.responsibledisclosure.com/hc/en-us",
       "contact_url": "https://varomoney.responsibledisclosure.com/hc/en-us/requests/new",
