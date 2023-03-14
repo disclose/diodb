@@ -10640,6 +10640,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "LayerZero",
+      "policy_url": "https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program",
+      "contact_url": "",
+      "contact_email": "bounty@layerzerolabs.org",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Leantime.io",
       "policy_url": "https://leantime.io/responsible-disclosure-policy/",
       "launch_date": "",
