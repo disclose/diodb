@@ -6,12 +6,6 @@ A true, community-powered, vendor agnostic directory of all known VDP and BBPs, 
 - Availability rewards, hall of fame, swag
 - Disclosure policy
 
-## Quickly search the database online: [https://disclose.io/programs/](https://disclose.io/programs/)
-
-## View the database raw: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
-
-## Visit this project on GitHub: [https://github.com/disclose/diodb](https://github.com/disclose/diodb)
-
 [![Disclose.io Vulnerability, VDP, and Bug Bounty Program Database](diodb-hero-image.png?raw=true "Disclose.io Vulnerability, VDP, and Bug Bounty Program Database")](https://github.com/disclose/diodb)
 
 ### Quick Links
