@@ -14739,6 +14739,23 @@
       "contact_email": "security@plex.tv"
    },
    {
+      "program_name": "Plisio",
+      "policy_url": "https://plisio.net/bug-bounty",
+      "contact_url": "",
+      "contact_email": "support@plisio.net",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "https://plisio.net/pgp/pgpkey.txt",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Plugin Alliance",
       "policy_url": "https://www.plugin-alliance.com/en/security.html",
       "contact_url": "https://www.plugin-alliance.com/en/tech-support.html",
