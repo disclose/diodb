@@ -30,3 +30,10 @@ body:
         - 'Yes'
     validations:
       required: false
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Here you may optionally provide additional information
+    validations:
+      required: false
