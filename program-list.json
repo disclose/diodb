@@ -8492,6 +8492,23 @@
       "contact_email": "security@gradle.com"
    },
    {
+      "program_name": "Grafana",
+      "policy_url": "https://github.com/grafana/bugbounty",
+      "contact_url": "https://github.com/grafana/bugbounty/security/advisories",
+      "contact_email": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "yes",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "GreenBone",
       "policy_url": "https://www.greenbone.net/en/responsible-disclosure/",
       "contact_url": "https://www.greenbone.net/en/contact/",
