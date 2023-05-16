@@ -9903,6 +9903,22 @@
       "contact_email": "IT-security@jcp.com"
    },
    {
+      "program_name": "JD Services",
+      "policy_url": "https://jd-services.eu/vdp/",
+      "launch_date": "",
+      "offers_bounty": "",
+      "offers_swag": false,
+      "hall_of_fame": "https://jd-services.eu/vdp/",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "en, es",
+      "policy_url_status": "",
+      "contact_email": ""
+   },
+   {
       "program_name": "JSOF",
       "policy_url": "https://www.jsof-tech.com/vulnerability-disclosure-policy/",
       "launch_date": "",
@@ -10014,22 +10030,6 @@
       "preferred_languages": "",
       "policy_url_status": "dead",
       "contact_email": "security@jazznetworks.com"
-   },
-   {
-      "program_name": "JD Services",
-      "policy_url": "https://jd-services.eu/vdp/",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": false,
-      "hall_of_fame": "https://jd-services.eu/vdp/",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "en, es",
-      "policy_url_status": "",
-      "contact_email": ""
    },
    {
       "program_name": "Jefferson Bank",
