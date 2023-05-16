@@ -9906,17 +9906,17 @@
       "program_name": "JD Services",
       "policy_url": "https://jd-services.eu/vdp/",
       "launch_date": "",
-      "offers_bounty": "",
+      "offers_bounty": "yes",
       "offers_swag": false,
       "hall_of_fame": "https://jd-services.eu/vdp/",
       "safe_harbor": "",
       "public_disclosure": "",
       "pgp_key": "",
       "hiring": "",
-      "securitytxt_url": "",
+      "securitytxt_url": "https://jd-services.eu/security.txt",
       "preferred_languages": "en, es",
       "policy_url_status": "",
-      "contact_email": ""
+      "contact_email": "soporte-a@jd-services.eu"
    },
    {
       "program_name": "JSOF",
