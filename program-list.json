@@ -611,22 +611,6 @@
       "contact_email": "security@activeprospect.com"
    },
    {
-      "program_name": "AdQuick",
-      "policy_url": "https://www.adquick.com/disclosure",
-      "contact_url": "https://www.adquick.com/disclosure",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "no",
-      "safe_harbor": "",
-      "public_disclosure": "no",
-      "hiring": "https://jobs.adquick.com",
-      "securitytxt_url": "https://www.adquick.com/security.txt",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "security@adquick.com"
-   },
-   {
       "program_name": "Ada Health",
       "policy_url": "https://ada.com/security-vulnerability-disclosure-policy/",
       "contact_url": "https://ada.com/security-vulnerability-disclosure-policy/",
