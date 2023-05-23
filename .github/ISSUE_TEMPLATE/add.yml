@@ -1,0 +1,39 @@
+name: Add new program
+description: Request adding a new bug bounty or vulnerability disclosure program to diodb
+title: "add new program: {name}"
+assignees:
+  - nikitastupin
+body:
+  - type: input
+    id: policy_url
+    attributes:
+      label: URL
+      description: Where is the program policy located?
+      placeholder: ex. https://kubernetes.io/security
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: What URL or email should be used to report a vulnerability?
+      placeholder: ex. https://hackerone.com/kubernetes
+    validations:
+      required: false
+  - type: dropdown
+    id: offers_bounty
+    attributes:
+      label: Bounty
+      description: Does the program offers monetary rewards?
+      options:
+        - 'No'
+        - 'Yes'
+    validations:
+      required: false
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Here you may optionally provide additional information
+    validations:
+      required: false
