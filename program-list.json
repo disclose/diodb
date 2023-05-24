@@ -20523,6 +20523,22 @@
       "contact_email": "security@vyond.com"
    },
    {
+      "program_name": "Vyper",
+      "policy_url": "https://github.com/vyperlang/vyper/security/policy",
+      "contact_email": "security@vyperlang.org",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "https://github.com/vyperlang/vyper/security/policy",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "WP Engine",
       "policy_url": "https://bugcrowd.com/wpengine",
       "contact_url": "https://bugcrowd.com/wpengine",
