@@ -18361,6 +18361,22 @@
       "contact_email": "security@summa.eu"
    },
    {
+      "program_name": "Supabase",
+      "policy_url": "https://github.com/supabase/supabase/security",
+      "contact_email": "security@supabase.io",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": "https://supabase.com/.well-known/security.txt"
+   },
+   {
       "program_name": "Supersonic Image",
       "policy_url": "https://www.supersonicimagine.com/security",
       "launch_date": "",
