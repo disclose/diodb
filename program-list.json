@@ -3183,6 +3183,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "BringYour",
+      "policy_url": "https://bringyour.com/vdp",
+      "contact_email": "security@bringyour.com",
+      "offers_bounty": "no",
+      "offers_swag": true,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": "https://bringyour.com/.well-known/security.txt"
+   },
+   {
       "program_name": "Brisk Infosec",
       "policy_url": "https://www.briskinfosec.com/responsibledisclosure",
       "launch_date": "",
