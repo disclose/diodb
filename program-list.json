@@ -3503,6 +3503,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Campaign Monitor",
+      "policy_url": "https://www.campaignmonitor.com/trust/report-a-vulnerability/",
+      "contact_url": "https://www.campaignmonitor.com/trust/report-a-vulnerability/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.campaignmonitor.com/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Canva",
       "policy_url": "https://www.canva.com/security/bug-bounty/",
       "contact_url": "https://www.canva.com/security/bug-bounty/",
@@ -6558,6 +6574,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Emma",
+      "policy_url": "https://myemma.com/trust/report-a-vulnerability/",
+      "contact_url": "https://myemma.com/trust/report-a-vulnerability/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://myemma.com/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "responsibledisclosure@eneco.com"
    },
    {
       "program_name": "Eneco Group",
@@ -11021,6 +11054,22 @@
       "pgp_key": "",
       "hiring": "",
       "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Liveclicker",
+      "policy_url": "https://www.liveclicker.com/trust/report-a-vulnerability/",
+      "contact_url": "https://www.liveclicker.com/trust/report-a-vulnerability/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.liveclicker.com/.well-known/security.txt",
       "preferred_languages": "",
       "policy_url_status": "alive"
    },
@@ -16420,6 +16469,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "critical@sailsjs.io"
+   },
+   {
+      "program_name": "Sailthru",
+      "policy_url": "https://www.sailthru.com/trust/report-a-vulnerability/",
+      "contact_url": "https://www.sailthru.com/trust/report-a-vulnerability/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.sailthru.com/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
    },
    {
       "program_name": "SalesLoft",
