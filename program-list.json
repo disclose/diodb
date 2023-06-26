@@ -7794,6 +7794,22 @@
       "contact_email": "security@franconnect.com"
    },
    {
+      "program_name": "Frax Finance",
+      "policy_url": "https://docs.frax.finance/smart-contracts/miscellaneous",
+      "contact_url": "https://docs.frax.finance/smart-contracts/miscellaneous",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Free Law Project",
       "policy_url": "https://free.law/vulnerability-disclosure-policy/",
       "launch_date": "",
