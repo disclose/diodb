@@ -25317,6 +25317,21 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@joomla.org"
+   },{
+      "program_name": "Exness",
+      "policy_url": "https://hackerone.com/exness",
+      "contact_url": "https://hackerone.com/exness",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "contact_email":"",
+      "policy_url_status": "alive"
    },
    {
       "program_name": "factorialhr.com",
