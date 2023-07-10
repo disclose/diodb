@@ -25317,7 +25317,8 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@joomla.org"
-   },{
+   },
+   {
       "program_name": "Exness",
       "policy_url": "https://hackerone.com/exness",
       "contact_url": "https://hackerone.com/exness",
