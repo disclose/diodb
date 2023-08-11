@@ -1551,6 +1551,22 @@
       "contact_email": "security@asana.com"
    },
    {
+      "program_name": "Ashby",
+      "policy_url": "https://www.ashbyhq.com/resources/vulnerability-disclosure",
+      "contact_email": "security@ashbyhq.com",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Assuring Medical Apps",
       "policy_url": "https://digitalhealthcompliance.com/disclosure-en/",
       "contact_url": "https://digitalhealthcompliance.com/contact-2/",
