@@ -2336,19 +2336,20 @@
    },
    {
       "program_name": "Bentley",
-      "policy_url": "https://www.bentley.com/responsible_disclosure.pdf",
-      "contact_url": "https://www.bentley.com/en/about-us/contact-us/contact-us-form?topic=11",
-      "launch_date": "",
+      "policy_url": "https://www.bentley.com/legal/bug-bounty-report/",
+      "contact_url": "https://www.bentley.com/legal/bug-bounty-report/",
+      "contact_email": "security@bentley.com",
       "offers_bounty": "yes",
       "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
       "pgp_key": "",
+      "hall_of_fame": "",
       "hiring": "",
-      "securitytxt_url": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
       "preferred_languages": "",
-      "policy_url_status": "alive"
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
    },
    {
       "program_name": "Best Buy",
