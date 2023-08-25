@@ -7041,9 +7041,9 @@
       "contact_email": "security@fair.com"
    },
    {
-      "program_name": "Family Zone Cyber Safety",
-      "policy_url": "https://www.familyzone.com/vulnerability-disclosure-policy",
-      "contact_url": "https://www.familyzone.com/vulnerability-disclosure-policy",
+      "program_name": "Qoria",
+      "policy_url": "https://www.qoria.com/vulnerability-disclosure-policy",
+      "contact_url": "https://www.qoria.com/vulnerability-disclosure-policy",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -7051,11 +7051,11 @@
       "safe_harbor": "partial",
       "public_disclosure": "no",
       "pgp_key": "",
-      "hiring": "https://www.linewize.com/careers",
-      "securitytxt_url": "https://www.familyzone.com/hubfs/.well-known/security.txt",
+      "hiring": "https://www.qoria.com/careers",
+      "securitytxt_url": "https://www.qoria.com/hubfs/.well-known/security.txt",
       "preferred_languages": "en",
       "policy_url_status": "alive",
-      "contact_email": "security@familyzone.com"
+      "contact_email": "security@qoria.com"
    },
    {
       "program_name": "FanDuel",
