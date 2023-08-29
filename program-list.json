@@ -34567,6 +34567,22 @@
       "contact_email": "IT-Sikkerhetsgruppe@nrk.no"
    },
    {
+      "program_name": "Skiff",
+      "policy_url": "https://skiff.com/vdp",
+      "launch_date": "August 2023",
+      "offers_bounty": "no",
+      "offers_swag": "no",
+      "hall_of_fame": "no",
+      "safe_harbor": "yes",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://skiff.com/careers",
+      "securitytxt_url": "https://skiff.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@skiff.com" 
+   },
+   {
       "program_name": "skypicker.com",
       "policy_url": "https://www.kiwi.com/us/pages/security",
       "launch_date": "",
