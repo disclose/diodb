@@ -7537,6 +7537,22 @@
       "contact_email": "support@float.sg"
    },
    {
+      "program_name": "FloorDAO",
+      "policy_url": "https://docs.floor.xyz/v/en/protocol/bug-bounty",
+      "contact_url": "https://discord.gg/3n5Qay5NPS",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Flow",
       "policy_url": "https://flow.com/flow-responsible-disclosure",
       "contact_email": "security@onflow.org",
