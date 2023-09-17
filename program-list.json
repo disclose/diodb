@@ -1791,6 +1791,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Automox",
+      "policy_url": "https://www.automox.com/security/responsible-disclosure",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.automox.com/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "disclosures@automox.com"
+   },
+   {
       "program_name": "Auvik",
       "policy_url": "https://www.auvik.com/disclosure-policy.html",
       "launch_date": "",
