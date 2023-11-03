@@ -18907,6 +18907,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Target",
+      "policy_url": "https://security.target.com/vdp/",
+      "contact_url": "ttps://security.target.com/vdp/",
+      "contact_email": "security@target.com",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Tarsnap",
       "policy_url": "https://www.tarsnap.com/bugbounty.html",
       "launch_date": "",
