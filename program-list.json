@@ -10560,6 +10560,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Kinde",
+      "policy_url": "https://kinde.com/docs/important-information/vulnerability-disclosure-policy/",
+      "policy_url_status": "alive",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": "false",
+      "hall_of_fame": "https://kinde.com/docs/important-information/security-wall-of-fame/",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://kinde.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "contact_email": "security@kinde.com"
+   },
+   {
       "program_name": "Kissflow",
       "policy_url": "https://kissflow.com/responsible-disclosure/",
       "launch_date": "",
