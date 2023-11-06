@@ -18909,7 +18909,7 @@
    {
       "program_name": "Target",
       "policy_url": "https://security.target.com/vdp/",
-      "contact_url": "ttps://security.target.com/vdp/",
+      "contact_url": "https://security.target.com/vdp/",
       "contact_email": "security@target.com",
       "offers_bounty": "no",
       "offers_swag": false,
