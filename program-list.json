@@ -9647,6 +9647,23 @@
       "contact_email": "beveiliging@independer.nl"
    },
    {
+      "program_name": "InfStones",
+      "policy_url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
+      "contact_url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
+      "contact_email": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "2023-11-10",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "co-ordinated",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Inflectra",
       "policy_url": "https://www.inflectra.com/company/responsible-disclosure.aspx",
       "launch_date": "",
