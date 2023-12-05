@@ -21149,6 +21149,22 @@
       "contact_email": "security@wordfence.com"
    },
    {
+      "program_name": "Wordfence Intelligence",
+      "policy_url": "https://www.wordfence.com/threat-intel/bug-bounty-program/",
+      "contact_url": "https://www.wordfence.com/threat-intel/bug-bounty-program/",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Wordpress",
       "policy_url": "https://wordpress.org/about/security/",
       "contact_url": "https://hackerone.com/wordpress",
