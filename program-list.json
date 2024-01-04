@@ -20797,6 +20797,22 @@
       "contact_email": "security@wagwalking.com"
    },
    {
+      "program_name": "WalletConnect",
+      "policy_url": "https://walletconnect.com/.well-known/security.txt",
+      "contact_email": "security@walletconnect.com",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": "https://walletconnect.com/.well-known/security.txt"
+   },
+   {
       "program_name": "Walmart",
       "policy_url": "https://corporate.walmart.com/privacy-security",
       "contact_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
