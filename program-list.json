@@ -14563,6 +14563,22 @@
       "contact_email": "security@paychoice.com.au"
    },
    {
+      "program_name": "Payhawk",
+      "policy_url": "https://payhawk.com/security/disclosure",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "none",
+      "public_disclosure": "",
+      "pgp_key": "https://keybase.io/payhawk/pgp_keys.asc",
+      "hiring": "https://payhawk.com/careers",
+      "securitytxt_url": "https://payhawk.com/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@payhawk.com"
+   },
+   {
       "program_name": "Paymill",
       "policy_url": "https://developers.paymill.com/guides/security/security-standards",
       "launch_date": "",
