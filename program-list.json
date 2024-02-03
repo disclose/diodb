@@ -11169,6 +11169,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Livesport",
+      "policy_url": "https://bugbounty.livesport.eu/docs/Vulnerability%20Disclosure%20Policy.pdf",
+      "contact_url": "https://bugbounty.livesport.eu/",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Livestream",
       "policy_url": "https://hackerone.com/livestream",
       "contact_url": "https://hackerone.com/livestream",
