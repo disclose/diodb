@@ -5523,11 +5523,11 @@
       "contact_email": "delaware.itsecurity@delaware.pro"
    },
    {
-      "program_name": "Dell",
-      "policy_url": "https://bugcrowd.com/dell",
-      "contact_url": "https://bugcrowd.com/dell/report",
+      "program_name": "Dell Technologies Application Bug Bounty",
+      "policy_url": "https://bugcrowd.com/dell-com",
+      "contact_url": "https://bugcrowd.com/dell-com/submissions/new",
       "launch_date": "",
-      "offers_bounty": "no",
+      "offers_bounty": "yes",
       "offers_swag": false,
       "hall_of_fame": "",
       "safe_harbor": "partial",
