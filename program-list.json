@@ -5838,6 +5838,22 @@
       "contact_email": "security@deps.co"
    },
    {
+      "program_name": "Deputy",
+      "policy_url": "https://www.deputy.com/terms/responsible-disclosure-safe-harbor-policy",
+      "contact_url": "https://www.deputy.com/security/report-a-vulnerability",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "partial",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Deribit",
       "policy_url": "https://www.deribit.com/pages/information/bug-bounty-program",
       "launch_date": "",
