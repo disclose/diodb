@@ -9053,6 +9053,22 @@
       "contact_email": "bugbounty@hex-rays.com"
    },
    {
+      "program_name": "HiddenLayer",
+      "policy_url": "https://hiddenlayer.com/vulnerability-disclosure-policy/",
+      "contact_email": "disclosure@hiddenlayer.com",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Hillrom",
       "policy_url": "https://www.hillrom.com/en/responsible-disclosures/",
       "launch_date": "",
