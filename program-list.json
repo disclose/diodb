@@ -5539,6 +5539,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Dell Technologies' Products Bug Bounty Program",
+      "policy_url": "https://bugcrowd.com/dell-product",
+      "contact_url": "https://bugcrowd.com/dell-product/submissions/new",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "partial",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Deltatre",
       "policy_url": "https://www.deltatre.com/coordinated-vulnerability-disclosure",
       "launch_date": "",
