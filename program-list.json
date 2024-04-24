@@ -1,4 +1,20 @@
 [
+    {
+      "program_name": "Rapyd",
+      "policy_url": "https://bugcrowd.com/rapyd",
+      "contact_url": "https://bugcrowd.com/rapyd/submissions/new",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "yes",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "en",
+      "public_disclosure": "",
+      "safe_harbor": "full",
+      "securitytxt_url": ""
+   },
    {
       "program_name": "Luno",
       "policy_url": "https://bugcrowd.com/luno-og",
