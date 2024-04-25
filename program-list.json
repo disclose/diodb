@@ -9711,6 +9711,22 @@
       "contact_email": "beveiliging@independer.nl"
    },
    {
+      "program_name": "Inditex",
+      "policy_url": "https://hackerone.com/inditex",
+      "contact_url": "https://hackerone.com/inditex/reports/new",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "InfStones",
       "policy_url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
       "contact_url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
