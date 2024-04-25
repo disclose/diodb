@@ -1,22 +1,5 @@
 [
    {
-      "program_name": "Luno",
-      "policy_url": "https://bugcrowd.com/luno-og",
-      "contact_url": "https://bugcrowd.com/luno-og/submissions/new",
-      "contact_email": "luno-esf@submit.bugcrowd.com",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "pgp_key": "",
-      "hall_of_fame": "yes",
-      "hiring": "",
-      "launch_date": "",
-      "policy_url_status": "alive",
-      "preferred_languages": "en",
-      "public_disclosure": "",
-      "safe_harbor": "full",
-      "securitytxt_url": ""
-   },
-   {
       "program_name": "(ISC)2",
       "policy_url": "https://bugcrowd.com/isc2",
       "contact_url": "https://bugcrowd.com/isc2/report",
