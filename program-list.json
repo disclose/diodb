@@ -1,37 +1,4 @@
 [
-    {
-      "program_name": "Rapyd",
-      "policy_url": "https://bugcrowd.com/rapyd",
-      "contact_url": "https://bugcrowd.com/rapyd/submissions/new",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "pgp_key": "",
-      "hall_of_fame": "yes",
-      "hiring": "",
-      "launch_date": "",
-      "policy_url_status": "alive",
-      "preferred_languages": "en",
-      "public_disclosure": "",
-      "safe_harbor": "full",
-      "securitytxt_url": ""
-   },
-   {
-      "program_name": "Luno",
-      "policy_url": "https://bugcrowd.com/luno-og",
-      "contact_url": "https://bugcrowd.com/luno-og/submissions/new",
-      "contact_email": "luno-esf@submit.bugcrowd.com",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "pgp_key": "",
-      "hall_of_fame": "yes",
-      "hiring": "",
-      "launch_date": "",
-      "policy_url_status": "alive",
-      "preferred_languages": "en",
-      "public_disclosure": "",
-      "safe_harbor": "full",
-      "securitytxt_url": ""
-   },
    {
       "program_name": "(ISC)2",
       "policy_url": "https://bugcrowd.com/isc2",
@@ -11410,6 +11377,23 @@
       "contact_email": "disclosure@lumoslabs.com"
    },
    {
+      "program_name": "Luno",
+      "policy_url": "https://bugcrowd.com/luno-og",
+      "contact_url": "https://bugcrowd.com/luno-og/submissions/new",
+      "contact_email": "luno-esf@submit.bugcrowd.com",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "yes",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "en",
+      "public_disclosure": "",
+      "safe_harbor": "full",
+      "securitytxt_url": ""
+   },
+   {
       "program_name": "Lyft",
       "policy_url": "https://www.lyft.com/security",
       "contact_url": "https://www.lyft.com/security",
@@ -15877,6 +15861,22 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@rapidspike.com"
+   },
+   {
+      "program_name": "Rapyd",
+      "policy_url": "https://bugcrowd.com/rapyd",
+      "contact_url": "https://bugcrowd.com/rapyd/submissions/new",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "yes",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "en",
+      "public_disclosure": "",
+      "safe_harbor": "full",
+      "securitytxt_url": ""
    },
    {
       "program_name": "Razorpay",
