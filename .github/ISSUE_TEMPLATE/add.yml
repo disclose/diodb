@@ -1,8 +1,6 @@
 name: Add new program
 description: Request adding a new bug bounty or vulnerability disclosure program to diodb
 title: "add new program: {name}"
-assignees:
-  - nikitastupin
 body:
   - type: input
     id: policy_url
