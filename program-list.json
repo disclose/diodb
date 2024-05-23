@@ -9341,6 +9341,24 @@
       "contact_email": "support@hunter.io"
    },
    {
+      "program_name": "Huntr",
+      "policy_url": "https://huntr.com/guidelines",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "https://huntr.com/leaderboard",
+      "safe_harbor": "",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 45,
+      "pgp_key": "",
+      "hiring": "https://protectai.com/careers",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_url": "https://huntr.com/contact-us",
+      "contact_email": "support@huntr.com"
+   },
+   {
       "program_name": "Hyatt",
       "policy_url": "https://hackerone.com/hyatt",
       "contact_url": "https://hackerone.com/hyatt",
