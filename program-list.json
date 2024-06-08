@@ -9197,6 +9197,23 @@
       "contact_email": "security@holland-controls.com"
    },
    {
+      "program_name": "Honest",
+      "policy_url": "https://honest.co.id/vulnerability-disclosure-policy",
+      "contact_url": "https://honest.co.id/vulnerability-disclosure-policy",
+      "launch_date": "2023-08-06",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://honest.co.id/.well-known/security.txt",
+      "preferred_languages": "en, id",
+      "policy_url_status": "alive",
+      "contact_email": "vulnerability-disclosure@honestbank.com"
+   },
+   {
       "program_name": "Honeycomb.io",
       "policy_url": "https://www.honeycomb.io/bugbountyprogram/",
       "launch_date": "",
