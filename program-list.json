@@ -38197,4 +38197,20 @@
       "policy_url_status": "alive",
       "contact_email": "security@tv2.dk"
    }
+   {
+      "program_name": "Monash University",
+      "policy_url": "https://www.monash.edu/cybersecurity/about/mon-csirt",
+      "contact_url": "https://bugcrowd.com/monash-mbb",
+      "launch_date": "",
+      "offers_bounty": "Yes",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "Coordinated",
+      "pgp_key": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xe13256efd996264719974fc31a52946d7a71d665",
+      "hiring": "https://www.monash.edu/jobs",
+      "securitytxt_url": "https://www.monash.edu/.well-known/security.txt",
+      "preferred_languages": "English",
+      "policy_url_status": "alive"
+   },
 ]
