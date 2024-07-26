@@ -12436,6 +12436,23 @@
       "contact_email": "security@monarx.com"
    },
    {
+      "program_name": "Monash University",
+      "policy_url": "https://www.monash.edu/cybersecurity/about/mon-csirt",
+      "contact_url": "https://bugcrowd.com/monash-mbb",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/monash-mbb",
+      "safe_harbor": "partial",
+      "public_disclosure": "Coordinated",
+      "pgp_key": "openpgp4fpr:e13256efd996264719974fc31a52946d7a71d665",
+      "hiring": "https://www.monash.edu/cybersecurity/about/work-with-us",
+      "securitytxt_url": "https://www.monash.edu/.well-known/security.txt",
+      "preferred_languages": "english",
+      "policy_url_status": "alive",
+      "contact_email": "cyberteam+disclosure@monash.edu"
+   },
+   {
       "program_name": "Monetha",
       "policy_url": "https://www.monetha.io/bounty",
       "contact_url": "https://docs.google.com/forms/d/e/1FAIpQLSepEDPWlHn2CVFHHaOlrE_YSnQo7Uj-mV051SmrXZ0t85SYBg/viewform",
