@@ -1,21 +1,5 @@
 [
    {
-      "program_name": "(ISC)2",
-      "policy_url": "https://bugcrowd.com/isc2",
-      "contact_url": "https://bugcrowd.com/isc2/report",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": ".nz Registry",
       "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
       "launch_date": "",
@@ -7169,20 +7153,20 @@
       "contact_email": "security@farm.bot"
    },
    {
-      "program_name": "FastMail",
-      "policy_url": "https://www.fastmail.com/about/bugbounty.html",
+      "program_name": "Fastmail",
+      "policy_url": "https://www.fastmail.com/bug-bounty/",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
-      "hall_of_fame": "",
+      "hall_of_fame": "https://www.fastmail.com/bug-bounty/",
       "safe_harbor": "none",
-      "public_disclosure": "",
+      "public_disclosure": "co-ordinated",
       "pgp_key": "",
       "hiring": "",
       "securitytxt_url": "",
-      "preferred_languages": "",
+      "preferred_languages": "en",
       "policy_url_status": "alive",
-      "contact_email": "bugreport@fastmail.com"
+      "contact_email": "security@fastmailteam.com"
    },
    {
       "program_name": "Fastly",
@@ -12434,6 +12418,23 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@monarx.com"
+   },
+   {
+      "program_name": "Monash University",
+      "policy_url": "https://www.monash.edu/cybersecurity/about/mon-csirt",
+      "contact_url": "https://bugcrowd.com/monash-mbb",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/monash-mbb",
+      "safe_harbor": "partial",
+      "public_disclosure": "Coordinated",
+      "pgp_key": "openpgp4fpr:e13256efd996264719974fc31a52946d7a71d665",
+      "hiring": "https://www.monash.edu/cybersecurity/about/work-with-us",
+      "securitytxt_url": "https://www.monash.edu/.well-known/security.txt",
+      "preferred_languages": "english",
+      "policy_url_status": "alive",
+      "contact_email": "cyberteam+disclosure@monash.edu"
    },
    {
       "program_name": "Monetha",
