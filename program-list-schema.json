@@ -1,124 +1,112 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "array",
-  "items": [
-    {
-      "type": "object",
-      "properties": {
-        "program_name": {
-          "type": "string"
-        },
-        "policy_url": {
-          "type": "string",
-          "format": "uri"
-        },
-        "policy_url_status": {
-          "type": "string",
-          "enum": [
-            "alive",
-            "dead"
-          ]
-        },
-        "contact_url": {
-          "type": "string",
-          "format": "uri"
-        },
-        "contact_email": {
-          "type": "string",
-          "format": "email"
-        },
-        "launch_date": {
-          "anyOf": [
-            {
-              "type": "string",
-              "enum": [
-                ""
-              ]
-            },
-            {
-              "type": "string",
-              "format": "date"
-            }
-          ]
-        },
-        "offers_bounty": {
-          "type": "string",
-          "enum": [
-            "yes",
-            "no",
-            "partial"
-          ]
-        },
-        "offers_swag": {
-          "type": "boolean"
-        },
-        "hall_of_fame": {
-          "type": "string",
-          "format": "uri"
-        },
-        "safe_harbor": {
-          "type": "string",
-          "enum": [
-            "full",
-            "partial",
-            "none"
-          ]
-        },
-        "public_disclosure": {
-          "type": "string",
-          "enum": [
-            "nda",
-            "discretionary",
-            "co-ordinated",
-            ""
-          ]
-        },
-        "disclosure_timeline_days": {
-          "type": "number",
-          "minimum": 0
-        },
-        "pgp_key": {
-          "type": "string",
-          "format": "uri"
-        },
-        "hiring": {
-          "type": "string",
-          "format": "uri"
-        },
-        "securitytxt_url": {
-          "type": "string",
-          "format": "uri"
-        },
-        "preferred_languages": {
-          "type": "string"
-        }
+  "items": {
+    "type": "object",
+    "properties": {
+      "program_name": {
+        "type": "string"
       },
-      "if": {
-        "properties": {
-          "public_disclosure": {
-            "const": "co-ordinated"
+      "policy_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "policy_url_status": {
+        "type": "string",
+        "enum": [
+          "alive",
+          "dead"
+        ]
+      },
+      "contact_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "contact_email": {
+        "type": "string",
+        "format": "email"
+      },
+      "launch_date": {
+        "anyOf": [
+          {
+            "type": "string",
+            "enum": [
+              ""
+            ]
+          },
+          {
+            "type": "string",
+            "format": "date"
           }
-        }
+        ]
       },
-      "then": {
-        "required": ["disclosure_timeline_days"]
+      "offers_bounty": {
+        "type": "string",
+        "enum": [
+          "yes",
+          "no",
+          "partial"
+        ]
       },
-      "required": [
-        "policy_url",
-        "public_disclosure"
-      ],
-      "anyOf": [
-        {
-          "required": [
-            "contact_url"
-          ]
-        },
-        {
-          "required": [
-            "contact_email"
-          ]
-        }
-      ]
-    }
-  ]
+      "offers_swag": {
+        "type": "boolean"
+      },
+      "hall_of_fame": {
+        "type": "string",
+        "format": "uri"
+      },
+      "safe_harbor": {
+        "type": "string",
+        "enum": [
+          "full",
+          "partial",
+          "none"
+        ]
+      },
+      "public_disclosure": {
+        "type": "string",
+        "enum": [
+          "nda",
+          "discretionary",
+          "co-ordinated",
+          ""
+        ]
+      },
+      "disclosure_timeline_days": {
+        "type": "number",
+        "minimum": 0
+      },
+      "pgp_key": {
+        "type": "string",
+        "format": "uri"
+      },
+      "hiring": {
+        "type": "string",
+        "format": "uri"
+      },
+      "securitytxt_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "preferred_languages": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "policy_url",
+      "public_disclosure"
+    ],
+    "anyOf": [
+      {
+        "required": [
+          "contact_url"
+        ]
+      },
+      {
+        "required": [
+          "contact_email"
+        ]
+      }
+    ]
+  }
 }
