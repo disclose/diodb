@@ -7153,22 +7153,6 @@
       "contact_email": "security@farm.bot"
    },
    {
-      "program_name": "Fastmail",
-      "policy_url": "https://www.fastmail.com/bug-bounty/",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "https://www.fastmail.com/bug-bounty/",
-      "safe_harbor": "none",
-      "public_disclosure": "co-ordinated",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "en",
-      "policy_url_status": "alive",
-      "contact_email": "security@fastmailteam.com"
-   },
-   {
       "program_name": "Fastly",
       "policy_url": "https://www.fastly.com/security/report-security-issue",
       "contact_url": "https://fastly.zendesk.com/hc/en-us/requests/new",
@@ -7183,6 +7167,22 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Fastmail",
+      "policy_url": "https://www.fastmail.com/bug-bounty/",
+      "launch_date": "",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "hall_of_fame": "https://www.fastmail.com/bug-bounty/",
+      "safe_harbor": "none",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@fastmailteam.com"
    },
    {
       "program_name": "Favor",
@@ -25005,12 +25005,12 @@
    {
       "program_name": "dropbox",
       "policy_url": "https://bugcrowd.com/dropbox/",
-      "contact_url": "",
+      "contact_url": "https://bugcrowd.com/dropbox/report",
       "launch_date": "",
       "offers_bounty": "yes",
-      "offers_swag": "",
+      "offers_swag": "no",
       "hall_of_fame": "",
-      "safe_harbor": "",
+      "safe_harbor": "partial",
       "public_disclosure": "",
       "pgp_key": "",
       "hiring": "",
