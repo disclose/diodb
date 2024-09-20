@@ -25003,11 +25003,11 @@
       "contact_email": "it.security@dpdgroup.co.uk"
    },
    {
-      "program_name": "dropbox.com",
-      "policy_url": "https://hackerone.com/dropbox/",
-      "contact_url": "https://hackerone.com/dropbox/",
+      "program_name": "dropbox",
+      "policy_url": "https://bugcrowd.com/dropbox/",
+      "contact_url": "",
       "launch_date": "",
-      "offers_bounty": "",
+      "offers_bounty": "yes",
       "offers_swag": "",
       "hall_of_fame": "",
       "safe_harbor": "",
