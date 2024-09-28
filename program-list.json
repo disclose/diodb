@@ -1172,6 +1172,22 @@
       "contact_email": "securityalert@analog.com"
    },
    {
+      "program_name": "Andreessen Horowitz",
+      "policy_url": "https://a16z.com/security-policy",
+      "contact_url": "",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "https://a16z.com/pgp-key.txt",
+      "hiring": "",
+      "securitytxt_url": "https://a16z.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Android",
       "policy_url": "https://www.google.com/about/appsecurity/android-rewards/",
       "contact_url": "https://www.google.com/appserve/security-bugs/m2/new",
