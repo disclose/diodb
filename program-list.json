@@ -6480,6 +6480,22 @@
       "contact_email": "security@eggy.com.au"
    },
    {
+      "program_name": "Einride",
+      "policy_url": "https://www.einride.tech/vulnerability-disclosure-policy",
+      "launch_date": "2024-09-15",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://e-security-assets-prod.storage.googleapis.com/security-acknowledgments.txt",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://careers.einride.tech/",
+      "securitytxt_url": "https://einride.tech/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@einride.tech"
+   },
+   {
       "program_name": "Election Assistance Commission",
       "policy_url": "https://www.eac.gov/vulnerability-disclosure-policy",
       "launch_date": "",
