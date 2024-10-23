@@ -2992,22 +2992,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Bose",
-      "policy_url": "https://global.bose.com/en_us/product_security_vulnerability_response.html",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "privacyandsecurity@bose.com"
-   },
-   {
       "program_name": "Boston Scientific",
       "policy_url": "https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html",
       "launch_date": "",
@@ -3054,22 +3038,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "ppbugbounty@paypal.com"
-   },
-   {
-      "program_name": "Brandcast",
-      "policy_url": "https://support.brandcast.com/en/articles/990526-security-disclosure",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@brandcast.com"
    },
    {
       "program_name": "Brave",
@@ -8064,15 +8032,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Gitcoin",
-      "policy_url": "https://docs.gitcoin.co/mk_securitybounty/",
-      "contact_email": "engineering@gitcoin.co",
-      "offers_bounty": "yes",
-      "hall_of_fame": "",
-      "public_disclosure": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "Github",
       "policy_url": "https://bounty.github.com/",
       "contact_url": "https://hackerone.com/github",
@@ -8650,22 +8609,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@hellosign.com"
-   },
-   {
-      "program_name": "Hermes Parcelnet",
-      "policy_url": "https://www.myhermes.co.uk/responsible-disclosure-policy",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "infosec@hermes-europe.co.uk"
    },
    {
       "program_name": "Heroku",
@@ -29384,22 +29327,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "Information.Protection@hcahealthcare.com"
-   },
-   {
-      "program_name": "helios-gesundheit.de",
-      "policy_url": "www.helios-gesundheit.de/bugbounty.html",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@helios-gesundheit.de"
    },
    {
       "program_name": "help.avalara.com",
