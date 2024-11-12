@@ -1743,6 +1743,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Authress",
+      "policy_url": "https://authress.io/app/#/disclosure",
+      "contact_url": "https://authress.io/app/#/disclosure",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://authress.io/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Autodesk",
       "policy_url": "https://www.autodesk.com/trust/incident-response",
       "contact_url": "https://www.autodesk.com/trust/contact-us",
