@@ -9199,6 +9199,22 @@
       "contact_email": "security@hiverhq.com"
    },
    {
+      "program_name": "Hoasted",
+      "policy_url": "https://www.hoasted.com/vulnerability-disclosure-policy/",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "",
+      "policy_url_status": "alive",
+      "contact_email": "security@hostingsecure.com"
+   },
+   {
       "program_name": "Holland Controls",
       "policy_url": "https://www.holland-controls.com/responsible-disclosure",
       "launch_date": "",
