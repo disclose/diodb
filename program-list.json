@@ -6384,24 +6384,6 @@
       "contact_email": "bugbounty@earlywarning.com"
    },
    {
-      "program_name": "easyHotel",
-      "policy_url": "https://easyshotel.com/vulnerability-disclosure-policy",
-      "policy_url_status": "alive",
-      "contact_email": "security@easyhotel.com",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "co-ordinated",
-      "disclosure_timeline_days": 90,
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "https://easyhotel.com/.well-known/security.txt",
-      "preferred_languages": "en"
-   },
-
-   {
       "program_name": "Eclipse",
       "policy_url": "http://www.eclipse.org/security/",
       "launch_date": "",
@@ -25243,6 +25225,23 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@ea-foundation.org"
+   },
+   {
+      "program_name": "easyHotel",
+      "policy_url": "https://easyshotel.com/vulnerability-disclosure-policy",
+      "policy_url_status": "alive",
+      "contact_email": "security@easyhotel.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://easyhotel.com/.well-known/security.txt",
+      "preferred_languages": "en"
    },
    {
       "program_name": "easysign.io",
