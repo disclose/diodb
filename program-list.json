@@ -17534,7 +17534,7 @@
    },
    {
       "program_name": "Shopify",
-      "policy_url": "https://hackerone.com/shopify",
+      "policy_url": "https://bugbounty.shopify.com",
       "contact_url": "https://hackerone.com/shopify",
       "launch_date": "",
       "offers_bounty": "yes",
