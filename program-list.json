@@ -18477,6 +18477,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Standup & Prosper",
+      "policy_url": "https://standup-and-prosper.com/app/#/disclosure",
+      "contact_url": "https://standup-and-prosper.com/app/#/disclosure",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://standup-and-prosper.com/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Stanford University",
       "policy_url": "https://uit.stanford.edu/security/report-incident",
       "contact_url": "https://uit.stanford.edu/security/report-incident",
