@@ -15708,7 +15708,7 @@
       "program_name": "Qualcomm",
       "policy_url": "https://www.qualcomm.com/company/product-security/report-a-bug",
       "launch_date": "2016",
-      "offers_bounty": "Yes",
+      "offers_bounty": "yes",
       "offers_swag": false,
       "hall_of_fame": "https://www.qualcomm.com/company/product-security/bulletins",
       "safe_harbor": "none",
