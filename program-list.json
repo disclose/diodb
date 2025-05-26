@@ -18141,7 +18141,23 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Sourcible",
+   "program_name": "Sourcegraph",
+      "policy_url": "TBA",
+      "launch_date": "",
+      "offers_bounty": "TBA",
+      "offers_swag": "",
+      "hall_of_fame": "TBA",
+      "safe_harbor": "TBA",
+      "public_disclosure": "TBA",
+      "pgp_key": "TBA",
+      "hiring": "TBA",
+      "securitytxt_url": "TBA",
+      "preferred_languages": "TBA",
+      "policy_url_status": "alive",
+      "contact_email": "security@sourcegraph.com"
+    },
+    {
+       "program_name": "Sourcible",
       "policy_url": "https://www.sourcible.com/vdp",
       "launch_date": "",
       "offers_bounty": "no",
