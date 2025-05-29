@@ -3621,7 +3621,7 @@
       "contact_url": "https://mydatahelps.org/e/KLKCCW?surveyName=Vulnerability%20Reporting%20Form",
       "launch_date": "",
       "offers_bounty": "yes",
-      "offers_swag": "no",
+      "offers_swag": false,
       "hall_of_fame": "",
       "safe_harbor": "full",
       "public_disclosure": "no",
