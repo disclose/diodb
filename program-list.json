@@ -21323,7 +21323,7 @@
       "public_disclosure": "co-ordinated",
       "pgp_key": "",
       "hiring": "https://whatbox.ca/jobs",
-      "securitytxt_url": "",
+      "securitytxt_url": "https://whatbox.ca/.well-known/security.txt",
       "preferred_languages": "English",
       "policy_url_status": "alive",
       "contact_email": "security@whatbox.ca"
