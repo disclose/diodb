@@ -16778,6 +16778,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "SIX Group",
+      "policy_url": "https://hackerone.com/six-group",
+      "contact_url": "https://hackerone.com/six-group",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "pgp_key": "",
+      "hall_of_fame": "",
+      "hiring": "",
+      "launch_date": "",
+      "policy_url_status": "alive",
+      "preferred_languages": "",
+      "public_disclosure": "",
+      "safe_harbor": "",
+      "securitytxt_url": "https://www.six-group.com/.well-known/security.txt"
+   },
+   {
       "program_name": "SNS Bank",
       "policy_url": "https://www.devolksbank.nl/veiligheid.html",
       "launch_date": "",
