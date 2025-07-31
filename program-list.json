@@ -467,7 +467,7 @@
    },
    {
       "program_name": "Accellion",
-      "policy_url": "https://bugcrowd.com/accellion-public",
+      "policy_url": "https://bugcrowd.com/engagements/kiteworks-public",
       "contact_url": "https://bugcrowd.com/accellion-public/report",
       "launch_date": "",
       "offers_bounty": "yes",
@@ -661,7 +661,7 @@
    },
    {
       "program_name": "Aerohive",
-      "policy_url": "http://www.aerohive.com/support/security-center",
+      "policy_url": "https://hackerone.com/aerohive?type=team",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -756,22 +756,6 @@
       "contact_email": "security.privacy@airmiles.nl"
    },
    {
-      "program_name": "Air Miles Shop",
-      "policy_url": "https://www.airmilesshop.nl/responsible-disclosure",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": true,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "klantenservice@airmilesshop.nl"
-   },
-   {
       "program_name": "AirSwap",
       "policy_url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
       "launch_date": "",
@@ -821,7 +805,7 @@
    },
    {
       "program_name": "Airmap",
-      "policy_url": "https://www.airmap.com/responsible-disclosure-policy/",
+      "policy_url": "https://hackerone.com/airmap?type=team",
       "launch_date": "2017-01-20",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -901,7 +885,7 @@
    },
    {
       "program_name": "Alcyon",
-      "policy_url": "https://www.alcyon.nl/responsible-disclosure/",
+      "policy_url": "https://hackerone.com/alcyon?type=team",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": true,
@@ -965,7 +949,7 @@
    },
    {
       "program_name": "Alienvault",
-      "policy_url": "https://cybersecurity.att.com/documentation/usm-appliance/system-overview/how-to-submit-a-security-issue-to-alienvault.htm",
+      "policy_url": "https://hackerone.com/att",
       "contact_url": "https://hackerone.com/alienvault_security",
       "launch_date": "",
       "offers_bounty": "no",
@@ -1058,22 +1042,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "dead"
-   },
-   {
-      "program_name": "AlwaysData",
-      "policy_url": "https://www.alwaysdata.com/en/bug-bounty/",
-      "contact_url": "https://admin.alwaysdata.com/support/",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": true,
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "Amara",
@@ -1711,22 +1679,6 @@
       "contact_email": "vulnerability@audi.de"
    },
    {
-      "program_name": "Augur",
-      "policy_url": "https://augur.net/blog/v2-bug-bounty/",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "bounty@augur.net"
-   },
-   {
       "program_name": "Australia Post",
       "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
       "launch_date": "",
@@ -1856,7 +1808,7 @@
    },
    {
       "program_name": "Auvik",
-      "policy_url": "https://www.auvik.com/disclosure-policy.html",
+      "policy_url": "https://dashboard.hackenproof.com/public-bug-bounty-list/augur-bug-bounty-program",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -2208,7 +2160,7 @@
    },
    {
       "program_name": "BankID",
-      "policy_url": "https://www.bankid.com/en/disclosure",
+      "policy_url": "https://www.bankid.com/en/rapportera-brist",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": "",
@@ -2240,7 +2192,7 @@
    },
    {
       "program_name": "Barco",
-      "policy_url": "https://www.barco.com/en/about-barco/legal/responsible-disclosure",
+      "policy_url": "https://www.barco.com/en/about/trust-center/responsible-disclosure",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": "",
@@ -2304,7 +2256,7 @@
    },
    {
       "program_name": "Basware",
-      "policy_url": "https://www.basware.com/en-en/footer/responsible-disclosure/",
+      "policy_url": "https://www.basware.com/en/footer/reporting-security-issues",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -2352,7 +2304,7 @@
    },
    {
       "program_name": "Beanstalk",
-      "policy_url": "https://support.beanstalkapp.com/article/890-responsible-disclosure-policy",
+      "policy_url": "https://immunefi.com/bug-bounty/beanstalk/information/",
       "contact_url": "https://wildbit.wufoo.com/forms/wildbit-security-response/",
       "launch_date": "",
       "offers_bounty": "no",
@@ -2448,22 +2400,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Better",
-      "policy_url": "https://bugcrowd.com/better",
-      "contact_url": "https://bugcrowd.com/better/report",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "Beyond Security",
       "policy_url": "https://www.beyondsecurity.com/ssd.html",
       "launch_date": "",
@@ -2510,22 +2446,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "Billogram",
-      "policy_url": "https://billogram.zendesk.com/hc/en-us/articles/360011911300-",
-      "launch_date": "2020-02-19",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@billogram.com"
    },
    {
       "program_name": "Bime",
@@ -2816,22 +2736,6 @@
       "contact_email": "security@bitwala.com"
    },
    {
-      "program_name": "Bizmerlin",
-      "policy_url": "https://www.bizmerlin.com/responsible-disclosure-policy/",
-      "contact_url": "https://bizmerlin.freshdesk.com/support/login",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "Blackbaud",
       "policy_url": "https://www.blackbaud.com/security/responsible-disclosure",
       "launch_date": "",
@@ -2878,22 +2782,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "Blade Storm",
-      "policy_url": "https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program",
-      "launch_date": "Updated 2020-08-15",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@bladestorm.org"
    },
    {
       "program_name": "Blend",
@@ -3152,22 +3040,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Bose",
-      "policy_url": "https://global.bose.com/en_us/product_security_vulnerability_response.html",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "privacyandsecurity@bose.com"
-   },
-   {
       "program_name": "Boston Scientific",
       "policy_url": "https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html",
       "launch_date": "",
@@ -3216,22 +3088,6 @@
       "contact_email": "ppbugbounty@paypal.com"
    },
    {
-      "program_name": "Brandcast",
-      "policy_url": "https://support.brandcast.com/en/articles/990526-security-disclosure",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@brandcast.com"
-   },
-   {
       "program_name": "Brave",
       "policy_url": "https://hackerone.com/brave?view_policy=true",
       "contact_url": "https://hackerone.com/brave/reports/new",
@@ -3246,22 +3102,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "BringYour",
-      "policy_url": "https://bringyour.com/vdp",
-      "contact_email": "security@bringyour.com",
-      "offers_bounty": "no",
-      "offers_swag": true,
-      "pgp_key": "",
-      "hall_of_fame": "",
-      "hiring": "",
-      "launch_date": "",
-      "policy_url_status": "alive",
-      "preferred_languages": "",
-      "public_disclosure": "",
-      "safe_harbor": "",
-      "securitytxt_url": "https://bringyour.com/.well-known/security.txt"
    },
    {
       "program_name": "Brisk Infosec",
@@ -3424,22 +3264,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Buku",
-      "policy_url": "https://buku.io/en/security/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@buku.io"
-   },
-   {
       "program_name": "Bunq",
       "policy_url": "https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf",
       "launch_date": "",
@@ -3534,22 +3358,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "NCCICCUSTOMERSERVICE@hq.dhs.gov"
-   },
-   {
-      "program_name": "CNN Store",
-      "policy_url": "https://cnn.zendesk.com/hc/en-us/articles/115005570566-Responsible-Disclosure-of-Security-Vulnerabilities-",
-      "contact_url": "https://cnn.zendesk.com/hc/en-us/requests/new",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "CNote",
@@ -3712,22 +3520,6 @@
       "contact_email": "productsecurity.ccs@carrier.com"
    },
    {
-      "program_name": "Castle Gate IT",
-      "policy_url": "https://www.castlegateit.co.uk/docs/ethical-policy.pdf",
-      "contact_url": "https://www.castlegateit.co.uk/contact/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "Catawiki",
       "policy_url": "https://www.catawiki.com/conditions/responsible-disclosure.pdf",
       "contact_url": "https://app.zerocopter.com/rd/68657721-53b5-48c3-b9b4-bc0175d0a4f7",
@@ -3825,7 +3617,7 @@
    },
    {
       "program_name": "Centrify",
-      "policy_url": "https://bugcrowd.com/centrify",
+      "policy_url": "https://trust.delinea.com/?itemUid=56583ca0-6561-4cf3-a150-8c0c45d214cf&source=click",
       "contact_url": "https://bugcrowd.com/centrify/report",
       "launch_date": "",
       "offers_bounty": "yes",
@@ -4224,22 +4016,6 @@
       "contact_email": "HWBugBounty@Clenergy.com"
    },
    {
-      "program_name": "Cleverly",
-      "policy_url": "https://cleverly.ai/responsible-disclosure-program/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@cleverly.ai"
-   },
-   {
       "program_name": "ClimbingTree",
       "policy_url": "https://www.climbingtree.nl/responsibledisclosure.php?language=en",
       "launch_date": "",
@@ -4577,22 +4353,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Cofense",
-      "policy_url": "https://cofense.com/responsible-disclosure/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@cofense.com"
-   },
-   {
       "program_name": "Coffee & Bagel Brands",
       "policy_url": "https://www.coffeeandbagels.com/responsible-disclosure/",
       "launch_date": "",
@@ -4881,22 +4641,6 @@
       "contact_email": "security@contrastsecurity.com"
    },
    {
-      "program_name": "ConvertKit",
-      "policy_url": "https://bugcrowd.com/convertkit-vdp",
-      "contact_url": "https://bugcrowd.com/convertkit-vdp/report",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "dead"
-   },
-   {
       "program_name": "Copper",
       "policy_url": "https://hackerone.com/copper",
       "contact_url": "https://hackerone.com/copper",
@@ -4929,22 +4673,6 @@
       "contact_email": "security@coreos.com"
    },
    {
-      "program_name": "Council of European National Top-Level Domain Registries",
-      "policy_url": "https://www.centr.org/responsible-disclosure-policy.html",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@centr.org"
-   },
-   {
       "program_name": "Council of the Inspectors General on Integrity and Efficiency",
       "policy_url": "https://www.ignet.gov/vulnerability-disclosure-policy",
       "launch_date": "",
@@ -4959,23 +4687,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "cigieitvdp@cigie.gov"
-   },
-   {
-      "program_name": "Countly",
-      "policy_url": "https://count.ly/.well-known/security.txt",
-      "contact_url": "",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "https://count.ly/.well-known/security.txt",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@count.ly"
    },
    {
       "program_name": "Coupa",
@@ -5091,7 +4802,7 @@
    },
    {
       "program_name": "Credit Karma",
-      "policy_url": "https://bugcrowd.com/creditkarma",
+      "policy_url": "https://hackerone.com/creditkarma?type=team",
       "contact_url": "https://bugcrowd.com/creditkarma/report",
       "launch_date": "",
       "offers_bounty": "yes",
@@ -5267,7 +4978,7 @@
    },
    {
       "program_name": "DC3",
-      "policy_url": "https://www.dc3.mil/Vulnerability-Disclosure/Vulnerability-Disclosure-Program-VDP/",
+      "policy_url": "https://www.dc3.mil/Missions/Vulnerability-Disclosure/Vulnerability-Disclosure-Program-VDP/",
       "contact_url": "https://hackerone.com/deptofdefense?type=team",
       "launch_date": "",
       "offers_bounty": "no",
@@ -5427,7 +5138,7 @@
    },
    {
       "program_name": "DeNederlandscheBank",
-      "policy_url": "https://www.dnb.nl/en/responsible-disclosure/index.jsp",
+      "policy_url": "https://www.dnb.nl/en/privacy-and-security/report-vulnerability/",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
@@ -5539,22 +5250,6 @@
       "contact_email": "Vulnerability@dnfsb.gov"
    },
    {
-      "program_name": "Defibox",
-      "policy_url": "https://support.newdex.net/hc/en-us/articles/360046715092-Defibox-launches-bug-bounty-program-officially",
-      "launch_date": "2020-07-31",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "bounty@defibox.io"
-   },
-   {
       "program_name": "Definity Inc.",
       "policy_url": "https://definityinc.com/bug-bounty-program/",
       "launch_date": "",
@@ -5572,7 +5267,7 @@
    },
    {
       "program_name": "Delaware Consulting",
-      "policy_url": "https://www.delawareconsulting.com/en-us/about-us/responsible-disclosure",
+      "policy_url": "https://www.delawareconsulting.com/en-us/responsible-disclosure",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": "",
@@ -6205,22 +5900,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@ifixit.com"
-   },
-   {
-      "program_name": "DragonEx",
-      "policy_url": "https://dragonex.zendesk.com/hc/en-us/articles/360036938832-BUG-Bounty-Program",
-      "launch_date": "2019-11-28",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "service@dragonex.io"
    },
    {
       "program_name": "Dream11",
@@ -7026,7 +6705,7 @@
    },
    {
       "program_name": "F Secure",
-      "policy_url": "https://www.f-secure.com/en/business/programs/vulnerability-reward-program",
+      "policy_url": "https://hackerone.com/fsecure?type=team",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
@@ -7135,22 +6814,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "Fair",
-      "policy_url": "https://www.fair.com/bug-bounty",
-      "launch_date": "",
-      "offers_bounty": "yes",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "partial",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@fair.com"
    },
    {
       "program_name": "FanDuel",
@@ -7425,7 +7088,7 @@
    },
    {
       "program_name": "Fermi Laboratory",
-      "policy_url": "https://computing.fnal.gov/cybersecurity/vulnerability-disclosure-policy/",
+      "policy_url": "https://doe.responsibledisclosure.com/hc/en-us",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": "",
@@ -7440,24 +7103,8 @@
       "contact_email": "cybersecurity@fnal.gov"
    },
    {
-      "program_name": "Fermi National Accelerator Laboratory",
-      "policy_url": "https://computing.fnal.gov/cybersecurity/vulnerability-disclosure-policy/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "cybersecurity@fnal.gov"
-   },
-   {
       "program_name": "Fiat Chrysler Automobiles",
-      "policy_url": "https://bugcrowd.com/fca",
+      "policy_url": "https://bugcrowd.com/engagements/stellantis",
       "contact_url": "https://bugcrowd.com/fca/report",
       "launch_date": "",
       "offers_bounty": "yes",
@@ -7695,22 +7342,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@fluxiom.com"
-   },
-   {
-      "program_name": "Follow Up Boss",
-      "policy_url": "https://www.followupboss.com/vulnerability-disclosure-policy",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@followupboss.com"
    },
    {
       "program_name": "Fontys",
@@ -8034,7 +7665,7 @@
    },
    {
       "program_name": "Fuga",
-      "policy_url": "https://fuga.cloud/responsible-disclosure-policy/",
+      "policy_url": "https://fuga.cloud/company/legal/responsible-disclosure-policy/",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": true,
@@ -8207,22 +7838,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security-reports@reslifeportal.com"
-   },
-   {
-      "program_name": "Gay.Capital",
-      "policy_url": "https://gay.capital/docs/bugbounty",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "full",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "Support@Gay.Capital"
    },
    {
       "program_name": "Gcore",
@@ -8481,15 +8096,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Gitcoin",
-      "policy_url": "https://docs.gitcoin.co/mk_securitybounty/",
-      "contact_email": "engineering@gitcoin.co",
-      "offers_bounty": "yes",
-      "hall_of_fame": "",
-      "public_disclosure": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "Github",
       "policy_url": "https://bounty.github.com/",
       "contact_url": "https://hackerone.com/github",
@@ -8733,7 +8339,7 @@
    },
    {
       "program_name": "GreenBone",
-      "policy_url": "https://www.greenbone.net/en/responsible-disclosure/",
+      "policy_url": "https://www.greenbone.net/en/security-response-team/",
       "contact_url": "https://www.greenbone.net/en/contact/",
       "launch_date": "",
       "offers_bounty": "no",
@@ -8877,7 +8483,7 @@
    },
    {
       "program_name": "HDMS",
-      "policy_url": "https://www1.hdms.com/responsible-vulnerability-disclosure-policy/",
+      "policy_url": "https://www.hdms.com/vulnerability-disclosure-program/",
       "contact_url": "https://www1.hdms.com/responsible-vulnerability-disclosure-policy/",
       "launch_date": "",
       "offers_bounty": "no",
@@ -9006,7 +8612,7 @@
    },
    {
       "program_name": "Hart InterCivic",
-      "policy_url": "https://www.hartintercivic.com/wp-content/uploads/HartVulnerabilityDisclosurePolicy_82020.pdf",
+      "policy_url": "https://www.hartintercivic.com/wp-content/uploads/2021/01/HartVulnerabilityDisclosurePolicy_82020.pdf",
       "launch_date": "2020-09-20",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -9067,22 +8673,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@hellosign.com"
-   },
-   {
-      "program_name": "Hermes Parcelnet",
-      "policy_url": "https://www.myhermes.co.uk/responsible-disclosure-policy",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "infosec@hermes-europe.co.uk"
    },
    {
       "program_name": "Heroku",
@@ -9179,22 +8769,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "productsecurity@hillrom.com"
-   },
-   {
-      "program_name": "Hindawi",
-      "policy_url": "https://www.hindawi.com/responsible-disclosure-policy/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "technology@hindawi.com"
    },
    {
       "program_name": "HitBTC",
@@ -9696,22 +9270,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "Ilumy",
-      "policy_url": "https://ilumy.com/cases/responsible-disclosure",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "contact@ilumy.com"
-   },
-   {
       "program_name": "ImmutableSoft",
       "policy_url": "https://immutablesoft.github.io/ImmutableEcosystem/",
       "contact_url": "https://github.com/ImmutableSoft/ImmutableEcosystem/issues",
@@ -9729,7 +9287,7 @@
    },
    {
       "program_name": "Impero Software",
-      "policy_url": "https://www.imperosoftware.com/fr/reporting-vulnerabilities/",
+      "policy_url": "https://www.imperosoftware.com/us/report-a-vulnerability/",
       "launch_date": "",
       "offers_bounty": "no",
       "offers_swag": false,
@@ -9969,7 +9527,7 @@
    },
    {
       "program_name": "Instructure",
-      "policy_url": "https://www.instructure.com/canvas/blog/instructures-proven-security-vulnerability-disclosure-program",
+      "policy_url": "https://www.instructure.com/resources/blog/instructures-proven-security-vulnerability-disclosure-program",
       "launch_date": "",
       "offers_bounty": "yes",
       "offers_swag": false,
@@ -10431,22 +9989,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "productsecurity@its.jnj.com"
-   },
-   {
-      "program_name": "Joyus",
-      "policy_url": "https://joyus.zendesk.com/hc/en-us/articles/115005402923-Responsible-Disclosure-of-Security-Vulnerabilities-",
-      "contact_url": "https://joyus.zendesk.com/hc/en-us/requests/new",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": false,
-      "hall_of_fame": "",
-      "safe_harbor": "none",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "Jruby",
@@ -22139,22 +21681,6 @@
       "contact_email": "dpo@adaware.com"
    },
    {
-      "program_name": "adex.network",
-      "policy_url": "https://www.adex.network/security-policy.txt",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@adex.network"
-   },
-   {
       "program_name": "admin.amidfamily.net",
       "policy_url": "https://g.co/vrp",
       "contact_url": "https://g.co/vulnz",
@@ -22347,38 +21873,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "aldolat.it",
-      "policy_url": "https://www.aldolat.it/info/privacy-policy/",
-      "contact_url": "https://twitter.com/aldolat",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
-      "program_name": "aleria.fr",
-      "policy_url": "https://aleria.fr/legales.php",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "webmaster@aleria.fr"
-   },
-   {
       "program_name": "allegro.pl",
       "policy_url": "https://hackerone.com/allegro?view_policy=true",
       "contact_url": "https://hackerone.com/allegro/reports/new",
@@ -22409,22 +21903,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@team.amocrm.com"
-   },
-   {
-      "program_name": "amr.net",
-      "policy_url": "https://www.amr.net/site/privacy-policy",
-      "contact_url": "https://www.amr.net/contact",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
    },
    {
       "program_name": "angular-team.atlassian.net",
@@ -22665,22 +22143,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "arup.com",
-      "policy_url": "https://www.arup.com/Reporting-Policy.pdf",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "dead",
-      "contact_email": "vulnerability@arup.com"
    },
    {
       "program_name": "arxiv-org.atlassian.net",
@@ -23275,22 +22737,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "blog.oneiroi.co.uk",
-      "policy_url": "https://oneiroi.co.uk/.well-known/policy.txt",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@oneiroi.co.uk"
-   },
-   {
       "program_name": "blogs.atlassian.com",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -23820,7 +23266,7 @@
    },
    {
       "program_name": "cert.govt.nz",
-      "policy_url": "https://www.cert.govt.nz/it-specialists/guides/reporting-a-vulnerability/cert-nz-coordinated-vulnerability-disclosure-policy/",
+      "policy_url": "https://www.cert.govt.nz/report/",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -23980,7 +23426,7 @@
    },
    {
       "program_name": "clamxav.com",
-      "policy_url": "https://clamxav.com/.well-known/vulnerability_disclosure_policy.txt",
+      "policy_url": "https://vuls.cert.org/confluence/display/Wiki/For+Reporters+of+Vulnerabilities",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -24009,22 +23455,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "clever-cloud.com",
-      "policy_url": "https://www.clever-cloud.com/security-policy",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@clever-cloud.com"
    },
    {
       "program_name": "clojure.atlassian.net",
@@ -24201,22 +23631,6 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
-   },
-   {
-      "program_name": "coinsbit.io",
-      "policy_url": "https://coinsbit.io/ru/privacy-policy",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "info@coinsbit.io"
    },
    {
       "program_name": "collabim.cz",
@@ -24444,7 +23858,7 @@
    },
    {
       "program_name": "crunchbase.com",
-      "policy_url": "https://www.crunchbase.com/.well-known/security-policy.txt",
+      "policy_url": "https://www.crunchbase.com/.well-known/security-policy.html",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -25179,22 +24593,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "dssw.co.uk",
-      "policy_url": "https://www.dssw.co.uk/readme/security.html",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "support@dssw.co.uk"
-   },
-   {
       "program_name": "dtl-fair.atlassian.net",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -25708,22 +25106,6 @@
       "contact_email": "security@blackbaud.com"
    },
    {
-      "program_name": "exabeam.com",
-      "policy_url": "https://www.exabeam.com/.well-known/security.txt",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "vulnerability@exabeam.com"
-   },
-   {
       "program_name": "exoscale.ch",
       "policy_url": "https://www.exoscale.com/security/",
       "launch_date": "",
@@ -25980,22 +25362,6 @@
       "contact_email": "security-vulnerability@rea-group.com"
    },
    {
-      "program_name": "flowcrypt.com",
-      "policy_url": "https://flowcrypt.com/docs/technical/bug-bounty.html",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@flowcrypt.com"
-   },
-   {
       "program_name": "fluiddyn.bitbucket.io",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -26026,22 +25392,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@burda-forward.de"
-   },
-   {
-      "program_name": "followupboss.com",
-      "policy_url": "https://www.followupboss.com/vulnerability-disclosure-policy",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@followupboss.com"
    },
    {
       "program_name": "fondy.eu",
@@ -26396,22 +25746,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "geoffreyhuntley.com",
-      "policy_url": "https://ghuntley.com/security/",
-      "contact_url": "https://ghuntley.com/contact",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
       "program_name": "getdropbox.com",
       "policy_url": "https://hackerone.com/dropbox/",
       "contact_url": "https://hackerone.com/dropbox/",
@@ -26463,22 +25797,6 @@
       "program_name": "ghostshipgames.atlassian.net",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive"
-   },
-   {
-      "program_name": "ghuntley.com",
-      "policy_url": "https://ghuntley.com/security/",
-      "contact_url": "https://ghuntley.com/contact",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -29997,7 +29315,7 @@
    },
    {
       "program_name": "group.jumia.com",
-      "policy_url": "https://group.jumia.com/security/",
+      "policy_url": "https://hackerone.com/jumia?type=team",
       "launch_date": "",
       "offers_bounty": "",
       "offers_swag": "",
@@ -30138,22 +29456,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "Information.Protection@hcahealthcare.com"
-   },
-   {
-      "program_name": "helios-gesundheit.de",
-      "policy_url": "www.helios-gesundheit.de/bugbounty.html",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@helios-gesundheit.de"
    },
    {
       "program_name": "help.avalara.com",
@@ -30588,22 +29890,6 @@
       "contact_email": "security@ifixit.com"
    },
    {
-      "program_name": "iPaidThat",
-      "policy_url": "https://ipaidthat.io/en/faq/safety/vulnerability-disclosure-program/",
-      "launch_date": "",
-      "offers_bounty": "no",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "security@ipaidthat.io"
-   },
-   {
       "program_name": "iRobot",
       "policy_url": "https://bugcrowd.com/irobot",
       "contact_url": "https://bugcrowd.com/irobot/report",
@@ -30892,22 +30178,6 @@
       "policy_url_status": "alive"
    },
    {
-      "program_name": "issa.org.pl",
-      "policy_url": "https://issa.org.pl/it/dokumenty/polityka-prywatnosci",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "alive",
-      "contact_email": "info@issa.org.pl"
-   },
-   {
       "program_name": "issues.joomla.org",
       "policy_url": "https://developer.joomla.org/security.html",
       "launch_date": "",
@@ -30986,22 +30256,6 @@
       "preferred_languages": "",
       "policy_url_status": "alive",
       "contact_email": "security@duolingo.com"
-   },
-   {
-      "program_name": "jardinesoftware.com",
-      "policy_url": "https://www.jardinesoftware.com/security-policy",
-      "launch_date": "",
-      "offers_bounty": "",
-      "offers_swag": "",
-      "hall_of_fame": "",
-      "safe_harbor": "",
-      "public_disclosure": "",
-      "pgp_key": "",
-      "hiring": "",
-      "securitytxt_url": "",
-      "preferred_languages": "",
-      "policy_url_status": "dead",
-      "contact_email": "james@jardinesoftware.com"
    },
    {
       "program_name": "jdknight.atlassian.net",
