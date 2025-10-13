@@ -33256,6 +33256,20 @@
       "contact_email": "security@oviva.com"
    },
    {
+      "program_name": "ownCloud",
+      "policy_url": "https://security.owncloud.com",
+	  "contact_url": "https://yeswehack.com/programs/owncloud-bug-bounty-program",
+      "offers_bounty": "yes",
+      "offers_swag": "no",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://kiteworks.careers.hibob.com/jobs?department=Engineering",
+      "securitytxt_url": "https://owncloud.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "ozlotteries.com",
       "policy_url": "https://jumbointeractive.com/security-reporting",
       "contact_url": "https://jumbointeractive.com/security-reporting",
