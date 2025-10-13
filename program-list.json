@@ -10785,6 +10785,20 @@
       "contact_email": "security@kissflow.com"
    },
    {
+      "program_name": "Kiteworks",
+      "policy_url": "https://security.kiteworks.com",
+	  "contact_url": "https://bugcrowd.com/kiteworks-public",
+      "offers_bounty": "yes",
+      "offers_swag": "no",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://kiteworks.careers.hibob.com/jobs?department=Engineering",
+      "securitytxt_url": "https://kiteworks.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Kiwa",
       "policy_url": "https://www.kiwa.com/en/responsible-disclosure-policy/",
       "launch_date": "",
