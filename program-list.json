@@ -38374,6 +38374,20 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Zivver",
+      "policy_url": "https://security.zivver.com/p/Policy",
+	  "contact_url": "https://security.zivver.com/p/Send-a-report",
+      "offers_bounty": "no",
+      "offers_swag": "no",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://kiteworks.careers.hibob.com/jobs?department=Engineering",
+      "securitytxt_url": "https://zivver.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "zkSync",
       "policy_url": "https://zksync.io/dev/bug-bounty.html",
       "contact_email": "security@zksync.io",
