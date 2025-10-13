@@ -6207,6 +6207,20 @@
       "contact_email": "security@ifixit.com"
    },
    {
+      "program_name": "DRACOON",
+      "policy_url": "https://security.dracoon.com",
+	  "contact_url": "https://yeswehack.com/programs/dracoon-bug-bounty-program",
+      "offers_bounty": "yes",
+      "offers_swag": "no",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://kiteworks.careers.hibob.com/jobs?department=Engineering",
+      "securitytxt_url": "https://www.dracoon.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "DragonEx",
       "policy_url": "https://dragonex.zendesk.com/hc/en-us/articles/360036938832-BUG-Bounty-Program",
       "launch_date": "2019-11-28",
