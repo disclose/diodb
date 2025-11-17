@@ -9069,6 +9069,23 @@
       "contact_email": "security@hellosign.com"
    },
    {
+      "program_name": "Hemi",
+      "policy_url": "https://bugcrowd.com/engagements/hemi",
+      "contact_url": "https://bugcrowd.com/engagements/hemi",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/engagements/hemi/hall_of_fames",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://app.hemi.xyz/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@hemi.xyz"
+   },
+   {
       "program_name": "Hermes Parcelnet",
       "policy_url": "https://www.myhermes.co.uk/responsible-disclosure-policy",
       "launch_date": "",
