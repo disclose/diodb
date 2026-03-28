@@ -1,5 +1,19 @@
 [
    {
+       "program_name": "Etherlinx",
+       "policy_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+       "policy_url_status": "alive",
+       "contact_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+       "contact_email": "security@etherlinx.net",
+       "offers_bounty": "no",
+       "offers_swag": false,
+       "hall_of_fame": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+       "safe_harbor": "partial",
+       "public_disclosure": "discretionary",
+       "securitytxt_url": "https://etherlinx.net/.well-known/security.txt",
+       "preferred_languages": "en,fr"
+   },
+   {
       "program_name": ".nz Registry",
       "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
       "launch_date": "",
