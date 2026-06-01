@@ -17137,11 +17137,11 @@
       "launch_date": "2026-04-30",
       "offers_bounty": "no",
       "offers_swag": false,
-      "hall_of_fame": "https://bugcrowd.com/engagements/sardine-vdp-ess/hall-of-fames",
+      "hall_of_fame": "https://bugcrowd.com/engagements/sardine-vdp-ess/hall_of_fames",
       "safe_harbor": "full",
       "public_disclosure": "nda",
       "pgp_key": "",
-      "hiring": "https://www.sardine.ai/careers",
+      "hiring": "",
       "securitytxt_url": "https://www.sardine.ai/.well-known/security.txt",
       "preferred_languages": "en"
    },
