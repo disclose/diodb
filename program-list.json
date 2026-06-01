@@ -38529,5 +38529,22 @@
       "preferred_languages": "English",
       "policy_url_status": "alive",
       "contact_email": ""
+   },
+   {
+      "program_name": "Sardine VDP",
+      "policy_url": "https://bugcrowd.com/engagements/sardine-vdp-ess",
+      "policy_url_status": "alive",
+      "contact_url": "https://bugcrowd.com/engagements/sardine-vdp-ess",
+      "contact_email": "",
+      "launch_date": "2026-04-30",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/engagements/sardine-vdp-ess/hall-of-fames",
+      "safe_harbor": "full",
+      "public_disclosure": "nda",
+      "pgp_key": "",
+      "hiring": "https://www.sardine.ai/careers",
+      "securitytxt_url": "https://www.sardine.ai/.well-known/security.txt",
+      "preferred_languages": "en"
    }
 ]
