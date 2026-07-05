@@ -1,3 +1,27 @@
+<div align="center">
+
+<a href="https://disclose.io"><img src="docs/marquee.png" alt="diodb · disclose.io" width="820"></a>
+
+# diodb
+
+### The community database of every **VDP &amp; bug-bounty program** and its safe-harbor status — now served live at [directory.disclose.io](https://directory.disclose.io).
+
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/diodb?color=5B3AB6&label=license" alt="license"></a>
+<a href="https://directory.disclose.io"><img src="https://img.shields.io/badge/live-directory.disclose.io-5B3AB6" alt="live directory.disclose.io"></a>
+<img src="https://img.shields.io/badge/status-system%20of%20record-5B3AB6" alt="status system%20of%20record">
+</p>
+
+*Part of **[the disclose.io Project](https://disclose.io)** — the open, vendor-neutral infrastructure for vulnerability disclosure. [Browse the ecosystem →](https://github.com/disclose)*
+
+</div>
+
+---
+
+> [!IMPORTANT]
+> **[directory.disclose.io](https://directory.disclose.io) is now the system of record** — live, searchable, and always current. This repository remains as the open dataset and its history. To add or update a program, use the [directory](https://directory.disclose.io) or the [community forum](https://community.disclose.io).
+
+
 # The disclose.io Database (diodb)
 
 A true, community-powered, vendor agnostic directory of all known VDP and BBPs, contact details, policy location, preferred languages, and the status of:
