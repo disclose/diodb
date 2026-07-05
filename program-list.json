@@ -1,19 +1,5 @@
 [
    {
-       "program_name": "Etherlinx",
-       "policy_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
-       "policy_url_status": "alive",
-       "contact_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
-       "contact_email": "security@etherlinx.net",
-       "offers_bounty": "no",
-       "offers_swag": false,
-       "hall_of_fame": "https://bugcrowd.com/engagements/etherlinx-vdpc",
-       "safe_harbor": "partial",
-       "public_disclosure": "discretionary",
-       "securitytxt_url": "https://etherlinx.net/.well-known/security.txt",
-       "preferred_languages": "en,fr"
-   },
-   {
       "program_name": ".nz Registry",
       "policy_url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
       "launch_date": "",
@@ -6906,6 +6892,20 @@
       "preferred_languages": "en",
       "policy_url_status": "alive",
       "contact_email": "security@ethereum.org"
+   },
+   {
+      "program_name": "Etherlinx",
+      "policy_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+      "policy_url_status": "alive",
+      "contact_url": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+      "contact_email": "security@etherlinx.net",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/engagements/etherlinx-vdpc",
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "securitytxt_url": "https://etherlinx.net/.well-known/security.txt",
+      "preferred_languages": "en,fr"
    },
    {
       "program_name": "Etherscan",
@@ -17160,6 +17160,23 @@
       "contact_email": "security@sanity.io"
    },
    {
+      "program_name": "Sardine VDP",
+      "policy_url": "https://bugcrowd.com/engagements/sardine-vdp-ess",
+      "policy_url_status": "alive",
+      "contact_url": "https://bugcrowd.com/engagements/sardine-vdp-ess",
+      "contact_email": "",
+      "launch_date": "2026-04-30",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "https://bugcrowd.com/engagements/sardine-vdp-ess/hall_of_fames",
+      "safe_harbor": "full",
+      "public_disclosure": "nda",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.sardine.ai/.well-known/security.txt",
+      "preferred_languages": "en"
+   },
+   {
       "program_name": "SaveDroid",
       "policy_url": "https://hackerone.com/savedroid",
       "contact_url": "https://hackerone.com/savedroid",
@@ -20009,6 +20026,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "Tricentis",
+      "policy_url": "https://www.tricentis.com/trust/vulnerability-disclosure-policy",
+      "policy_url_status": "alive",
+      "contact_url": "",
+      "contact_email": "vdp@tricentis.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "",
+      "preferred_languages": "English"
    },
    {
       "program_name": "Trint Ltd",
@@ -32269,6 +32303,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "matthewd.xyz",
+      "policy_url": "https://matthewd.xyz/security",
+      "policy_url_status": "alive",
+      "contact_url": "",
+      "contact_email": "security@matthewd.xyz",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://matthewd.xyz/.well-known/security.txt",
+      "preferred_languages": "English"
+   },
+   {
       "program_name": "maxdk9.bitbucket.io",
       "policy_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
       "contact_url": "https://www.atlassian.com/trust/security/report-a-vulnerability",
@@ -32476,6 +32527,23 @@
       "securitytxt_url": "",
       "preferred_languages": "",
       "policy_url_status": "alive"
+   },
+   {
+      "program_name": "mlaify.io",
+      "policy_url": "https://mlaify.io/security",
+      "policy_url_status": "alive",
+      "contact_url": "",
+      "contact_email": "security@mlaify.io",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://mlaify.io/.well-known/security.txt",
+      "preferred_languages": "English"
    },
    {
       "program_name": "mnm.be",
