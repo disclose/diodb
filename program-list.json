@@ -11086,6 +11086,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Latent Patterns",
+      "policy_url": "https://latentpatterns.com/security",
+      "policy_url_status": "alive",
+      "contact_email": "security@latentpatterns.com",
+      "launch_date": "2026-02-21",
+      "offers_bounty": "yes",
+      "offers_swag": true,
+      "hall_of_fame": "https://latentpatterns.com/security/hall-of-fame",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "pgp_key": "",
+      "hiring": "https://latentpatterns.com/careers",
+      "securitytxt_url": "https://latentpatterns.com/.well-known/security.txt",
+      "preferred_languages": "en"
+   },
+   {
       "program_name": "LayerZero",
       "policy_url": "https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program",
       "contact_url": "",
