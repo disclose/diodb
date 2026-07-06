@@ -22,15 +22,7 @@
 > **[directory.disclose.io](https://directory.disclose.io) is now the system of record** — live, searchable, and always current. This repository remains as the open dataset and its history. To add or update a program, use the [directory](https://directory.disclose.io) or the [community forum](https://community.disclose.io).
 
 
-# The disclose.io Database (diodb)
-
-A true, community-powered, vendor agnostic directory of all known VDP and BBPs, contact details, policy location, preferred languages, and the status of:
-
-- Safeharbor
-- Availability rewards, hall of fame, swag
-- Disclosure policy
-
-[![Disclose.io Vulnerability, VDP, and Bug Bounty Program Database](diodb-hero-image.png?raw=true "Disclose.io Vulnerability, VDP, and Bug Bounty Program Database")](https://github.com/disclose/diodb)
+## About this dataset
 
 ### Quick links
 
