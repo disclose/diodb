@@ -9,7 +9,7 @@
 <p>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/diodb?color=5B3AB6&label=license" alt="license"></a>
 <a href="https://directory.disclose.io"><img src="https://img.shields.io/badge/live-directory.disclose.io-5B3AB6" alt="live directory.disclose.io"></a>
-<img src="https://img.shields.io/badge/status-system%20of%20record-5B3AB6" alt="status system%20of%20record">
+<img src="https://img.shields.io/badge/status-archived%20(read--only)-9CA3AF" alt="status archived, read-only">
 </p>
 
 *Part of **[the disclose.io Project](https://disclose.io)** — the open, vendor-neutral infrastructure for vulnerability disclosure. [Browse the ecosystem →](https://github.com/disclose)*
@@ -19,7 +19,10 @@
 ---
 
 > [!IMPORTANT]
-> **[directory.disclose.io](https://directory.disclose.io) is now the system of record** — live, searchable, and always current. This repository remains as the open dataset and its history. To add or update a program, use the [directory](https://directory.disclose.io) or the [community forum](https://community.disclose.io).
+> ### This repository is deprecated and is being archived (read-only).
+> **[directory.disclose.io](https://directory.disclose.io) is now the system of record** — live, searchable, and always current. diodb began as an early open-data prototype for the directory; the directory now supersedes it.
+>
+> This repo stays public as an open dataset and historical record, but **`program-list.json` is frozen as of archiving and will no longer be updated** — for current program data, use **[directory.disclose.io](https://directory.disclose.io)**. To add or update a program, use the [directory](https://directory.disclose.io) or the [community forum](https://community.disclose.io); pull requests here can no longer be merged once the repo is archived.
 
 
 ## About this dataset
@@ -40,13 +43,12 @@ diodb exists to drive the adoption of Safe Harbor for hackers and promote the cy
 
 ## How to Contribute
 
-Contributions are very welcome! You may add a new program or update an existing one by either opening an issue or a pull request.
+**This repository is archived (read-only) — issues and pull requests here can no longer be merged.** To add or update a program, use the live directory:
 
-[Open an Issue](https://github.com/disclose/diodb/issues/new/choose)
+- **Add or update a program** → [directory.disclose.io](https://directory.disclose.io)
+- **Ask a question or discuss** → [community.disclose.io](https://community.disclose.io)
 
-or
-
-Follow [the contribution guidelines](CONTRIBUTING.md) to prepare and open a Pull Request
+The historical contribution guidelines remain in [CONTRIBUTING.md](CONTRIBUTING.md) for reference.
 
 ## License
 
