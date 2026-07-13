@@ -9,7 +9,7 @@
 <p>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/diodb?color=5B3AB6&label=license" alt="license"></a>
 <a href="https://directory.disclose.io"><img src="https://img.shields.io/badge/live-directory.disclose.io-5B3AB6" alt="live directory.disclose.io"></a>
-<img src="https://img.shields.io/badge/status-archived%20(read--only)-9CA3AF" alt="status archived, read-only">
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-5B3AB6" alt="contributions welcome"></a>
 </p>
 
 *Part of **[the disclose.io Project](https://disclose.io)** — the open, vendor-neutral infrastructure for vulnerability disclosure. [Browse the ecosystem →](https://github.com/disclose)*
@@ -18,11 +18,11 @@
 
 ---
 
-> [!IMPORTANT]
-> ### This repository is deprecated and is being archived (read-only).
-> **[directory.disclose.io](https://directory.disclose.io) is now the system of record** — live, searchable, and always current. diodb began as an early open-data prototype for the directory; the directory now supersedes it.
+> [!NOTE]
+> ### diodb is the open dataset. [directory.disclose.io](https://directory.disclose.io) is the live front-end.
+> The directory is the searchable, always-current place to **look programs up**. This repo is the open, version-controlled, CC0 dataset behind that story — and it remains **open to contributions**.
 >
-> This repo stays public as an open dataset and historical record, but **`program-list.json` is frozen as of archiving and will no longer be updated** — for current program data, use **[directory.disclose.io](https://directory.disclose.io)**. To add or update a program, use the [directory](https://directory.disclose.io) or the [community forum](https://community.disclose.io); pull requests here can no longer be merged once the repo is archived.
+> If you just want to find a program, use the [directory](https://directory.disclose.io). If you want to add or correct one in the open dataset, **pull requests here are welcome** — see [How to Contribute](#how-to-contribute).
 
 
 ## About this dataset
@@ -43,12 +43,21 @@ diodb exists to drive the adoption of Safe Harbor for hackers and promote the cy
 
 ## How to Contribute
 
-**This repository is archived (read-only) — issues and pull requests here can no longer be merged.** To add or update a program, use the live directory:
+Pull requests are welcome. To add or update a program in the open dataset:
 
-- **Add or update a program** → [directory.disclose.io](https://directory.disclose.io)
+1. Edit `program-list.json`.
+2. **Format and sort the file** — CI enforces this, and it is the single most common reason a PR goes red:
+   ```sh
+   jq --indent 3 -s '.[] | unique_by(.program_name)' < program-list.json > _ && mv _ program-list.json
+   ```
+3. Open a PR. CI will validate the JSON, check for duplicates, and verify the links.
+
+Full guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Prefer not to use git? You can also:
+
+- **Look a program up** → [directory.disclose.io](https://directory.disclose.io)
 - **Ask a question or discuss** → [community.disclose.io](https://community.disclose.io)
-
-The historical contribution guidelines remain in [CONTRIBUTING.md](CONTRIBUTING.md) for reference.
 
 ## License
 
