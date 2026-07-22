@@ -21555,7 +21555,7 @@
       "program_name": "Whatbox",
       "policy_url": "https://whatbox.ca/policies/security",
       "launch_date": "2013-12-03",
-      "offers_bounty": "yes",
+      "offers_bounty": "no",
       "offers_swag": false,
       "hall_of_fame": "https://whatbox.ca/policies/security/hall_of_fame",
       "safe_harbor": "full",
