@@ -2910,6 +2910,19 @@
       "contact_email": "security@bladestorm.org"
    },
    {
+      "program_name": "BlazePhoenix",
+      "policy_url": "https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/SECURITY.md",
+      "policy_url_status": "alive",
+      "contact_email": "contact@blazephoenix.xyz",
+      "offers_bounty": "yes",
+      "offers_swag": false,
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "securitytxt_url": "https://blazephoenix.xyz/.well-known/security.txt",
+      "preferred_languages": "en, pt",
+      "hall_of_fame": "https://blazephoenix.xyz/bounty"
+   },
+   {
       "program_name": "Blend",
       "policy_url": "https://bugcrowd.com/blend-vdp",
       "contact_url": "https://bugcrowd.com/blend-vdp/report",
