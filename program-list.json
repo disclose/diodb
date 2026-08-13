@@ -14624,6 +14624,23 @@
       "contact_email": "ResponsibleDisclosure@pnc.com"
    },
    {
+      "program_name": "Privamorph (WCIS)",
+      "policy_url": "https://test.wcis.fr/vdp-politique",
+      "contact_url": "https://vdp.wcis.fr",
+      "launch_date": "2026-08-13",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "https://test.wcis.fr/pgp-key.txt",
+      "hiring": "",
+      "securitytxt_url": "https://test.wcis.fr/.well-known/security.txt",
+      "preferred_languages": "fr, en",
+      "policy_url_status": "alive",
+      "contact_email": "security@wcis.fr"
+   },
+   {
       "program_name": "PTC",
       "policy_url": "https://www.ptc.com/en/documents/security/coordinated-vulnerability-disclosure",
       "launch_date": "",
