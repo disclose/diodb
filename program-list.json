@@ -10238,10 +10238,10 @@
    },
    {
       "program_name": "IronCore Labs",
-      "policy_url": "https://ironcorelabs.com/trust-center/bug-bounty-program",
+      "policy_url": "https://ironcorelabs.com/trust-center/responsible-disclosure-program",
       "contact_url": "https://docs.google.com/a/ironcorelabs.com/forms/d/e/1FAIpQLSdYRImlBTxBv70H73ytOpjg9Te-CXv5PYxK7RxE1TwWgJwuTg/viewform",
       "launch_date": "",
-      "offers_bounty": "yes",
+      "offers_bounty": "no",
       "offers_swag": "",
       "hall_of_fame": "",
       "safe_harbor": "partial",
