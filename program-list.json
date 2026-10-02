@@ -20125,6 +20125,22 @@
       "contact_email": "info@trovisio.com"
    },
    {
+      "program_name": "TrueProxies",
+      "policy_url": "https://trueproxies.com/security/",
+      "launch_date": "2026-10-02",
+      "offers_bounty": "no",
+      "offers_swag": "",
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://trueproxies.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "hello@trueproxies.com"
+   },
+   {
       "program_name": "Trustpilot",
       "policy_url": "https://hackerone.com/trustpilot",
       "contact_url": "https://hackerone.com/trustpilot",
