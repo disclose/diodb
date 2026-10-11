@@ -11695,6 +11695,23 @@
       "contact_email": "security@m-files.com"
    },
    {
+      "program_name": "MCPBay",
+      "policy_url": "https://mcpbay.pro/vulnerability-disclosure.html",
+      "launch_date": "2026-10-11",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://mcpbay.pro/.well-known/security.txt",
+      "preferred_languages": "en, ru",
+      "policy_url_status": "alive",
+      "contact_email": "support@mcpbay.pro"
+   },
+   {
       "program_name": "MEV-Boost",
       "policy_url": "https://github.com/flashbots/mev-boost/blob/main/SECURITY.md",
       "contact_email": "security@flashbots.net",
