@@ -17013,6 +17013,24 @@
       "contact_email": "responsible-disclosure@devolksbank.nl"
    },
    {
+      "program_name": "SUHUL LLC",
+      "policy_url": "https://suhul.us/en/vulnerability-disclosure",
+      "contact_url": "",
+      "launch_date": "2026-10-21",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://suhul.us/.well-known/security.txt",
+      "preferred_languages": "zh-Hant, en",
+      "policy_url_status": "alive",
+      "contact_email": "support@suhul.us"
+   },
+   {
       "program_name": "Safe Send Returns",
       "policy_url": "https://safesendreturns.zendesk.com/hc/en-us/articles/360049940054-Information-Security-Overview",
       "launch_date": "",
