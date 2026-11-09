@@ -19019,6 +19019,22 @@
       "contact_email": "security@summa.eu"
    },
    {
+      "program_name": "SunLicense",
+      "policy_url": "https://docs.sunlicense.com/legal/vulnerability-disclosure",
+      "contact_email": "hello@sundevs.net",
+      "launch_date": "2026-11-06",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://sunlicense.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Supabase",
       "policy_url": "https://github.com/supabase/supabase/security",
       "contact_email": "security@supabase.io",
