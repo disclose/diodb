@@ -20925,6 +20925,22 @@
       "securitytxt_url": ""
    },
    {
+      "program_name": "Vanthal",
+      "policy_url": "https://vanthal.com/seguridad/divulgacion",
+      "launch_date": "2026-11-05",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "safe_harbor": "full",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://vanthal.com/.well-known/security.txt",
+      "preferred_languages": "es, en",
+      "policy_url_status": "alive",
+      "contact_email": "contacto@vanthal.com"
+   },
+   {
       "program_name": "Varo Money",
       "policy_url": "https://varomoney.responsibledisclosure.com/hc/en-us",
       "contact_url": "https://varomoney.responsibledisclosure.com/hc/en-us/requests/new",
