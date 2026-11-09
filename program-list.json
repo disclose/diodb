@@ -13647,6 +13647,22 @@
       "contact_email": "vulnerabilities@nixu.com"
    },
    {
+      "program_name": "Noctula Risk Intelligence",
+      "policy_url": "https://www.noctula.org/en/security/disclosure",
+      "launch_date": "2026-10-31",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.noctula.org/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "support@noctula.org"
+   },
+   {
       "program_name": "Nokia",
       "policy_url": "https://www.nokia.com/responsible-disclosure/",
       "launch_date": "",
