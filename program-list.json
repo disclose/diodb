@@ -7021,6 +7021,20 @@
       "contact_email": "security@evernote.com"
    },
    {
+      "program_name": "Exception Security",
+      "policy_url": "https://exceptionsecurity.com/disclose/?p=exception-security",
+      "policy_url_status": "alive",
+      "contact_url": "https://exceptionsecurity.com/disclose/?p=exception-security",
+      "contact_email": "security@exceptionsecurity.com",
+      "launch_date": "2026-09-19",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "safe_harbor": "partial",
+      "public_disclosure": "discretionary",
+      "securitytxt_url": "https://exceptionsecurity.com/.well-known/security.txt",
+      "preferred_languages": "en"
+   },
+   {
       "program_name": "Exness",
       "policy_url": "https://hackerone.com/exness",
       "contact_url": "https://hackerone.com/exness",
