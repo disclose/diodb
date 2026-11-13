@@ -12636,6 +12636,20 @@
       "contact_email": "cybersecurity+vulnerabilitydisclosure@digital.justice.gov.uk"
    },
    {
+      "program_name": "Mishmar",
+      "policy_url": "https://mishmar.io/security",
+      "policy_url_status": "alive",
+      "contact_email": "security@mishmar.io",
+      "launch_date": "2026-11-12",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "safe_harbor": "partial",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "securitytxt_url": "https://mishmar.io/.well-known/security.txt",
+      "preferred_languages": "en"
+   },
+   {
       "program_name": "Mobikwik",
       "policy_url": "https://www.mobikwik.com/bug-bounty",
       "launch_date": "",
