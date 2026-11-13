@@ -8518,6 +8518,23 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "GhOsT77 Security",
+      "policy_url": "https://ghost77-security.onrender.com/security/vulnerability-disclosure",
+      "contact_url": "",
+      "contact_email": "ghost77-secure@outlook.com",
+      "launch_date": "2026-11-12",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://ghost77-security.onrender.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Ghost",
       "policy_url": "https://github.com/TryGhost/Ghost/blob/master/SECURITY.md",
       "launch_date": "",
