@@ -12974,6 +12974,22 @@
       "contact_email": "securityteam@myob.com"
    },
    {
+      "program_name": "NALIDE",
+      "policy_url": "https://nalide.com/security/",
+      "launch_date": "2026-11-15",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "yes",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://nalide.com/.well-known/security.txt",
+      "preferred_languages": "zh, en",
+      "policy_url_status": "alive",
+      "contact_email": "postmaster@nalide.com"
+   },
+   {
       "program_name": "NBX",
       "policy_url": "https://nbxsupport.zendesk.com/hc/en-us/articles/360044264592-NBX-Responsible-Disclosure-Policy",
       "launch_date": "2020-06-05",
