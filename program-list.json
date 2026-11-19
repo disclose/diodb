@@ -3595,6 +3595,22 @@
       "contact_email": "security@mycnote.com"
    },
    {
+      "program_name": "CVD Portal",
+      "policy_url": "https://cvdportal.com/security",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "full",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "https://cvdportal.com/about",
+      "securitytxt_url": "https://cvdportal.com/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "security@cvdportal.com"
+   },
+   {
       "program_name": "Caffeine",
       "policy_url": "https://bugcrowd.com/caffeine",
       "contact_url": "https://bugcrowd.com/caffeine/report",
