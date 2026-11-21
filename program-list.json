@@ -21566,6 +21566,22 @@
       "policy_url_status": "alive"
    },
    {
+      "program_name": "Webify.AI",
+      "policy_url": "https://www.webify.ai/vulnerability-disclosure",
+      "launch_date": "2026-11-21",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.webify.ai/.well-known/security.txt",
+      "preferred_languages": "en",
+      "policy_url_status": "alive",
+      "contact_email": "info@webify.ai"
+   },
+   {
       "program_name": "Websitebuilder.com",
       "policy_url": "https://bugcrowd.com/endurance-builder",
       "contact_url": "https://bugcrowd.com/endurance-builder/report",
