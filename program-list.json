@@ -11657,6 +11657,14 @@
       "contact_email": "security@lookout.com"
    },
    {
+      "program_name": "Loom (ClickHouse)",
+      "policy_url": "https://github.com/ClickHouse/loom/blob/main/SECURITY.md",
+      "offers_bounty": "no",
+      "public_disclosure": "co-ordinated",
+      "disclosure_timeline_days": 90,
+      "contact_email": "security@clickhouse.com"
+   },
+   {
       "program_name": "Lumosity",
       "policy_url": "https://www.lumosity.com/en/legal/responsible_disclosure_policy/",
       "launch_date": "",
