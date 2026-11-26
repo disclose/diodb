@@ -6795,6 +6795,22 @@
       "contact_email": "responsibledisclosure@eneco.com"
    },
    {
+      "program_name": "Enfilade",
+      "policy_url": "https://enfilade.guide/en/security",
+      "contact_email": "security@enfilade.guide",
+      "launch_date": "2026-08-22",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "partial",
+      "public_disclosure": "",
+      "pgp_key": "https://enfilade.guide/.well-known/openpgpkey/enfilade-security.asc",
+      "hiring": "",
+      "securitytxt_url": "https://enfilade.guide/.well-known/security.txt",
+      "preferred_languages": "",
+      "policy_url_status": "alive"
+   },
+   {
       "program_name": "Envato",
       "policy_url": "https://webuild.envato.com/helpful-hacker/",
       "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
