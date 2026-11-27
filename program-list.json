@@ -368,6 +368,23 @@
       "contact_email": "Support.mbedtls@arm.com"
    },
    {
+      "program_name": "ASCND (WeAreAscnd)",
+      "policy_url": "https://www.weareascnd.com/security",
+      "contact_url": "mailto:hello@weareascnd.com",
+      "launch_date": "",
+      "offers_bounty": "no",
+      "offers_swag": false,
+      "hall_of_fame": "",
+      "safe_harbor": "none",
+      "public_disclosure": "",
+      "pgp_key": "",
+      "hiring": "",
+      "securitytxt_url": "https://www.weareascnd.com/.well-known/security.txt",
+      "preferred_languages": "en, ar, fr",
+      "policy_url_status": "alive",
+      "contact_email": "hello@weareascnd.com"
+   },
+   {
       "program_name": "ASN Bank",
       "policy_url": "https://www.devolksbank.nl/over-ons/kwetsbaarheden-melden",
       "launch_date": "",
